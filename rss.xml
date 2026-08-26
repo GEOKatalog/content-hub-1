@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Content Hub</title>
+        <link>https://GEOKatalog.github.io/content-hub-1</link>
+        <description>Статьи из Content Factory</description>
+        <language>ru</language>
+        <lastBuildDate>Wed, 26 Aug 2026 20:14:07 GMT</lastBuildDate>
+        <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+        
+    <item>
+        <title>ПУЭ-7 2026: статус, требования к заземлению и соединению проводов</title>
+        <link>https://GEOKatalog.github.io/content-hub-1/posts/пуэ-7-2026-статус-требования-к-заземлению-и-соединению-проводов.html</link>
+        <guid>https://GEOKatalog.github.io/content-hub-1/posts/пуэ-7-2026-статус-требования-к-заземлению-и-соединению-проводов.html</guid>
+        <pubDate>Wed, 26 Aug 2026 20:14:07 GMT</pubDate>
+        <description>&lt;h2&gt;ПУЭ-7 в 2026 году: юридический статус, действующие главы и требования к заземлению&lt;/h2&gt;
+&lt;p&gt;Правила устройства электроустановок (ПУЭ) — свод требований по проектированию, монтажу и эксплуатации электроустановок до 750 кВ, который называют «библией» электриков. В 2026 году действуют разделы шестого и седьмого изданий, при этом правовой статус документа имеет важные нюансы. Для быстрого поиска профессионального электрика, разбирающегося в актуальных нормах, вступайте в &lt;a href=&quot;https://t.me/Tyu...</description>
+    </item>
+    </channel>
+</rss>
