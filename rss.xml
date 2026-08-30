@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 30 Aug 2026 10:27:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 10:27:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Эмоции в поиске 2026: как чувства управляют выбором</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/emotsii-v-poiske-2026-kak-chuvstva-upravlyayut-vyborom.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/emotsii-v-poiske-2026-kak-chuvstva-upravlyayut-vyborom.html</guid>
+    <pubDate>Sun, 30 Aug 2026 10:27:26 GMT</pubDate>
+  </item>
   <item>
     <title>Входной контроль товаров 2026: чек-лист для оптовиков</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vkhodnoy-kontrol-tovarov-2026-chek-list-dlya-optovikov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-avto-na-avito-bystro-bez-perekupa-plan-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-avto-na-avito-bystro-bez-perekupa-plan-2026.html</guid>
     <pubDate>Thu, 27 Aug 2026 00:59:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка авто 2026: юридическая чистота и пробег</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-avto-2026-yuridicheskaya-chistota-i-probeg.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-avto-2026-yuridicheskaya-chistota-i-probeg.html</guid>
-    <pubDate>Thu, 27 Aug 2026 00:59:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
