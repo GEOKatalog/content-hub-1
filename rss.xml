@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:21:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:25:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ценности и мотивация 2026: как работает механизм выбора</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tsennosti-i-motivatsiya-2026-kak-rabotaet-mekhanizm-vybora.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsennosti-i-motivatsiya-2026-kak-rabotaet-mekhanizm-vybora.html</guid>
+    <pubDate>Sun, 30 Aug 2026 11:25:09 GMT</pubDate>
+  </item>
   <item>
     <title>Винтаж 2026: 5 правил интеграции без эффекта музея</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vintazh-2026-5-pravil-integratsii-bez-effekta-muzeya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-studentu-v-2026-dokumenty-i-pravila.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-studentu-v-2026-dokumenty-i-pravila.html</guid>
     <pubDate>Thu, 27 Aug 2026 05:28:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Временная регистрация для студентов в Ижевске 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-dlya-studentov-v-izhevske-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-dlya-studentov-v-izhevske-2026.html</guid>
-    <pubDate>Thu, 27 Aug 2026 05:28:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
