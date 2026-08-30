@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:17:19 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка риелтора 2026: реестр РГР и аттестация</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-rieltora-2026-reestr-rgr-i-attestatsiya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-rieltora-2026-reestr-rgr-i-attestatsiya.html</guid>
+    <pubDate>Sun, 30 Aug 2026 14:17:19 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка участка ИЖС при покупке: чек-лист 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-uchastka-izhs-pri-pokupke-chek-list-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/byudzhetnyy-uchet-2026-instruktsiya-po-perekhodu-na-novye-st.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/byudzhetnyy-uchet-2026-instruktsiya-po-perekhodu-na-novye-st.html</guid>
     <pubDate>Thu, 27 Aug 2026 17:42:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Договорная безопасность 2026: чек-лист проверки контрагента</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovornaya-bezopasnost-2026-chek-list-proverki-kontragenta.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovornaya-bezopasnost-2026-chek-list-proverki-kontragenta.html</guid>
-    <pubDate>Thu, 27 Aug 2026 17:41:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
