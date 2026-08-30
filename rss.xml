@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 30 Aug 2026 12:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:21:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Новые законы для мигрантов 2026: чек-лист по патенту</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/novye-zakony-dlya-migrantov-2026-chek-list-po-patentu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/novye-zakony-dlya-migrantov-2026-chek-list-po-patentu.html</guid>
+    <pubDate>Sun, 30 Aug 2026 12:21:26 GMT</pubDate>
+  </item>
   <item>
     <title>Вахта дальнобойщика 2026: Чек-лист для CE</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vakhta-dalnoboyshchika-2026-chek-list-dlya-ce.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-dlya-samozanyatykh-2026-instruktsiya-dlya-frilansera.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-dlya-samozanyatykh-2026-instruktsiya-dlya-frilansera.html</guid>
     <pubDate>Thu, 27 Aug 2026 08:30:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Правила проведения массового мероприятия 2026: чек-лист</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-provedeniya-massovogo-meropriyatiya-2026-chek-list.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-provedeniya-massovogo-meropriyatiya-2026-chek-list.html</guid>
-    <pubDate>Thu, 27 Aug 2026 08:30:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
