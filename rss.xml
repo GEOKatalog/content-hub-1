@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 30 Aug 2026 23:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 23:47:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Апгрейд сервера 2026: PCIe 5.0, CXL 2.0 и NVLink</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/apgreyd-servera-2026-pcie-5-0-cxl-2-0-i-nvlink.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/apgreyd-servera-2026-pcie-5-0-cxl-2-0-i-nvlink.html</guid>
+    <pubDate>Sun, 30 Aug 2026 23:47:20 GMT</pubDate>
+  </item>
   <item>
     <title>Выбор серверного оборудования для ИИ 2026: правила и критерии</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vybor-servernogo-oborudovaniya-dlya-ii-2026-pravila-i-kriter.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vyselenie-arendatora-za-neuplatu-2026-instruktsiya-i-riski.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vyselenie-arendatora-za-neuplatu-2026-instruktsiya-i-riski.html</guid>
     <pubDate>Sat, 29 Aug 2026 17:23:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда квартир без посредников Ростов: чек-лист 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kvartir-bez-posrednikov-rostov-chek-list-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kvartir-bez-posrednikov-rostov-chek-list-2026.html</guid>
-    <pubDate>Sat, 29 Aug 2026 17:08:58 GMT</pubDate>
   </item>
   </channel>
 </rss>
