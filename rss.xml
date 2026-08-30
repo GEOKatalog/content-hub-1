@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:58:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 15:02:25 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Паралич анализа 2026: как начать делать плохо</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/paralich-analiza-2026-kak-nachat-delat-plokho.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/paralich-analiza-2026-kak-nachat-delat-plokho.html</guid>
+    <pubDate>Sun, 30 Aug 2026 15:02:25 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка компании 2026: пошаговый гайд по реестрам</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kompanii-2026-poshagovyy-gayd-po-reestram.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-salona-krasoty-2026-polnyy-chek-list.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-salona-krasoty-2026-polnyy-chek-list.html</guid>
     <pubDate>Sat, 29 Aug 2026 02:14:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Розничная торговля 2026: налоги, ККТ и маркировка</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/roznichnaya-torgovlya-2026-nalogi-kkt-i-markirovka.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/roznichnaya-torgovlya-2026-nalogi-kkt-i-markirovka.html</guid>
-    <pubDate>Sat, 29 Aug 2026 02:14:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
