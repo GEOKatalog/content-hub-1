@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 30 Aug 2026 10:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 10:15:07 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Поиск 2026: как эмоции и ИИ меняют выбор</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/poisk-2026-kak-emotsii-i-ii-menyayut-vybor.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/poisk-2026-kak-emotsii-i-ii-menyayut-vybor.html</guid>
+    <pubDate>Sun, 30 Aug 2026 10:15:07 GMT</pubDate>
+  </item>
   <item>
     <title>Тендеры 2026: чек-лист по 44-ФЗ и 223-ФЗ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tendery-2026-chek-list-po-44-fz-i-223-fz.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/analitika-egrn-2026-kak-poluchit-dannye-o-rynke-nedvizhimost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/analitika-egrn-2026-kak-poluchit-dannye-o-rynke-nedvizhimost.html</guid>
     <pubDate>Thu, 27 Aug 2026 00:49:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аналитика недвижимости 2026: как работать с ЕГРН и НСПД</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/analitika-nedvizhimosti-2026-kak-rabotat-s-egrn-i-nspd.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/analitika-nedvizhimosti-2026-kak-rabotat-s-egrn-i-nspd.html</guid>
-    <pubDate>Thu, 27 Aug 2026 00:49:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
