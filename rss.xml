@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 31 Aug 2026 15:48:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:48:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Финансовая грамота для детей: пошаговый план</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/finansovaya-gramota-dlya-detey-poshagovyy-plan.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/finansovaya-gramota-dlya-detey-poshagovyy-plan.html</guid>
+    <pubDate>Mon, 31 Aug 2026 15:48:20 GMT</pubDate>
+  </item>
   <item>
     <title>Перевозка детей 2026: новые штрафы и правила в Хабаровске</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/perevozka-detey-2026-novye-shtrafy-i-pravila-v-khabarovske.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tendery-2026-chek-list-po-44-fz-i-223-fz.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tendery-2026-chek-list-po-44-fz-i-223-fz.html</guid>
     <pubDate>Sun, 30 Aug 2026 10:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как проверить дом перед покупкой в 2026: чек-лист</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-dom-pered-pokupkoy-v-2026-chek-list.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-dom-pered-pokupkoy-v-2026-chek-list.html</guid>
-    <pubDate>Sun, 30 Aug 2026 09:53:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
