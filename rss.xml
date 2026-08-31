@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 31 Aug 2026 17:25:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:25:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Переводы из СНГ в Россию 2026: безопасные способы и инструкция</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/perevody-iz-sng-v-rossiyu-2026-bezopasnye-sposoby-i-instrukt.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/perevody-iz-sng-v-rossiyu-2026-bezopasnye-sposoby-i-instrukt.html</guid>
+    <pubDate>Mon, 31 Aug 2026 17:25:59 GMT</pubDate>
+  </item>
   <item>
     <title>Стипендия 2026: как получить грант на обучение в вузе</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/stipendiya-2026-kak-poluchit-grant-na-obuchenie-v-vuze.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tsennostnyy-stimul-v-psikhologii-mekhanizm-raboty.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsennostnyy-stimul-v-psikhologii-mekhanizm-raboty.html</guid>
     <pubDate>Sun, 30 Aug 2026 11:11:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Оценка антиквариата 2026: как не продешевить</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-antikvariata-2026-kak-ne-prodeshevit.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-antikvariata-2026-kak-ne-prodeshevit.html</guid>
-    <pubDate>Sun, 30 Aug 2026 11:05:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
