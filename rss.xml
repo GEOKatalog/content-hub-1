@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 31 Aug 2026 15:50:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:51:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Транспортный налог на внедорожник 2026: калькулятор и ставки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/transportnyy-nalog-na-vnedorozhnik-2026-kalkulyator-i-stavki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/transportnyy-nalog-na-vnedorozhnik-2026-kalkulyator-i-stavki.html</guid>
+    <pubDate>Mon, 31 Aug 2026 15:51:05 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка авто до 600 тыс: чек-лист кузова и салона</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-avto-do-600-tys-chek-list-kuzova-i-salona.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-brigadu-stroiteley-v-2026-chek-list.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-brigadu-stroiteley-v-2026-chek-list.html</guid>
     <pubDate>Sun, 30 Aug 2026 10:39:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налоги для ИП грузоперевозки 2026: выбор системы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-dlya-ip-gruzoperevozki-2026-vybor-sistemy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-dlya-ip-gruzoperevozki-2026-vybor-sistemy.html</guid>
-    <pubDate>Sun, 30 Aug 2026 10:32:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
