@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 31 Aug 2026 18:34:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:34:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Растаможка из Китая 2026: формула расчета платежей</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/rastamozhka-iz-kitaya-2026-formula-rascheta-platezhey.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rastamozhka-iz-kitaya-2026-formula-rascheta-platezhey.html</guid>
+    <pubDate>Mon, 31 Aug 2026 18:34:35 GMT</pubDate>
+  </item>
   <item>
     <title>Сертификация стройматериалов 2026: EAC, FSC, KM чек-лист</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-stroymaterialov-2026-eac-fsc-km-chek-list.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-avtozapchastey-2026-chek-list-dlya-prodavtsov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-avtozapchastey-2026-chek-list-dlya-prodavtsov.html</guid>
     <pubDate>Sun, 30 Aug 2026 11:55:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Избавиться от старой мебели при переезде: законный гайд 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/izbavitsya-ot-staroy-mebeli-pri-pereezde-zakonnyy-gayd-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/izbavitsya-ot-staroy-mebeli-pri-pereezde-zakonnyy-gayd-2026.html</guid>
-    <pubDate>Sun, 30 Aug 2026 11:49:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
