@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:50:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:50:18 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Юнит-экономика для стартапов 2026: формулы и окупаемость</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/yunit-ekonomika-dlya-startapov-2026-formuly-i-okupaemost.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/yunit-ekonomika-dlya-startapov-2026-formuly-i-okupaemost.html</guid>
+    <pubDate>Wed, 02 Sep 2026 14:50:18 GMT</pubDate>
+  </item>
   <item>
     <title>Как IT-директору запустить стартап в корпорации в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-it-direktoru-zapustit-startap-v-korporatsii-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-kommercheskoy-nedvizhimosti-v-2026-polnyy-c.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-kommercheskoy-nedvizhimosti-v-2026-polnyy-c.html</guid>
     <pubDate>Sun, 30 Aug 2026 12:58:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Агент элитной недвижимости 2026: Критерии выбора</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/agent-elitnoy-nedvizhimosti-2026-kriterii-vybora.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/agent-elitnoy-nedvizhimosti-2026-kriterii-vybora.html</guid>
-    <pubDate>Sun, 30 Aug 2026 12:51:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
