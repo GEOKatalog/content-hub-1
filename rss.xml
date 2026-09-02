@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:50:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Инвестиции в стартапы 2026: гид по раундам A/B и выручке</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/investitsii-v-startapy-2026-gid-po-raundam-a-b-i-vyruchke.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/investitsii-v-startapy-2026-gid-po-raundam-a-b-i-vyruchke.html</guid>
+    <pubDate>Wed, 02 Sep 2026 14:50:01 GMT</pubDate>
+  </item>
   <item>
     <title>Инвесторы в 2026: как ИТ-стартапу пройти Due Diligence</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/investory-v-2026-kak-it-startapu-proyti-due-diligence.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-rieltora-2026-instruktsiya-po-prodazhe.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-rieltora-2026-instruktsiya-po-prodazhe.html</guid>
     <pubDate>Sun, 30 Aug 2026 12:44:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка риелтора 2026: Инструкция и чек-лист</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-rieltora-2026-instruktsiya-i-chek-list.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-rieltora-2026-instruktsiya-i-chek-list.html</guid>
-    <pubDate>Sun, 30 Aug 2026 12:39:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
