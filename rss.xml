@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:50:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:50:42 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ТОП-7 Инвесторов в 2026: Рейтинг лучших решений</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/top-7-investorov-v-2026-reyting-luchshikh-resheniy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-7-investorov-v-2026-reyting-luchshikh-resheniy.html</guid>
+    <pubDate>Wed, 02 Sep 2026 16:50:42 GMT</pubDate>
+  </item>
   <item>
     <title>Как CTO объяснить юнит-экономику совету директоров: шаблон 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-cto-obyasnit-yunit-ekonomiku-sovetu-direktorov-shablon-2.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-uchastka-izhs-pri-pokupke-chek-list-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-uchastka-izhs-pri-pokupke-chek-list-2026.html</guid>
     <pubDate>Sun, 30 Aug 2026 14:17:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка недвижимости 2026: чек-лист юридической чистоты</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nedvizhimosti-2026-chek-list-yuridicheskoy-chistoty.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nedvizhimosti-2026-chek-list-yuridicheskoy-chistoty.html</guid>
-    <pubDate>Sun, 30 Aug 2026 14:06:20 GMT</pubDate>
   </item>
   </channel>
 </rss>
