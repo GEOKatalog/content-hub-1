@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:50:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:51:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Технический основатель застрял в MVP: Сравнение путей в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskiy-osnovatel-zastryal-v-mvp-sravnenie-putey-v-202.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskiy-osnovatel-zastryal-v-mvp-sravnenie-putey-v-202.html</guid>
+    <pubDate>Wed, 02 Sep 2026 16:51:12 GMT</pubDate>
+  </item>
   <item>
     <title>Полный каталог инвесторов и бизнес-ангелов 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-katalog-investorov-i-biznes-angelov-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/it-startap-2026-poshagovaya-instruktsiya-po-lgotam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/it-startap-2026-poshagovaya-instruktsiya-po-lgotam.html</guid>
     <pubDate>Sun, 30 Aug 2026 14:40:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка риелтора 2026: реестр РГР и аттестация</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-rieltora-2026-reestr-rgr-i-attestatsiya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-rieltora-2026-reestr-rgr-i-attestatsiya.html</guid>
-    <pubDate>Sun, 30 Aug 2026 14:17:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
