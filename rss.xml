@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:49:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:49:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Инвесторы в 2026: как ИТ-стартапу пройти Due Diligence</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/investory-v-2026-kak-it-startapu-proyti-due-diligence.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/investory-v-2026-kak-it-startapu-proyti-due-diligence.html</guid>
+    <pubDate>Wed, 02 Sep 2026 14:49:51 GMT</pubDate>
+  </item>
   <item>
     <title>Как открыть бизнес с нуля: полный гайд 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-otkryt-biznes-s-nulya-polnyy-gayd-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-rieltora-2026-instruktsiya-i-chek-list.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-rieltora-2026-instruktsiya-i-chek-list.html</guid>
     <pubDate>Sun, 30 Aug 2026 12:39:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Работа без опыта и с обучением в 2026: пошаговый план</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/rabota-bez-opyta-i-s-obucheniem-v-2026-poshagovyy-plan.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rabota-bez-opyta-i-s-obucheniem-v-2026-poshagovyy-plan.html</guid>
-    <pubDate>Sun, 30 Aug 2026 12:32:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
