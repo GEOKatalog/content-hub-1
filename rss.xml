@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2026 18:50:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:51:10 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Кейс: Как ученому стать бизнесменом в 2026: инструкция</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/keys-kak-uchenomu-stat-biznesmenom-v-2026-instruktsiya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/keys-kak-uchenomu-stat-biznesmenom-v-2026-instruktsiya.html</guid>
+    <pubDate>Wed, 02 Sep 2026 18:51:10 GMT</pubDate>
+  </item>
   <item>
     <title>Гранты для стартапов 2026: Пошаговая инструкция</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/granty-dlya-startapov-2026-poshagovaya-instruktsiya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/granty-i-sotskontrakt-dlya-biznesa-2026-chek-list.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/granty-i-sotskontrakt-dlya-biznesa-2026-chek-list.html</guid>
     <pubDate>Sun, 30 Aug 2026 15:16:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Квартира vs дом 2026: полный расчет расходов</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kvartira-vs-dom-2026-polnyy-raschet-raskhodov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kvartira-vs-dom-2026-polnyy-raschet-raskhodov.html</guid>
-    <pubDate>Sun, 30 Aug 2026 15:10:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
