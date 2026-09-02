@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:49:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:49:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Пивот в стартапе: 5 стратегий смены бизнес-модели в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pivot-v-startape-5-strategiy-smeny-biznes-modeli-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pivot-v-startape-5-strategiy-smeny-biznes-modeli-v-2026.html</guid>
+    <pubDate>Wed, 02 Sep 2026 14:49:22 GMT</pubDate>
+  </item>
   <item>
     <title>Технический due diligence: как оценить аутсорс-команду в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskiy-due-diligence-kak-otsenit-autsors-komandu-v-20.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-raboty-2026-polnyy-chek-list-i-blanki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-raboty-2026-polnyy-chek-list-i-blanki.html</guid>
     <pubDate>Sun, 30 Aug 2026 12:32:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Новые законы для мигрантов 2026: чек-лист по патенту</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/novye-zakony-dlya-migrantov-2026-chek-list-po-patentu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/novye-zakony-dlya-migrantov-2026-chek-list-po-patentu.html</guid>
-    <pubDate>Sun, 30 Aug 2026 12:21:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
