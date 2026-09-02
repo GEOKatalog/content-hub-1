@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:51:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:51:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как выйти из тупика MVP в 2026: пошаговый план</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vyyti-iz-tupika-mvp-v-2026-poshagovyy-plan.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vyyti-iz-tupika-mvp-v-2026-poshagovyy-plan.html</guid>
+    <pubDate>Wed, 02 Sep 2026 16:51:30 GMT</pubDate>
+  </item>
   <item>
     <title>Как выбрать онлайн-бухгалтерию для ИП на УСН в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-onlayn-bukhgalteriyu-dlya-ip-na-usn-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/upravlenie-byudzhetom-2026-limity-vmesto-zapretov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/upravlenie-byudzhetom-2026-limity-vmesto-zapretov.html</guid>
     <pubDate>Sun, 30 Aug 2026 14:41:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ремонт в Уфе 2026: как найти бригаду без риска</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-v-ufe-2026-kak-nayti-brigadu-bez-riska.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-v-ufe-2026-kak-nayti-brigadu-bez-riska.html</guid>
-    <pubDate>Sun, 30 Aug 2026 14:40:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
