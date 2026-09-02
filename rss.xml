@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 02 Sep 2026 21:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:02:18 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налоговый режим для стартапа: сравнение и выбор 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovyy-rezhim-dlya-startapa-sravnenie-i-vybor-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovyy-rezhim-dlya-startapa-sravnenie-i-vybor-2026.html</guid>
+    <pubDate>Wed, 02 Sep 2026 21:02:18 GMT</pubDate>
+  </item>
   <item>
     <title>Регистрация ООО или ИП для Wildberries 2026: полный гайд</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ooo-ili-ip-dlya-wildberries-2026-polnyy-gayd.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-vyzov-elektrika-khabarovsk-2026-diagnostika-shchitk.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-vyzov-elektrika-khabarovsk-2026-diagnostika-shchitk.html</guid>
     <pubDate>Sun, 30 Aug 2026 21:10:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Допуск к щиткам 0,4 кВ 2026: группы и требования</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dopusk-k-shchitkam-0-4-kv-2026-gruppy-i-trebovaniya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dopusk-k-shchitkam-0-4-kv-2026-gruppy-i-trebovaniya.html</guid>
-    <pubDate>Sun, 30 Aug 2026 21:10:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
