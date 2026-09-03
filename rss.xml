@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 06:37:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:37:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ИП или самозанятость 2026: полный разбор для IT-разработчика</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ip-ili-samozanyatost-2026-polnyy-razbor-dlya-it-razrabotchik.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ip-ili-samozanyatost-2026-polnyy-razbor-dlya-it-razrabotchik.html</guid>
+    <pubDate>Thu, 03 Sep 2026 06:37:50 GMT</pubDate>
+  </item>
   <item>
     <title>Инвесторы в стартапы 2026: как найти деньги и не прогореть</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/investory-v-startapy-2026-kak-nayti-dengi-i-ne-progoret.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/novye-mery-podderzhki-mnogodetnykh-semey-v-2026-chto-izmenil.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/novye-mery-podderzhki-mnogodetnykh-semey-v-2026-chto-izmenil.html</guid>
     <pubDate>Mon, 31 Aug 2026 11:17:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как открыть ИП и выбрать налоги в 2026: чек-лист</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-otkryt-ip-i-vybrat-nalogi-v-2026-chek-list.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-otkryt-ip-i-vybrat-nalogi-v-2026-chek-list.html</guid>
-    <pubDate>Mon, 31 Aug 2026 11:14:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
