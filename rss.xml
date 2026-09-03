@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 01:34:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:34:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как выбрать ОКВЭД для стартапа в 2026: гайд для Seed/A</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-okved-dlya-startapa-v-2026-gayd-dlya-seed-a.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-okved-dlya-startapa-v-2026-gayd-dlya-seed-a.html</guid>
+    <pubDate>Thu, 03 Sep 2026 01:34:23 GMT</pubDate>
+  </item>
   <item>
     <title>Питч-дек и due diligence 2026: Готовые шаблоны расчетов для стартапов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pitch-dek-i-due-diligence-2026-gotovye-shablony-raschetov-dl.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vybor-servernogo-oborudovaniya-dlya-ii-2026-pravila-i-kriter.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vybor-servernogo-oborudovaniya-dlya-ii-2026-pravila-i-kriter.html</guid>
     <pubDate>Sun, 30 Aug 2026 23:46:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Умный дом под ключ 2026: выбор системы и установка</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/umnyy-dom-pod-klyuch-2026-vybor-sistemy-i-ustanovka.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/umnyy-dom-pod-klyuch-2026-vybor-sistemy-i-ustanovka.html</guid>
-    <pubDate>Sun, 30 Aug 2026 23:43:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
