@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 22:00:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 22:00:42 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Молодые ивент-менеджеры Казани: доход и KPI 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/molodye-ivent-menedzhery-kazani-dokhod-i-kpi-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/molodye-ivent-menedzhery-kazani-dokhod-i-kpi-2026.html</guid>
+    <pubDate>Thu, 03 Sep 2026 22:00:42 GMT</pubDate>
+  </item>
   <item>
     <title>ТОП-10 ивент-менеджеров Казани: рейтинг 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/top-10-ivent-menedzherov-kazani-reyting-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/top-7-investorov-v-2026-reyting-luchshikh-resheniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-7-investorov-v-2026-reyting-luchshikh-resheniy.html</guid>
     <pubDate>Wed, 02 Sep 2026 16:50:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как CTO объяснить юнит-экономику совету директоров: шаблон 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-cto-obyasnit-yunit-ekonomiku-sovetu-direktorov-shablon-2.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-cto-obyasnit-yunit-ekonomiku-sovetu-direktorov-shablon-2.html</guid>
-    <pubDate>Wed, 02 Sep 2026 16:50:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
