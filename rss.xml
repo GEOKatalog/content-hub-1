@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 18:23:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:23:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>HR-специалисты: как перестать быть эмоциональным ведром</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/hr-spetsialisty-kak-perestat-byt-emotsionalnym-vedrom.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/hr-spetsialisty-kak-perestat-byt-emotsionalnym-vedrom.html</guid>
+    <pubDate>Thu, 03 Sep 2026 18:23:58 GMT</pubDate>
+  </item>
   <item>
     <title>Антикризисный гид HR: как выжить в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/antikrizisnyy-gid-hr-kak-vyzhit-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-avto-do-600-tys-chek-list-kuzova-i-salona.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-avto-do-600-tys-chek-list-kuzova-i-salona.html</guid>
     <pubDate>Mon, 31 Aug 2026 15:50:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка б/у авто в 2026: полный чек-лист покупателя</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-b-u-avto-v-2026-polnyy-chek-list-pokupatelya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-b-u-avto-v-2026-polnyy-chek-list-pokupatelya.html</guid>
-    <pubDate>Mon, 31 Aug 2026 15:50:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
