@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:30:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:30:15 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как продать урожай в 2026: кооператив дачников Омска</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-urozhay-v-2026-kooperativ-dachnikov-omska.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-urozhay-v-2026-kooperativ-dachnikov-omska.html</guid>
+    <pubDate>Thu, 03 Sep 2026 11:30:15 GMT</pubDate>
+  </item>
   <item>
     <title>Кейс: Как активисту без должности стать лидером в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/keys-kak-aktivistu-bez-dolzhnosti-stat-liderom-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ip-dlya-brovista-nalogi-i-vybor-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ip-dlya-brovista-nalogi-i-vybor-v-2026-godu.html</guid>
     <pubDate>Mon, 31 Aug 2026 11:34:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Выбор CRM для салона красоты 2026: рейтинг</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vybor-crm-dlya-salona-krasoty-2026-reyting.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vybor-crm-dlya-salona-krasoty-2026-reyting.html</guid>
-    <pubDate>Mon, 31 Aug 2026 11:33:52 GMT</pubDate>
   </item>
   </channel>
 </rss>
