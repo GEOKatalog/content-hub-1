@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 01:34:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:34:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как открыть бизнес студенту в 2026: гайд с нуля за 1 день</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-otkryt-biznes-studentu-v-2026-gayd-s-nulya-za-1-den.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-otkryt-biznes-studentu-v-2026-gayd-s-nulya-za-1-den.html</guid>
+    <pubDate>Thu, 03 Sep 2026 01:34:52 GMT</pubDate>
+  </item>
   <item>
     <title>Регистрация ИП для разработчика: пошаговый гайд 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-dlya-razrabotchika-poshagovyy-gayd-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-generatora-multimetrom-poshagovaya-instruktsiya-202.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-generatora-multimetrom-poshagovaya-instruktsiya-202.html</guid>
     <pubDate>Mon, 31 Aug 2026 00:13:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Апгрейд сервера 2026: PCIe 5.0, CXL 2.0 и NVLink</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/apgreyd-servera-2026-pcie-5-0-cxl-2-0-i-nvlink.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/apgreyd-servera-2026-pcie-5-0-cxl-2-0-i-nvlink.html</guid>
-    <pubDate>Sun, 30 Aug 2026 23:47:20 GMT</pubDate>
   </item>
   </channel>
 </rss>
