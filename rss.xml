@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 18:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:24:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Цифровой паспорт мастера: спасение репутации 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tsifrovoy-pasport-mastera-spasenie-reputatsii-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsifrovoy-pasport-mastera-spasenie-reputatsii-2026.html</guid>
+    <pubDate>Thu, 03 Sep 2026 18:24:40 GMT</pubDate>
+  </item>
   <item>
     <title>Самозанятым мастерам СПб: Как найти клиентов 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatym-masteram-spb-kak-nayti-klientov-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/stipendiya-2026-kak-poluchit-grant-na-obuchenie-v-vuze.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/stipendiya-2026-kak-poluchit-grant-na-obuchenie-v-vuze.html</guid>
     <pubDate>Mon, 31 Aug 2026 17:25:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка поставщиков электроники из Китая: 5 шагов в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-postavshchikov-elektroniki-iz-kitaya-5-shagov-v-202.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-postavshchikov-elektroniki-iz-kitaya-5-shagov-v-202.html</guid>
-    <pubDate>Mon, 31 Aug 2026 17:25:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
