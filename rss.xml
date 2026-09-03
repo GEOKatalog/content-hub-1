@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 06:36:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:36:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация ИП 2026: Сравнение способов и пошаговый план</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-2026-sravnenie-sposobov-i-poshagovyy-plan.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-2026-sravnenie-sposobov-i-poshagovyy-plan.html</guid>
+    <pubDate>Thu, 03 Sep 2026 06:36:38 GMT</pubDate>
+  </item>
   <item>
     <title>OKR vs хаос: Как управлять стартапом после демо-дня 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okr-vs-khaos-kak-upravlyat-startapom-posle-demo-dnya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/grant-dlya-kfkh-v-2026-poshagovaya-instruktsiya-i-usloviya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/grant-dlya-kfkh-v-2026-poshagovaya-instruktsiya-i-usloviya.html</guid>
     <pubDate>Mon, 31 Aug 2026 09:45:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка прораба перед наймом: чек-лист 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-proraba-pered-naymom-chek-list-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-proraba-pered-naymom-chek-list-2026.html</guid>
-    <pubDate>Mon, 31 Aug 2026 07:23:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
