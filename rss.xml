@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 01:34:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:34:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Питч-дек и due diligence 2026: Готовые шаблоны расчетов для стартапов</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pitch-dek-i-due-diligence-2026-gotovye-shablony-raschetov-dl.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pitch-dek-i-due-diligence-2026-gotovye-shablony-raschetov-dl.html</guid>
+    <pubDate>Thu, 03 Sep 2026 01:34:14 GMT</pubDate>
+  </item>
   <item>
     <title>Инвесторы и бизнес-ангелы 2026: гайд для студента</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/investory-i-biznes-angely-2026-gayd-dlya-studenta.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/umnyy-dom-pod-klyuch-2026-vybor-sistemy-i-ustanovka.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/umnyy-dom-pod-klyuch-2026-vybor-sistemy-i-ustanovka.html</guid>
     <pubDate>Sun, 30 Aug 2026 23:43:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Эргономика для аналитика данных: нормы СанПиН и настройка в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ergonomika-dlya-analitika-dannykh-normy-sanpin-i-nastroyka-v.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ergonomika-dlya-analitika-dannykh-normy-sanpin-i-nastroyka-v.html</guid>
-    <pubDate>Sun, 30 Aug 2026 23:36:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
