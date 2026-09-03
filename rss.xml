@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 22:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 22:00:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ТОП-10 ивент-менеджеров Казани: рейтинг 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/top-10-ivent-menedzherov-kazani-reyting-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-10-ivent-menedzherov-kazani-reyting-2026.html</guid>
+    <pubDate>Thu, 03 Sep 2026 22:00:33 GMT</pubDate>
+  </item>
   <item>
     <title>Микро-агрегаторы районов: сравнение и выбор 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mikro-agregatory-rayonov-sravnenie-i-vybor-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-cto-obyasnit-yunit-ekonomiku-sovetu-direktorov-shablon-2.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-cto-obyasnit-yunit-ekonomiku-sovetu-direktorov-shablon-2.html</guid>
     <pubDate>Wed, 02 Sep 2026 16:50:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аутсорсинг бухгалтерии 2026: цены и окупаемость в бизнесе</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-bukhgalterii-2026-tseny-i-okupaemost-v-biznese.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-bukhgalterii-2026-tseny-i-okupaemost-v-biznese.html</guid>
-    <pubDate>Wed, 02 Sep 2026 16:50:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
