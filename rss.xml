@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:32:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:32:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Финансовый выжим 2026: Сравнение решений для розницы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/finansovyy-vyzhim-2026-sravnenie-resheniy-dlya-roznitsy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/finansovyy-vyzhim-2026-sravnenie-resheniy-dlya-roznitsy.html</guid>
+    <pubDate>Thu, 03 Sep 2026 11:32:46 GMT</pubDate>
+  </item>
   <item>
     <title>Защита авторских прав визуалов: Инструкция и правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zashchita-avtorskikh-prav-vizualov-instruktsiya-i-pravila-20.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-perestat-krichat-na-podrostka-5-shagov-k-dialogu-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-perestat-krichat-na-podrostka-5-shagov-k-dialogu-v-2026.html</guid>
     <pubDate>Mon, 31 Aug 2026 15:14:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как научить ребенка делать уроки самостоятельно в 7 лет: 5 шагов</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nauchit-rebenka-delat-uroki-samostoyatelno-v-7-let-5-sha.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-nauchit-rebenka-delat-uroki-samostoyatelno-v-7-let-5-sha.html</guid>
-    <pubDate>Mon, 31 Aug 2026 15:06:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
