@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 01:34:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:34:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация ИП для разработчика: пошаговый гайд 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-dlya-razrabotchika-poshagovyy-gayd-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-dlya-razrabotchika-poshagovyy-gayd-2026.html</guid>
+    <pubDate>Thu, 03 Sep 2026 01:34:45 GMT</pubDate>
+  </item>
   <item>
     <title>Как выбрать ОКВЭД для стартапа в 2026: гайд для Seed/A</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-okved-dlya-startapa-v-2026-gayd-dlya-seed-a.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/apgreyd-servera-2026-pcie-5-0-cxl-2-0-i-nvlink.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/apgreyd-servera-2026-pcie-5-0-cxl-2-0-i-nvlink.html</guid>
     <pubDate>Sun, 30 Aug 2026 23:47:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Выбор серверного оборудования для ИИ 2026: правила и критерии</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vybor-servernogo-oborudovaniya-dlya-ii-2026-pravila-i-kriter.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vybor-servernogo-oborudovaniya-dlya-ii-2026-pravila-i-kriter.html</guid>
-    <pubDate>Sun, 30 Aug 2026 23:46:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
