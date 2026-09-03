@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 22:00:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 22:00:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Кейс: Как организовать фестиваль в селе Татарстана в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/keys-kak-organizovat-festival-v-sele-tatarstana-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/keys-kak-organizovat-festival-v-sele-tatarstana-v-2026.html</guid>
+    <pubDate>Thu, 03 Sep 2026 22:00:50 GMT</pubDate>
+  </item>
   <item>
     <title>Молодые ивент-менеджеры Казани: доход и KPI 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/molodye-ivent-menedzhery-kazani-dokhod-i-kpi-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-katalog-investorov-i-biznes-angelov-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-katalog-investorov-i-biznes-angelov-2026.html</guid>
     <pubDate>Wed, 02 Sep 2026 16:50:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>ТОП-7 Инвесторов в 2026: Рейтинг лучших решений</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/top-7-investorov-v-2026-reyting-luchshikh-resheniy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-7-investorov-v-2026-reyting-luchshikh-resheniy.html</guid>
-    <pubDate>Wed, 02 Sep 2026 16:50:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
