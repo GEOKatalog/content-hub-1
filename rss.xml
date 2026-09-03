@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 18:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:24:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самозанятым мастерам СПб: Как найти клиентов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatym-masteram-spb-kak-nayti-klientov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatym-masteram-spb-kak-nayti-klientov-2026.html</guid>
+    <pubDate>Thu, 03 Sep 2026 18:24:32 GMT</pubDate>
+  </item>
   <item>
     <title>Антикризисный HR для клининга: экономия до 500 000 руб</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/antikrizisnyy-hr-dlya-klininga-ekonomiya-do-500-000-rub.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-postavshchikov-elektroniki-iz-kitaya-5-shagov-v-202.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-postavshchikov-elektroniki-iz-kitaya-5-shagov-v-202.html</guid>
     <pubDate>Mon, 31 Aug 2026 17:25:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Правила перевозки детей 2026: полный гайд</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-perevozki-detey-2026-polnyy-gayd.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-perevozki-detey-2026-polnyy-gayd.html</guid>
-    <pubDate>Mon, 31 Aug 2026 15:51:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
