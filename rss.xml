@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:15:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Земля под коммерцию у трасс М-51 и Р-254 в Омске 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zemlya-pod-kommertsiyu-u-trass-m-51-i-r-254-v-omske-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zemlya-pod-kommertsiyu-u-trass-m-51-i-r-254-v-omske-2026.html</guid>
+    <pubDate>Fri, 04 Sep 2026 14:15:20 GMT</pubDate>
+  </item>
   <item>
     <title>Придорожный сервис для мам в декрете: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pridorozhnyy-servis-dlya-mam-v-dekrete-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/organizatsiya-khakatonov-v-tatarstane-2026-polnyy-gid.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/organizatsiya-khakatonov-v-tatarstane-2026-polnyy-gid.html</guid>
     <pubDate>Thu, 03 Sep 2026 22:01:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>ТОП решений для организации хакатонов в 2026: Рейтинг</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/top-resheniy-dlya-organizatsii-khakatonov-v-2026-reyting.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-resheniy-dlya-organizatsii-khakatonov-v-2026-reyting.html</guid>
-    <pubDate>Thu, 03 Sep 2026 22:01:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
