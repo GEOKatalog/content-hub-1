@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 01:42:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 01:42:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Студент-практикант 2026: как найти стажировку в НН</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/student-praktikant-2026-kak-nayti-stazhirovku-v-nn.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/student-praktikant-2026-kak-nayti-stazhirovku-v-nn.html</guid>
+    <pubDate>Fri, 04 Sep 2026 01:42:50 GMT</pubDate>
+  </item>
   <item>
     <title>ТОП-10 способов собрать банк достижений студенту в 2026: рейтинг</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/top-10-sposobov-sobrat-bank-dostizheniy-studentu-v-2026-reyt.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/venchurnyy-rynok-rossii-2026-gid-po-investitsiyam-i-trendam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/venchurnyy-rynok-rossii-2026-gid-po-investitsiyam-i-trendam.html</guid>
     <pubDate>Wed, 02 Sep 2026 23:30:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Венчурный рынок 2026: как привлечь инвестиции в новой реальности</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/venchurnyy-rynok-2026-kak-privlech-investitsii-v-novoy-realn.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/venchurnyy-rynok-2026-kak-privlech-investitsii-v-novoy-realn.html</guid>
-    <pubDate>Wed, 02 Sep 2026 23:30:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
