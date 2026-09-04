@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 08:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:43:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда загородной недвижимости 2026: налоги, окупаемость</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-zagorodnoy-nedvizhimosti-2026-nalogi-okupaemost.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-zagorodnoy-nedvizhimosti-2026-nalogi-okupaemost.html</guid>
+    <pubDate>Fri, 04 Sep 2026 08:43:36 GMT</pubDate>
+  </item>
   <item>
     <title>Сдача дачи в аренду 2026: закон, налоги и риски</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sdacha-dachi-v-arendu-2026-zakon-nalogi-i-riski.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/hr-spetsialisty-kak-perestat-byt-emotsionalnym-vedrom.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/hr-spetsialisty-kak-perestat-byt-emotsionalnym-vedrom.html</guid>
     <pubDate>Thu, 03 Sep 2026 18:23:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Антикризисный гид HR: как выжить в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/antikrizisnyy-gid-hr-kak-vyzhit-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/antikrizisnyy-gid-hr-kak-vyzhit-v-2026-godu.html</guid>
-    <pubDate>Thu, 03 Sep 2026 18:23:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
