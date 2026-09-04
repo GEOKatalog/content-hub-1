@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 05:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 05:05:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Топ-менеджер ОАЭ: завещание и опека над детьми 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/top-menedzher-oae-zaveshchanie-i-opeka-nad-detmi-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-menedzher-oae-zaveshchanie-i-opeka-nad-detmi-2026.html</guid>
+    <pubDate>Fri, 04 Sep 2026 05:05:55 GMT</pubDate>
+  </item>
   <item>
     <title>Кейс: Тихие аскеты-программисты как сэкономить 2 млн в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/keys-tikhie-askety-programmisty-kak-sekonomit-2-mln-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-2026-sravnenie-sposobov-i-poshagovyy-plan.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-2026-sravnenie-sposobov-i-poshagovyy-plan.html</guid>
     <pubDate>Thu, 03 Sep 2026 06:36:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>OKR vs хаос: Как управлять стартапом после демо-дня 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/okr-vs-khaos-kak-upravlyat-startapom-posle-demo-dnya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okr-vs-khaos-kak-upravlyat-startapom-posle-demo-dnya-2026.html</guid>
-    <pubDate>Thu, 03 Sep 2026 06:36:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
