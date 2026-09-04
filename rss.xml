@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 01:43:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 01:43:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация самозанятости в 2026: гид по налогам и правилам в НН</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-samozanyatosti-v-2026-gid-po-nalogam-i-pravila.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-samozanyatosti-v-2026-gid-po-nalogam-i-pravila.html</guid>
+    <pubDate>Fri, 04 Sep 2026 01:43:41 GMT</pubDate>
+  </item>
   <item>
     <title>Испытательный срок в 2026: гид по собеседованию и мотивации в НН</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ispytatelnyy-srok-v-2026-gid-po-sobesedovaniyu-i-motivatsii.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-2026-sravnenie-sposobov-i-vybor-luchshego.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-2026-sravnenie-sposobov-i-vybor-luchshego.html</guid>
     <pubDate>Wed, 02 Sep 2026 23:30:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Упаковка стартапа для инвестора 2026: Data Room и MEMO</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-startapa-dlya-investora-2026-data-room-i-memo.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-startapa-dlya-investora-2026-data-room-i-memo.html</guid>
-    <pubDate>Wed, 02 Sep 2026 23:30:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
