@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:15:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Декор мероприятий 2026: Сравнение и выбор решения</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dekor-meropriyatiy-2026-sravnenie-i-vybor-resheniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dekor-meropriyatiy-2026-sravnenie-i-vybor-resheniya.html</guid>
+    <pubDate>Fri, 04 Sep 2026 10:15:33 GMT</pubDate>
+  </item>
   <item>
     <title>Дизайнер винтажа 2026: как не прогореть на реставрации</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dizayner-vintazha-2026-kak-ne-progoret-na-restavratsii.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/hyundai-sonata-i-skoda-octavia-gid-po-ekspluatatsii-v-spb-20.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/hyundai-sonata-i-skoda-octavia-gid-po-ekspluatatsii-v-spb-20.html</guid>
     <pubDate>Thu, 03 Sep 2026 20:21:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Триггер подписки 2026: расчет окупаемости и схема</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/trigger-podpiski-2026-raschet-okupaemosti-i-skhema.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trigger-podpiski-2026-raschet-okupaemosti-i-skhema.html</guid>
-    <pubDate>Thu, 03 Sep 2026 20:21:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
