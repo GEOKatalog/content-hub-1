@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 03:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 03:36:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Студент-практикант: как не бояться инструмента в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/student-praktikant-kak-ne-boyatsya-instrumenta-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/student-praktikant-kak-ne-boyatsya-instrumenta-v-2026.html</guid>
+    <pubDate>Fri, 04 Sep 2026 03:36:14 GMT</pubDate>
+  </item>
   <item>
     <title>Разнорабочий на подхвате: Гид и правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/raznorabochiy-na-podkhvate-gid-i-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/masshtabirovanie-startapa-agile-i-okr-bez-byurokratii.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/masshtabirovanie-startapa-agile-i-okr-bez-byurokratii.html</guid>
     <pubDate>Thu, 03 Sep 2026 01:34:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как открыть бизнес студенту в 2026: гайд с нуля за 1 день</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-otkryt-biznes-studentu-v-2026-gayd-s-nulya-za-1-den.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-otkryt-biznes-studentu-v-2026-gayd-s-nulya-za-1-den.html</guid>
-    <pubDate>Thu, 03 Sep 2026 01:34:52 GMT</pubDate>
   </item>
   </channel>
 </rss>
