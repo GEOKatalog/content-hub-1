@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 03:36:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 03:37:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Агент элитной недвижимости: как читать VIP-клиента</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/agent-elitnoy-nedvizhimosti-kak-chitat-vip-klienta.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/agent-elitnoy-nedvizhimosti-kak-chitat-vip-klienta.html</guid>
+    <pubDate>Fri, 04 Sep 2026 03:37:05 GMT</pubDate>
+  </item>
   <item>
     <title>Эмоциональный вампиризм в переговорах: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/emotsionalnyy-vampirizm-v-peregovorakh-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/yunit-ekonomika-dlya-cto-ltv-cac-gayd-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/yunit-ekonomika-dlya-cto-ltv-cac-gayd-2026.html</guid>
     <pubDate>Thu, 03 Sep 2026 06:35:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>ТОП-10 способов регистрации ИП в 2026: Рейтинг лучших</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/top-10-sposobov-registratsii-ip-v-2026-reyting-luchshikh.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-10-sposobov-registratsii-ip-v-2026-reyting-luchshikh.html</guid>
-    <pubDate>Thu, 03 Sep 2026 01:35:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
