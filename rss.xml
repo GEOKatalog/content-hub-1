@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:15:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:15:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Выход из декрета в 2026: пошаговая инструкция для мам</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vykhod-iz-dekreta-v-2026-poshagovaya-instruktsiya-dlya-mam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vykhod-iz-dekreta-v-2026-poshagovaya-instruktsiya-dlya-mam.html</guid>
+    <pubDate>Fri, 04 Sep 2026 14:15:28 GMT</pubDate>
+  </item>
   <item>
     <title>Земля под коммерцию у трасс М-51 и Р-254 в Омске 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zemlya-pod-kommertsiyu-u-trass-m-51-i-r-254-v-omske-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-napisat-diplomnuyu-rabotu-s-nulya-v-2026-poshagovyy-gid.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-napisat-diplomnuyu-rabotu-s-nulya-v-2026-poshagovyy-gid.html</guid>
     <pubDate>Thu, 03 Sep 2026 22:02:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Организация хакатонов в Татарстане 2026: полный гид</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/organizatsiya-khakatonov-v-tatarstane-2026-polnyy-gid.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/organizatsiya-khakatonov-v-tatarstane-2026-polnyy-gid.html</guid>
-    <pubDate>Thu, 03 Sep 2026 22:01:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
