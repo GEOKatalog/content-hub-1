@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 06:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:53:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Больничный для самозанятых в 2026: как оформить и платить</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/bolnichnyy-dlya-samozanyatykh-v-2026-kak-oformit-i-platit.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/bolnichnyy-dlya-samozanyatykh-v-2026-kak-oformit-i-platit.html</guid>
+    <pubDate>Fri, 04 Sep 2026 06:53:20 GMT</pubDate>
+  </item>
   <item>
     <title>ТОП-10 фермерских ярмарок Новосибирска 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/top-10-fermerskikh-yarmarok-novosibirska-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trigger-podpiski-sravnenie-i-vybor-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/trigger-podpiski-sravnenie-i-vybor-2026.html</guid>
     <pubDate>Thu, 03 Sep 2026 11:30:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как продать урожай в 2026: кооператив дачников Омска</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-urozhay-v-2026-kooperativ-dachnikov-omska.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-urozhay-v-2026-kooperativ-dachnikov-omska.html</guid>
-    <pubDate>Thu, 03 Sep 2026 11:30:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
