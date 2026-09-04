@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 04 Sep 2026 01:43:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 01:43:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Продление регистрации студентом-экспатом: сравнение способов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodlenie-registratsii-studentom-ekspatom-sravnenie-sposobov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodlenie-registratsii-studentom-ekspatom-sravnenie-sposobov.html</guid>
+    <pubDate>Fri, 04 Sep 2026 01:43:55 GMT</pubDate>
+  </item>
   <item>
     <title>Регистрация самозанятости в 2026: гид по налогам и правилам в НН</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-samozanyatosti-v-2026-gid-po-nalogam-i-pravila.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-katalog-kanalov-poiska-it-ekspertov-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-katalog-kanalov-poiska-it-ekspertov-v-2026.html</guid>
     <pubDate>Wed, 02 Sep 2026 23:31:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регистрация ИП 2026: сравнение способов и выбор лучшего</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-2026-sravnenie-sposobov-i-vybor-luchshego.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-2026-sravnenie-sposobov-i-vybor-luchshego.html</guid>
-    <pubDate>Wed, 02 Sep 2026 23:30:56 GMT</pubDate>
   </item>
   </channel>
 </rss>
