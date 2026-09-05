@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 Sep 2026 05:24:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 05:25:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог на нежилые помещения 2026: полный гид</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-nezhilye-pomeshcheniya-2026-polnyy-gid.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-nezhilye-pomeshcheniya-2026-polnyy-gid.html</guid>
+    <pubDate>Sat, 05 Sep 2026 05:25:01 GMT</pubDate>
+  </item>
   <item>
     <title>Собственники объектов с обременениями гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sobstvenniki-obektov-s-obremeneniyami-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dekor-meropriyatiy-2026-sravnenie-i-vybor-resheniya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dekor-meropriyatiy-2026-sravnenie-i-vybor-resheniya.html</guid>
     <pubDate>Fri, 04 Sep 2026 10:15:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Дизайнер винтажа 2026: как не прогореть на реставрации</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dizayner-vintazha-2026-kak-ne-progoret-na-restavratsii.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dizayner-vintazha-2026-kak-ne-progoret-na-restavratsii.html</guid>
-    <pubDate>Fri, 04 Sep 2026 10:15:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
