@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 Sep 2026 02:10:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:11:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Клининг-бизнес 2026: налоги, кадры и выход на 5 млн</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/klining-biznes-2026-nalogi-kadry-i-vykhod-na-5-mln.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klining-biznes-2026-nalogi-kadry-i-vykhod-na-5-mln.html</guid>
+    <pubDate>Sat, 05 Sep 2026 02:11:06 GMT</pubDate>
+  </item>
   <item>
     <title>Полный каталог ресурсов против выгорания соло-предпринимателя 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-katalog-resursov-protiv-vygoraniya-solo-predprinimate.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-gid-po-repetitoram-ege-i-oge-v-novosibirske-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-gid-po-repetitoram-ege-i-oge-v-novosibirske-2026.html</guid>
     <pubDate>Fri, 04 Sep 2026 06:54:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Полный гид по фрилансерам-экспертам Новосибирск 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-gid-po-frilanseram-ekspertam-novosibirsk-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-gid-po-frilanseram-ekspertam-novosibirsk-2026.html</guid>
-    <pubDate>Fri, 04 Sep 2026 06:53:55 GMT</pubDate>
   </item>
   </channel>
 </rss>
