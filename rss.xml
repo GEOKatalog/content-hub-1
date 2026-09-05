@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:44:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:45:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы для продажи фермерской продукции на маркетплейсе</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-prodazhi-fermerskoy-produktsii-na-marketpleys.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-prodazhi-fermerskoy-produktsii-na-marketpleys.html</guid>
+    <pubDate>Sat, 05 Sep 2026 12:45:06 GMT</pubDate>
+  </item>
   <item>
     <title>ТОП ивент-подрядчиков 2026: рейтинг организаторов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/top-ivent-podryadchikov-2026-reyting-organizatorov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/keys-chto-vygodnee-pri-dosrochnom-pogashenii-ipoteki-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/keys-chto-vygodnee-pri-dosrochnom-pogashenii-ipoteki-v-2026.html</guid>
     <pubDate>Fri, 04 Sep 2026 22:39:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Приемка квартиры в новостройке 2026: полный гид по Кемерово</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/priemka-kvartiry-v-novostroyke-2026-polnyy-gid-po-kemerovo.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/priemka-kvartiry-v-novostroyke-2026-polnyy-gid-po-kemerovo.html</guid>
-    <pubDate>Fri, 04 Sep 2026 22:39:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
