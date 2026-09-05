@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 Sep 2026 05:24:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 05:24:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Собственники объектов с обременениями гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sobstvenniki-obektov-s-obremeneniyami-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sobstvenniki-obektov-s-obremeneniyami-gid-2026.html</guid>
+    <pubDate>Sat, 05 Sep 2026 05:24:52 GMT</pubDate>
+  </item>
   <item>
     <title>Управление посуточной арендой в Казани 2026: гид для рантье</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/upravlenie-posutochnoy-arendoy-v-kazani-2026-gid-dlya-rante.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dizayner-vintazha-2026-kak-ne-progoret-na-restavratsii.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dizayner-vintazha-2026-kak-ne-progoret-na-restavratsii.html</guid>
     <pubDate>Fri, 04 Sep 2026 10:15:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Полный гид по декораторам мероприятий Екатеринбург 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-gid-po-dekoratoram-meropriyatiy-ekaterinburg-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-gid-po-dekoratoram-meropriyatiy-ekaterinburg-2026.html</guid>
-    <pubDate>Fri, 04 Sep 2026 10:15:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
