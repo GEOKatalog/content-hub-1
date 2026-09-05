@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 Sep 2026 07:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 07:16:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Закупка канцтоваров в декрете 2026: пошаговая инструкция</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakupka-kantstovarov-v-dekrete-2026-poshagovaya-instruktsiya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakupka-kantstovarov-v-dekrete-2026-poshagovaya-instruktsiya.html</guid>
+    <pubDate>Sat, 05 Sep 2026 07:16:56 GMT</pubDate>
+  </item>
   <item>
     <title>Госзакупки 2026: инструкция для ОП-менеджеров с опытом</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/goszakupki-2026-instruktsiya-dlya-op-menedzherov-s-opytom.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-chasov-ekaterinburg-2026-gid-i-pravila.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-chasov-ekaterinburg-2026-gid-i-pravila.html</guid>
     <pubDate>Fri, 04 Sep 2026 12:21:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Посуточная аренда 2026: сравнение налогов и решений</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/posutochnaya-arenda-2026-sravnenie-nalogov-i-resheniy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/posutochnaya-arenda-2026-sravnenie-nalogov-i-resheniy.html</guid>
-    <pubDate>Fri, 04 Sep 2026 12:21:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
