@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 Sep 2026 22:39:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 22:40:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Скупка участков в Омске: сравнение стратегий 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/skupka-uchastkov-v-omske-sravnenie-strategiy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/skupka-uchastkov-v-omske-sravnenie-strategiy-2026.html</guid>
+    <pubDate>Sat, 05 Sep 2026 22:40:00 GMT</pubDate>
+  </item>
   <item>
     <title>Что делать самозанятому при превышении лимита в 2026: гид</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chto-delat-samozanyatomu-pri-prevyshenii-limita-v-2026-gid.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prikorm-allergika-2026-poshagovyy-biznes-gid-dlya-mam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikorm-allergika-2026-poshagovyy-biznes-gid-dlya-mam.html</guid>
     <pubDate>Sat, 05 Sep 2026 07:17:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Закупки канцтоваров для мам в декрете: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakupki-kantstovarov-dlya-mam-v-dekrete-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakupki-kantstovarov-dlya-mam-v-dekrete-gid-2026.html</guid>
-    <pubDate>Sat, 05 Sep 2026 07:17:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
