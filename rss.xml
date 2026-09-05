@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:17:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Корпоративные беглецы 2026: визы, налоги и скрытые платежи</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/korporativnye-begletsy-2026-vizy-nalogi-i-skrytye-platezhi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/korporativnye-begletsy-2026-vizy-nalogi-i-skrytye-platezhi.html</guid>
+    <pubDate>Sat, 05 Sep 2026 09:17:06 GMT</pubDate>
+  </item>
   <item>
     <title>Пенсионер-учёный с кислородом 2026: гид по выживанию</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pensioner-uchyonyy-s-kislorodom-2026-gid-po-vyzhivaniyu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-arendy-dlya-semey-v-kemerovo-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/katalog-arendy-dlya-semey-v-kemerovo-gid-2026.html</guid>
     <pubDate>Fri, 04 Sep 2026 18:34:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Фрилансеру в Кемерово: гид по комьюнити и нетворкингу 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/frilanseru-v-kemerovo-gid-po-komyuniti-i-netvorkingu-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/frilanseru-v-kemerovo-gid-po-komyuniti-i-netvorkingu-2026.html</guid>
-    <pubDate>Fri, 04 Sep 2026 18:34:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
