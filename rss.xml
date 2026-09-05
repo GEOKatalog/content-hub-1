@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 Sep 2026 05:25:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 05:25:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как заполнить пустующие площади в ТЦ в 2026: пошаговый гайд</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zapolnit-pustuyushchie-ploshchadi-v-tts-v-2026-poshagovy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zapolnit-pustuyushchie-ploshchadi-v-tts-v-2026-poshagovy.html</guid>
+    <pubDate>Sat, 05 Sep 2026 05:25:41 GMT</pubDate>
+  </item>
   <item>
     <title>Посуточная аренда в Казани: инструкция для владельцев 1 этажей 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/posutochnaya-arenda-v-kazani-instruktsiya-dlya-vladeltsev-1.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-kartin-i-materialov-khudozhnikom-2026-gid-bez-poter.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-kartin-i-materialov-khudozhnikom-2026-gid-bez-poter.html</guid>
     <pubDate>Fri, 04 Sep 2026 10:16:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Гид по локациям для коммерческих фотографов Екатеринбург 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gid-po-lokatsiyam-dlya-kommercheskikh-fotografov-ekaterinbur.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gid-po-lokatsiyam-dlya-kommercheskikh-fotografov-ekaterinbur.html</guid>
-    <pubDate>Fri, 04 Sep 2026 10:16:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
