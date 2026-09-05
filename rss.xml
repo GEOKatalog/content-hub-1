@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 Sep 2026 03:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 03:38:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ремонт катушечников Казань: замена роликов и пассиков 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-katushechnikov-kazan-zamena-rolikov-i-passikov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-katushechnikov-kazan-zamena-rolikov-i-passikov-2026.html</guid>
+    <pubDate>Sat, 05 Sep 2026 03:38:26 GMT</pubDate>
+  </item>
   <item>
     <title>Монтаж лофт перегородки: нормы и цены 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/montazh-loft-peregorodki-normy-i-tseny-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-komissionnogo-magazina-2026-instruktsiya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-komissionnogo-magazina-2026-instruktsiya.html</guid>
     <pubDate>Fri, 04 Sep 2026 08:43:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда загородной недвижимости 2026: налоги, окупаемость</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-zagorodnoy-nedvizhimosti-2026-nalogi-okupaemost.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-zagorodnoy-nedvizhimosti-2026-nalogi-okupaemost.html</guid>
-    <pubDate>Fri, 04 Sep 2026 08:43:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
