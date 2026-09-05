@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:46:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:46:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Репетиторы ЕГЭ 2026: Сравнение и выбор в Новосибирске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitory-ege-2026-sravnenie-i-vybor-v-novosibirske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/repetitory-ege-2026-sravnenie-i-vybor-v-novosibirske.html</guid>
+    <pubDate>Sat, 05 Sep 2026 12:46:33 GMT</pubDate>
+  </item>
   <item>
     <title>ТОП-10 узких специалистов Новосибирска 2026: Рейтинг врачей</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/top-10-uzkikh-spetsialistov-novosibirska-2026-reyting-vrache.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zhk-solnechnyy-gorod-i-novoe-sertolovo-sravnenie-dlya-semey.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zhk-solnechnyy-gorod-i-novoe-sertolovo-sravnenie-dlya-semey.html</guid>
     <pubDate>Sat, 05 Sep 2026 00:25:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Триггер подписки: пошаговая инструкция и правила 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/trigger-podpiski-poshagovaya-instruktsiya-i-pravila-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trigger-podpiski-poshagovaya-instruktsiya-i-pravila-2026.html</guid>
-    <pubDate>Sat, 05 Sep 2026 00:25:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
