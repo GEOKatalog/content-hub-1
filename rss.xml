@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 05 Sep 2026 02:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:11:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Постановка в военкомат: Сравнение способов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/postanovka-v-voenkomat-sravnenie-sposobov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/postanovka-v-voenkomat-sravnenie-sposobov-2026.html</guid>
+    <pubDate>Sat, 05 Sep 2026 02:11:40 GMT</pubDate>
+  </item>
   <item>
     <title>Как самозанятому мастеру в СПБ пройти проверку Роспотребнадзора 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-samozanyatomu-masteru-v-spb-proyti-proverku-rospotrebnad.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-fotografa-na-svadbu-v-novosibirske-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-fotografa-na-svadbu-v-novosibirske-2026.html</guid>
     <pubDate>Fri, 04 Sep 2026 06:54:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нормативы замены коммуникаций в МКД 2026: полный гид</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-zameny-kommunikatsiy-v-mkd-2026-polnyy-gid.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-zameny-kommunikatsiy-v-mkd-2026-polnyy-gid.html</guid>
-    <pubDate>Fri, 04 Sep 2026 06:54:22 GMT</pubDate>
   </item>
   </channel>
 </rss>
