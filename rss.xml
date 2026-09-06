@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 06 Sep 2026 07:11:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:11:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Багажник универсалов: коляска и места для вещей в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/bagazhnik-universalov-kolyaska-i-mesta-dlya-veshchey-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/bagazhnik-universalov-kolyaska-i-mesta-dlya-veshchey-v-2026.html</guid>
+    <pubDate>Sun, 06 Sep 2026 07:11:26 GMT</pubDate>
+  </item>
   <item>
     <title>ТОП-3 седана D-класса 2026: выбор для дачи и пробок</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/top-3-sedana-d-klassa-2026-vybor-dlya-dachi-i-probok.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/top-3-resheniya-dlya-teplits-2026-reyting-luchshikh-v-nsk.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-3-resheniya-dlya-teplits-2026-reyting-luchshikh-v-nsk.html</guid>
     <pubDate>Sat, 05 Sep 2026 14:42:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>ТОП-10 врачей Новосибирска 2026: Рейтинг специалистов</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/top-10-vrachey-novosibirska-2026-reyting-spetsialistov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-10-vrachey-novosibirska-2026-reyting-spetsialistov.html</guid>
-    <pubDate>Sat, 05 Sep 2026 12:46:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
