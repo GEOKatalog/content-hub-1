@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 06 Sep 2026 05:38:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 05:38:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Триггер подписки в Telegram: пошаговая настройка 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/trigger-podpiski-v-telegram-poshagovaya-nastroyka-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trigger-podpiski-v-telegram-poshagovaya-nastroyka-2026.html</guid>
+    <pubDate>Sun, 06 Sep 2026 05:38:35 GMT</pubDate>
+  </item>
   <item>
     <title>Как попасть на В.О. в разводку мостов: маршруты 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-popast-na-v-o-v-razvodku-mostov-marshruty-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ipoteka-v-2026-kombo-kredity-vygoda-i-riski.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ipoteka-v-2026-kombo-kredity-vygoda-i-riski.html</guid>
     <pubDate>Sat, 05 Sep 2026 10:47:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Фитнес-реабилитолог в Москве: гид по выбору 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/fitnes-reabilitolog-v-moskve-gid-po-vyboru-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/fitnes-reabilitolog-v-moskve-gid-po-vyboru-2026.html</guid>
-    <pubDate>Sat, 05 Sep 2026 10:47:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
