@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 06 Sep 2026 14:33:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:33:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Экстренный сбор вещей для пострадавших от паводка: инструкция 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ekstrennyy-sbor-veshchey-dlya-postradavshikh-ot-pavodka-inst.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ekstrennyy-sbor-veshchey-dlya-postradavshikh-ot-pavodka-inst.html</guid>
+    <pubDate>Sun, 06 Sep 2026 14:33:57 GMT</pubDate>
+  </item>
   <item>
     <title>Защита ВКР в формате общественного проекта в 2026: гид для активистов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zashchita-vkr-v-formate-obshchestvennogo-proekta-v-2026-gid.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chto-delat-samozanyatomu-pri-prevyshenii-limita-v-2026-gid.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/chto-delat-samozanyatomu-pri-prevyshenii-limita-v-2026-gid.html</guid>
     <pubDate>Sat, 05 Sep 2026 22:39:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продажа участка без межевания в 2026: пошаговая инструкция</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-uchastka-bez-mezhevaniya-v-2026-poshagovaya-instruk.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-uchastka-bez-mezhevaniya-v-2026-poshagovaya-instruk.html</guid>
-    <pubDate>Sat, 05 Sep 2026 22:39:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
