@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 06 Sep 2026 05:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 05:39:04 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Настройка ветвления бота и уведомлений -14: сравнительный анализ</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nastroyka-vetvleniya-bota-i-uvedomleniy-14-sravnitelnyy-anal.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nastroyka-vetvleniya-bota-i-uvedomleniy-14-sravnitelnyy-anal.html</guid>
+    <pubDate>Sun, 06 Sep 2026 05:39:04 GMT</pubDate>
+  </item>
   <item>
     <title>Триггер подписки в Telegram боте: настройка для семей в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trigger-podpiski-v-telegram-bote-nastroyka-dlya-semey-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-prodazhi-fermerskoy-produktsii-na-marketpleys.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-prodazhi-fermerskoy-produktsii-na-marketpleys.html</guid>
     <pubDate>Sat, 05 Sep 2026 12:45:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>ТОП ивент-подрядчиков 2026: рейтинг организаторов</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/top-ivent-podryadchikov-2026-reyting-organizatorov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-ivent-podryadchikov-2026-reyting-organizatorov.html</guid>
-    <pubDate>Sat, 05 Sep 2026 12:44:47 GMT</pubDate>
   </item>
   </channel>
 </rss>
