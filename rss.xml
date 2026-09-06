@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 06 Sep 2026 12:37:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 12:37:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Гид по РСО в МКД: Права пенсионеров-собственников 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gid-po-rso-v-mkd-prava-pensionerov-sobstvennikov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gid-po-rso-v-mkd-prava-pensionerov-sobstvennikov-2026.html</guid>
+    <pubDate>Sun, 06 Sep 2026 12:37:31 GMT</pubDate>
+  </item>
   <item>
     <title>Протокол собрания собственников 2026: пошаговая инструкция</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/protokol-sobraniya-sobstvennikov-2026-poshagovaya-instruktsi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/syrodelie-doma-oborudovanie-zakony-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/syrodelie-doma-oborudovanie-zakony-2026.html</guid>
     <pubDate>Sat, 05 Sep 2026 17:53:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Выездной автоэлектрик в 2026: цены и как не переплатить</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vyezdnoy-avtoelektrik-v-2026-tseny-i-kak-ne-pereplatit.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vyezdnoy-avtoelektrik-v-2026-tseny-i-kak-ne-pereplatit.html</guid>
-    <pubDate>Sat, 05 Sep 2026 17:52:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
