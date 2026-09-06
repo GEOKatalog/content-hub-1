@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 06 Sep 2026 11:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 11:09:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Карьерный навигатор Самары: гид для студентов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/karernyy-navigator-samary-gid-dlya-studentov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/karernyy-navigator-samary-gid-dlya-studentov-2026.html</guid>
+    <pubDate>Sun, 06 Sep 2026 11:09:36 GMT</pubDate>
+  </item>
   <item>
     <title>Дачник 2026: новые законы, налоги, цены в Самаре | Полный гид</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dachnik-2026-novye-zakony-nalogi-tseny-v-samare-polnyy-gid.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zakazat-proekt-goryachego-tsekha-pod-klyuch-v-2026-posha.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zakazat-proekt-goryachego-tsekha-pod-klyuch-v-2026-posha.html</guid>
     <pubDate>Sat, 05 Sep 2026 16:20:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>ТОП-7 оборудования горячего цеха 2026: Выбор для фаст-кафе</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/top-7-oborudovaniya-goryachego-tsekha-2026-vybor-dlya-fast-k.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-7-oborudovaniya-goryachego-tsekha-2026-vybor-dlya-fast-k.html</guid>
-    <pubDate>Sat, 05 Sep 2026 16:20:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
