@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 07 Sep 2026 03:05:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 03:05:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Инженерный прорыв НГТУ НЭТИ 2026: правила олимпиады</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/inzhenernyy-proryv-ngtu-neti-2026-pravila-olimpiady.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/inzhenernyy-proryv-ngtu-neti-2026-pravila-olimpiady.html</guid>
+    <pubDate>Mon, 07 Sep 2026 03:05:26 GMT</pubDate>
+  </item>
   <item>
     <title>Олимпиада Инженерный прорыв 2026: правила участия и даты</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/olimpiada-inzhenernyy-proryv-2026-pravila-uchastiya-i-daty.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/investory-pervoprokhodtsy-2026-sravnenie-tinkoff-finam-bks.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/investory-pervoprokhodtsy-2026-sravnenie-tinkoff-finam-bks.html</guid>
     <pubDate>Sun, 06 Sep 2026 14:33:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Инвестиции для студентов: выбор брокера 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/investitsii-dlya-studentov-vybor-brokera-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/investitsii-dlya-studentov-vybor-brokera-2026.html</guid>
-    <pubDate>Sun, 06 Sep 2026 14:33:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
