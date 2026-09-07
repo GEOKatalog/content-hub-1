@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 07 Sep 2026 22:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 22:54:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самозанятость коллекционеров 2026: запреты и риски</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatost-kollektsionerov-2026-zaprety-i-riski.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatost-kollektsionerov-2026-zaprety-i-riski.html</guid>
+    <pubDate>Mon, 07 Sep 2026 22:54:14 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг решений по целевому обучению 2026: что выбрать</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-po-tselevomu-obucheniyu-2026-chto-vybrat.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/organizatsiya-prazdnikov-2026-poshagovaya-instruktsiya-i-pra.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/organizatsiya-prazdnikov-2026-poshagovaya-instruktsiya-i-pra.html</guid>
     <pubDate>Sun, 06 Sep 2026 21:48:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>ТОП-10 эстетов-перфекционистов 2026: Рейтинг решений</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/top-10-estetov-perfektsionistov-2026-reyting-resheniy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-10-estetov-perfektsionistov-2026-reyting-resheniy.html</guid>
-    <pubDate>Sun, 06 Sep 2026 19:51:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
