@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:55:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:56:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Рейтинг решений для сертификации и растаможки в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-dlya-sertifikatsii-i-rastamozhki-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-dlya-sertifikatsii-i-rastamozhki-v-2026.html</guid>
+    <pubDate>Tue, 08 Sep 2026 14:56:47 GMT</pubDate>
+  </item>
   <item>
     <title>Ввоз из Европы 2026: сертификация на литовской таможне</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vvoz-iz-evropy-2026-sertifikatsiya-na-litovskoy-tamozhne.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/byudzhetnaya-rospis-2026-giis-elektronnyy-byudzhet-i-prikaz.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/byudzhetnaya-rospis-2026-giis-elektronnyy-byudzhet-i-prikaz.html</guid>
     <pubDate>Tue, 08 Sep 2026 00:14:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Бюджетная роспись 2026: порядок составления и ведения</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/byudzhetnaya-rospis-2026-poryadok-sostavleniya-i-vedeniya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/byudzhetnaya-rospis-2026-poryadok-sostavleniya-i-vedeniya.html</guid>
-    <pubDate>Tue, 08 Sep 2026 00:13:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
