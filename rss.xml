@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 23:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 23:04:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Рейтинг вакцин 2026: менингококк, ВПЧ, ротавирус</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-vaktsin-2026-meningokokk-vpch-rotavirus.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-vaktsin-2026-meningokokk-vpch-rotavirus.html</guid>
+    <pubDate>Tue, 08 Sep 2026 23:04:38 GMT</pubDate>
+  </item>
   <item>
     <title>Нацкалендарь прививок 2026: инструкция для родителей Самары</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/natskalendar-privivok-2026-instruktsiya-dlya-roditeley-samar.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/legalizatsiya-nedostroya-na-sadovom-uchastke-poshagovyy-plan.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/legalizatsiya-nedostroya-na-sadovom-uchastke-poshagovyy-plan.html</guid>
     <pubDate>Tue, 08 Sep 2026 05:25:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Отсчет границ в СНТ: не от забора, а от ЕГРН в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/otschet-granits-v-snt-ne-ot-zabora-a-ot-egrn-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otschet-granits-v-snt-ne-ot-zabora-a-ot-egrn-v-2026.html</guid>
-    <pubDate>Tue, 08 Sep 2026 05:25:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
