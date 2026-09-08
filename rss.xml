@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 05:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 05:25:19 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Отсчет границ в СНТ: не от забора, а от ЕГРН в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/otschet-granits-v-snt-ne-ot-zabora-a-ot-egrn-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otschet-granits-v-snt-ne-ot-zabora-a-ot-egrn-v-2026.html</guid>
+    <pubDate>Tue, 08 Sep 2026 05:25:19 GMT</pubDate>
+  </item>
   <item>
     <title>Посадка деревьев у забора: законные нормы расстояния 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/posadka-derevev-u-zabora-zakonnye-normy-rasstoyaniya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dizayn-magazina-2026-tseny-i-gid-po-kommercheskomu-intereru.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dizayn-magazina-2026-tseny-i-gid-po-kommercheskomu-intereru.html</guid>
     <pubDate>Mon, 07 Sep 2026 14:53:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Перевод жилого в нежилое 2026: полный гид по условиям</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/perevod-zhilogo-v-nezhiloe-2026-polnyy-gid-po-usloviyam.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/perevod-zhilogo-v-nezhiloe-2026-polnyy-gid-po-usloviyam.html</guid>
-    <pubDate>Mon, 07 Sep 2026 14:53:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
