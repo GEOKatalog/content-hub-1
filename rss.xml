@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 09:05:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:46:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Временная регистрация ребенка в Кемерово: сроки и документы 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-rebenka-v-kemerovo-sroki-i-dokument.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-rebenka-v-kemerovo-sroki-i-dokument.html</guid>
+    <pubDate>Tue, 08 Sep 2026 11:46:03 GMT</pubDate>
+  </item>
   <item>
     <title>Пункт приема гуманитарной помощи Кемерово 2026: адреса</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/punkt-priema-gumanitarnoy-pomoshchi-kemerovo-2026-adresa.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-servisov-dlya-pereezda-minimalistov-v-chelyabinske-2.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-servisov-dlya-pereezda-minimalistov-v-chelyabinske-2.html</guid>
     <pubDate>Mon, 07 Sep 2026 21:20:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Алгоритм минималистского переезда за 4 недели</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-minimalistskogo-pereezda-za-4-nedeli.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-minimalistskogo-pereezda-za-4-nedeli.html</guid>
-    <pubDate>Mon, 07 Sep 2026 21:20:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
