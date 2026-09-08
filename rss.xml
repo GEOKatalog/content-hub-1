@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 09:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:01:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ввоз олдтаймера в РФ: пошаговый регламент и экономия 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vvoz-oldtaymera-v-rf-poshagovyy-reglament-i-ekonomiya-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vvoz-oldtaymera-v-rf-poshagovyy-reglament-i-ekonomiya-2026.html</guid>
+    <pubDate>Tue, 08 Sep 2026 09:01:50 GMT</pubDate>
+  </item>
   <item>
     <title>Организация хранилища по ГОСТ Р 7.0.2-2006 в Кузбассе</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/organizatsiya-khranilishcha-po-gost-r-7-0-2-2006-v-kuzbasse.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/konsultant-po-snu-chelyabinsk-tsena-resheniya-khronicheskikh.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/konsultant-po-snu-chelyabinsk-tsena-resheniya-khronicheskikh.html</guid>
     <pubDate>Mon, 07 Sep 2026 21:17:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Рейтинг методов проверки винтажа 2026: от клейма до ИИ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-metodov-proverki-vintazha-2026-ot-kleyma-do-ii.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-metodov-proverki-vintazha-2026-ot-kleyma-do-ii.html</guid>
-    <pubDate>Mon, 07 Sep 2026 21:17:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
