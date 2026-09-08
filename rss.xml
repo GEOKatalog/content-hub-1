@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 00:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 00:13:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Больничный 2026: учет доходов и подарки внукам в Самаре</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/bolnichnyy-2026-uchet-dokhodov-i-podarki-vnukam-v-samare.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/bolnichnyy-2026-uchet-dokhodov-i-podarki-vnukam-v-samare.html</guid>
+    <pubDate>Tue, 08 Sep 2026 00:13:46 GMT</pubDate>
+  </item>
   <item>
     <title>Уход за бабушкой для единого пособия: новые правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ukhod-za-babushkoy-dlya-edinogo-posobiya-novye-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/novyy-gost-po-kliningu-2026-polnaya-instruktsiya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/novyy-gost-po-kliningu-2026-polnaya-instruktsiya.html</guid>
     <pubDate>Sun, 06 Sep 2026 21:51:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>Специалисты по клинингу и уборке: гид по нормам 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/spetsialisty-po-kliningu-i-uborke-gid-po-normam-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/spetsialisty-po-kliningu-i-uborke-gid-po-normam-2026.html</guid>
-    <pubDate>Sun, 06 Sep 2026 21:51:23 GMT</pubDate>
   </item>
   </channel>
 </rss>
