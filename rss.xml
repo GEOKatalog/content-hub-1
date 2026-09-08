@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 20:31:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:31:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Оценка винтажа 2026: шкала состояния и стоимость</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-vintazha-2026-shkala-sostoyaniya-i-stoimost.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-vintazha-2026-shkala-sostoyaniya-i-stoimost.html</guid>
+    <pubDate>Tue, 08 Sep 2026 20:31:38 GMT</pubDate>
+  </item>
   <item>
     <title>Сезонная продажа спортинвентаря: регламент 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sezonnaya-prodazha-sportinventarya-reglament-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/alternativnye-investitsii-2026-strategii-dlya-omska.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/alternativnye-investitsii-2026-strategii-dlya-omska.html</guid>
     <pubDate>Tue, 08 Sep 2026 02:55:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Колики или опасность: алгоритм для родителей новорожденного</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/koliki-ili-opasnost-algoritm-dlya-roditeley-novorozhdennogo.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/koliki-ili-opasnost-algoritm-dlya-roditeley-novorozhdennogo.html</guid>
-    <pubDate>Tue, 08 Sep 2026 02:55:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
