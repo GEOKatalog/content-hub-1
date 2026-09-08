@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:47:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Штраф по ст. 6.6 КоАП РФ: нарушения в кафе 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-po-st-6-6-koap-rf-narusheniya-v-kafe-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-po-st-6-6-koap-rf-narusheniya-v-kafe-2026.html</guid>
+    <pubDate>Tue, 08 Sep 2026 11:47:21 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН для кафе 2026: новые правила и штрафы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-kafe-2026-novye-pravila-i-shtrafy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sezonnaya-torgovlya-sportom-sravnenie-sposobov-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sezonnaya-torgovlya-sportom-sravnenie-sposobov-2026.html</guid>
     <pubDate>Mon, 07 Sep 2026 22:52:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>ИП или самозанятость: как выбрать продавцу хобби-товаров</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ip-ili-samozanyatost-kak-vybrat-prodavtsu-khobbi-tovarov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ip-ili-samozanyatost-kak-vybrat-prodavtsu-khobbi-tovarov.html</guid>
-    <pubDate>Mon, 07 Sep 2026 22:52:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
