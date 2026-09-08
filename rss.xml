@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:10:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Первый прикорм по Постановлению №410: норма или миф?</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pervyy-prikorm-po-postanovleniyu-410-norma-ili-mif.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pervyy-prikorm-po-postanovleniyu-410-norma-ili-mif.html</guid>
+    <pubDate>Tue, 08 Sep 2026 04:10:34 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка газового оборудования: график 2026 и штрафы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-gazovogo-oborudovaniya-grafik-2026-i-shtrafy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/inzhenernyy-proryv-ngtu-neti-2026-pravila-olimpiady.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/inzhenernyy-proryv-ngtu-neti-2026-pravila-olimpiady.html</guid>
     <pubDate>Mon, 07 Sep 2026 03:05:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Олимпиада Инженерный прорыв 2026: правила участия и даты</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/olimpiada-inzhenernyy-proryv-2026-pravila-uchastiya-i-daty.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/olimpiada-inzhenernyy-proryv-2026-pravila-uchastiya-i-daty.html</guid>
-    <pubDate>Mon, 07 Sep 2026 03:05:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
