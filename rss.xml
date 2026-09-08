@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 01:34:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 01:34:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка сертификата ТР ТС 018/2011 в реестре Росаккредитации</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sertifikata-tr-ts-018-2011-v-reestre-rosakkreditats.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sertifikata-tr-ts-018-2011-v-reestre-rosakkreditats.html</guid>
+    <pubDate>Tue, 08 Sep 2026 01:34:34 GMT</pubDate>
+  </item>
   <item>
     <title>Противооткатный упор для мотоцикла в Самаре: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/protivootkatnyy-upor-dlya-mototsikla-v-samare-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-gid-po-prodazhe-fermerskoy-produktsii-na-marketpleysa.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-gid-po-prodazhe-fermerskoy-produktsii-na-marketpleysa.html</guid>
     <pubDate>Sun, 06 Sep 2026 23:49:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Организация корпоративов Новосибирск: цены, смета, подрядчики 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/organizatsiya-korporativov-novosibirsk-tseny-smeta-podryadch.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/organizatsiya-korporativov-novosibirsk-tseny-smeta-podryadch.html</guid>
-    <pubDate>Sun, 06 Sep 2026 23:48:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
