@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:52:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:47:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Положение о расчетном часе в договоре 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/polozhenie-o-raschetnom-chase-v-dogovore-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/polozhenie-o-raschetnom-chase-v-dogovore-2026.html</guid>
+    <pubDate>Tue, 08 Sep 2026 14:47:35 GMT</pubDate>
+  </item>
   <item>
     <title>Как заставить УК работать в Кемерово в 2026: пошаговый план</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zastavit-uk-rabotat-v-kemerovo-v-2026-poshagovyy-plan.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-yurlits-v-samare-diskvalifikatsiya-i-massovyy-adres.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-yurlits-v-samare-diskvalifikatsiya-i-massovyy-adres.html</guid>
     <pubDate>Tue, 08 Sep 2026 00:11:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Госуслуги vs регистратура: как записать ребенка к педиатру</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gosuslugi-vs-registratura-kak-zapisat-rebenka-k-pediatru.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gosuslugi-vs-registratura-kak-zapisat-rebenka-k-pediatru.html</guid>
-    <pubDate>Mon, 07 Sep 2026 22:55:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
