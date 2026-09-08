@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:52:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:52:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Структура сайта 2026: принцип матрёшки и ROI</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/struktura-sayta-2026-printsip-matryoshki-i-roi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/struktura-sayta-2026-printsip-matryoshki-i-roi.html</guid>
+    <pubDate>Tue, 08 Sep 2026 14:52:44 GMT</pubDate>
+  </item>
   <item>
     <title>SEO тренды 2026: переход от SEO к AEO и GEO</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/seo-trendy-2026-perekhod-ot-seo-k-aeo-i-geo.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/bolnichnyy-2026-uchet-kak-trudovoy-dokhod-i-podarki-vnukam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/bolnichnyy-2026-uchet-kak-trudovoy-dokhod-i-podarki-vnukam.html</guid>
     <pubDate>Tue, 08 Sep 2026 00:13:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Учет алиментов для единого пособия в 2026: новые правила</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/uchet-alimentov-dlya-edinogo-posobiya-v-2026-novye-pravila.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uchet-alimentov-dlya-edinogo-posobiya-v-2026-novye-pravila.html</guid>
-    <pubDate>Tue, 08 Sep 2026 00:13:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
