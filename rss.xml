@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:09:19 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Портфельный оптимизатор: модель, ограничения и методы 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/portfelnyy-optimizator-model-ogranicheniya-i-metody-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/portfelnyy-optimizator-model-ogranicheniya-i-metody-2026.html</guid>
+    <pubDate>Tue, 08 Sep 2026 04:09:19 GMT</pubDate>
+  </item>
   <item>
     <title>Когда менять резину по закону 2026: сроки и штрафы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kogda-menyat-rezinu-po-zakonu-2026-sroki-i-shtrafy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-katalog-gipoallergennykh-tovarov-dlya-detey-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-katalog-gipoallergennykh-tovarov-dlya-detey-2026.html</guid>
     <pubDate>Mon, 07 Sep 2026 03:03:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как восстановить рейтинг в 2ГИС: пошаговая инструкция 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vosstanovit-reyting-v-2gis-poshagovaya-instruktsiya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vosstanovit-reyting-v-2gis-poshagovaya-instruktsiya-2026.html</guid>
-    <pubDate>Mon, 07 Sep 2026 03:03:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
