@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:53:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Кластеризация запросов 2026: структура и перелинковка</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/klasterizatsiya-zaprosov-2026-struktura-i-perelinkovka.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klasterizatsiya-zaprosov-2026-struktura-i-perelinkovka.html</guid>
+    <pubDate>Tue, 08 Sep 2026 14:53:51 GMT</pubDate>
+  </item>
   <item>
     <title>Справочник архитектуры сайта 2026: принцип матрёшки</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-arkhitektury-sayta-2026-printsip-matryoshki.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ukhod-za-babushkoy-dlya-edinogo-posobiya-novye-pravila-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ukhod-za-babushkoy-dlya-edinogo-posobiya-novye-pravila-2026.html</guid>
     <pubDate>Tue, 08 Sep 2026 00:13:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Правило 8 МРОТ для единого пособия в 2026: разбор</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravilo-8-mrot-dlya-edinogo-posobiya-v-2026-razbor.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravilo-8-mrot-dlya-edinogo-posobiya-v-2026-razbor.html</guid>
-    <pubDate>Tue, 08 Sep 2026 00:13:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
