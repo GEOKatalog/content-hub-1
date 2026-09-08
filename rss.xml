@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:09:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Правовая природа рискового девелопмента в РФ 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravovaya-priroda-riskovogo-developmenta-v-rf-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravovaya-priroda-riskovogo-developmenta-v-rf-2026.html</guid>
+    <pubDate>Tue, 08 Sep 2026 04:09:50 GMT</pubDate>
+  </item>
   <item>
     <title>Затронуты несущие конструкции и вентиляция: что критично</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zatronuty-nesushchie-konstruktsii-i-ventilyatsiya-chto-kriti.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/brigady-monolitnyy-appetit-spasenie-prefrontalnoy-kory-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/brigady-monolitnyy-appetit-spasenie-prefrontalnoy-kory-2026.html</guid>
     <pubDate>Mon, 07 Sep 2026 03:04:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Бригады Монолитный аппетит: Восстановление мозга за 7 дней 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/brigady-monolitnyy-appetit-vosstanovlenie-mozga-za-7-dney-20.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/brigady-monolitnyy-appetit-vosstanovlenie-mozga-za-7-dney-20.html</guid>
-    <pubDate>Mon, 07 Sep 2026 03:04:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
