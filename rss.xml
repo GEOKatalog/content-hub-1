@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 00:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 00:12:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Расчет дохода для единого пособия в Самарской области 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/raschet-dokhoda-dlya-edinogo-posobiya-v-samarskoy-oblasti-20.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/raschet-dokhoda-dlya-edinogo-posobiya-v-samarskoy-oblasti-20.html</guid>
+    <pubDate>Tue, 08 Sep 2026 00:12:16 GMT</pubDate>
+  </item>
   <item>
     <title>Расчет среднедушевого дохода с защитным порогом 10% в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/raschet-srednedushevogo-dokhoda-s-zashchitnym-porogom-10-v-2.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-stomatologa-v-novosibirske-polnyy-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-stomatologa-v-novosibirske-polnyy-gid-2026.html</guid>
     <pubDate>Sun, 06 Sep 2026 21:50:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>ТОП-10 фрилансеров-экспертов 2026: рейтинг в Новосибирске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/top-10-frilanserov-ekspertov-2026-reyting-v-novosibirske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-10-frilanserov-ekspertov-2026-reyting-v-novosibirske.html</guid>
-    <pubDate>Sun, 06 Sep 2026 21:50:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
