@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:49:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:50:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда инструмента на выходные: как считаются сутки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-instrumenta-na-vykhodnye-kak-schitayutsya-sutki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-instrumenta-na-vykhodnye-kak-schitayutsya-sutki.html</guid>
+    <pubDate>Tue, 08 Sep 2026 14:50:32 GMT</pubDate>
+  </item>
   <item>
     <title>Учитываются ли выходные в аренде инструмента</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/uchityvayutsya-li-vykhodnye-v-arende-instrumenta.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-dlya-odinokikh-roditeley-v-samare-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-dlya-odinokikh-roditeley-v-samare-v-2026.html</guid>
     <pubDate>Tue, 08 Sep 2026 00:12:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Какие доходы учитываются для единого пособия в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kakie-dokhody-uchityvayutsya-dlya-edinogo-posobiya-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakie-dokhody-uchityvayutsya-dlya-edinogo-posobiya-v-2026.html</guid>
-    <pubDate>Tue, 08 Sep 2026 00:12:27 GMT</pubDate>
   </item>
   </channel>
 </rss>
