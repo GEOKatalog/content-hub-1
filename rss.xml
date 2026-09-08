@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:52:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:53:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Справочник архитектуры сайта 2026: принцип матрёшки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-arkhitektury-sayta-2026-printsip-matryoshki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-arkhitektury-sayta-2026-printsip-matryoshki.html</guid>
+    <pubDate>Tue, 08 Sep 2026 14:53:24 GMT</pubDate>
+  </item>
   <item>
     <title>Структура сайта 2026: принцип матрёшки и ROI</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/struktura-sayta-2026-printsip-matryoshki-i-roi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravilo-8-mrot-dlya-edinogo-posobiya-v-2026-razbor.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravilo-8-mrot-dlya-edinogo-posobiya-v-2026-razbor.html</guid>
     <pubDate>Tue, 08 Sep 2026 00:13:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Больничный 2026: учет как трудовой доход и подарки внукам</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/bolnichnyy-2026-uchet-kak-trudovoy-dokhod-i-podarki-vnukam.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/bolnichnyy-2026-uchet-kak-trudovoy-dokhod-i-podarki-vnukam.html</guid>
-    <pubDate>Tue, 08 Sep 2026 00:13:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
