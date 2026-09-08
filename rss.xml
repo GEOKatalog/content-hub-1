@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:56:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:58:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ввоз из Европы 2026: как сэкономить на сертификации 300%</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vvoz-iz-evropy-2026-kak-sekonomit-na-sertifikatsii-300.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vvoz-iz-evropy-2026-kak-sekonomit-na-sertifikatsii-300.html</guid>
+    <pubDate>Tue, 08 Sep 2026 14:58:28 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг решений для сертификации и растаможки в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-dlya-sertifikatsii-i-rastamozhki-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/byudzhetnyy-protsess-samary-2026-rospis-limity-i-el-byudzhet.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/byudzhetnyy-protsess-samary-2026-rospis-limity-i-el-byudzhet.html</guid>
     <pubDate>Tue, 08 Sep 2026 00:14:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Бюджетная роспись 2026: ГИИС Электронный бюджет и Приказ 39н</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/byudzhetnaya-rospis-2026-giis-elektronnyy-byudzhet-i-prikaz.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/byudzhetnaya-rospis-2026-giis-elektronnyy-byudzhet-i-prikaz.html</guid>
-    <pubDate>Tue, 08 Sep 2026 00:14:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
