@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:10:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:10:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ Р 72318-2025: чистка текстиля по новым правилам</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72318-2025-chistka-tekstilya-po-novym-pravilam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72318-2025-chistka-tekstilya-po-novym-pravilam.html</guid>
+    <pubDate>Wed, 09 Sep 2026 18:10:40 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ Р 72509-2026: новые требования к штукатурке стен</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72509-2026-novye-trebovaniya-k-shtukaturke-sten.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/utilizatsiya-avto-2026-snyatie-s-ucheta-nalogi-i-dokumenty.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/utilizatsiya-avto-2026-snyatie-s-ucheta-nalogi-i-dokumenty.html</guid>
     <pubDate>Wed, 09 Sep 2026 06:30:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Снятие авто с учета после ДТП 2026: инструкция</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/snyatie-avto-s-ucheta-posle-dtp-2026-instruktsiya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyatie-avto-s-ucheta-posle-dtp-2026-instruktsiya.html</guid>
-    <pubDate>Wed, 09 Sep 2026 06:29:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
