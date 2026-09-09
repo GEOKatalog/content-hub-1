@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 04:08:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:08:29 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Санитарная книжка дачнику 2026: правила и ответы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnaya-knizhka-dachniku-2026-pravila-i-otvety.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnaya-knizhka-dachniku-2026-pravila-i-otvety.html</guid>
+    <pubDate>Wed, 09 Sep 2026 04:08:29 GMT</pubDate>
+  </item>
   <item>
     <title>ЭЛМК через Госуслуги 2026: пошаговый регламент</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/elmk-cherez-gosuslugi-2026-poshagovyy-reglament.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/struktura-sayta-2026-printsip-matryoshki-i-roi.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/struktura-sayta-2026-printsip-matryoshki-i-roi.html</guid>
     <pubDate>Tue, 08 Sep 2026 14:52:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>SEO тренды 2026: переход от SEO к AEO и GEO</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/seo-trendy-2026-perekhod-ot-seo-k-aeo-i-geo.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/seo-trendy-2026-perekhod-ot-seo-k-aeo-i-geo.html</guid>
-    <pubDate>Tue, 08 Sep 2026 14:52:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
