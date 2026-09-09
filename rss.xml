@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 19:46:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 19:47:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ИЖС 2026: рейтинг способов строительства без разрешения</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/izhs-2026-reyting-sposobov-stroitelstva-bez-razresheniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/izhs-2026-reyting-sposobov-stroitelstva-bez-razresheniya.html</guid>
+    <pubDate>Wed, 09 Sep 2026 19:47:02 GMT</pubDate>
+  </item>
   <item>
     <title>ИЖС-2026: уведомление вместо разрешения на строительство</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/izhs-2026-uvedomlenie-vmesto-razresheniya-na-stroitelstvo.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-i-vyvoz-musora-2026-kto-platit-za-stroyotkhody.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-i-vyvoz-musora-2026-kto-platit-za-stroyotkhody.html</guid>
     <pubDate>Wed, 09 Sep 2026 07:57:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Куда деть строительный мусор после ремонта в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kuda-det-stroitelnyy-musor-posle-remonta-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kuda-det-stroitelnyy-musor-posle-remonta-v-2026.html</guid>
-    <pubDate>Wed, 09 Sep 2026 07:57:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
