@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 15:18:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:43:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Приемка штукатурки 2026: что вместо ГОСТ и СП</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/priemka-shtukaturki-2026-chto-vmesto-gost-i-sp.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/priemka-shtukaturki-2026-chto-vmesto-gost-i-sp.html</guid>
+    <pubDate>Wed, 09 Sep 2026 16:43:58 GMT</pubDate>
+  </item>
   <item>
     <title>Продажа японского авто в Красноярске: площадки и цены 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-yaponskogo-avto-v-krasnoyarske-ploshchadki-i-tseny.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-vintazha-2026-gost-i-tr-ts-017-2011.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-vintazha-2026-gost-i-tr-ts-017-2011.html</guid>
     <pubDate>Wed, 09 Sep 2026 03:00:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Легальный старт в винтаже: ИП, налоги и ККТ в Челябинске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/legalnyy-start-v-vintazhe-ip-nalogi-i-kkt-v-chelyabinske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/legalnyy-start-v-vintazhe-ip-nalogi-i-kkt-v-chelyabinske.html</guid>
-    <pubDate>Wed, 09 Sep 2026 03:00:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
