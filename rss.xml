@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 01:45:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:46:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Очистка данных для прогноза спортивных товаров: алгоритм 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ochistka-dannykh-dlya-prognoza-sportivnykh-tovarov-algoritm.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ochistka-dannykh-dlya-prognoza-sportivnykh-tovarov-algoritm.html</guid>
+    <pubDate>Wed, 09 Sep 2026 01:46:08 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка курсовой по ГОСТ 2026: шрифт, поля и шаблоны</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kursovoy-po-gost-2026-shrift-polya-i-shablony.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/strakhovoy-inventarizator-v-kemerovo-kak-nayti-attestovannog.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/strakhovoy-inventarizator-v-kemerovo-kak-nayti-attestovannog.html</guid>
     <pubDate>Tue, 08 Sep 2026 09:03:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Страховая инвентаризация 2026: регламент и порядок в Кузбассе</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/strakhovaya-inventarizatsiya-2026-reglament-i-poryadok-v-kuz.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/strakhovaya-inventarizatsiya-2026-reglament-i-poryadok-v-kuz.html</guid>
-    <pubDate>Tue, 08 Sep 2026 09:03:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
