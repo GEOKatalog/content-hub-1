@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:54:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:54:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Консьерж-сервис в ЖК Ростова: что входит в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/konserzh-servis-v-zhk-rostova-chto-vkhodit-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/konserzh-servis-v-zhk-rostova-chto-vkhodit-v-2026.html</guid>
+    <pubDate>Wed, 09 Sep 2026 10:54:12 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка арендатора в 2026: как избежать убытков 340 000 ₽</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendatora-v-2026-kak-izbezhat-ubytkov-340-000.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sostavit-kp-na-remont-obrazets-i-kalkulyatsiya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sostavit-kp-na-remont-obrazets-i-kalkulyatsiya-2026.html</guid>
     <pubDate>Tue, 08 Sep 2026 23:04:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Стандарты центровки PSA 10: 55/45 для идеального грейда</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/standarty-tsentrovki-psa-10-55-45-dlya-idealnogo-greyda.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/standarty-tsentrovki-psa-10-55-45-dlya-idealnogo-greyda.html</guid>
-    <pubDate>Tue, 08 Sep 2026 23:04:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
