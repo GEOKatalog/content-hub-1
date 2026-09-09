@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 01:46:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:46:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Экспертное руководство по фотофиксации и оценке антиквариата 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ekspertnoe-rukovodstvo-po-fotofiksatsii-i-otsenke-antikvaria.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ekspertnoe-rukovodstvo-po-fotofiksatsii-i-otsenke-antikvaria.html</guid>
+    <pubDate>Wed, 09 Sep 2026 01:46:43 GMT</pubDate>
+  </item>
   <item>
     <title>Экспертная оценка антиквариата 2026: от фото до цены</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ekspertnaya-otsenka-antikvariata-2026-ot-foto-do-tseny.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/antikrizisnoe-upravlenie-2026-kak-spasti-biznes-v-kuzbasse.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/antikrizisnoe-upravlenie-2026-kak-spasti-biznes-v-kuzbasse.html</guid>
     <pubDate>Tue, 08 Sep 2026 09:03:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Страховая инвентаризация 2026: как сэкономить и защитить бизнес</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/strakhovaya-inventarizatsiya-2026-kak-sekonomit-i-zashchitit.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/strakhovaya-inventarizatsiya-2026-kak-sekonomit-i-zashchitit.html</guid>
-    <pubDate>Tue, 08 Sep 2026 09:03:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
