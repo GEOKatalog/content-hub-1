@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 01:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:46:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Экспертная оценка антиквариата 2026: от фото до цены</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ekspertnaya-otsenka-antikvariata-2026-ot-foto-do-tseny.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ekspertnaya-otsenka-antikvariata-2026-ot-foto-do-tseny.html</guid>
+    <pubDate>Wed, 09 Sep 2026 01:46:32 GMT</pubDate>
+  </item>
   <item>
     <title>Очистка данных для прогноза спортивных товаров: алгоритм 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ochistka-dannykh-dlya-prognoza-sportivnykh-tovarov-algoritm.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/strakhovaya-inventarizatsiya-2026-kak-sekonomit-i-zashchitit.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/strakhovaya-inventarizatsiya-2026-kak-sekonomit-i-zashchitit.html</guid>
     <pubDate>Tue, 08 Sep 2026 09:03:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Страховой инвентаризатор в Кемерово: как найти аттестованного специалиста</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/strakhovoy-inventarizator-v-kemerovo-kak-nayti-attestovannog.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/strakhovoy-inventarizator-v-kemerovo-kak-nayti-attestovannog.html</guid>
-    <pubDate>Tue, 08 Sep 2026 09:03:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
