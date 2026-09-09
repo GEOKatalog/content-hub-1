@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 12:38:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:07:10 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Норматив замены масла вариатора Nissan 2026: справочник</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativ-zameny-masla-variatora-nissan-2026-spravochnik.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativ-zameny-masla-variatora-nissan-2026-spravochnik.html</guid>
+    <pubDate>Wed, 09 Sep 2026 15:07:10 GMT</pubDate>
+  </item>
   <item>
     <title>Чек-лист проверки авто перед дальней дорогой 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chek-list-proverki-avto-pered-dalney-dorogoy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-rosta-rebenka-po-voz-i-prikazam-minzdrava-rf-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-rosta-rebenka-po-voz-i-prikazam-minzdrava-rf-2026.html</guid>
     <pubDate>Wed, 09 Sep 2026 01:45:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка центильных таблиц ВОЗ по нормативам Минздрава РФ 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-tsentilnykh-tablits-voz-po-normativam-minzdrava-rf.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-tsentilnykh-tablits-voz-po-normativam-minzdrava-rf.html</guid>
-    <pubDate>Wed, 09 Sep 2026 01:45:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
