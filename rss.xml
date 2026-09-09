@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 09:30:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 09:30:29 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Приостановка регистрации недвижимости в Ростове: инструкция 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/priostanovka-registratsii-nedvizhimosti-v-rostove-instruktsi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/priostanovka-registratsii-nedvizhimosti-v-rostove-instruktsi.html</guid>
+    <pubDate>Wed, 09 Sep 2026 09:30:29 GMT</pubDate>
+  </item>
   <item>
     <title>Расселение хрущёвок в Ростове: алгоритм 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rasselenie-khrushchyovok-v-rostove-algoritm-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-uchastka-v-zone-reglamenta-ekspertnyy-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-uchastka-v-zone-reglamenta-ekspertnyy-gid-2026.html</guid>
     <pubDate>Tue, 08 Sep 2026 21:49:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Садовый дом 2026: нормы, уведомления, регистрация</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sadovyy-dom-2026-normy-uvedomleniya-registratsiya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sadovyy-dom-2026-normy-uvedomleniya-registratsiya.html</guid>
-    <pubDate>Tue, 08 Sep 2026 21:48:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
