@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:08:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:08:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Онлайн-касса для кофейни 2026: выбор, маркировка, доставка</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-kassa-dlya-kofeyni-2026-vybor-markirovka-dostavka.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-kassa-dlya-kofeyni-2026-vybor-markirovka-dostavka.html</guid>
+    <pubDate>Wed, 09 Sep 2026 18:08:46 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН для мини-пекарни 2026: чек-лист для розничной продажи</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-mini-pekarni-2026-chek-list-dlya-roznichnoy-prod.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-elmk-2026-gosuslugi-medosmotr-gigtest.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-elmk-2026-gosuslugi-medosmotr-gigtest.html</guid>
     <pubDate>Wed, 09 Sep 2026 04:08:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Санитарная книжка дачнику 2026: правила и ответы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnaya-knizhka-dachniku-2026-pravila-i-otvety.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnaya-knizhka-dachniku-2026-pravila-i-otvety.html</guid>
-    <pubDate>Wed, 09 Sep 2026 04:08:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
