@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 01:46:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:46:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как вводить прикорм: пошаговый протокол с ½ ч.л. и дневником</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vvodit-prikorm-poshagovyy-protokol-s-ch-l-i-dnevnikom.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vvodit-prikorm-poshagovyy-protokol-s-ch-l-i-dnevnikom.html</guid>
+    <pubDate>Wed, 09 Sep 2026 01:46:52 GMT</pubDate>
+  </item>
   <item>
     <title>Экспертное руководство по фотофиксации и оценке антиквариата 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ekspertnoe-rukovodstvo-po-fotofiksatsii-i-otsenke-antikvaria.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polozhenie-o-klubnom-arkhivariuse-2026-normativy-i-reglament.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/polozhenie-o-klubnom-arkhivariuse-2026-normativy-i-reglament.html</guid>
     <pubDate>Tue, 08 Sep 2026 09:04:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Антикризисное управление 2026: как спасти бизнес в Кузбассе</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/antikrizisnoe-upravlenie-2026-kak-spasti-biznes-v-kuzbasse.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/antikrizisnoe-upravlenie-2026-kak-spasti-biznes-v-kuzbasse.html</guid>
-    <pubDate>Tue, 08 Sep 2026 09:03:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
