@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:43:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:44:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ Р 72509-2026: классы отделки и критерии качества</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72509-2026-klassy-otdelki-i-kriterii-kachestva.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72509-2026-klassy-otdelki-i-kriterii-kachestva.html</guid>
+    <pubDate>Wed, 09 Sep 2026 16:44:20 GMT</pubDate>
+  </item>
   <item>
     <title>Приемка штукатурки 2026: что вместо ГОСТ и СП</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/priemka-shtukaturki-2026-chto-vmesto-gost-i-sp.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trudovye-prava-studentov-2026-normy-tk-rf-dlya-raboty-i-uche.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/trudovye-prava-studentov-2026-normy-tk-rf-dlya-raboty-i-uche.html</guid>
     <pubDate>Wed, 09 Sep 2026 03:00:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сертификация винтажа 2026: ГОСТ и ТР ТС 017/2011</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-vintazha-2026-gost-i-tr-ts-017-2011.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-vintazha-2026-gost-i-tr-ts-017-2011.html</guid>
-    <pubDate>Wed, 09 Sep 2026 03:00:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
