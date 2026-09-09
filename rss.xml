@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 00:32:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:32:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Рейтинг решений по центильным таблицам ВОЗ 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-po-tsentilnym-tablitsam-voz-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-po-tsentilnym-tablitsam-voz-2026.html</guid>
+    <pubDate>Wed, 09 Sep 2026 00:32:45 GMT</pubDate>
+  </item>
   <item>
     <title>Винтаж на Etsy 2026: как названия дают ROI 300%</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vintazh-na-etsy-2026-kak-nazvaniya-dayut-roi-300.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sdelka-bez-soglasiya-banka-riski-i-algoritm-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sdelka-bez-soglasiya-banka-riski-i-algoritm-2026.html</guid>
     <pubDate>Tue, 08 Sep 2026 06:43:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продажа квартиры с пожилым: документы и опека в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-kvartiry-s-pozhilym-dokumenty-i-opeka-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-kvartiry-s-pozhilym-dokumenty-i-opeka-v-2026.html</guid>
-    <pubDate>Tue, 08 Sep 2026 06:43:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
