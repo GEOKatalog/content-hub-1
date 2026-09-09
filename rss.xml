@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 00:33:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:45:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Прогноз сезонных продаж: страховой запас для хобби и спорта</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prognoz-sezonnykh-prodazh-strakhovoy-zapas-dlya-khobbi-i-spo.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prognoz-sezonnykh-prodazh-strakhovoy-zapas-dlya-khobbi-i-spo.html</guid>
+    <pubDate>Wed, 09 Sep 2026 01:45:20 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг сервисов для винтажных листингов на Etsy 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-servisov-dlya-vintazhnykh-listingov-na-etsy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vvoz-oldtaymera-v-rf-poshagovyy-reglament-i-ekspertizy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vvoz-oldtaymera-v-rf-poshagovyy-reglament-i-ekspertizy.html</guid>
     <pubDate>Tue, 08 Sep 2026 09:02:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ввоз олдтаймера в РФ: пошаговый регламент и экономия 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vvoz-oldtaymera-v-rf-poshagovyy-reglament-i-ekonomiya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vvoz-oldtaymera-v-rf-poshagovyy-reglament-i-ekonomiya-2026.html</guid>
-    <pubDate>Tue, 08 Sep 2026 09:01:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
