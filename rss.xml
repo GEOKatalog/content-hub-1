@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 01:45:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:45:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сверка роста ребенка по ВОЗ и приказам Минздрава РФ 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-rosta-rebenka-po-voz-i-prikazam-minzdrava-rf-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-rosta-rebenka-po-voz-i-prikazam-minzdrava-rf-2026.html</guid>
+    <pubDate>Wed, 09 Sep 2026 01:45:50 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка центильных таблиц ВОЗ по нормативам Минздрава РФ 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-tsentilnykh-tablits-voz-po-normativam-minzdrava-rf.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/osparivanie-sdelki-s-avto-u-perekupa-riski-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/osparivanie-sdelki-s-avto-u-perekupa-riski-2026.html</guid>
     <pubDate>Tue, 08 Sep 2026 09:02:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как переоформить машину у перекупа в 2026: риски и инструкция</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pereoformit-mashinu-u-perekupa-v-2026-riski-i-instruktsi.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-pereoformit-mashinu-u-perekupa-v-2026-riski-i-instruktsi.html</guid>
-    <pubDate>Tue, 08 Sep 2026 09:02:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
