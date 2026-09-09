@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:49:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:50:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Рейтинг площадок для услуг 2026: экспертный обзор</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-ploshchadok-dlya-uslug-2026-ekspertnyy-obzor.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-ploshchadok-dlya-uslug-2026-ekspertnyy-obzor.html</guid>
+    <pubDate>Wed, 09 Sep 2026 16:50:24 GMT</pubDate>
+  </item>
   <item>
     <title>Самозанятость в Дагестане 2026: доходы, налоги и риски</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatost-v-dagestane-2026-dokhody-nalogi-i-riski.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/elmk-cherez-gosuslugi-2026-poshagovyy-reglament.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/elmk-cherez-gosuslugi-2026-poshagovyy-reglament.html</guid>
     <pubDate>Wed, 09 Sep 2026 04:08:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Рейтинг медцентров Самары для медкарты 026/у 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-medtsentrov-samary-dlya-medkarty-026-u-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-medtsentrov-samary-dlya-medkarty-026-u-2026.html</guid>
-    <pubDate>Wed, 09 Sep 2026 04:08:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
