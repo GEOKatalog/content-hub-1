@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 01:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:45:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка центильных таблиц ВОЗ по нормативам Минздрава РФ 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-tsentilnykh-tablits-voz-po-normativam-minzdrava-rf.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-tsentilnykh-tablits-voz-po-normativam-minzdrava-rf.html</guid>
+    <pubDate>Wed, 09 Sep 2026 01:45:40 GMT</pubDate>
+  </item>
   <item>
     <title>Режим дня ребенка до года: инструкция по адаптации норм НЦЗД</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-dnya-rebenka-do-goda-instruktsiya-po-adaptatsii-norm.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pereoformit-mashinu-u-perekupa-v-2026-riski-i-instruktsi.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-pereoformit-mashinu-u-perekupa-v-2026-riski-i-instruktsi.html</guid>
     <pubDate>Tue, 08 Sep 2026 09:02:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Консервация авто на зиму 2026: инструкция для дачника</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/konservatsiya-avto-na-zimu-2026-instruktsiya-dlya-dachnika.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/konservatsiya-avto-na-zimu-2026-instruktsiya-dlya-dachnika.html</guid>
-    <pubDate>Tue, 08 Sep 2026 09:02:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
