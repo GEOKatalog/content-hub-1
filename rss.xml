@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 09:33:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 09:33:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Чек-лист проверки квартиры: 7 пунктов для покупателя</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/chek-list-proverki-kvartiry-7-punktov-dlya-pokupatelya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chek-list-proverki-kvartiry-7-punktov-dlya-pokupatelya.html</guid>
+    <pubDate>Wed, 09 Sep 2026 09:33:36 GMT</pubDate>
+  </item>
   <item>
     <title>Справочник критериев элитной квартиры в Ростове 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-kriteriev-elitnoy-kvartiry-v-rostove-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pereezd-pod-klyuch-v-samare-2026-kak-vybrat-kompaniyu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pereezd-pod-klyuch-v-samare-2026-kak-vybrat-kompaniyu.html</guid>
     <pubDate>Tue, 08 Sep 2026 21:50:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ на перевозку мебели 2026: требования к упаковке и фиксации</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-na-perevozku-mebeli-2026-trebovaniya-k-upakovke-i-fiksa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-na-perevozku-mebeli-2026-trebovaniya-k-upakovke-i-fiksa.html</guid>
-    <pubDate>Tue, 08 Sep 2026 21:50:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
