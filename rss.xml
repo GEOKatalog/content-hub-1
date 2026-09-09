@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:59:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:59:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как проверить статус комнаты: приватизирована или муниципальна</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-status-komnaty-privatizirovana-ili-munitsipalna.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-status-komnaty-privatizirovana-ili-munitsipalna.html</guid>
+    <pubDate>Wed, 09 Sep 2026 07:59:57 GMT</pubDate>
+  </item>
   <item>
     <title>Сдаём комнату в коммуналке: нужно ли согласие соседей в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sdayom-komnatu-v-kommunalke-nuzhno-li-soglasie-sosedey-v-202.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-rosta-i-vesa-rebenka-pertsentili-voz-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-rosta-i-vesa-rebenka-pertsentili-voz-2026.html</guid>
     <pubDate>Tue, 08 Sep 2026 21:47:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Независимая экспертиза ДТП в Самаре: цены, шаги, суды</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nezavisimaya-ekspertiza-dtp-v-samare-tseny-shagi-sudy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nezavisimaya-ekspertiza-dtp-v-samare-tseny-shagi-sudy.html</guid>
-    <pubDate>Tue, 08 Sep 2026 21:47:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
