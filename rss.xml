@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 04:08:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:08:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ЭЛМК для сезона 2026: кому нужно и как совместить</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/elmk-dlya-sezona-2026-komu-nuzhno-i-kak-sovmestit.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/elmk-dlya-sezona-2026-komu-nuzhno-i-kak-sovmestit.html</guid>
+    <pubDate>Wed, 09 Sep 2026 04:08:47 GMT</pubDate>
+  </item>
   <item>
     <title>Алгоритм ЭЛМК 2026: Госуслуги, медосмотр, Гигтест</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-elmk-2026-gosuslugi-medosmotr-gigtest.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klasterizatsiya-zaprosov-2026-struktura-i-perelinkovka.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/klasterizatsiya-zaprosov-2026-struktura-i-perelinkovka.html</guid>
     <pubDate>Tue, 08 Sep 2026 14:53:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Справочник архитектуры сайта 2026: принцип матрёшки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-arkhitektury-sayta-2026-printsip-matryoshki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-arkhitektury-sayta-2026-printsip-matryoshki.html</guid>
-    <pubDate>Tue, 08 Sep 2026 14:53:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
