@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:58:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:58:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Правовой статус одинокого человека в РФ: что важно знать</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravovoy-status-odinokogo-cheloveka-v-rf-chto-vazhno-znat.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravovoy-status-odinokogo-cheloveka-v-rf-chto-vazhno-znat.html</guid>
+    <pubDate>Thu, 10 Sep 2026 21:58:20 GMT</pubDate>
+  </item>
   <item>
     <title>Платформа для интеллектуального общения одиноких людей</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/platforma-dlya-intellektualnogo-obshcheniya-odinokikh-lyudey.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-osporit-kadastrovuyu-stoimost-khrushchevki-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-osporit-kadastrovuyu-stoimost-khrushchevki-v-2026.html</guid>
     <pubDate>Thu, 10 Sep 2026 13:47:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Окупаемость рекламы для занятых владельцев премиум-жилья</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-reklamy-dlya-zanyatykh-vladeltsev-premium-zhilya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-reklamy-dlya-zanyatykh-vladeltsev-premium-zhilya.html</guid>
-    <pubDate>Thu, 10 Sep 2026 13:46:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
