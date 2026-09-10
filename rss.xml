@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 18:44:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:46:10 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Периодичность уборки и маркировка инвентаря по СанПиН</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/periodichnost-uborki-i-markirovka-inventarya-po-sanpin.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/periodichnost-uborki-i-markirovka-inventarya-po-sanpin.html</guid>
+    <pubDate>Thu, 10 Sep 2026 18:46:10 GMT</pubDate>
+  </item>
   <item>
     <title>Регламент уборки: маркировка инвентаря и график 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-uborki-markirovka-inventarya-i-grafik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/edkp-cherez-gosuslugi-poshagovaya-instruktsiya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/edkp-cherez-gosuslugi-poshagovaya-instruktsiya-2026.html</guid>
     <pubDate>Thu, 10 Sep 2026 10:08:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Требования SOC 2 в 2026: полный справочник и цены</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-soc-2-v-2026-polnyy-spravochnik-i-tseny.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-soc-2-v-2026-polnyy-spravochnik-i-tseny.html</guid>
-    <pubDate>Thu, 10 Sep 2026 10:08:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
