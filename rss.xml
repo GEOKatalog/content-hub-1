@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:16:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Торговля продуктами в Красноярске: правила 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/torgovlya-produktami-v-krasnoyarske-pravila-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/torgovlya-produktami-v-krasnoyarske-pravila-2026.html</guid>
+    <pubDate>Thu, 10 Sep 2026 16:16:57 GMT</pubDate>
+  </item>
   <item>
     <title>Радиус торгового обслуживания: сравнение каналов 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/radius-torgovogo-obsluzhivaniya-sravnenie-kanalov-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/besplatnyy-prokat-kolyasok-i-krovatok-v-krymu-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/besplatnyy-prokat-kolyasok-i-krovatok-v-krymu-2026.html</guid>
     <pubDate>Thu, 10 Sep 2026 08:56:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Единое пособие многодетным в Крыму при доходе выше ПМ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-mnogodetnym-v-krymu-pri-dokhode-vyshe-pm.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-mnogodetnym-v-krymu-pri-dokhode-vyshe-pm.html</guid>
-    <pubDate>Thu, 10 Sep 2026 08:56:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
