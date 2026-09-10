@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:48:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:49:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Провоз личных вещей через границу 2026: лимиты</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/provoz-lichnykh-veshchey-cherez-granitsu-2026-limity.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/provoz-lichnykh-veshchey-cherez-granitsu-2026-limity.html</guid>
+    <pubDate>Thu, 10 Sep 2026 14:49:57 GMT</pubDate>
+  </item>
   <item>
     <title>Поиск попутных грузов для авто: сервисы 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/poisk-poputnykh-gruzov-dlya-avto-servisy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/planirovka-i-zonirovanie-uchastka-v-krymu-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/planirovka-i-zonirovanie-uchastka-v-krymu-2026.html</guid>
     <pubDate>Thu, 10 Sep 2026 07:50:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Калькулятор мощности котла: инструкция и подбор 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kalkulyator-moshchnosti-kotla-instruktsiya-i-podbor-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kalkulyator-moshchnosti-kotla-instruktsiya-i-podbor-2026.html</guid>
-    <pubDate>Thu, 10 Sep 2026 07:50:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
