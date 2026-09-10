@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 03:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 03:13:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Методы оценки инвестиционных проектов: NPV, IRR, DCF</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/metody-otsenki-investitsionnykh-proektov-npv-irr-dcf.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/metody-otsenki-investitsionnykh-proektov-npv-irr-dcf.html</guid>
+    <pubDate>Thu, 10 Sep 2026 03:13:43 GMT</pubDate>
+  </item>
   <item>
     <title>Методы оценки инвестпроектов: NPV, IRR, DCF в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/metody-otsenki-investproektov-npv-irr-dcf-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-unasledovannuyu-komnatu-v-kommunalke-v-2026-instr.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-unasledovannuyu-komnatu-v-kommunalke-v-2026-instr.html</guid>
     <pubDate>Wed, 09 Sep 2026 07:59:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как купить комнату в коммуналке в Ростове в 2026: полный гид</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-kupit-komnatu-v-kommunalke-v-rostove-v-2026-polnyy-gid.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-kupit-komnatu-v-kommunalke-v-rostove-v-2026-polnyy-gid.html</guid>
-    <pubDate>Wed, 09 Sep 2026 07:59:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
