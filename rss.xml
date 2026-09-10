@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 23:56:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:56:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сверка расписания занятий с СанПиН: справочник 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-raspisaniya-zanyatiy-s-sanpin-spravochnik-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-raspisaniya-zanyatiy-s-sanpin-spravochnik-2026.html</guid>
+    <pubDate>Thu, 10 Sep 2026 23:56:47 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН занятия 5-6 лет: нормы 2026 для Саратова</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-zanyatiya-5-6-let-normy-2026-dlya-saratova.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/radius-torgovogo-obsluzhivaniya-sravnenie-kanalov-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/radius-torgovogo-obsluzhivaniya-sravnenie-kanalov-2026.html</guid>
     <pubDate>Thu, 10 Sep 2026 16:15:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ценностное предложение Красноярск: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/tsennostnoe-predlozhenie-krasnoyarsk-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsennostnoe-predlozhenie-krasnoyarsk-gid-2026.html</guid>
-    <pubDate>Thu, 10 Sep 2026 16:14:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
