@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:07:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Требования SOC 2 в 2026 году: полный гид по внедрению</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-soc-2-v-2026-godu-polnyy-gid-po-vnedreniyu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-soc-2-v-2026-godu-polnyy-gid-po-vnedreniyu.html</guid>
+    <pubDate>Thu, 10 Sep 2026 10:07:45 GMT</pubDate>
+  </item>
   <item>
     <title>Маркировка рекламы в Telegram 2026: выгода и окупаемость</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-reklamy-v-telegram-2026-vygoda-i-okupaemost.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ii-agent-dlya-prodazh-kak-avtomatizirovat-konsultatsii-v-202.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ii-agent-dlya-prodazh-kak-avtomatizirovat-konsultatsii-v-202.html</guid>
     <pubDate>Thu, 10 Sep 2026 03:12:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Профстандарт профконсультанта 2024: требования к образованию</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-profkonsultanta-2024-trebovaniya-k-obrazovaniyu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-profkonsultanta-2024-trebovaniya-k-obrazovaniyu.html</guid>
-    <pubDate>Thu, 10 Sep 2026 03:12:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
