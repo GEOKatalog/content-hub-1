@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 05:42:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 05:42:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Доступ к данным ЕГРН в 2026: кто вправе узнать владельца</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dostup-k-dannym-egrn-v-2026-kto-vprave-uznat-vladeltsa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dostup-k-dannym-egrn-v-2026-kto-vprave-uznat-vladeltsa.html</guid>
+    <pubDate>Thu, 10 Sep 2026 05:42:26 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг агентств релокации экспатов 2026: полный цикл</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-agentstv-relokatsii-ekspatov-2026-polnyy-tsikl.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zhizn-v-mashine-po-zakonu-rf-polnyy-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zhizn-v-mashine-po-zakonu-rf-polnyy-spravochnik-2026.html</guid>
     <pubDate>Wed, 09 Sep 2026 12:35:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Разработка ППК в 2026: пошаговая инструкция и цены</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-ppk-v-2026-poshagovaya-instruktsiya-i-tseny.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-ppk-v-2026-poshagovaya-instruktsiya-i-tseny.html</guid>
-    <pubDate>Wed, 09 Sep 2026 12:34:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
