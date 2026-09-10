@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:57:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:57:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация в Крыму: пошаговый алгоритм для арендатора</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-krymu-poshagovyy-algoritm-dlya-arendatora.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-krymu-poshagovyy-algoritm-dlya-arendatora.html</guid>
+    <pubDate>Thu, 10 Sep 2026 08:57:38 GMT</pubDate>
+  </item>
   <item>
     <title>Временная регистрация в Крыму при аренде более 90 дней</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-v-krymu-pri-arende-bolee-90-dney.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72509-2026-novye-trebovaniya-k-shtukaturke-sten.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72509-2026-novye-trebovaniya-k-shtukaturke-sten.html</guid>
     <pubDate>Wed, 09 Sep 2026 18:10:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Рейтинг систем контроля качества отделки и клининга 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-sistem-kontrolya-kachestva-otdelki-i-klininga-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-sistem-kontrolya-kachestva-otdelki-i-klininga-2026.html</guid>
-    <pubDate>Wed, 09 Sep 2026 18:09:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
