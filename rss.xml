@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:21:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Грузоперевозки до 1 сентября 2026: габариты и маркировка</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gruzoperevozki-do-1-sentyabrya-2026-gabarity-i-markirovka.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gruzoperevozki-do-1-sentyabrya-2026-gabarity-i-markirovka.html</guid>
+    <pubDate>Thu, 10 Sep 2026 16:21:55 GMT</pubDate>
+  </item>
   <item>
     <title>Контрактные запчасти для японских авто в Красноярске</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kontraktnye-zapchasti-dlya-yaponskikh-avto-v-krasnoyarske.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-v-krymu-2026-sroki-i-pravila.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-v-krymu-2026-sroki-i-pravila.html</guid>
     <pubDate>Thu, 10 Sep 2026 08:58:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регистрация в Крыму: пошаговый алгоритм для арендатора</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-krymu-poshagovyy-algoritm-dlya-arendatora.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-krymu-poshagovyy-algoritm-dlya-arendatora.html</guid>
-    <pubDate>Thu, 10 Sep 2026 08:57:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
