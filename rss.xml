@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:28:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:30:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Управляющая компания для сдачи премиум-квартиры</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/upravlyayushchaya-kompaniya-dlya-sdachi-premium-kvartiry.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/upravlyayushchaya-kompaniya-dlya-sdachi-premium-kvartiry.html</guid>
+    <pubDate>Thu, 10 Sep 2026 13:30:03 GMT</pubDate>
+  </item>
   <item>
     <title>Налог с аренды квартиры в 2026: гид для Ростова</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-v-2026-gid-dlya-rostova.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-dostupa-k-egrn-spravochnik-2026-goda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reestr-dostupa-k-egrn-spravochnik-2026-goda.html</guid>
     <pubDate>Thu, 10 Sep 2026 05:42:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Доступ к данным ЕГРН в 2026: кто вправе узнать владельца</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dostup-k-dannym-egrn-v-2026-kto-vprave-uznat-vladeltsa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dostup-k-dannym-egrn-v-2026-kto-vprave-uznat-vladeltsa.html</guid>
-    <pubDate>Thu, 10 Sep 2026 05:42:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
