@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 18:57:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:58:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Гигиенический журнал 2026: двойная подпись</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gigienicheskiy-zhurnal-2026-dvoynaya-podpis.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gigienicheskiy-zhurnal-2026-dvoynaya-podpis.html</guid>
+    <pubDate>Thu, 10 Sep 2026 18:58:16 GMT</pubDate>
+  </item>
   <item>
     <title>Гигиенические журналы для пекарни и кофейни 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gigienicheskie-zhurnaly-dlya-pekarni-i-kofeyni-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/edinaya-baza-klientov-v-crm-istoriya-vizitov-i-kontakty.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/edinaya-baza-klientov-v-crm-istoriya-vizitov-i-kontakty.html</guid>
     <pubDate>Thu, 10 Sep 2026 11:21:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Учет клиентов фотостудии: пошаговая инструкция 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/uchet-klientov-fotostudii-poshagovaya-instruktsiya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uchet-klientov-fotostudii-poshagovaya-instruktsiya-2026.html</guid>
-    <pubDate>Thu, 10 Sep 2026 11:20:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
