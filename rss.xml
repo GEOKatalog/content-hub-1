@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:56:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:57:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Септик в СНТ 2026: нормы расстояний и штрафы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/septik-v-snt-2026-normy-rasstoyaniy-i-shtrafy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/septik-v-snt-2026-normy-rasstoyaniy-i-shtrafy.html</guid>
+    <pubDate>Thu, 10 Sep 2026 08:57:13 GMT</pubDate>
+  </item>
   <item>
     <title>Бесплатный прокат колясок и кроваток в Крыму 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/besplatnyy-prokat-kolyasok-i-krovatok-v-krymu-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chek-samozanyatogo-v-2026-instruktsiya-dlya-masterov-i-remon.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/chek-samozanyatogo-v-2026-instruktsiya-dlya-masterov-i-remon.html</guid>
     <pubDate>Wed, 09 Sep 2026 18:09:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Чек самозанятого в 2026: сроки, штрафы и алгоритм для мастеров</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/chek-samozanyatogo-v-2026-sroki-shtrafy-i-algoritm-dlya-mast.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chek-samozanyatogo-v-2026-sroki-shtrafy-i-algoritm-dlya-mast.html</guid>
-    <pubDate>Wed, 09 Sep 2026 18:08:56 GMT</pubDate>
   </item>
   </channel>
 </rss>
