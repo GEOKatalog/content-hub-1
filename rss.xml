@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:21:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:22:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Штраф по ст. 6.3 КоАП РФ: клининг после ремонта</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-po-st-6-3-koap-rf-klining-posle-remonta.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-po-st-6-3-koap-rf-klining-posle-remonta.html</guid>
+    <pubDate>Thu, 10 Sep 2026 12:22:26 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН и ГОСТ для уборки после ремонта: рейтинг 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-i-gost-dlya-uborki-posle-remonta-reyting-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/granty-dlya-startapov-2026-reyting-programm.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/granty-dlya-startapov-2026-reyting-programm.html</guid>
     <pubDate>Thu, 10 Sep 2026 04:32:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как получить грант на IT-стартап в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-poluchit-grant-na-it-startap-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-poluchit-grant-na-it-startap-v-2026-godu.html</guid>
-    <pubDate>Thu, 10 Sep 2026 04:31:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
