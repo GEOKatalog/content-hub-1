@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:57:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:57:27 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Временная регистрация в Крыму при аренде более 90 дней</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-v-krymu-pri-arende-bolee-90-dney.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-v-krymu-pri-arende-bolee-90-dney.html</guid>
+    <pubDate>Thu, 10 Sep 2026 08:57:27 GMT</pubDate>
+  </item>
   <item>
     <title>Септик в СНТ 2026: нормы расстояний и штрафы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/septik-v-snt-2026-normy-rasstoyaniy-i-shtrafy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-sistem-kontrolya-kachestva-otdelki-i-klininga-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-sistem-kontrolya-kachestva-otdelki-i-klininga-2026.html</guid>
     <pubDate>Wed, 09 Sep 2026 18:09:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Чек самозанятого в 2026: инструкция для мастеров и ремонтников</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/chek-samozanyatogo-v-2026-instruktsiya-dlya-masterov-i-remon.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chek-samozanyatogo-v-2026-instruktsiya-dlya-masterov-i-remon.html</guid>
-    <pubDate>Wed, 09 Sep 2026 18:09:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
