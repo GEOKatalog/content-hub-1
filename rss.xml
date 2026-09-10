@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:07:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:08:04 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Требования SOC 2 в 2026: полный справочник и цены</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-soc-2-v-2026-polnyy-spravochnik-i-tseny.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-soc-2-v-2026-polnyy-spravochnik-i-tseny.html</guid>
+    <pubDate>Thu, 10 Sep 2026 10:08:04 GMT</pubDate>
+  </item>
   <item>
     <title>Требования SOC 2 в 2026 году: полный гид по внедрению</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-soc-2-v-2026-godu-polnyy-gid-po-vnedreniyu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gosakkreditatsiya-it-kompanii-2026-reglament-i-lgoty.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gosakkreditatsiya-it-kompanii-2026-reglament-i-lgoty.html</guid>
     <pubDate>Thu, 10 Sep 2026 03:12:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>ИИ-агент для продаж: как автоматизировать консультации в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ii-agent-dlya-prodazh-kak-avtomatizirovat-konsultatsii-v-202.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ii-agent-dlya-prodazh-kak-avtomatizirovat-konsultatsii-v-202.html</guid>
-    <pubDate>Thu, 10 Sep 2026 03:12:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
