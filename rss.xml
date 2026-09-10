@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 19:05:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 19:05:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Каталог журналов общепита 2026: бланки, цены, поставщики</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-zhurnalov-obshchepita-2026-blanki-tseny-postavshchik.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/katalog-zhurnalov-obshchepita-2026-blanki-tseny-postavshchik.html</guid>
+    <pubDate>Thu, 10 Sep 2026 19:05:57 GMT</pubDate>
+  </item>
   <item>
     <title>Журналы общепита Махачкалы: СанПиН 2026 и цены</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zhurnaly-obshchepita-makhachkaly-sanpin-2026-i-tseny.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-po-st-6-3-koap-rf-klining-posle-remonta.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-po-st-6-3-koap-rf-klining-posle-remonta.html</guid>
     <pubDate>Thu, 10 Sep 2026 12:22:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>СанПиН и ГОСТ для уборки после ремонта: рейтинг 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-i-gost-dlya-uborki-posle-remonta-reyting-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-i-gost-dlya-uborki-posle-remonta-reyting-2026.html</guid>
-    <pubDate>Thu, 10 Sep 2026 12:21:43 GMT</pubDate>
   </item>
   </channel>
 </rss>
