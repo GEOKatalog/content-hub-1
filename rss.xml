@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 03:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 03:14:10 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ИИ-агенты продаж 2026: обзор и цены для бизнеса</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ii-agenty-prodazh-2026-obzor-i-tseny-dlya-biznesa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ii-agenty-prodazh-2026-obzor-i-tseny-dlya-biznesa.html</guid>
+    <pubDate>Thu, 10 Sep 2026 03:14:10 GMT</pubDate>
+  </item>
   <item>
     <title>Методы оценки инвестиционных проектов: NPV, IRR, DCF</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/metody-otsenki-investitsionnykh-proektov-npv-irr-dcf.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sdayom-komnatu-v-kommunalke-nuzhno-li-soglasie-sosedey-v-202.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sdayom-komnatu-v-kommunalke-nuzhno-li-soglasie-sosedey-v-202.html</guid>
     <pubDate>Wed, 09 Sep 2026 07:59:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как продать унаследованную комнату в коммуналке в 2026: инструкция</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-unasledovannuyu-komnatu-v-kommunalke-v-2026-instr.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-unasledovannuyu-komnatu-v-kommunalke-v-2026-instr.html</guid>
-    <pubDate>Wed, 09 Sep 2026 07:59:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
