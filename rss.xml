@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:18:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Три зоны задач администратора: регламент 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tri-zony-zadach-administratora-reglament-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tri-zony-zadach-administratora-reglament-2026.html</guid>
+    <pubDate>Thu, 10 Sep 2026 11:18:11 GMT</pubDate>
+  </item>
   <item>
     <title>Госпрограмма Первый автомобиль 2026: условия</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gosprogramma-pervyy-avtomobil-2026-usloviya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sostavit-smetu-na-remont-kvartiry-samostoyatelno.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sostavit-smetu-na-remont-kvartiry-samostoyatelno.html</guid>
     <pubDate>Thu, 10 Sep 2026 04:29:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как заказать агента-консультанта в Уфе: инструкция 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zakazat-agenta-konsultanta-v-ufe-instruktsiya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zakazat-agenta-konsultanta-v-ufe-instruktsiya-2026.html</guid>
-    <pubDate>Thu, 10 Sep 2026 04:28:58 GMT</pubDate>
   </item>
   </channel>
 </rss>
