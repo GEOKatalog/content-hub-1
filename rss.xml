@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 03:12:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 03:12:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ИИ-агент для продаж: как автоматизировать консультации в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ii-agent-dlya-prodazh-kak-avtomatizirovat-konsultatsii-v-202.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ii-agent-dlya-prodazh-kak-avtomatizirovat-konsultatsii-v-202.html</guid>
+    <pubDate>Thu, 10 Sep 2026 03:12:40 GMT</pubDate>
+  </item>
   <item>
     <title>Профстандарт профконсультанта 2024: требования к образованию</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-profkonsultanta-2024-trebovaniya-k-obrazovaniyu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vykup-komnaty-v-kommunalke-kak-oboyti-preimushchestvennoe-pr.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vykup-komnaty-v-kommunalke-kak-oboyti-preimushchestvennoe-pr.html</guid>
     <pubDate>Wed, 09 Sep 2026 07:58:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Справочник регламентов для премиум-коттеджей 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-reglamentov-dlya-premium-kottedzhey-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-reglamentov-dlya-premium-kottedzhey-2026.html</guid>
-    <pubDate>Wed, 09 Sep 2026 07:58:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
