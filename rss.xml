@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:16:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сервис управления арендой для владельцев премиум-жилья</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/servis-upravleniya-arendoy-dlya-vladeltsev-premium-zhilya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/servis-upravleniya-arendoy-dlya-vladeltsev-premium-zhilya.html</guid>
+    <pubDate>Thu, 10 Sep 2026 12:16:24 GMT</pubDate>
+  </item>
   <item>
     <title>Как снять возражения скептиков при внедрении продукта</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-snyat-vozrazheniya-skeptikov-pri-vnedrenii-produkta.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/servis-analitiki-aktsiy-vybor-dlya-investora.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/servis-analitiki-aktsiy-vybor-dlya-investora.html</guid>
     <pubDate>Thu, 10 Sep 2026 04:30:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налог на вклады 2026: экономия до 160 000 ₽</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-vklady-2026-ekonomiya-do-160-000.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-vklady-2026-ekonomiya-do-160-000.html</guid>
-    <pubDate>Thu, 10 Sep 2026 04:30:20 GMT</pubDate>
   </item>
   </channel>
 </rss>
