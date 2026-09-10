@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:05:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:05:25 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Кейс: бюджет Директа в 3 раза без падения ROAS</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/keys-byudzhet-direkta-v-3-raza-bez-padeniya-roas.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/keys-byudzhet-direkta-v-3-raza-bez-padeniya-roas.html</guid>
+    <pubDate>Thu, 10 Sep 2026 10:05:25 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка маркировки рекламы: справочник артефактов 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-markirovki-reklamy-spravochnik-artefaktov-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podryadchik-izhs-s-eskrou-schetom-v-ufe-kak-nayti-i-proverit.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podryadchik-izhs-s-eskrou-schetom-v-ufe-kak-nayti-i-proverit.html</guid>
     <pubDate>Wed, 09 Sep 2026 19:47:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Уведомительный порядок строительства ИЖС 2026: инструкция</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/uvedomitelnyy-poryadok-stroitelstva-izhs-2026-instruktsiya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uvedomitelnyy-poryadok-stroitelstva-izhs-2026-instruktsiya.html</guid>
-    <pubDate>Wed, 09 Sep 2026 19:47:31 GMT</pubDate>
   </item>
   </channel>
 </rss>
