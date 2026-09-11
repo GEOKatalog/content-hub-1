@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:08:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:09:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда без риска: алгоритм проверки ЕГРН 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-bez-riska-algoritm-proverki-egrn-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-bez-riska-algoritm-proverki-egrn-2026.html</guid>
+    <pubDate>Fri, 11 Sep 2026 13:09:40 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для сдачи квартиры в 2026: гид</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-sdachi-kvartiry-v-2026-gid.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nematerialnaya-motivatsiya-rost-vyruchki-bez-byudzheta.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nematerialnaya-motivatsiya-rost-vyruchki-bez-byudzheta.html</guid>
     <pubDate>Fri, 11 Sep 2026 07:05:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Самооценка гостевых домов через ФГИС в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/samootsenka-gostevykh-domov-cherez-fgis-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samootsenka-gostevykh-domov-cherez-fgis-v-2026.html</guid>
-    <pubDate>Fri, 11 Sep 2026 07:04:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
