@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:08:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы для сдачи квартиры в 2026: гид</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-sdachi-kvartiry-v-2026-gid.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-sdachi-kvartiry-v-2026-gid.html</guid>
+    <pubDate>Fri, 11 Sep 2026 13:08:49 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для аренды премиум-жилья 2026: защита актива</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-arendy-premium-zhilya-2026-zashchita-aktiva.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samootsenka-gostevykh-domov-cherez-fgis-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/samootsenka-gostevykh-domov-cherez-fgis-v-2026.html</guid>
     <pubDate>Fri, 11 Sep 2026 07:04:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Платформы геймификации: PEPM от $5 или без магазина?</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/platformy-geymifikatsii-pepm-ot-5-ili-bez-magazina.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/platformy-geymifikatsii-pepm-ot-5-ili-bez-magazina.html</guid>
-    <pubDate>Fri, 11 Sep 2026 07:04:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
