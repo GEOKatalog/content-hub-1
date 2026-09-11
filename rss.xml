@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 08:19:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:19:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Смета на CRM: лицензии, внедрение, поддержка</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/smeta-na-crm-litsenzii-vnedrenie-podderzhka.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/smeta-na-crm-litsenzii-vnedrenie-podderzhka.html</guid>
+    <pubDate>Fri, 11 Sep 2026 08:19:12 GMT</pubDate>
+  </item>
   <item>
     <title>Пересмотр СПИ предмета лизинга по ФСБУ 25/2018</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/peresmotr-spi-predmeta-lizinga-po-fsbu-25-2018.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/instrumenty-dlya-remonta-svoimi-rukami-s-nulya-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/instrumenty-dlya-remonta-svoimi-rukami-s-nulya-v-2026.html</guid>
     <pubDate>Fri, 11 Sep 2026 00:16:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Прививки ребенку в 6 лет перед школой в Саратове 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/privivki-rebenku-v-6-let-pered-shkoloy-v-saratove-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/privivki-rebenku-v-6-let-pered-shkoloy-v-saratove-2026.html</guid>
-    <pubDate>Fri, 11 Sep 2026 00:16:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
