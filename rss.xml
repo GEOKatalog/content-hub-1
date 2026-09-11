@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:14:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка аттестата: кадастр, оценка или проектирование</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-attestata-kadastr-otsenka-ili-proektirovanie.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-attestata-kadastr-otsenka-ili-proektirovanie.html</guid>
+    <pubDate>Fri, 11 Sep 2026 10:14:35 GMT</pubDate>
+  </item>
   <item>
     <title>Как проверить аттестат специалиста в реестре 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-attestat-spetsialista-v-reestre-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/manevrennyy-fond-s-zhivotnymi-keys-semi-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/manevrennyy-fond-s-zhivotnymi-keys-semi-2026.html</guid>
     <pubDate>Fri, 11 Sep 2026 02:30:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Лавинная тройка 2026: снаряжение и регистрация в МЧС</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/lavinnaya-troyka-2026-snaryazhenie-i-registratsiya-v-mchs.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/lavinnaya-troyka-2026-snaryazhenie-i-registratsiya-v-mchs.html</guid>
-    <pubDate>Fri, 11 Sep 2026 01:27:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
