@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:25:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Бухгалтер для суточных и НДФЛ: окупаемость за месяц</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/bukhgalter-dlya-sutochnykh-i-ndfl-okupaemost-za-mesyats.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/bukhgalter-dlya-sutochnykh-i-ndfl-okupaemost-za-mesyats.html</guid>
+    <pubDate>Fri, 11 Sep 2026 14:25:52 GMT</pubDate>
+  </item>
   <item>
     <title>Срочная уборка после ремонта: алгоритм за 24 часа</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnaya-uborka-posle-remonta-algoritm-za-24-chasa.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-pansionatov-gelendzhika-gid-na-2026-god.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-pansionatov-gelendzhika-gid-na-2026-god.html</guid>
     <pubDate>Fri, 11 Sep 2026 07:05:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Штрафы за работу без свидетельства: от 2,5% выручки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-rabotu-bez-svidetelstva-ot-2-5-vyruchki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-rabotu-bez-svidetelstva-ot-2-5-vyruchki.html</guid>
-    <pubDate>Fri, 11 Sep 2026 07:05:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
