@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:53:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:53:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Нужно ли согласие клиента на публикацию фото в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nuzhno-li-soglasie-klienta-na-publikatsiyu-foto-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nuzhno-li-soglasie-klienta-na-publikatsiyu-foto-v-2026-godu.html</guid>
+    <pubDate>Fri, 11 Sep 2026 21:53:59 GMT</pubDate>
+  </item>
   <item>
     <title>Нормативы уборки помещений в 2026 году: гид по СанПиН для Махачкалы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-uborki-pomeshcheniy-v-2026-godu-gid-po-sanpin-dlya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-avto-bez-riska-dkp-nalog-i-snyatie-s-ucheta.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-avto-bez-riska-dkp-nalog-i-snyatie-s-ucheta.html</guid>
     <pubDate>Fri, 11 Sep 2026 15:00:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка ЭПТС и документов для авто в Красноярске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-epts-i-dokumentov-dlya-avto-v-krasnoyarske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-epts-i-dokumentov-dlya-avto-v-krasnoyarske.html</guid>
-    <pubDate>Fri, 11 Sep 2026 14:58:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
