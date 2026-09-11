@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 20:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:00:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Уведомление о начале строительства ИЖС в Уфе 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-o-nachale-stroitelstva-izhs-v-ufe-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-o-nachale-stroitelstva-izhs-v-ufe-2026.html</guid>
+    <pubDate>Fri, 11 Sep 2026 20:00:50 GMT</pubDate>
+  </item>
   <item>
     <title>Прожиточный минимум Башкортостана 2026: расчет дохода</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prozhitochnyy-minimum-bashkortostana-2026-raschet-dokhoda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-dlya-avto-starshe-10-let-pravila-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-dlya-avto-starshe-10-let-pravila-2026.html</guid>
     <pubDate>Fri, 11 Sep 2026 14:28:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Бухгалтер для суточных и НДФЛ: окупаемость за месяц</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/bukhgalter-dlya-sutochnykh-i-ndfl-okupaemost-za-mesyats.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/bukhgalter-dlya-sutochnykh-i-ndfl-okupaemost-za-mesyats.html</guid>
-    <pubDate>Fri, 11 Sep 2026 14:25:52 GMT</pubDate>
   </item>
   </channel>
 </rss>
