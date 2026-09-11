@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:02:15 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Договор найма для дистанционной сдачи премиум-жилья</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-nayma-dlya-distantsionnoy-sdachi-premium-zhilya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-nayma-dlya-distantsionnoy-sdachi-premium-zhilya.html</guid>
+    <pubDate>Fri, 11 Sep 2026 13:02:15 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для сдачи квартиры в аренду в Ростове 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-sdachi-kvartiry-v-arendu-v-rostove-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sootnoshenie-postoyannoy-i-peremennoy-chastey-oplaty-truda-o.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sootnoshenie-postoyannoy-i-peremennoy-chastey-oplaty-truda-o.html</guid>
     <pubDate>Fri, 11 Sep 2026 05:54:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>NPS в санаторно-курортной отрасли: нормативы и критики</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nps-v-sanatorno-kurortnoy-otrasli-normativy-i-kritiki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nps-v-sanatorno-kurortnoy-otrasli-normativy-i-kritiki.html</guid>
-    <pubDate>Fri, 11 Sep 2026 05:53:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
