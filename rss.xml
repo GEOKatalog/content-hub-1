@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 01:27:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 02:30:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Маневренный фонд с животными: кейс семьи 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/manevrennyy-fond-s-zhivotnymi-keys-semi-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/manevrennyy-fond-s-zhivotnymi-keys-semi-2026.html</guid>
+    <pubDate>Fri, 11 Sep 2026 02:30:57 GMT</pubDate>
+  </item>
   <item>
     <title>Лавинная тройка 2026: снаряжение и регистрация в МЧС</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/lavinnaya-troyka-2026-snaryazhenie-i-registratsiya-v-mchs.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-snip-na-elektromontazh-v-kvartire-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-snip-na-elektromontazh-v-kvartire-2026.html</guid>
     <pubDate>Thu, 10 Sep 2026 18:59:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Гигиенический журнал 2026: двойная подпись</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gigienicheskiy-zhurnal-2026-dvoynaya-podpis.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gigienicheskiy-zhurnal-2026-dvoynaya-podpis.html</guid>
-    <pubDate>Thu, 10 Sep 2026 18:58:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
