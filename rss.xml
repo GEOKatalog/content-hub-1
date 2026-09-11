@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:18:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Разработка MVP в Уфе 2026: цена и путь к аккредитации</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-mvp-v-ufe-2026-tsena-i-put-k-akkreditatsii.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-mvp-v-ufe-2026-tsena-i-put-k-akkreditatsii.html</guid>
+    <pubDate>Fri, 11 Sep 2026 10:18:58 GMT</pubDate>
+  </item>
   <item>
     <title>Как найти безопасного подрядчика ИЖС в Уфе: каталог</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-bezopasnogo-podryadchika-izhs-v-ufe-katalog.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gruzchiki-na-pereezd-2026-kak-ne-pereplatit-v-voronezhe.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gruzchiki-na-pereezd-2026-kak-ne-pereplatit-v-voronezhe.html</guid>
     <pubDate>Fri, 11 Sep 2026 02:32:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Договор услуг по ст. 779 ГК и маркировка хрупких мест</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-uslug-po-st-779-gk-i-markirovka-khrupkikh-mest.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-uslug-po-st-779-gk-i-markirovka-khrupkikh-mest.html</guid>
-    <pubDate>Fri, 11 Sep 2026 02:32:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
