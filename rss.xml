@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:11:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка аккредитации ИТ-компании по ИНН: реестр Минцифры</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-akkreditatsii-it-kompanii-po-inn-reestr-mintsifry.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-akkreditatsii-it-kompanii-po-inn-reestr-mintsifry.html</guid>
+    <pubDate>Fri, 11 Sep 2026 10:11:57 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг решений по подтверждению статуса в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-po-podtverzhdeniyu-statusa-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-izmerit-gabarity-gruza-i-normy-vystupa-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-izmerit-gabarity-gruza-i-normy-vystupa-2026.html</guid>
     <pubDate>Fri, 11 Sep 2026 01:25:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Перевозка мебели в Газели: правила ПДД и штрафы 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/perevozka-mebeli-v-gazeli-pravila-pdd-i-shtrafy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/perevozka-mebeli-v-gazeli-pravila-pdd-i-shtrafy-2026.html</guid>
-    <pubDate>Fri, 11 Sep 2026 01:25:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
