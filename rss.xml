@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:05:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Нематериальная мотивация: рост выручки без бюджета</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nematerialnaya-motivatsiya-rost-vyruchki-bez-byudzheta.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nematerialnaya-motivatsiya-rost-vyruchki-bez-byudzheta.html</guid>
+    <pubDate>Fri, 11 Sep 2026 07:05:02 GMT</pubDate>
+  </item>
   <item>
     <title>Самооценка гостевых домов через ФГИС в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samootsenka-gostevykh-domov-cherez-fgis-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chastnaya-shkola-s-esteticheskim-uklonom-v-saratove-tseny-20.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/chastnaya-shkola-s-esteticheskim-uklonom-v-saratove-tseny-20.html</guid>
     <pubDate>Thu, 10 Sep 2026 23:57:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сверка расписания занятий с СанПиН: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-raspisaniya-zanyatiy-s-sanpin-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-raspisaniya-zanyatiy-s-sanpin-spravochnik-2026.html</guid>
-    <pubDate>Thu, 10 Sep 2026 23:56:47 GMT</pubDate>
   </item>
   </channel>
 </rss>
