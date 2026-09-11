@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:11:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Расчет стоимости балла стимулирующих выплат в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/raschet-stoimosti-balla-stimuliruyushchikh-vyplat-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/raschet-stoimosti-balla-stimuliruyushchikh-vyplat-v-2026.html</guid>
+    <pubDate>Fri, 11 Sep 2026 15:11:54 GMT</pubDate>
+  </item>
   <item>
     <title>Срочный выкуп битых авто в Красноярске после ДТП 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-vykup-bitykh-avto-v-krasnoyarske-posle-dtp-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/uk-i-rts-poluchayut-dannye-o-poverke-napryamuyu-iz-sistemy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/uk-i-rts-poluchayut-dannye-o-poverke-napryamuyu-iz-sistemy.html</guid>
     <pubDate>Fri, 11 Sep 2026 10:11:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка поверки счетчика воды в Аршине: гид для Уфы 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-poverki-schetchika-vody-v-arshine-gid-dlya-ufy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-poverki-schetchika-vody-v-arshine-gid-dlya-ufy-2026.html</guid>
-    <pubDate>Fri, 11 Sep 2026 10:10:58 GMT</pubDate>
   </item>
   </channel>
 </rss>
