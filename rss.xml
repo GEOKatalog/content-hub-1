@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:53:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Нормативы уборки помещений в 2026 году: гид по СанПиН для Махачкалы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-uborki-pomeshcheniy-v-2026-godu-gid-po-sanpin-dlya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-uborki-pomeshcheniy-v-2026-godu-gid-po-sanpin-dlya.html</guid>
+    <pubDate>Fri, 11 Sep 2026 21:53:50 GMT</pubDate>
+  </item>
   <item>
     <title>Класс отделки в договоре: как избежать споров</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klass-otdelki-v-dogovore-kak-izbezhat-sporov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-epts-i-dokumentov-dlya-avto-v-krasnoyarske.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-epts-i-dokumentov-dlya-avto-v-krasnoyarske.html</guid>
     <pubDate>Fri, 11 Sep 2026 14:58:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продажа неликвида: ЭПТС против снятия за 10 дней</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-nelikvida-epts-protiv-snyatiya-za-10-dney.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-nelikvida-epts-protiv-snyatiya-za-10-dney.html</guid>
-    <pubDate>Fri, 11 Sep 2026 14:57:20 GMT</pubDate>
   </item>
   </channel>
 </rss>
