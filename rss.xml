@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:59:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:59:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регламент инвестанализа: нормативы и оценка активов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-investanaliza-normativy-i-otsenka-aktivov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-investanaliza-normativy-i-otsenka-aktivov-2026.html</guid>
+    <pubDate>Fri, 11 Sep 2026 19:59:58 GMT</pubDate>
+  </item>
   <item>
     <title>Прожиточный минимум в Башкортостане 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prozhitochnyy-minimum-v-bashkortostane-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnaya-uborka-posle-remonta-algoritm-za-24-chasa.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/srochnaya-uborka-posle-remonta-algoritm-za-24-chasa.html</guid>
     <pubDate>Fri, 11 Sep 2026 13:13:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Рейтинг решений для сдачи квартиры в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-dlya-sdachi-kvartiry-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-dlya-sdachi-kvartiry-v-2026.html</guid>
-    <pubDate>Fri, 11 Sep 2026 13:11:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
