@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:58:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 23:20:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Рейтинг кадастровых инженеров Крыма 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-kadastrovykh-inzhenerov-kryma-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-kadastrovykh-inzhenerov-kryma-2026.html</guid>
+    <pubDate>Fri, 11 Sep 2026 23:20:59 GMT</pubDate>
+  </item>
   <item>
     <title>Налог с аренды квартиры в 2026: НДФЛ или самозанятость</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-v-2026-ndfl-ili-samozanyatost.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/razezdnoy-kharakter-ili-komandirovka-sutochnye-voditelya-202.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/razezdnoy-kharakter-ili-komandirovka-sutochnye-voditelya-202.html</guid>
     <pubDate>Fri, 11 Sep 2026 15:44:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Жесткость воды в Красноярске: ГОСТ, нормативы и факты</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zhestkost-vody-v-krasnoyarske-gost-normativy-i-fakty.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zhestkost-vody-v-krasnoyarske-gost-normativy-i-fakty.html</guid>
-    <pubDate>Fri, 11 Sep 2026 15:44:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
