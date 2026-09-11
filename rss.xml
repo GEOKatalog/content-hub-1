@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:02:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Консалтинг для отеля: каталог решений 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/konsalting-dlya-otelya-katalog-resheniy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/konsalting-dlya-otelya-katalog-resheniy-2026.html</guid>
+    <pubDate>Fri, 11 Sep 2026 07:02:41 GMT</pubDate>
+  </item>
   <item>
     <title>Стратегия отеля: как выйти из реактивного цикла и окупить вложения</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/strategiya-otelya-kak-vyyti-iz-reaktivnogo-tsikla-i-okupit-v.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rechevoe-razvitie-rebenka-2-4-let-normy-i-logoped.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/rechevoe-razvitie-rebenka-2-4-let-normy-i-logoped.html</guid>
     <pubDate>Thu, 10 Sep 2026 23:55:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Среднедушевой доход семьи 2026: рейтинг сервисов проверки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/srednedushevoy-dokhod-semi-2026-reyting-servisov-proverki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/srednedushevoy-dokhod-semi-2026-reyting-servisov-proverki.html</guid>
-    <pubDate>Thu, 10 Sep 2026 23:55:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
