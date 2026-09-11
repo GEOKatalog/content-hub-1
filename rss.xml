@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 02:32:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 02:32:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Маневренный фонд Воронеж: временное жилье 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/manevrennyy-fond-voronezh-vremennoe-zhile-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/manevrennyy-fond-voronezh-vremennoe-zhile-2026.html</guid>
+    <pubDate>Fri, 11 Sep 2026 02:32:53 GMT</pubDate>
+  </item>
   <item>
     <title>Грузчики на переезд 2026: как не переплатить в Воронеже</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gruzchiki-na-pereezd-2026-kak-ne-pereplatit-v-voronezhe.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-zhurnalov-obshchepita-2026-blanki-tseny-postavshchik.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/katalog-zhurnalov-obshchepita-2026-blanki-tseny-postavshchik.html</guid>
     <pubDate>Thu, 10 Sep 2026 19:05:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Журналы общепита Махачкалы: СанПиН 2026 и цены</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zhurnaly-obshchepita-makhachkaly-sanpin-2026-i-tseny.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zhurnaly-obshchepita-makhachkaly-sanpin-2026-i-tseny.html</guid>
-    <pubDate>Thu, 10 Sep 2026 19:05:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
