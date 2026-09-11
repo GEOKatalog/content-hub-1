@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:14:39 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Снятие с учета авто при вывозе за границу 2026: транзиты</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/snyatie-s-ucheta-avto-pri-vyvoze-za-granitsu-2026-tranzity.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyatie-s-ucheta-avto-pri-vyvoze-za-granitsu-2026-tranzity.html</guid>
+    <pubDate>Fri, 11 Sep 2026 15:14:39 GMT</pubDate>
+  </item>
   <item>
     <title>Срочный выкуп битых японских авто в Красноярске</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-vykup-bitykh-yaponskikh-avto-v-krasnoyarske.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-trebovaniy-k-kadastrovomu-inzheneru-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-trebovaniy-k-kadastrovomu-inzheneru-2026.html</guid>
     <pubDate>Fri, 11 Sep 2026 10:12:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка аккредитации ИТ-компании по ИНН: реестр Минцифры</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-akkreditatsii-it-kompanii-po-inn-reestr-mintsifry.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-akkreditatsii-it-kompanii-po-inn-reestr-mintsifry.html</guid>
-    <pubDate>Fri, 11 Sep 2026 10:11:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
