@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 12:52:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:53:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверить требования к содержанию объекта в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverit-trebovaniya-k-soderzhaniyu-obekta-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverit-trebovaniya-k-soderzhaniyu-obekta-v-2026.html</guid>
+    <pubDate>Fri, 11 Sep 2026 12:53:09 GMT</pubDate>
+  </item>
   <item>
     <title>Просрочка поверки счётчиков при посуточной сдаче: инструкция 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prosrochka-poverki-schyotchikov-pri-posutochnoy-sdache-instr.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenzionnye-trebovaniya-k-meditsinskim-pomeshcheniyam-v-20.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/litsenzionnye-trebovaniya-k-meditsinskim-pomeshcheniyam-v-20.html</guid>
     <pubDate>Fri, 11 Sep 2026 05:51:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Лицензия на медицинскую деятельность для санатория в Геленджике</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenziya-na-meditsinskuyu-deyatelnost-dlya-sanatoriya-v-ge.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/litsenziya-na-meditsinskuyu-deyatelnost-dlya-sanatoriya-v-ge.html</guid>
-    <pubDate>Fri, 11 Sep 2026 05:50:55 GMT</pubDate>
   </item>
   </channel>
 </rss>
