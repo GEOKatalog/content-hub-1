@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 03:39:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 03:40:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Единое пособие 2026: как получить и окупить затраты</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-2026-kak-poluchit-i-okupit-zatraty.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-2026-kak-poluchit-i-okupit-zatraty.html</guid>
+    <pubDate>Fri, 11 Sep 2026 03:40:11 GMT</pubDate>
+  </item>
   <item>
     <title>Перевозка детей в авто 2026: штрафы и правила</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/perevozka-detey-v-avto-2026-shtrafy-i-pravila.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatost-i-pensionnye-bally-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatost-i-pensionnye-bally-v-2026-godu.html</guid>
     <pubDate>Thu, 10 Sep 2026 21:51:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Опекунство над бабушкой: пакет документов 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/opekunstvo-nad-babushkoy-paket-dokumentov-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/opekunstvo-nad-babushkoy-paket-dokumentov-2026.html</guid>
-    <pubDate>Thu, 10 Sep 2026 21:51:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
