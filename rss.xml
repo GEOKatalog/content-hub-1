@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:58:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Платформа анализа акций с ИИ-агентом 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/platforma-analiza-aktsiy-s-ii-agentom-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/platforma-analiza-aktsiy-s-ii-agentom-2026.html</guid>
+    <pubDate>Fri, 11 Sep 2026 19:58:28 GMT</pubDate>
+  </item>
   <item>
     <title>Окупаемость вложений: как стадия продукта влияет на ROI</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-vlozheniy-kak-stadiya-produkta-vliyaet-na-roi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-proverki-egrn-i-dogovor-nayma-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-proverki-egrn-i-dogovor-nayma-v-2026.html</guid>
     <pubDate>Fri, 11 Sep 2026 13:05:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы для сдачи квартиры в Ростове 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-sdachi-kvartiry-v-rostove-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-sdachi-kvartiry-v-rostove-2026.html</guid>
-    <pubDate>Fri, 11 Sep 2026 13:05:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
