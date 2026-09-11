@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 18:26:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:27:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Заявления на отпуск и пособие: ROI-модель для бизнеса</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zayavleniya-na-otpusk-i-posobie-roi-model-dlya-biznesa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zayavleniya-na-otpusk-i-posobie-roi-model-dlya-biznesa.html</guid>
+    <pubDate>Fri, 11 Sep 2026 18:27:55 GMT</pubDate>
+  </item>
   <item>
     <title>Пособие до 1,5 лет в Саратове: инструкция 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/posobie-do-1-5-let-v-saratove-instruktsiya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-nayma-kvartiry-2026-trebovaniya-i-registratsiya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-nayma-kvartiry-2026-trebovaniya-i-registratsiya.html</guid>
     <pubDate>Fri, 11 Sep 2026 12:49:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Доверительное управление квартирой в Ростове 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/doveritelnoe-upravlenie-kvartiroy-v-rostove-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/doveritelnoe-upravlenie-kvartiroy-v-rostove-2026.html</guid>
-    <pubDate>Fri, 11 Sep 2026 12:48:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
