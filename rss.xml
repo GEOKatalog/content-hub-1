@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:38:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Оспаривание кадастровой стоимости 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/osparivanie-kadastrovoy-stoimosti-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/osparivanie-kadastrovoy-stoimosti-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 11:38:02 GMT</pubDate>
+  </item>
   <item>
     <title>Инвентаризация прав на недвижимость в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-prav-na-nedvizhimost-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nastroyka-1s-otel-v-gelendzhike-gid-po-spetsialistam-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nastroyka-1s-otel-v-gelendzhike-gid-po-spetsialistam-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 03:57:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Настройка накопительной скидки в 1С Отель: регламент 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nastroyka-nakopitelnoy-skidki-v-1s-otel-reglament-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nastroyka-nakopitelnoy-skidki-v-1s-otel-reglament-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 03:56:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
