@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 23:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 23:02:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка ЕГРН в Крыму: экономия на юристе</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-egrn-v-krymu-ekonomiya-na-yuriste.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-egrn-v-krymu-ekonomiya-na-yuriste.html</guid>
+    <pubDate>Sat, 12 Sep 2026 23:02:21 GMT</pubDate>
+  </item>
   <item>
     <title>Запрет на детские группы в Крыму 2026: что делать</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zapret-na-detskie-gruppy-v-krymu-2026-chto-delat.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/it-akkreditatsiya-2026-v-ufe-dokhody-i-zarplata-pod-kontrole.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/it-akkreditatsiya-2026-v-ufe-dokhody-i-zarplata-pod-kontrole.html</guid>
     <pubDate>Sat, 12 Sep 2026 20:41:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Методика оценки инвестиций 2026: NPV, IRR, окупаемость</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/metodika-otsenki-investitsiy-2026-npv-irr-okupaemost.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/metodika-otsenki-investitsiy-2026-npv-irr-okupaemost.html</guid>
-    <pubDate>Sat, 12 Sep 2026 20:41:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
