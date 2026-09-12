@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:34:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:35:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы в первый класс 2026: список для Саратова</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-v-pervyy-klass-2026-spisok-dlya-saratova.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-v-pervyy-klass-2026-spisok-dlya-saratova.html</guid>
+    <pubDate>Sat, 12 Sep 2026 18:35:32 GMT</pubDate>
+  </item>
   <item>
     <title>Школа не вправе требовать лишние бумаги: закрытый перечень</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shkola-ne-vprave-trebovat-lishnie-bumagi-zakrytyy-perechen.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sdacha-premium-zhilya-reyting-resheniy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sdacha-premium-zhilya-reyting-resheniy-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 11:37:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка кадастровой стоимости в Ростове: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kadastrovoy-stoimosti-v-rostove-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kadastrovoy-stoimosti-v-rostove-gid-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 11:36:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
