@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:45:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:46:18 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Миелофонд-2026: регламент участия и сроки подачи</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mielofond-2026-reglament-uchastiya-i-sroki-podachi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mielofond-2026-reglament-uchastiya-i-sroki-podachi.html</guid>
+    <pubDate>Sat, 12 Sep 2026 20:46:18 GMT</pubDate>
+  </item>
   <item>
     <title>Разработка ЦИМ в Уфе: цены и исполнители 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-tsim-v-ufe-tseny-i-ispolniteli-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/plitka-v-vannoy-svoimi-rukami-tsena-oshibki-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/plitka-v-vannoy-svoimi-rukami-tsena-oshibki-v-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 19:00:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аниматор на 5 лет в Саратове: цены и ROI</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/animator-na-5-let-v-saratove-tseny-i-roi.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/animator-na-5-let-v-saratove-tseny-i-roi.html</guid>
-    <pubDate>Sat, 12 Sep 2026 18:58:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
