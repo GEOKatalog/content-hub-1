@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 23:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 23:06:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Оплата ЖКХ до 15 числа: новые правила 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/oplata-zhkkh-do-15-chisla-novye-pravila-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/oplata-zhkkh-do-15-chisla-novye-pravila-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 23:06:03 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка дома в Крыму: защита от самостроя и обременений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-doma-v-krymu-zashchita-ot-samostroya-i-obremeneniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mielofond-2026-poshagovyy-algoritm-podachi-zayavki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mielofond-2026-poshagovyy-algoritm-podachi-zayavki.html</guid>
     <pubDate>Sat, 12 Sep 2026 20:46:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Миелофонд-2026: регламент участия и сроки подачи</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mielofond-2026-reglament-uchastiya-i-sroki-podachi.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mielofond-2026-reglament-uchastiya-i-sroki-podachi.html</guid>
-    <pubDate>Sat, 12 Sep 2026 20:46:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
