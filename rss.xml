@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 21:55:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:55:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Закон о риелторах 2026: статус и прогнозы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakon-o-rieltorakh-2026-status-i-prognozy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakon-o-rieltorakh-2026-status-i-prognozy.html</guid>
+    <pubDate>Sat, 12 Sep 2026 21:55:44 GMT</pubDate>
+  </item>
   <item>
     <title>Как проверить вид разрешённого использования участка</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-vid-razreshyonnogo-ispolzovaniya-uchastka.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-71582-2024-shkolnaya-forma-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-71582-2024-shkolnaya-forma-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 19:38:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сверка занятий с нормативом: алгоритм для детей 5-6 лет</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-zanyatiy-s-normativom-algoritm-dlya-detey-5-6-let.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-zanyatiy-s-normativom-algoritm-dlya-detey-5-6-let.html</guid>
-    <pubDate>Sat, 12 Sep 2026 19:37:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
