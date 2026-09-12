@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 03:54:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 03:55:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Классификация гостиниц 2026: гид по постановлению 1951</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-gostinits-2026-gid-po-postanovleniyu-1951.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-gostinits-2026-gid-po-postanovleniyu-1951.html</guid>
+    <pubDate>Sat, 12 Sep 2026 03:55:02 GMT</pubDate>
+  </item>
   <item>
     <title>Мотив покупки: окупаемость программы лояльности 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/motiv-pokupki-okupaemost-programmy-loyalnosti-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-stat-agentom-konsultantom-reso-v-ufe-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-stat-agentom-konsultantom-reso-v-ufe-v-2026-godu.html</guid>
     <pubDate>Fri, 11 Sep 2026 19:59:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка подрядчика ИЖС на строим.дом.рф</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-podryadchika-izhs-na-stroim-dom-rf.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-podryadchika-izhs-na-stroim-dom-rf.html</guid>
-    <pubDate>Fri, 11 Sep 2026 19:58:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
