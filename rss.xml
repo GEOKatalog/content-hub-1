@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 05:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 05:17:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Обязательный аудит санатория 2026: критерии 307-ФЗ</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnyy-audit-sanatoriya-2026-kriterii-307-fz.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnyy-audit-sanatoriya-2026-kriterii-307-fz.html</guid>
+    <pubDate>Sat, 12 Sep 2026 05:17:02 GMT</pubDate>
+  </item>
   <item>
     <title>Справочник по обязательному аудиту санаториев по 307-ФЗ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-po-obyazatelnomu-auditu-sanatoriev-po-307-fz.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/npb-105-03-ili-sp-12-kategorii-dlya-pekarni-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/npb-105-03-ili-sp-12-kategorii-dlya-pekarni-2026.html</guid>
     <pubDate>Fri, 11 Sep 2026 21:55:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пекарня 2026: как В1–В4 экономит до 500 тыс ₽</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pekarnya-2026-kak-v1-v4-ekonomit-do-500-tys.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pekarnya-2026-kak-v1-v4-ekonomit-do-500-tys.html</guid>
-    <pubDate>Fri, 11 Sep 2026 21:55:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
