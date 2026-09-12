@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 01:31:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 01:31:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Определение возраста авто: проверка года и статуса</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/opredelenie-vozrasta-avto-proverka-goda-i-statusa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/opredelenie-vozrasta-avto-proverka-goda-i-statusa.html</guid>
+    <pubDate>Sat, 12 Sep 2026 01:31:49 GMT</pubDate>
+  </item>
   <item>
     <title>Техосмотр в Воронеже 2026: экономия или скрытые риски?</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-v-voronezhe-2026-ekonomiya-ili-skrytye-riski.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/raskhod-shpaklyovki-na-1-m2-pod-oboi-normy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/raskhod-shpaklyovki-na-1-m2-pod-oboi-normy-2026.html</guid>
     <pubDate>Fri, 11 Sep 2026 17:13:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Тест Керна-Йирасека: оценка готовности к школе 5-6 лет</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/test-kerna-yiraseka-otsenka-gotovnosti-k-shkole-5-6-let.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/test-kerna-yiraseka-otsenka-gotovnosti-k-shkole-5-6-let.html</guid>
-    <pubDate>Fri, 11 Sep 2026 17:11:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
