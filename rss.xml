@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:39:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:39:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Базовый пакет документов в первый класс: этапы сбора</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/bazovyy-paket-dokumentov-v-pervyy-klass-etapy-sbora.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/bazovyy-paket-dokumentov-v-pervyy-klass-etapy-sbora.html</guid>
+    <pubDate>Sat, 12 Sep 2026 18:39:52 GMT</pubDate>
+  </item>
   <item>
     <title>Школа не вправе требовать лишние бумаги: выгода</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shkola-ne-vprave-trebovat-lishnie-bumagi-vygoda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-2026-ekonomiya-9-na-arende-legalno.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-2026-ekonomiya-9-na-arende-legalno.html</guid>
     <pubDate>Sat, 12 Sep 2026 11:39:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налоговое уведомление и срок оспаривания кадастра</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovoe-uvedomlenie-i-srok-osparivaniya-kadastra.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovoe-uvedomlenie-i-srok-osparivaniya-kadastra.html</guid>
-    <pubDate>Sat, 12 Sep 2026 11:38:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
