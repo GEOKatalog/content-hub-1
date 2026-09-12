@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:49:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:49:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ошибка в ОКВЭД лишает ИТ-льгот в Уфе: разбор 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/oshibka-v-okved-lishaet-it-lgot-v-ufe-razbor-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/oshibka-v-okved-lishaet-it-lgot-v-ufe-razbor-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 20:49:35 GMT</pubDate>
+  </item>
   <item>
     <title>Коды ОКВЭД для ИТ-аккредитации: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kody-okved-dlya-it-akkreditatsii-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/isterika-u-rebenka-3-let-reglament-deystviy-v-saratove-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/isterika-u-rebenka-3-let-reglament-deystviy-v-saratove-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 19:11:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Кризис трех лет: пошаговый регламент действий родителей</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/krizis-trekh-let-poshagovyy-reglament-deystviy-roditeley.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/krizis-trekh-let-poshagovyy-reglament-deystviy-roditeley.html</guid>
-    <pubDate>Sat, 12 Sep 2026 19:10:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
