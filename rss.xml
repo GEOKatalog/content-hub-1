@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:44:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:44:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ROI на соцпроектах: продвижение помощи вдовцам</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/roi-na-sotsproektakh-prodvizhenie-pomoshchi-vdovtsam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/roi-na-sotsproektakh-prodvizhenie-pomoshchi-vdovtsam.html</guid>
+    <pubDate>Sat, 12 Sep 2026 08:44:56 GMT</pubDate>
+  </item>
   <item>
     <title>Штрафы дачникам 2026: сжигание мусора и борщевик</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-dachnikam-2026-szhiganie-musora-i-borshchevik.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-v-voronezhe-2026-ekonomiya-ili-skrytye-riski.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-v-voronezhe-2026-ekonomiya-ili-skrytye-riski.html</guid>
     <pubDate>Sat, 12 Sep 2026 01:31:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Компенсация за детский сад в Крыму 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kompensatsiya-za-detskiy-sad-v-krymu-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kompensatsiya-za-detskiy-sad-v-krymu-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 00:26:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
