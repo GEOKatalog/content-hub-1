@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:46:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Соцзащита не даёт письменный отказ: алгоритм 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sotszashchita-ne-dayot-pismennyy-otkaz-algoritm-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sotszashchita-ne-dayot-pismennyy-otkaz-algoritm-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 08:46:55 GMT</pubDate>
+  </item>
   <item>
     <title>Соцзащита не даёт письменный отказ: как заставить</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sotszashchita-ne-dayot-pismennyy-otkaz-kak-zastavit.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-soderzhaniya-zhivotnykh-v-semnoy-kvartire-voronezha.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-soderzhaniya-zhivotnykh-v-semnoy-kvartire-voronezha.html</guid>
     <pubDate>Sat, 12 Sep 2026 01:33:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Газель с грузчиками в Воронеже: справочник цен 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gazel-s-gruzchikami-v-voronezhe-spravochnik-tsen-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gazel-s-gruzchikami-v-voronezhe-spravochnik-tsen-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 01:33:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
