@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:11:29 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аудит объекта перед уборкой: пошаговый разбор</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-obekta-pered-uborkoy-poshagovyy-razbor.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-obekta-pered-uborkoy-poshagovyy-razbor.html</guid>
+    <pubDate>Sat, 12 Sep 2026 16:11:29 GMT</pubDate>
+  </item>
   <item>
     <title>Сертификация фотографов новорожденных 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-fotografov-novorozhdennykh-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pozhalovatsya-na-sotszashchitu-za-otkaz-v-sidelke.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-pozhalovatsya-na-sotszashchitu-za-otkaz-v-sidelke.html</guid>
     <pubDate>Sat, 12 Sep 2026 08:43:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нотариальная выписка из реестра залогов: рейтинг 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/notarialnaya-vypiska-iz-reestra-zalogov-reyting-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/notarialnaya-vypiska-iz-reestra-zalogov-reyting-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 07:35:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
