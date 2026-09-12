@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:41:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:43:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Детский невролог в Саратове: поиск и запись</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/detskiy-nevrolog-v-saratove-poisk-i-zapis.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/detskiy-nevrolog-v-saratove-poisk-i-zapis.html</guid>
+    <pubDate>Sat, 12 Sep 2026 18:43:05 GMT</pubDate>
+  </item>
   <item>
     <title>Диагностика готовности к школе в Саратове 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/diagnostika-gotovnosti-k-shkole-v-saratove-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/transportnyy-nalog-na-yaponskoe-avto-starshe-15-let-ekonomiy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/transportnyy-nalog-na-yaponskoe-avto-starshe-15-let-ekonomiy.html</guid>
     <pubDate>Sat, 12 Sep 2026 13:53:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Инвентаризация продуктов 2026: полный справочник</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-produktov-2026-polnyy-spravochnik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-produktov-2026-polnyy-spravochnik.html</guid>
-    <pubDate>Sat, 12 Sep 2026 13:53:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
