@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:40:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:41:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Методика оценки инвестиций 2026: NPV, IRR, окупаемость</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/metodika-otsenki-investitsiy-2026-npv-irr-okupaemost.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/metodika-otsenki-investitsiy-2026-npv-irr-okupaemost.html</guid>
+    <pubDate>Sat, 12 Sep 2026 20:41:16 GMT</pubDate>
+  </item>
   <item>
     <title>Реестр стартапов Башкортостана: упрощённая аккредитация ИТ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-startapov-bashkortostana-uproshchyonnaya-akkreditatsi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-k-shkole-v-saratove-okupaemost-i-tseny.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-k-shkole-v-saratove-okupaemost-i-tseny.html</guid>
     <pubDate>Sat, 12 Sep 2026 18:44:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Прием в первый класс Саратов 2026 через Госуслуги</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/priem-v-pervyy-klass-saratov-2026-cherez-gosuslugi.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/priem-v-pervyy-klass-saratov-2026-cherez-gosuslugi.html</guid>
-    <pubDate>Sat, 12 Sep 2026 18:43:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
