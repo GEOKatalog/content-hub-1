@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:03:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка залога в реестре ФНП: каталог 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-zaloga-v-reestre-fnp-katalog-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-zaloga-v-reestre-fnp-katalog-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 14:03:24 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка залога в реестре ФНП: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-zaloga-v-reestre-fnp-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vin-v-reestre-zalogov-fnp-besplatno-bez-registratsi.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vin-v-reestre-zalogov-fnp-besplatno-bez-registratsi.html</guid>
     <pubDate>Sat, 12 Sep 2026 07:32:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Тестовая фаза рекламы: 20-30% бюджета в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/testovaya-faza-reklamy-20-30-byudzheta-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/testovaya-faza-reklamy-20-30-byudzheta-v-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 07:31:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
