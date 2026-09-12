@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 06:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 06:21:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка концепции продукта на покупателях в Перми</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontseptsii-produkta-na-pokupatelyakh-v-permi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontseptsii-produkta-na-pokupatelyakh-v-permi.html</guid>
+    <pubDate>Sat, 12 Sep 2026 06:21:43 GMT</pubDate>
+  </item>
   <item>
     <title>Реальный спрос или хайп: критерии проверки 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/realnyy-spros-ili-khayp-kriterii-proverki-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oborudovanie-dlya-mini-pekarni-v-makhachkale-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/oborudovanie-dlya-mini-pekarni-v-makhachkale-gid-2026.html</guid>
     <pubDate>Fri, 11 Sep 2026 21:57:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Мини-пекарня в жилом доме: СанПиН 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mini-pekarnya-v-zhilom-dome-sanpin-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mini-pekarnya-v-zhilom-dome-sanpin-2026.html</guid>
-    <pubDate>Fri, 11 Sep 2026 21:56:49 GMT</pubDate>
   </item>
   </channel>
 </rss>
