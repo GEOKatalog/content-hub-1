@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:16:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сервис поиска заказов самозанятым в Махачкале</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/servis-poiska-zakazov-samozanyatym-v-makhachkale.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/servis-poiska-zakazov-samozanyatym-v-makhachkale.html</guid>
+    <pubDate>Sat, 12 Sep 2026 16:16:31 GMT</pubDate>
+  </item>
   <item>
     <title>Штраф за невыдачу чека самозанятым в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-za-nevydachu-cheka-samozanyatym-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/motoblok-dlya-tseliny-s-chugunnym-reduktorom.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/motoblok-dlya-tseliny-s-chugunnym-reduktorom.html</guid>
     <pubDate>Sat, 12 Sep 2026 10:02:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка почвы на тяжелые металлы и пестициды 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-pochvy-na-tyazhelye-metally-i-pestitsidy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-pochvy-na-tyazhelye-metally-i-pestitsidy-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 10:02:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
