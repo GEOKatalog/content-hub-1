@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:40:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:53:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Инвентаризация продуктов 2026: полный справочник</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-produktov-2026-polnyy-spravochnik.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-produktov-2026-polnyy-spravochnik.html</guid>
+    <pubDate>Sat, 12 Sep 2026 13:53:35 GMT</pubDate>
+  </item>
   <item>
     <title>Как оспорить выкупную цену аварийного жилья в Ростове</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-osporit-vykupnuyu-tsenu-avariynogo-zhilya-v-rostove.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/turisticheskiy-nalog-dlya-gostevykh-domov-gelendzhika-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/turisticheskiy-nalog-dlya-gostevykh-domov-gelendzhika-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 05:13:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как самозанятый сэкономил 87 000 ₽ на налогах в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-samozanyatyy-sekonomil-87-000-na-nalogakh-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-samozanyatyy-sekonomil-87-000-na-nalogakh-v-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 05:12:47 GMT</pubDate>
   </item>
   </channel>
 </rss>
