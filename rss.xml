@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 21:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:54:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Единое пособие 2026: проверка условий для семей Уфы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-2026-proverka-usloviy-dlya-semey-ufy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-2026-proverka-usloviy-dlya-semey-ufy.html</guid>
+    <pubDate>Sat, 12 Sep 2026 21:54:31 GMT</pubDate>
+  </item>
   <item>
     <title>Единое пособие 2026: условия для семей с детьми</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-2026-usloviya-dlya-semey-s-detmi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/grafik-zanyatiy-dlya-detey-4-5-let-pravila-sanpin-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/grafik-zanyatiy-dlya-detey-4-5-let-pravila-sanpin-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 19:35:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>СанПиН 2026: занятия для детей 4-5 лет</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-zanyatiya-dlya-detey-4-5-let.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-zanyatiya-dlya-detey-4-5-let.html</guid>
-    <pubDate>Sat, 12 Sep 2026 19:34:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
