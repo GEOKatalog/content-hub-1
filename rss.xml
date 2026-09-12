@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:14:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Школьная форма 2026: ГОСТ, СанПиН и цены</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shkolnaya-forma-2026-gost-sanpin-i-tseny.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shkolnaya-forma-2026-gost-sanpin-i-tseny.html</guid>
+    <pubDate>Sat, 12 Sep 2026 19:14:59 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН 2026: питание в ДОУ и окупаемость</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-pitanie-v-dou-i-okupaemost.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-zaloga-v-reestre-fnp-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-zaloga-v-reestre-fnp-spravochnik-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 14:03:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продажа авто из такси с залогом: выгода и сроки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-avto-iz-taksi-s-zalogom-vygoda-i-sroki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-avto-iz-taksi-s-zalogom-vygoda-i-sroki.html</guid>
-    <pubDate>Sat, 12 Sep 2026 14:02:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
