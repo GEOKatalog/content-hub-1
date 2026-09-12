@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 07:33:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:33:27 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как сформулировать EVP в 2026: гид для пермских компаний</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sformulirovat-evp-v-2026-gid-dlya-permskikh-kompaniy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sformulirovat-evp-v-2026-gid-dlya-permskikh-kompaniy.html</guid>
+    <pubDate>Sat, 12 Sep 2026 07:33:27 GMT</pubDate>
+  </item>
   <item>
     <title>Документы администратора салона красоты в Перми 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-administratora-salona-krasoty-v-permi-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sezonnyy-trudovoy-dogovor-v-stroitelstve-pravila-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sezonnyy-trudovoy-dogovor-v-stroitelstve-pravila-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 00:22:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Заселение с детьми в Крыму 2026: правила и цены</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-s-detmi-v-krymu-2026-pravila-i-tseny.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-s-detmi-v-krymu-2026-pravila-i-tseny.html</guid>
-    <pubDate>Fri, 11 Sep 2026 23:24:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
