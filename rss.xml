@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 21:51:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:51:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Программа для отчетности XBRL-CSV 2.0: обзор 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/programma-dlya-otchetnosti-xbrl-csv-2-0-obzor-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/programma-dlya-otchetnosti-xbrl-csv-2-0-obzor-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 21:51:22 GMT</pubDate>
+  </item>
   <item>
     <title>Требования к аналитическому отчету для IPO в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-analiticheskomu-otchetu-dlya-ipo-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/skolko-dolzhen-spat-rebenok-v-2-goda-sanpin-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/skolko-dolzhen-spat-rebenok-v-2-goda-sanpin-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 19:28:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сколько должен спать ребенок в 2 года по СанПиН 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/skolko-dolzhen-spat-rebenok-v-2-goda-po-sanpin-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/skolko-dolzhen-spat-rebenok-v-2-goda-po-sanpin-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 19:27:43 GMT</pubDate>
   </item>
   </channel>
 </rss>
