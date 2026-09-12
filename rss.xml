@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:11:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ Р 72509-2026: классы отделки и укладка плитки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72509-2026-klassy-otdelki-i-ukladka-plitki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72509-2026-klassy-otdelki-i-ukladka-plitki.html</guid>
+    <pubDate>Sat, 12 Sep 2026 16:11:54 GMT</pubDate>
+  </item>
   <item>
     <title>Уборка пекарни: клининг недорого в Махачкале</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/uborka-pekarni-klining-nedorogo-v-makhachkale.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/svod-pravil-dlya-dachnikov-2026-roi-uchastka-i-skrytye-izder.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/svod-pravil-dlya-dachnikov-2026-roi-uchastka-i-skrytye-izder.html</guid>
     <pubDate>Sat, 12 Sep 2026 08:44:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>8 месяцев ожидания: нарушение или норма</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/8-mesyatsev-ozhidaniya-narushenie-ili-norma.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/8-mesyatsev-ozhidaniya-narushenie-ili-norma.html</guid>
-    <pubDate>Sat, 12 Sep 2026 08:44:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
