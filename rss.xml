@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:39:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Школа не вправе требовать лишние бумаги: выгода</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shkola-ne-vprave-trebovat-lishnie-bumagi-vygoda.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shkola-ne-vprave-trebovat-lishnie-bumagi-vygoda.html</guid>
+    <pubDate>Sat, 12 Sep 2026 18:39:26 GMT</pubDate>
+  </item>
   <item>
     <title>Документы при зачислении в школу 2026: что школа не вправе требовать</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-pri-zachislenii-v-shkolu-2026-chto-shkola-ne-vprav.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovoe-uvedomlenie-i-srok-osparivaniya-kadastra.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovoe-uvedomlenie-i-srok-osparivaniya-kadastra.html</guid>
     <pubDate>Sat, 12 Sep 2026 11:38:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Уборка после ремонта в Ростове: алгоритм 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/uborka-posle-remonta-v-rostove-algoritm-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uborka-posle-remonta-v-rostove-algoritm-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 11:38:31 GMT</pubDate>
   </item>
   </channel>
 </rss>
