@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 07:33:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:34:04 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Интервью с сотрудниками в Перми: гид по EVP 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/intervyu-s-sotrudnikami-v-permi-gid-po-evp-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/intervyu-s-sotrudnikami-v-permi-gid-po-evp-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 07:34:04 GMT</pubDate>
+  </item>
   <item>
     <title>Интервью с сотрудниками в Перми: как узнать ожидания</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/intervyu-s-sotrudnikami-v-permi-kak-uznat-ozhidaniya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ezhegodnaya-semeynaya-vyplata-v-krymu-2026-kak-poluchit.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ezhegodnaya-semeynaya-vyplata-v-krymu-2026-kak-poluchit.html</guid>
     <pubDate>Sat, 12 Sep 2026 00:23:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как построить финансовую модель объекта в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-postroit-finansovuyu-model-obekta-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-postroit-finansovuyu-model-obekta-v-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 00:23:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
