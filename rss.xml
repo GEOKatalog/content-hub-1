@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 21:55:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:56:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Господдержка IT-стартапов Башкортостана 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gospodderzhka-it-startapov-bashkortostana-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gospodderzhka-it-startapov-bashkortostana-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 21:56:20 GMT</pubDate>
+  </item>
   <item>
     <title>Закон о риелторах 2026: статус и прогнозы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zakon-o-rieltorakh-2026-status-i-prognozy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/edinyy-standart-shkolnoy-formy-chto-reshaet-shkola-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/edinyy-standart-shkolnoy-formy-chto-reshaet-shkola-v-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 19:39:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ Р 71582-2024: школьная форма 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-71582-2024-shkolnaya-forma-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-71582-2024-shkolnaya-forma-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 19:38:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
