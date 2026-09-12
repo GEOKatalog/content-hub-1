@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:51:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:51:18 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Профстандарт агент-консультант в Уфе: обязанности 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-agent-konsultant-v-ufe-obyazannosti-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-agent-konsultant-v-ufe-obyazannosti-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 20:51:18 GMT</pubDate>
+  </item>
   <item>
     <title>Каталог репетиторов по инвестанализу в Уфе на 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-repetitorov-po-investanalizu-v-ufe-na-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-chto-izmenilos-v-numeratsii-i-podnosakh.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-chto-izmenilos-v-numeratsii-i-podnosakh.html</guid>
     <pubDate>Sat, 12 Sep 2026 19:14:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>СанПиН 2026: новые подносы, старые нормы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-novye-podnosy-starye-normy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-novye-podnosy-starye-normy.html</guid>
-    <pubDate>Sat, 12 Sep 2026 19:13:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
