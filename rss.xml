@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:15:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Школьная форма 2026: справочник по ГОСТ и ценам</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shkolnaya-forma-2026-spravochnik-po-gost-i-tsenam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shkolnaya-forma-2026-spravochnik-po-gost-i-tsenam.html</guid>
+    <pubDate>Sat, 12 Sep 2026 19:15:40 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН 2026: инструкция для родителей 6–7 лет</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-instruktsiya-dlya-roditeley-6-7-let.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-avto-v-krasnoyarske-okupaemost-i-vygoda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-avto-v-krasnoyarske-okupaemost-i-vygoda.html</guid>
     <pubDate>Sat, 12 Sep 2026 14:03:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка залога в реестре ФНП: каталог 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-zaloga-v-reestre-fnp-katalog-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-zaloga-v-reestre-fnp-katalog-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 14:03:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
