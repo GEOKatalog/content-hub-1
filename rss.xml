@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 21:51:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:52:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Программа для отчетности XBRL-CSV 2.0: каталог 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/programma-dlya-otchetnosti-xbrl-csv-2-0-katalog-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/programma-dlya-otchetnosti-xbrl-csv-2-0-katalog-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 21:52:02 GMT</pubDate>
+  </item>
   <item>
     <title>XBRL-CSV 2.0 для профучастников: гид по выбору софта 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/xbrl-csv-2-0-dlya-profuchastnikov-gid-po-vyboru-softa-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/krizis-3-let-u-rebenka-chto-delat-roditelyam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/krizis-3-let-u-rebenka-chto-delat-roditelyam.html</guid>
     <pubDate>Sat, 12 Sep 2026 19:31:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Частный детский сад в Саратове для детей 2–4 лет: гид по выбору</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/chastnyy-detskiy-sad-v-saratove-dlya-detey-2-4-let-gid-po-vy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chastnyy-detskiy-sad-v-saratove-dlya-detey-2-4-let-gid-po-vy.html</guid>
-    <pubDate>Sat, 12 Sep 2026 19:30:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
