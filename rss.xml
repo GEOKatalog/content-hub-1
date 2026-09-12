@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 06:23:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 06:23:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Шаблон Остервальдера: инструкция 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shablon-ostervaldera-instruktsiya-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shablon-ostervaldera-instruktsiya-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 06:23:36 GMT</pubDate>
+  </item>
   <item>
     <title>Нормативы пожарной безопасности для студий: ППР и СП</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-pozharnoy-bezopasnosti-dlya-studiy-ppr-i-sp.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oformlenie-dachnogo-doma-v-krymu-vygoda-i-roi.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/oformlenie-dachnogo-doma-v-krymu-vygoda-i-roi.html</guid>
     <pubDate>Fri, 11 Sep 2026 23:21:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Рейтинг кадастровых инженеров Крыма 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-kadastrovykh-inzhenerov-kryma-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-kadastrovykh-inzhenerov-kryma-2026.html</guid>
-    <pubDate>Fri, 11 Sep 2026 23:20:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
