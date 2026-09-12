@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:06:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Федеральный закон № 431-ФЗ: индексация пенсий 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/federalnyy-zakon-431-fz-indeksatsiya-pensiy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/federalnyy-zakon-431-fz-indeksatsiya-pensiy-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 10:06:06 GMT</pubDate>
+  </item>
   <item>
     <title>Индексация пенсий в 2026: как проверить расчет</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/indeksatsiya-pensiy-v-2026-kak-proverit-raschet.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ekspata-cherez-gosuslugi-sravnenie-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ekspata-cherez-gosuslugi-sravnenie-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 02:48:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Упаковка мебели при переезде: правила 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-mebeli-pri-pereezde-pravila-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-mebeli-pri-pereezde-pravila-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 02:48:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
