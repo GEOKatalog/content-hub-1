@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:43:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:43:19 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Прием в первый класс Саратов 2026 через Госуслуги</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/priem-v-pervyy-klass-saratov-2026-cherez-gosuslugi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/priem-v-pervyy-klass-saratov-2026-cherez-gosuslugi.html</guid>
+    <pubDate>Sat, 12 Sep 2026 18:43:19 GMT</pubDate>
+  </item>
   <item>
     <title>Детский невролог в Саратове: поиск и запись</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/detskiy-nevrolog-v-saratove-poisk-i-zapis.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-yaponskikh-avto-starshe-10-let-gid-po-sto-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-yaponskikh-avto-starshe-10-let-gid-po-sto-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 13:54:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Транспортный налог на японское авто старше 15 лет: экономия и риски</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/transportnyy-nalog-na-yaponskoe-avto-starshe-15-let-ekonomiy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/transportnyy-nalog-na-yaponskoe-avto-starshe-15-let-ekonomiy.html</guid>
-    <pubDate>Sat, 12 Sep 2026 13:53:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
