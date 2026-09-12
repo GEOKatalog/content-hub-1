@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:40:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:40:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Реестр стартапов Башкортостана: упрощённая аккредитация ИТ</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-startapov-bashkortostana-uproshchyonnaya-akkreditatsi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reestr-startapov-bashkortostana-uproshchyonnaya-akkreditatsi.html</guid>
+    <pubDate>Sat, 12 Sep 2026 20:40:46 GMT</pubDate>
+  </item>
   <item>
     <title>Косметический ремонт в Уфе 2026: фикс-смета без посредников</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kosmeticheskiy-remont-v-ufe-2026-fiks-smeta-bez-posrednikov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/priem-v-pervyy-klass-saratov-2026-cherez-gosuslugi.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/priem-v-pervyy-klass-saratov-2026-cherez-gosuslugi.html</guid>
     <pubDate>Sat, 12 Sep 2026 18:43:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Детский невролог в Саратове: поиск и запись</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/detskiy-nevrolog-v-saratove-poisk-i-zapis.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/detskiy-nevrolog-v-saratove-poisk-i-zapis.html</guid>
-    <pubDate>Sat, 12 Sep 2026 18:43:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
