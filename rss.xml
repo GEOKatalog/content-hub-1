@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:03:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:04:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как изучить 10-15 объявлений и не продешевить</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-izuchit-10-15-obyavleniy-i-ne-prodeshevit.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-izuchit-10-15-obyavleniy-i-ne-prodeshevit.html</guid>
+    <pubDate>Sat, 12 Sep 2026 14:04:22 GMT</pubDate>
+  </item>
   <item>
     <title>Снятие с учета после продажи авто: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snyatie-s-ucheta-posle-prodazhi-avto-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/direkt-vs-telegram-byudzhet-2026-v-permi.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/direkt-vs-telegram-byudzhet-2026-v-permi.html</guid>
     <pubDate>Sat, 12 Sep 2026 07:33:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Масштабирование рекламных кампаний в поиске 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/masshtabirovanie-reklamnykh-kampaniy-v-poiske-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/masshtabirovanie-reklamnykh-kampaniy-v-poiske-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 07:32:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
