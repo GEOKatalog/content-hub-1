@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:26:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:27:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сколько должен спать ребенок в 2 года по СанПиН 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/skolko-dolzhen-spat-rebenok-v-2-goda-po-sanpin-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/skolko-dolzhen-spat-rebenok-v-2-goda-po-sanpin-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 19:27:43 GMT</pubDate>
+  </item>
   <item>
     <title>Семейная выплата 2026: возврат НДФЛ для саратовских семей</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-vyplata-2026-vozvrat-ndfl-dlya-saratovskikh-semey.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kliningovye-sluzhby-i-uborka-algoritm-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kliningovye-sluzhby-i-uborka-algoritm-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 16:12:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ Р 51870-2014: приемка уборки после ремонта</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-51870-2014-priemka-uborki-posle-remonta.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-51870-2014-priemka-uborki-posle-remonta.html</guid>
-    <pubDate>Sat, 12 Sep 2026 16:12:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
