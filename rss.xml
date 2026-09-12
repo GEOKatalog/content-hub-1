@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 23:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 23:04:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Квоты на иностранцев 2026: справочник по отраслям</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kvoty-na-inostrantsev-2026-spravochnik-po-otraslyam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kvoty-na-inostrantsev-2026-spravochnik-po-otraslyam.html</guid>
+    <pubDate>Sat, 12 Sep 2026 23:04:53 GMT</pubDate>
+  </item>
   <item>
     <title>Оплата ЖКХ до 15 числа: новые правила с 2026 года</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oplata-zhkkh-do-15-chisla-novye-pravila-s-2026-goda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sostav-proektnykh-materialov-v-ufe-2026-stavka-i-stsenarii.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sostav-proektnykh-materialov-v-ufe-2026-stavka-i-stsenarii.html</guid>
     <pubDate>Sat, 12 Sep 2026 20:44:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ставка дисконтирования в проектах ИЖС Уфы 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/stavka-diskontirovaniya-v-proektakh-izhs-ufy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/stavka-diskontirovaniya-v-proektakh-izhs-ufy-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 20:44:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
