@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:49:19 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Коды ОКВЭД для ИТ-аккредитации: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kody-okved-dlya-it-akkreditatsii-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kody-okved-dlya-it-akkreditatsii-gid-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 20:49:19 GMT</pubDate>
+  </item>
   <item>
     <title>Расчетный счет для ИП в Уфе: как открыть бесплатно</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/raschetnyy-schet-dlya-ip-v-ufe-kak-otkryt-besplatno.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/krizis-trekh-let-poshagovyy-reglament-deystviy-roditeley.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/krizis-trekh-let-poshagovyy-reglament-deystviy-roditeley.html</guid>
     <pubDate>Sat, 12 Sep 2026 19:10:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Наблюдение за связной речью и звуковым анализом у дошкольников 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nablyudenie-za-svyaznoy-rechyu-i-zvukovym-analizom-u-doshkol.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nablyudenie-za-svyaznoy-rechyu-i-zvukovym-analizom-u-doshkol.html</guid>
-    <pubDate>Sat, 12 Sep 2026 19:08:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
