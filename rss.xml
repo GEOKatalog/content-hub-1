@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:36:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН для детей 5-6 лет: нормы занятий 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-detey-5-6-let-normy-zanyatiy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-detey-5-6-let-normy-zanyatiy-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 19:36:49 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг программ подготовки: сверка занятий 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-programm-podgotovki-sverka-zanyatiy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/servis-poiska-zakazov-samozanyatym-v-makhachkale.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/servis-poiska-zakazov-samozanyatym-v-makhachkale.html</guid>
     <pubDate>Sat, 12 Sep 2026 16:16:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Штраф за невыдачу чека самозанятым в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-za-nevydachu-cheka-samozanyatym-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-za-nevydachu-cheka-samozanyatym-v-2026-godu.html</guid>
-    <pubDate>Sat, 12 Sep 2026 16:16:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
