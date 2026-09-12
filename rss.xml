@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:25:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:26:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Смета на ремонт: экономия до 30% бюджета</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/smeta-na-remont-ekonomiya-do-30-byudzheta.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/smeta-na-remont-ekonomiya-do-30-byudzheta.html</guid>
+    <pubDate>Sat, 12 Sep 2026 18:26:36 GMT</pubDate>
+  </item>
   <item>
     <title>Пособие до 1,5 лет 2026: ROI каналов подачи в Саратове</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/posobie-do-1-5-let-2026-roi-kanalov-podachi-v-saratove.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/propiska-v-zagorodnom-dome-sroki-i-riski-otkaza.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/propiska-v-zagorodnom-dome-sroki-i-riski-otkaza.html</guid>
     <pubDate>Sat, 12 Sep 2026 11:34:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как оформить прописку в загородном доме в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-oformit-propisku-v-zagorodnom-dome-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-oformit-propisku-v-zagorodnom-dome-v-2026-godu.html</guid>
-    <pubDate>Sat, 12 Sep 2026 11:34:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
