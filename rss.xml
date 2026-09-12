@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:02:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка почвы на тяжелые металлы и пестициды 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-pochvy-na-tyazhelye-metally-i-pestitsidy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-pochvy-na-tyazhelye-metally-i-pestitsidy-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 10:02:14 GMT</pubDate>
+  </item>
   <item>
     <title>Шумные соседи: протокол, штраф или суд в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shumnye-sosedi-protokol-shtraf-ili-sud-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sotsialnyy-rieltor-dlya-pereselentsev-roi-i-vygoda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sotsialnyy-rieltor-dlya-pereselentsev-roi-i-vygoda.html</guid>
     <pubDate>Sat, 12 Sep 2026 02:44:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Перечень крупногабаритных предметов: гид по Воронежу 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/perechen-krupnogabaritnykh-predmetov-gid-po-voronezhu-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/perechen-krupnogabaritnykh-predmetov-gid-po-voronezhu-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 01:34:49 GMT</pubDate>
   </item>
   </channel>
 </rss>
