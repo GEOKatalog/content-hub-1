@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:12:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ Р 51870-2014: приемка уборки после ремонта</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-51870-2014-priemka-uborki-posle-remonta.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-51870-2014-priemka-uborki-posle-remonta.html</guid>
+    <pubDate>Sat, 12 Sep 2026 16:12:36 GMT</pubDate>
+  </item>
   <item>
     <title>Найти плиточника в ванную: рейтинг способов 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nayti-plitochnika-v-vannuyu-reyting-sposobov-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/roi-na-sotsproektakh-prodvizhenie-pomoshchi-vdovtsam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/roi-na-sotsproektakh-prodvizhenie-pomoshchi-vdovtsam.html</guid>
     <pubDate>Sat, 12 Sep 2026 08:44:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Штрафы дачникам 2026: сжигание мусора и борщевик</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-dachnikam-2026-szhiganie-musora-i-borshchevik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-dachnikam-2026-szhiganie-musora-i-borshchevik.html</guid>
-    <pubDate>Sat, 12 Sep 2026 08:44:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
