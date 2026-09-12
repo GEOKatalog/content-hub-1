@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:39:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:39:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Уборка после ремонта в Ростове: СанПиН 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/uborka-posle-remonta-v-rostove-sanpin-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uborka-posle-remonta-v-rostove-sanpin-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 11:39:35 GMT</pubDate>
+  </item>
   <item>
     <title>Самозанятый 2026: экономия 9% на аренде легально</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-2026-ekonomiya-9-na-arende-legalno.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-seo-prodvizheniya-kurortnogo-kompleksa-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-seo-prodvizheniya-kurortnogo-kompleksa-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 03:58:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регистрация гостевого дома в реестре: Геленджик 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-gostevogo-doma-v-reestre-gelendzhik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-gostevogo-doma-v-reestre-gelendzhik-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 03:58:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
