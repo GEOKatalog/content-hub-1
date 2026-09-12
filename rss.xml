@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 21:45:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:45:27 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Инвестиционный вычет в Башкортостане 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/investitsionnyy-vychet-v-bashkortostane-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/investitsionnyy-vychet-v-bashkortostane-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 21:45:27 GMT</pubDate>
+  </item>
   <item>
     <title>Лицензии на ПО и услуги: НДС-разделение 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenzii-na-po-i-uslugi-nds-razdelenie-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shkolnaya-forma-2026-spravochnik-po-lokalnym-aktam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/shkolnaya-forma-2026-spravochnik-po-lokalnym-aktam.html</guid>
     <pubDate>Sat, 12 Sep 2026 19:16:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Школьная форма 2026: справочник по ГОСТ и ценам</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/shkolnaya-forma-2026-spravochnik-po-gost-i-tsenam.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shkolnaya-forma-2026-spravochnik-po-gost-i-tsenam.html</guid>
-    <pubDate>Sat, 12 Sep 2026 19:15:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
