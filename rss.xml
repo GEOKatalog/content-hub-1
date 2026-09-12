@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:43:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:43:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ЦИМ по приказу Минстроя в Уфе: гид для проектировщика</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tsim-po-prikazu-minstroya-v-ufe-gid-dlya-proektirovshchika.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsim-po-prikazu-minstroya-v-ufe-gid-dlya-proektirovshchika.html</guid>
+    <pubDate>Sat, 12 Sep 2026 20:43:31 GMT</pubDate>
+  </item>
   <item>
     <title>Миелофонд-2026: регламент подачи заявки до 30 сентября</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mielofond-2026-reglament-podachi-zayavki-do-30-sentyabrya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podgotovka-k-shkole-2026-obyazatelna-ili-net.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podgotovka-k-shkole-2026-obyazatelna-ili-net.html</guid>
     <pubDate>Sat, 12 Sep 2026 18:51:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Субботние занятия для будущих первоклассников: обзор 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/subbotnie-zanyatiya-dlya-budushchikh-pervoklassnikov-obzor-2.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/subbotnie-zanyatiya-dlya-budushchikh-pervoklassnikov-obzor-2.html</guid>
-    <pubDate>Sat, 12 Sep 2026 18:50:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
