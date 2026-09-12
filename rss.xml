@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:13:04 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН 2026: новые подносы, старые нормы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-novye-podnosy-starye-normy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-novye-podnosy-starye-normy.html</guid>
+    <pubDate>Sat, 12 Sep 2026 19:13:04 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН для детских садов 2026: требования к занятиям и питанию</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-detskikh-sadov-2026-trebovaniya-k-zanyatiyam-i-p.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/paket-dannykh-po-3-5-postavshchikam-algoritm-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/paket-dannykh-po-3-5-postavshchikam-algoritm-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 14:02:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Какие авто дилеры не берут в трейд-ин в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kakie-avto-dilery-ne-berut-v-treyd-in-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakie-avto-dilery-ne-berut-v-treyd-in-v-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 14:01:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
