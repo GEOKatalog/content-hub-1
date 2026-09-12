@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:13:42 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Предметные кадры 220 220: гид по Махачкале 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/predmetnye-kadry-220-220-gid-po-makhachkale-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/predmetnye-kadry-220-220-gid-po-makhachkale-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 16:13:42 GMT</pubDate>
+  </item>
   <item>
     <title>Журнал уборки для пекарни: образец и правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zhurnal-uborki-dlya-pekarni-obrazets-i-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sidelka-dlya-babushki-v-volgograde-polnyy-katalog-tsen-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sidelka-dlya-babushki-v-volgograde-polnyy-katalog-tsen-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 08:45:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Куда одинокому пенсионеру в Волгограде обратиться бесплатно</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kuda-odinokomu-pensioneru-v-volgograde-obratitsya-besplatno.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kuda-odinokomu-pensioneru-v-volgograde-obratitsya-besplatno.html</guid>
-    <pubDate>Sat, 12 Sep 2026 08:45:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
