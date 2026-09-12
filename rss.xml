@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:46:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:47:10 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Штрафы за заброшенный участок и борщевик в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-zabroshennyy-uchastok-i-borshchevik-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-zabroshennyy-uchastok-i-borshchevik-v-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 08:47:10 GMT</pubDate>
+  </item>
   <item>
     <title>Соцзащита не даёт письменный отказ: алгоритм 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sotszashchita-ne-dayot-pismennyy-otkaz-algoritm-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-snyat-kvartiru-s-zhivotnymi-i-detmi-v-voronezhe-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-snyat-kvartiru-s-zhivotnymi-i-detmi-v-voronezhe-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 01:34:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Правила содержания животных в съемной квартире Воронежа</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-soderzhaniya-zhivotnykh-v-semnoy-kvartire-voronezha.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-soderzhaniya-zhivotnykh-v-semnoy-kvartire-voronezha.html</guid>
-    <pubDate>Sat, 12 Sep 2026 01:33:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
