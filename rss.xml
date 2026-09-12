@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 02:48:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 02:48:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация экспата через Госуслуги: сравнение 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ekspata-cherez-gosuslugi-sravnenie-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ekspata-cherez-gosuslugi-sravnenie-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 02:48:23 GMT</pubDate>
+  </item>
   <item>
     <title>Упаковка мебели при переезде: правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-mebeli-pri-pereezde-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-akseleratory-dlya-it-startapov-s-finansirovaniem-20.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-akseleratory-dlya-it-startapov-s-finansirovaniem-20.html</guid>
     <pubDate>Fri, 11 Sep 2026 19:58:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как открыть IT-компанию в Уфе: документы 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-otkryt-it-kompaniyu-v-ufe-dokumenty-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-otkryt-it-kompaniyu-v-ufe-dokumenty-2026.html</guid>
-    <pubDate>Fri, 11 Sep 2026 19:57:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
