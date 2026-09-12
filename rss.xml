@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:11:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Уборка пекарни: клининг недорого в Махачкале</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/uborka-pekarni-klining-nedorogo-v-makhachkale.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uborka-pekarni-klining-nedorogo-v-makhachkale.html</guid>
+    <pubDate>Sat, 12 Sep 2026 16:11:44 GMT</pubDate>
+  </item>
   <item>
     <title>Аудит объекта перед уборкой: пошаговый разбор</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-obekta-pered-uborkoy-poshagovyy-razbor.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/8-mesyatsev-ozhidaniya-narushenie-ili-norma.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/8-mesyatsev-ozhidaniya-narushenie-ili-norma.html</guid>
     <pubDate>Sat, 12 Sep 2026 08:44:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как пожаловаться на соцзащиту за отказ в сиделке</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pozhalovatsya-na-sotszashchitu-za-otkaz-v-sidelke.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-pozhalovatsya-na-sotszashchitu-za-otkaz-v-sidelke.html</guid>
-    <pubDate>Sat, 12 Sep 2026 08:43:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
