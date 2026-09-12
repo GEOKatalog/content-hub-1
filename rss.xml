@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 07:32:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:33:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Директ vs Telegram: бюджет 2026 в Перми</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/direkt-vs-telegram-byudzhet-2026-v-permi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/direkt-vs-telegram-byudzhet-2026-v-permi.html</guid>
+    <pubDate>Sat, 12 Sep 2026 07:33:09 GMT</pubDate>
+  </item>
   <item>
     <title>Масштабирование рекламных кампаний в поиске 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/masshtabirovanie-reklamnykh-kampaniy-v-poiske-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dachnaya-amnistiya-2026-usloviya-sroki-i-registratsiya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dachnaya-amnistiya-2026-usloviya-sroki-i-registratsiya.html</guid>
     <pubDate>Fri, 11 Sep 2026 23:24:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Заселение в отель с детьми 2026: правила и решения</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-otel-s-detmi-2026-pravila-i-resheniya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-otel-s-detmi-2026-pravila-i-resheniya.html</guid>
-    <pubDate>Fri, 11 Sep 2026 23:24:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
