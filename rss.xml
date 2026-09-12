@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:02:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Пакет данных по 3–5 поставщикам: алгоритм 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/paket-dannykh-po-3-5-postavshchikam-algoritm-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/paket-dannykh-po-3-5-postavshchikam-algoritm-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 14:02:11 GMT</pubDate>
+  </item>
   <item>
     <title>Какие авто дилеры не берут в трейд-ин в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kakie-avto-dilery-ne-berut-v-treyd-in-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/top-servisov-avtomatizatsii-reklamnykh-kabinetov-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-servisov-avtomatizatsii-reklamnykh-kabinetov-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 06:24:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Детальная смета сэкономила 34% бюджета</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/detalnaya-smeta-sekonomila-34-byudzheta.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/detalnaya-smeta-sekonomila-34-byudzheta.html</guid>
-    <pubDate>Sat, 12 Sep 2026 06:24:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
