@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:41:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:41:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ИТ-аккредитация 2026 в Уфе: доходы и зарплата под контролем</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/it-akkreditatsiya-2026-v-ufe-dokhody-i-zarplata-pod-kontrole.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/it-akkreditatsiya-2026-v-ufe-dokhody-i-zarplata-pod-kontrole.html</guid>
+    <pubDate>Sat, 12 Sep 2026 20:41:53 GMT</pubDate>
+  </item>
   <item>
     <title>Методика оценки инвестиций 2026: NPV, IRR, окупаемость</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/metodika-otsenki-investitsiy-2026-npv-irr-okupaemost.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podgotovka-k-shkole-6-let-repetitor-v-saratove.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podgotovka-k-shkole-6-let-repetitor-v-saratove.html</guid>
     <pubDate>Sat, 12 Sep 2026 18:46:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Репетитор к школе в Саратове: окупаемость и цены</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-k-shkole-v-saratove-okupaemost-i-tseny.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-k-shkole-v-saratove-okupaemost-i-tseny.html</guid>
-    <pubDate>Sat, 12 Sep 2026 18:44:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
