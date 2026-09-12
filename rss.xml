@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 21:47:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:48:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>РИНВ Башкортостан: обзор решений 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/rinv-bashkortostan-obzor-resheniy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rinv-bashkortostan-obzor-resheniy-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 21:48:01 GMT</pubDate>
+  </item>
   <item>
     <title>Каталог РКО для ИП в Уфе с бесплатным обслуживанием 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-rko-dlya-ip-v-ufe-s-besplatnym-obsluzhivaniem-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podgotovka-k-shkole-6-7-let-po-fgos-v-saratove.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podgotovka-k-shkole-6-7-let-po-fgos-v-saratove.html</guid>
     <pubDate>Sat, 12 Sep 2026 19:19:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Новые СанПиН 2026: окупаемость проверки ДОУ за 1 день</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/novye-sanpin-2026-okupaemost-proverki-dou-za-1-den.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/novye-sanpin-2026-okupaemost-proverki-dou-za-1-den.html</guid>
-    <pubDate>Sat, 12 Sep 2026 19:18:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
