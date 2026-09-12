@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:35:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:35:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Рейтинг программ подготовки: сверка занятий 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-programm-podgotovki-sverka-zanyatiy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-programm-podgotovki-sverka-zanyatiy-2026.html</guid>
+    <pubDate>Sat, 12 Sep 2026 19:35:43 GMT</pubDate>
+  </item>
   <item>
     <title>График занятий для детей 4-5 лет: правила СанПиН 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/grafik-zanyatiy-dlya-detey-4-5-let-pravila-sanpin-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-za-nevydachu-cheka-samozanyatym-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-za-nevydachu-cheka-samozanyatym-v-2026-godu.html</guid>
     <pubDate>Sat, 12 Sep 2026 16:16:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Класс загрязнений в договоре и акт приёмки уборки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/klass-zagryazneniy-v-dogovore-i-akt-priyomki-uborki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klass-zagryazneniy-v-dogovore-i-akt-priyomki-uborki.html</guid>
-    <pubDate>Sat, 12 Sep 2026 16:15:49 GMT</pubDate>
   </item>
   </channel>
 </rss>
