@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 22:55:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 22:55:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Временная регистрация в Крыму: оформление через Госуслуги</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-v-krymu-oformlenie-cherez-gosuslugi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-v-krymu-oformlenie-cherez-gosuslugi.html</guid>
+    <pubDate>Sat, 12 Sep 2026 22:55:40 GMT</pubDate>
+  </item>
   <item>
     <title>СРО для ИЖС или частная бригада: сравнение 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sro-dlya-izhs-ili-chastnaya-brigada-sravnenie-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-iskat-lokalnye-akty-shkoly-v-saratove.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-iskat-lokalnye-akty-shkoly-v-saratove.html</guid>
     <pubDate>Sat, 12 Sep 2026 19:45:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Школьная форма 2026: нужна ли первокласснику</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/shkolnaya-forma-2026-nuzhna-li-pervoklassniku.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shkolnaya-forma-2026-nuzhna-li-pervoklassniku.html</guid>
-    <pubDate>Sat, 12 Sep 2026 19:44:56 GMT</pubDate>
   </item>
   </channel>
 </rss>
