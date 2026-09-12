@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:44:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Профстандарт аналитика 2026: курс в Уфе или практика</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-analitika-2026-kurs-v-ufe-ili-praktika.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-analitika-2026-kurs-v-ufe-ili-praktika.html</guid>
+    <pubDate>Sat, 12 Sep 2026 20:44:24 GMT</pubDate>
+  </item>
   <item>
     <title>Профстандарт инвестиционного аналитика 2026: гид</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-investitsionnogo-analitika-2026-gid.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-perevesti-rebenka-na-smes-skhema-i-pravila-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-perevesti-rebenka-na-smes-skhema-i-pravila-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 18:52:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пособие до 1,5 лет в Саратове: документы 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/posobie-do-1-5-let-v-saratove-dokumenty-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/posobie-do-1-5-let-v-saratove-dokumenty-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 18:51:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
