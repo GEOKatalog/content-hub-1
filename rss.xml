@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 13:59:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:00:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Срочный выкуп неликвидных авто в Красноярске с выездом</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-vykup-nelikvidnykh-avto-v-krasnoyarske-s-vyezdom.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-vykup-nelikvidnykh-avto-v-krasnoyarske-s-vyezdom.html</guid>
+    <pubDate>Sat, 12 Sep 2026 14:00:11 GMT</pubDate>
+  </item>
   <item>
     <title>Продажа залогового авто: алгоритм безопасной сделки</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-zalogovogo-avto-algoritm-bezopasnoy-sdelki.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-studii-zvukozapisi-normy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-studii-zvukozapisi-normy-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 06:23:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пожарные нормы для студий: ст. 88, СП 1.13130, ППР</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnye-normy-dlya-studiy-st-88-sp-1-13130-ppr.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pozharnye-normy-dlya-studiy-st-88-sp-1-13130-ppr.html</guid>
-    <pubDate>Sat, 12 Sep 2026 06:22:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
