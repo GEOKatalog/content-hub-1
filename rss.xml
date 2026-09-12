@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:19:15 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Генеральная уборка по СанПиН 2026: регламент и цены</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/generalnaya-uborka-po-sanpin-2026-reglament-i-tseny.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/generalnaya-uborka-po-sanpin-2026-reglament-i-tseny.html</guid>
+    <pubDate>Sat, 12 Sep 2026 16:19:15 GMT</pubDate>
+  </item>
   <item>
     <title>НПД для мастеров ремонта: ставки 4 и 6% без деклараций</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/npd-dlya-masterov-remonta-stavki-4-i-6-bez-deklaratsiy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/indeksatsiya-pensiy-v-2026-kak-proverit-raschet.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/indeksatsiya-pensiy-v-2026-kak-proverit-raschet.html</guid>
     <pubDate>Sat, 12 Sep 2026 10:05:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Индексация страховой пенсии в 2026: как проверить расчет</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/indeksatsiya-strakhovoy-pensii-v-2026-kak-proverit-raschet.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/indeksatsiya-strakhovoy-pensii-v-2026-kak-proverit-raschet.html</guid>
-    <pubDate>Sat, 12 Sep 2026 10:05:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
