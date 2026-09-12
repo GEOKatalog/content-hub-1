@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 12 Sep 2026 07:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:32:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Оформление администратора салона: окупаемость за 2 месяца</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/oformlenie-administratora-salona-okupaemost-za-2-mesyatsa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/oformlenie-administratora-salona-okupaemost-za-2-mesyatsa.html</guid>
+    <pubDate>Sat, 12 Sep 2026 07:32:37 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка VIN в реестре залогов ФНП: бесплатно без регистрации</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vin-v-reestre-zalogov-fnp-besplatno-bez-registratsi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-vyplata-2026-v-krymu-kak-vernut-ndfl.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-vyplata-2026-v-krymu-kak-vernut-ndfl.html</guid>
     <pubDate>Fri, 11 Sep 2026 23:24:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сезонные договоры 2026: окупаемость и ROI</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sezonnye-dogovory-2026-okupaemost-i-roi.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sezonnye-dogovory-2026-okupaemost-i-roi.html</guid>
-    <pubDate>Fri, 11 Sep 2026 23:23:52 GMT</pubDate>
   </item>
   </channel>
 </rss>
