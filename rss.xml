@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 22:56:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 22:56:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Уголок потребителя 2026: справочник по проверкам</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ugolok-potrebitelya-2026-spravochnik-po-proverkam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ugolok-potrebitelya-2026-spravochnik-po-proverkam.html</guid>
+    <pubDate>Sun, 13 Sep 2026 22:56:52 GMT</pubDate>
+  </item>
   <item>
     <title>Что возить водителю в 2026: документы и штрафы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chto-vozit-voditelyu-v-2026-dokumenty-i-shtrafy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-kvartiru-320-mln-platyozh-8-mln-rubley-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-kvartiru-320-mln-platyozh-8-mln-rubley-v-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 13:15:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Квартира за 320 млн: годовой платёж 8 млн</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kvartira-za-320-mln-godovoy-platyozh-8-mln.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kvartira-za-320-mln-godovoy-platyozh-8-mln.html</guid>
-    <pubDate>Sun, 13 Sep 2026 13:14:43 GMT</pubDate>
   </item>
   </channel>
 </rss>
