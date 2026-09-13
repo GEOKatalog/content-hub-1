@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 13:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:13:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог на роскошь 2026: ставка 2,5% для объектов свыше 300 млн</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-roskosh-2026-stavka-2-5-dlya-obektov-svyshe-300-mln.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-roskosh-2026-stavka-2-5-dlya-obektov-svyshe-300-mln.html</guid>
+    <pubDate>Sun, 13 Sep 2026 13:13:22 GMT</pubDate>
+  </item>
   <item>
     <title>Нотариус Косенко на Б. Садовой: гид для владельцев жилья</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/notarius-kosenko-na-b-sadovoy-gid-dlya-vladeltsev-zhilya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-izmerit-tsennostnyy-stimul-rost-vovlechennosti-na-18.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-izmerit-tsennostnyy-stimul-rost-vovlechennosti-na-18.html</guid>
     <pubDate>Sun, 13 Sep 2026 05:11:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аутсорсинг бухгалтерии на УСН: рейтинг 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-bukhgalterii-na-usn-reyting-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-bukhgalterii-na-usn-reyting-2026.html</guid>
-    <pubDate>Sun, 13 Sep 2026 05:11:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
