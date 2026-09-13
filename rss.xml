@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 05:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 05:14:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Лимит НДС на УСН в 2026: расчет порога 20 млн для юга</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/limit-nds-na-usn-v-2026-raschet-poroga-20-mln-dlya-yuga.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/limit-nds-na-usn-v-2026-raschet-poroga-20-mln-dlya-yuga.html</guid>
+    <pubDate>Sun, 13 Sep 2026 05:14:47 GMT</pubDate>
+  </item>
   <item>
     <title>Поправки ЖК РФ 2024: что ждет отели и пансионаты Геленджика</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/popravki-zhk-rf-2024-chto-zhdet-oteli-i-pansionaty-gelendzhi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srok-uvedomleniya-o-zarubezhnoy-komandirovke-48-chasov-i-vyg.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/srok-uvedomleniya-o-zarubezhnoy-komandirovke-48-chasov-i-vyg.html</guid>
     <pubDate>Sun, 13 Sep 2026 01:41:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Штраф до 3000 рублей: правила для семей с животными</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-do-3000-rubley-pravila-dlya-semey-s-zhivotnymi.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-do-3000-rubley-pravila-dlya-semey-s-zhivotnymi.html</guid>
-    <pubDate>Sun, 13 Sep 2026 01:41:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
