@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 08:48:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:49:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Одиночество как источник тревоги: алгоритм самопомощи</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/odinochestvo-kak-istochnik-trevogi-algoritm-samopomoshchi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/odinochestvo-kak-istochnik-trevogi-algoritm-samopomoshchi.html</guid>
+    <pubDate>Sun, 13 Sep 2026 08:49:03 GMT</pubDate>
+  </item>
   <item>
     <title>Как интеллектуалу справиться с одиночеством: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-intellektualu-spravitsya-s-odinochestvom-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-vyezda-za-granitsu-dlya-sotrudnikov-s-gostaynoy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-vyezda-za-granitsu-dlya-sotrudnikov-s-gostaynoy.html</guid>
     <pubDate>Sun, 13 Sep 2026 02:59:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Транспортный налог 2026: как проверить расчет</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/transportnyy-nalog-2026-kak-proverit-raschet.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/transportnyy-nalog-2026-kak-proverit-raschet.html</guid>
-    <pubDate>Sun, 13 Sep 2026 02:58:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
