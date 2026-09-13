@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 00:24:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 00:25:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Отраслевые соглашения 2026: проверка рисков</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/otraslevye-soglasheniya-2026-proverka-riskov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otraslevye-soglasheniya-2026-proverka-riskov.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:25:09 GMT</pubDate>
+  </item>
   <item>
     <title>Дачная амнистия до 1998 года: пакет документов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dachnaya-amnistiya-do-1998-goda-paket-dokumentov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nayti-brigadu-na-remont-kvartiry-v-ufe-s-dogovorom.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nayti-brigadu-na-remont-kvartiry-v-ufe-s-dogovorom.html</guid>
     <pubDate>Sat, 12 Sep 2026 21:50:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Типовой устав или свой: регистрация ООО в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/tipovoy-ustav-ili-svoy-registratsiya-ooo-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tipovoy-ustav-ili-svoy-registratsiya-ooo-v-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 21:50:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
