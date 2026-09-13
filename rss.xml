@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 02:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 02:53:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Корпоративные командировки: что не применяется и как</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/korporativnye-komandirovki-chto-ne-primenyaetsya-i-kak.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/korporativnye-komandirovki-chto-ne-primenyaetsya-i-kak.html</guid>
+    <pubDate>Sun, 13 Sep 2026 02:53:46 GMT</pubDate>
+  </item>
   <item>
     <title>Как действовать, если машину заперли во дворе</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-deystvovat-esli-mashinu-zaperli-vo-dvore.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-doma-v-krymu-pered-pokupkoy-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-doma-v-krymu-pered-pokupkoy-gid-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 23:05:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аудит иностранных работников: ЕАЭС, патенты, ВКС</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-inostrannykh-rabotnikov-eaes-patenty-vks.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-inostrannykh-rabotnikov-eaes-patenty-vks.html</guid>
-    <pubDate>Sat, 12 Sep 2026 23:05:22 GMT</pubDate>
   </item>
   </channel>
 </rss>
