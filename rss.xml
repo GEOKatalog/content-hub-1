@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 01:33:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 01:33:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Права семьи с детьми и животными при статусе беженца: полный справочник 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prava-semi-s-detmi-i-zhivotnymi-pri-statuse-bezhentsa-polnyy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prava-semi-s-detmi-i-zhivotnymi-pri-statuse-bezhentsa-polnyy.html</guid>
+    <pubDate>Sun, 13 Sep 2026 01:33:32 GMT</pubDate>
+  </item>
   <item>
     <title>Животные и нормативы: тупик при заселении</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zhivotnye-i-normativy-tupik-pri-zaselenii.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-2026-proverka-usloviy-dlya-semey-ufy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-2026-proverka-usloviy-dlya-semey-ufy.html</guid>
     <pubDate>Sat, 12 Sep 2026 21:54:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Единое пособие 2026: условия для семей с детьми</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-2026-usloviya-dlya-semey-s-detmi.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-2026-usloviya-dlya-semey-s-detmi.html</guid>
-    <pubDate>Sat, 12 Sep 2026 21:54:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
