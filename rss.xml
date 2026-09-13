@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 22:52:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 22:52:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка авто через Госуслуги 2026: цены и порядок</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-avto-cherez-gosuslugi-2026-tseny-i-poryadok.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-avto-cherez-gosuslugi-2026-tseny-i-poryadok.html</guid>
+    <pubDate>Sun, 13 Sep 2026 22:52:44 GMT</pubDate>
+  </item>
   <item>
     <title>Выкуп авто на разбор в Красноярске без документов: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vykup-avto-na-razbor-v-krasnoyarske-bez-dokumentov-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-stavki-arendy-sravnenie-s-analogami-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-stavki-arendy-sravnenie-s-analogami-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 13:01:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налог на премиум-жилье свыше 300 млн: ставка 2,5%</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-premium-zhile-svyshe-300-mln-stavka-2-5.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-premium-zhile-svyshe-300-mln-stavka-2-5.html</guid>
-    <pubDate>Sun, 13 Sep 2026 13:00:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
