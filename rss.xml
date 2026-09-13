@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 04:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:06:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка ЕГРН 2026: справочник по дому и участку</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-egrn-2026-spravochnik-po-domu-i-uchastku.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-egrn-2026-spravochnik-po-domu-i-uchastku.html</guid>
+    <pubDate>Sun, 13 Sep 2026 04:06:06 GMT</pubDate>
+  </item>
   <item>
     <title>Гостевые дома Геленджика 2026: классификация по № 1345</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gostevye-doma-gelendzhika-2026-klassifikatsiya-po-1345.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-mebeli-dlya-pereezda-gid-po-materialam-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-mebeli-dlya-pereezda-gid-po-materialam-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 01:32:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Упаковка мебели для переезда: гид без повреждений</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-mebeli-dlya-pereezda-gid-bez-povrezhdeniy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-mebeli-dlya-pereezda-gid-bez-povrezhdeniy.html</guid>
-    <pubDate>Sun, 13 Sep 2026 01:32:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
