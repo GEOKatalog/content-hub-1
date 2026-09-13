@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 13:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:12:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Нотариус Косенко на Б. Садовой: гид для владельцев жилья</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/notarius-kosenko-na-b-sadovoy-gid-dlya-vladeltsev-zhilya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/notarius-kosenko-na-b-sadovoy-gid-dlya-vladeltsev-zhilya.html</guid>
+    <pubDate>Sun, 13 Sep 2026 13:12:13 GMT</pubDate>
+  </item>
   <item>
     <title>Теневая сдача квартир в 2026: конец эпохи</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tenevaya-sdacha-kvartir-v-2026-konets-epokhi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-bukhgalterii-na-usn-reyting-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-bukhgalterii-na-usn-reyting-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 05:11:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>УСН в 2026: от каких налогов освобождает и что платить</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/usn-v-2026-ot-kakikh-nalogov-osvobozhdaet-i-chto-platit.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/usn-v-2026-ot-kakikh-nalogov-osvobozhdaet-i-chto-platit.html</guid>
-    <pubDate>Sun, 13 Sep 2026 05:11:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
