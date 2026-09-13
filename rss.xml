@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 04:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:04:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Снижение премии риэлтору: лимит 20% с 2025 года</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/snizhenie-premii-rieltoru-limit-20-s-2025-goda.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/snizhenie-premii-rieltoru-limit-20-s-2025-goda.html</guid>
+    <pubDate>Sun, 13 Sep 2026 04:04:23 GMT</pubDate>
+  </item>
   <item>
     <title>Классификация гостевых домов 2026: окупаемость за сезон</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-gostevykh-domov-2026-okupaemost-za-sezon.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dachnaya-amnistiya-do-1998-goda-dokumenty-dlya-kryma.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dachnaya-amnistiya-do-1998-goda-dokumenty-dlya-kryma.html</guid>
     <pubDate>Sun, 13 Sep 2026 00:26:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка дома в Крыму: каталог рисков и решений 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-doma-v-krymu-katalog-riskov-i-resheniy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-doma-v-krymu-katalog-riskov-i-resheniy-2026.html</guid>
-    <pubDate>Sun, 13 Sep 2026 00:26:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
