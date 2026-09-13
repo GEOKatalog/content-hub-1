@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 01:34:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 01:34:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка авто перед покупкой: залог, розыск и ограничения</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-avto-pered-pokupkoy-zalog-rozysk-i-ogranicheniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-avto-pered-pokupkoy-zalog-rozysk-i-ogranicheniya.html</guid>
+    <pubDate>Sun, 13 Sep 2026 01:34:55 GMT</pubDate>
+  </item>
   <item>
     <title>Переезд с мебелью: новый регламент до 2031</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pereezd-s-mebelyu-novyy-reglament-do-2031.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gospodderzhka-it-startapov-bashkortostana-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gospodderzhka-it-startapov-bashkortostana-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 21:56:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Закон о риелторах 2026: статус и прогнозы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakon-o-rieltorakh-2026-status-i-prognozy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakon-o-rieltorakh-2026-status-i-prognozy.html</guid>
-    <pubDate>Sat, 12 Sep 2026 21:55:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
