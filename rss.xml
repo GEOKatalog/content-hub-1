@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 05:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 05:16:15 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Подготовка к отопительному сезону 2026: правила для апарт-отелей</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/podgotovka-k-otopitelnomu-sezonu-2026-pravila-dlya-apart-ote.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/podgotovka-k-otopitelnomu-sezonu-2026-pravila-dlya-apart-ote.html</guid>
+    <pubDate>Sun, 13 Sep 2026 05:16:15 GMT</pubDate>
+  </item>
   <item>
     <title>Льгота по НДС для общепита в 2026: условия и сроки</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/lgota-po-nds-dlya-obshchepita-v-2026-usloviya-i-sroki.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-osago-po-gosnomeru-v-nsis-poshagovo.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-osago-po-gosnomeru-v-nsis-poshagovo.html</guid>
     <pubDate>Sun, 13 Sep 2026 02:50:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка ОСАГО в НСИС: инструкция для воронежцев</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-osago-v-nsis-instruktsiya-dlya-voronezhtsev.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-osago-v-nsis-instruktsiya-dlya-voronezhtsev.html</guid>
-    <pubDate>Sun, 13 Sep 2026 02:50:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
