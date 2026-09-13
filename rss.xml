@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 02:52:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 02:52:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Реестр экспертов-техников Минюста: проверка перед заказом</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-ekspertov-tekhnikov-minyusta-proverka-pered-zakazom.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reestr-ekspertov-tekhnikov-minyusta-proverka-pered-zakazom.html</guid>
+    <pubDate>Sun, 13 Sep 2026 02:52:50 GMT</pubDate>
+  </item>
   <item>
     <title>Перерасчет командировки: каталог решений 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pereraschet-komandirovki-katalog-resheniy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oplata-zhkkh-do-15-chisla-novye-pravila-s-2026-goda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/oplata-zhkkh-do-15-chisla-novye-pravila-s-2026-goda.html</guid>
     <pubDate>Sat, 12 Sep 2026 23:04:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Квоты на мигрантов в стройке 2026: сравнение вариантов</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kvoty-na-migrantov-v-stroyke-2026-sravnenie-variantov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kvoty-na-migrantov-v-stroyke-2026-sravnenie-variantov.html</guid>
-    <pubDate>Sat, 12 Sep 2026 23:04:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
