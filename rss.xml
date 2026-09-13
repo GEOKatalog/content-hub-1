@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 05:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 05:21:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Санаторно-курортное управление: нормативы и окупаемость</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanatorno-kurortnoe-upravlenie-normativy-i-okupaemost.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanatorno-kurortnoe-upravlenie-normativy-i-okupaemost.html</guid>
+    <pubDate>Sun, 13 Sep 2026 05:21:05 GMT</pubDate>
+  </item>
   <item>
     <title>Аутсорсинг продаж для курортных комплексов 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-prodazh-dlya-kurortnykh-kompleksov-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sobstvennika-kvartiry-po-egrn.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sobstvennika-kvartiry-po-egrn.html</guid>
     <pubDate>Sun, 13 Sep 2026 02:55:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка собственника квартиры по ЕГРН: инструкция</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sobstvennika-kvartiry-po-egrn-instruktsiya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sobstvennika-kvartiry-po-egrn-instruktsiya.html</guid>
-    <pubDate>Sun, 13 Sep 2026 02:54:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
