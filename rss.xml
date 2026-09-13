@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 02:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 02:53:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как действовать, если машину заперли во дворе</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-deystvovat-esli-mashinu-zaperli-vo-dvore.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-deystvovat-esli-mashinu-zaperli-vo-dvore.html</guid>
+    <pubDate>Sun, 13 Sep 2026 02:53:37 GMT</pubDate>
+  </item>
   <item>
     <title>Минтранс ужесточает требования к экспертам с 1 сентября</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mintrans-uzhestochaet-trebovaniya-k-ekspertam-s-1-sentyabrya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-inostrannykh-rabotnikov-eaes-patenty-vks.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-inostrannykh-rabotnikov-eaes-patenty-vks.html</guid>
     <pubDate>Sat, 12 Sep 2026 23:05:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Квоты на иностранцев 2026: справочник по отраслям</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kvoty-na-inostrantsev-2026-spravochnik-po-otraslyam.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kvoty-na-inostrantsev-2026-spravochnik-po-otraslyam.html</guid>
-    <pubDate>Sat, 12 Sep 2026 23:04:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
