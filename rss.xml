@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 18:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 18:19:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Дистанционная продажа квартиры в 2026: справочник</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/distantsionnaya-prodazha-kvartiry-v-2026-spravochnik.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/distantsionnaya-prodazha-kvartiry-v-2026-spravochnik.html</guid>
+    <pubDate>Sun, 13 Sep 2026 18:19:40 GMT</pubDate>
+  </item>
   <item>
     <title>Инструкция по оспариванию кадастровой стоимости в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/instruktsiya-po-osparivaniyu-kadastrovoy-stoimosti-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reglamenty-sanatorno-kurortnykh-organizatsiy-okupaemost-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglamenty-sanatorno-kurortnykh-organizatsiy-okupaemost-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 05:21:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Санаторно-курортное управление: нормативы и окупаемость</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanatorno-kurortnoe-upravlenie-normativy-i-okupaemost.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanatorno-kurortnoe-upravlenie-normativy-i-okupaemost.html</guid>
-    <pubDate>Sun, 13 Sep 2026 05:21:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
