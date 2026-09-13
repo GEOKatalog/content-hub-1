@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 13:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:18:25 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Расселение аварийного жилья в Ростове: 1,15 млрд</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/rasselenie-avariynogo-zhilya-v-rostove-1-15-mlrd.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rasselenie-avariynogo-zhilya-v-rostove-1-15-mlrd.html</guid>
+    <pubDate>Sun, 13 Sep 2026 13:18:25 GMT</pubDate>
+  </item>
   <item>
     <title>Проверить дом в реестре аварийного жилья и планах КРТ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverit-dom-v-reestre-avariynogo-zhilya-i-planakh-krt.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/peredacha-bukhgalterii-na-autsorsing-poshagovyy-plan-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/peredacha-bukhgalterii-na-autsorsing-poshagovyy-plan-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 05:12:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка статуса налогоплательщика НДС в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-statusa-nalogoplatelshchika-nds-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-statusa-nalogoplatelshchika-nds-v-2026-godu.html</guid>
-    <pubDate>Sun, 13 Sep 2026 05:12:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
