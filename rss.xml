@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 00:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 00:22:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Технический план в Крыму: инструкция кадастрового инженера 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskiy-plan-v-krymu-instruktsiya-kadastrovogo-inzhene.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskiy-plan-v-krymu-instruktsiya-kadastrovogo-inzhene.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:22:35 GMT</pubDate>
+  </item>
   <item>
     <title>Оформление недвижимости в Крыму 2026: рейтинг решений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oformlenie-nedvizhimosti-v-krymu-2026-reyting-resheniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/fiksirovannye-vznosy-ip-v-2027-godu-razmer.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/fiksirovannye-vznosy-ip-v-2027-godu-razmer.html</guid>
     <pubDate>Sat, 12 Sep 2026 21:48:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>РИНВ Башкортостан: обзор решений 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/rinv-bashkortostan-obzor-resheniy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rinv-bashkortostan-obzor-resheniy-2026.html</guid>
-    <pubDate>Sat, 12 Sep 2026 21:48:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
