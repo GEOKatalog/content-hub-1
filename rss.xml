@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 04:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:07:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аудит премирования в Геленджике: риски формулировок</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-premirovaniya-v-gelendzhike-riski-formulirovok.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-premirovaniya-v-gelendzhike-riski-formulirovok.html</guid>
+    <pubDate>Sun, 13 Sep 2026 04:07:14 GMT</pubDate>
+  </item>
   <item>
     <title>Премия риелтора в Геленджике: новые лимиты ТК РФ 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/premiya-rieltora-v-gelendzhike-novye-limity-tk-rf-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prava-semi-s-detmi-i-zhivotnymi-pri-statuse-bezhentsa-polnyy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prava-semi-s-detmi-i-zhivotnymi-pri-statuse-bezhentsa-polnyy.html</guid>
     <pubDate>Sun, 13 Sep 2026 01:33:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>Животные и нормативы: тупик при заселении</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zhivotnye-i-normativy-tupik-pri-zaselenii.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zhivotnye-i-normativy-tupik-pri-zaselenii.html</guid>
-    <pubDate>Sun, 13 Sep 2026 01:33:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
