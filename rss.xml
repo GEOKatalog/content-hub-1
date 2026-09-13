@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 04:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:11:25 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Легализация гостевых домов Геленджика: справочник 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/legalizatsiya-gostevykh-domov-gelendzhika-spravochnik-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/legalizatsiya-gostevykh-domov-gelendzhika-spravochnik-2026.html</guid>
+    <pubDate>Sun, 13 Sep 2026 04:11:25 GMT</pubDate>
+  </item>
   <item>
     <title>Посуточная аренда квартир: закон и правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/posutochnaya-arenda-kvartir-zakon-i-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/lavinoopasnyy-sklon-2026-pravila-mchs-i-pereezd.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/lavinoopasnyy-sklon-2026-pravila-mchs-i-pereezd.html</guid>
     <pubDate>Sun, 13 Sep 2026 01:37:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Лавиноопасный склон 2026: правила МЧС</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/lavinoopasnyy-sklon-2026-pravila-mchs.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/lavinoopasnyy-sklon-2026-pravila-mchs.html</guid>
-    <pubDate>Sun, 13 Sep 2026 01:37:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
