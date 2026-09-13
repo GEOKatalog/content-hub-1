@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 00:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 00:17:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Межевание при дачной амнистии 2026: нужен ли план</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mezhevanie-pri-dachnoy-amnistii-2026-nuzhen-li-plan.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mezhevanie-pri-dachnoy-amnistii-2026-nuzhen-li-plan.html</guid>
+    <pubDate>Sun, 13 Sep 2026 00:17:51 GMT</pubDate>
+  </item>
   <item>
     <title>Перевозка детей автобусами 2026: алгоритм действий</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/perevozka-detey-avtobusami-2026-algoritm-deystviy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-investitsionnogo-analitika-2026-reyting-resheni.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-investitsionnogo-analitika-2026-reyting-resheni.html</guid>
     <pubDate>Sat, 12 Sep 2026 20:50:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Репетитор по инвестанализу в Уфе: окупаемость за 1 оффер</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-po-investanalizu-v-ufe-okupaemost-za-1-offer.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-po-investanalizu-v-ufe-okupaemost-za-1-offer.html</guid>
-    <pubDate>Sat, 12 Sep 2026 20:49:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
