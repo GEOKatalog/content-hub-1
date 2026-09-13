@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 12:59:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:00:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог на премиум-жилье свыше 300 млн: ставка 2,5%</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-premium-zhile-svyshe-300-mln-stavka-2-5.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-premium-zhile-svyshe-300-mln-stavka-2-5.html</guid>
+    <pubDate>Sun, 13 Sep 2026 13:00:12 GMT</pubDate>
+  </item>
   <item>
     <title>Согласие соседей на аренду 2026: что решает суд</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/soglasie-sosedey-na-arendu-2026-chto-reshaet-sud.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tsennostnoe-predlozhenie-kak-sostavit-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsennostnoe-predlozhenie-kak-sostavit-v-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 04:08:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Целевая аудитория гостевых домов: JTBD-анализ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/tselevaya-auditoriya-gostevykh-domov-jtbd-analiz.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tselevaya-auditoriya-gostevykh-domov-jtbd-analiz.html</guid>
-    <pubDate>Sun, 13 Sep 2026 04:08:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
