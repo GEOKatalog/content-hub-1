@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 18:36:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 18:36:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Поиск самозанятого мастера: защита от доначислений ФНС</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/poisk-samozanyatogo-mastera-zashchita-ot-donachisleniy-fns.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/poisk-samozanyatogo-mastera-zashchita-ot-donachisleniy-fns.html</guid>
+    <pubDate>Sun, 13 Sep 2026 18:36:57 GMT</pubDate>
+  </item>
   <item>
     <title>Как найти самозанятого мастера в Махачкале без риска</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-samozanyatogo-mastera-v-makhachkale-bez-riska.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/besplatnaya-yurpomoshch-pensioneru-v-volgograde-instruktsiya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/besplatnaya-yurpomoshch-pensioneru-v-volgograde-instruktsiya.html</guid>
     <pubDate>Sun, 13 Sep 2026 08:54:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Бесплатная юрпомощь пенсионеру в Волгограде: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/besplatnaya-yurpomoshch-pensioneru-v-volgograde-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/besplatnaya-yurpomoshch-pensioneru-v-volgograde-gid-2026.html</guid>
-    <pubDate>Sun, 13 Sep 2026 08:53:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
