@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 02:49:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 02:50:07 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка ОСАГО в НСИС: инструкция для воронежцев</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-osago-v-nsis-instruktsiya-dlya-voronezhtsev.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-osago-v-nsis-instruktsiya-dlya-voronezhtsev.html</guid>
+    <pubDate>Sun, 13 Sep 2026 02:50:07 GMT</pubDate>
+  </item>
   <item>
     <title>Сдача квартиры в Воронеже: правила 2026 года</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sdacha-kvartiry-v-voronezhe-pravila-2026-goda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kvoty-na-inostrannykh-stroiteley-v-krymu-obzor-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kvoty-na-inostrannykh-stroiteley-v-krymu-obzor-2026.html</guid>
     <pubDate>Sat, 12 Sep 2026 23:01:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Квоты на мигрантов в стройке 2026: гид по регионам</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kvoty-na-migrantov-v-stroyke-2026-gid-po-regionam.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kvoty-na-migrantov-v-stroyke-2026-gid-po-regionam.html</guid>
-    <pubDate>Sat, 12 Sep 2026 23:01:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
