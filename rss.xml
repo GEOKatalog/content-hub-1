@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 13 Sep 2026 22:57:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 22:57:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Льгота по утильсбору 2026: пакет документов и ГИКЭ</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/lgota-po-utilsboru-2026-paket-dokumentov-i-gike.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/lgota-po-utilsboru-2026-paket-dokumentov-i-gike.html</guid>
+    <pubDate>Sun, 13 Sep 2026 22:57:32 GMT</pubDate>
+  </item>
   <item>
     <title>Утильсбор для авто старше 30 лет: как оформить</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/utilsbor-dlya-avto-starshe-30-let-kak-oformit.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverit-dom-v-reestre-avariynogo-zhilya-i-planakh-krt.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverit-dom-v-reestre-avariynogo-zhilya-i-planakh-krt.html</guid>
     <pubDate>Sun, 13 Sep 2026 13:17:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка наследственного дела в Ростове: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nasledstvennogo-dela-v-rostove-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nasledstvennogo-dela-v-rostove-gid-2026.html</guid>
-    <pubDate>Sun, 13 Sep 2026 13:16:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
