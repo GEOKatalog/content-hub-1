@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 04:20:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:20:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Мониторинг свободных мест с 1 июля: инструкция 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/monitoring-svobodnykh-mest-s-1-iyulya-instruktsiya-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/monitoring-svobodnykh-mest-s-1-iyulya-instruktsiya-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 04:20:36 GMT</pubDate>
+  </item>
   <item>
     <title>Перфоратор 5–8 Дж для квартиры: переплата или необходимость?</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/perforator-5-8-dzh-dlya-kvartiry-pereplata-ili-neobkhodimost.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/osvobozhdenie-ot-utilsbora-dlya-raritetnykh-avto-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/osvobozhdenie-ot-utilsbora-dlya-raritetnykh-avto-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 22:59:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сверка стенда с требованиями статей 8-10 ЗППП</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-stenda-s-trebovaniyami-statey-8-10-zppp.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-stenda-s-trebovaniyami-statey-8-10-zppp.html</guid>
-    <pubDate>Sun, 13 Sep 2026 22:59:22 GMT</pubDate>
   </item>
   </channel>
 </rss>
