@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:05:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Календарь инвест-коммуникаций 2026: гид</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kalendar-invest-kommunikatsiy-2026-gid.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kalendar-invest-kommunikatsiy-2026-gid.html</guid>
+    <pubDate>Mon, 14 Sep 2026 13:05:13 GMT</pubDate>
+  </item>
   <item>
     <title>Регламент для CEO с инвесторами: защита от рисков</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-dlya-ceo-s-investorami-zashchita-ot-riskov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-perevezti-mebel-na-gazeli-prava-i-znaki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-perevezti-mebel-na-gazeli-prava-i-znaki.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:43:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Окупаемость рекламы в Объявлениях Воронеж до 2027</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-reklamy-v-obyavleniyakh-voronezh-do-2027.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-reklamy-v-obyavleniyakh-voronezh-do-2027.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:43:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
