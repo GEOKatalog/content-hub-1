@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:23:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:24:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Режим первоклассника 2026: 20:30 или 21:30?</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-pervoklassnika-2026-20-30-ili-21-30.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-pervoklassnika-2026-20-30-ili-21-30.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:24:03 GMT</pubDate>
+  </item>
   <item>
     <title>Режим дня в саду Саратов: аудит и нормативы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-dnya-v-sadu-saratov-audit-i-normativy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-i-nayom-mozhno-li-privlekat-masterov-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-i-nayom-mozhno-li-privlekat-masterov-v-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 18:35:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Предметный фотограф на час: ROI контента для WB 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/predmetnyy-fotograf-na-chas-roi-kontenta-dlya-wb-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/predmetnyy-fotograf-na-chas-roi-kontenta-dlya-wb-2026.html</guid>
-    <pubDate>Sun, 13 Sep 2026 18:34:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
