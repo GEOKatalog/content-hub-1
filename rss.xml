@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:27:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:27:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Цена перехода на ОСНО для стартапа в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tsena-perekhoda-na-osno-dlya-startapa-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsena-perekhoda-na-osno-dlya-startapa-v-2026-godu.html</guid>
+    <pubDate>Mon, 14 Sep 2026 11:27:34 GMT</pubDate>
+  </item>
   <item>
     <title>Мандат CTO на стадии Seed: задачи и границы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mandat-cto-na-stadii-seed-zadachi-i-granitsy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vozrast-na-1-sentyabrya-2026-pravila-priema-i-pmpk.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vozrast-na-1-sentyabrya-2026-pravila-priema-i-pmpk.html</guid>
     <pubDate>Mon, 14 Sep 2026 04:20:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>ФОП ДО приказ № 1028: что изменилось к 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/fop-do-prikaz-1028-chto-izmenilos-k-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/fop-do-prikaz-1028-chto-izmenilos-k-2026-godu.html</guid>
-    <pubDate>Mon, 14 Sep 2026 04:19:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
