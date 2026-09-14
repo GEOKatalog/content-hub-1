@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:13:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ 15.309-98: испытания без потерь в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-15-309-98-ispytaniya-bez-poter-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-15-309-98-ispytaniya-bez-poter-v-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 13:13:23 GMT</pubDate>
+  </item>
   <item>
     <title>Правила № 354 в 2026 году: справочник для управляющих</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-354-v-2026-godu-spravochnik-dlya-upravlyayushchikh.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vyselenie-po-ch-2-st-91-zhk-rf-gid-dlya-voronezha-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vyselenie-po-ch-2-st-91-zhk-rf-gid-dlya-voronezha-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:46:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Техосмотр 2026: сравнение стоимости и порядка</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-2026-sravnenie-stoimosti-i-poryadka.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-2026-sravnenie-stoimosti-i-poryadka.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:46:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
