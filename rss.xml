@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:07:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:07:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Пожарная безопасность гостевого дома: чек-лист 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-gostevogo-doma-chek-list-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-gostevogo-doma-chek-list-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 15:07:38 GMT</pubDate>
+  </item>
   <item>
     <title>Документы по пожарной безопасности для гостевого дома 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-po-pozharnoy-bezopasnosti-dlya-gostevogo-doma-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zaregistrirovat-gostevoy-dom-v-gelendzhike.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zaregistrirovat-gostevoy-dom-v-gelendzhike.html</guid>
     <pubDate>Mon, 14 Sep 2026 07:55:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сбалансированная система показателей для курортного комплекса: KPI инструкция 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sbalansirovannaya-sistema-pokazateley-dlya-kurortnogo-komple.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sbalansirovannaya-sistema-pokazateley-dlya-kurortnogo-komple.html</guid>
-    <pubDate>Mon, 14 Sep 2026 07:55:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
