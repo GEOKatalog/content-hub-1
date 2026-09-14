@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:23:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН 4-5 лет: нормы занятий для Саратова 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-4-5-let-normy-zanyatiy-dlya-saratova-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-4-5-let-normy-zanyatiy-dlya-saratova-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:23:16 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН 3-4 года: проверка занятий и жалоба 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-3-4-goda-proverka-zanyatiy-i-zhaloba-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/raw-i-exif-kak-dokazatelstvo-dlya-klininga-v-makhachkale.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/raw-i-exif-kak-dokazatelstvo-dlya-klininga-v-makhachkale.html</guid>
     <pubDate>Sun, 13 Sep 2026 18:30:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нотариальный протокол или RAW: защита фото 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/notarialnyy-protokol-ili-raw-zashchita-foto-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/notarialnyy-protokol-ili-raw-zashchita-foto-2026.html</guid>
-    <pubDate>Sun, 13 Sep 2026 18:29:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
