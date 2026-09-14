@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:18:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ОСГОП для такси в 2026: справочник по разрешениям и штрафам</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/osgop-dlya-taksi-v-2026-spravochnik-po-razresheniyam-i-shtra.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/osgop-dlya-taksi-v-2026-spravochnik-po-razresheniyam-i-shtra.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:18:34 GMT</pubDate>
+  </item>
   <item>
     <title>ОСГОП для таксистов-вахтовиков: рейтинг решений 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/osgop-dlya-taksistov-vakhtovikov-reyting-resheniy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nuzhno-li-soglasie-sosedey-na-sdachu-kvartiry-v-arendu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nuzhno-li-soglasie-sosedey-na-sdachu-kvartiry-v-arendu.html</guid>
     <pubDate>Sun, 13 Sep 2026 18:14:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Клининг офиса после ремонта: нормы СанПиН и вывоз мусора</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/klining-ofisa-posle-remonta-normy-sanpin-i-vyvoz-musora.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klining-ofisa-posle-remonta-normy-sanpin-i-vyvoz-musora.html</guid>
-    <pubDate>Sun, 13 Sep 2026 18:14:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
