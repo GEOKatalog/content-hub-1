@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:13:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Старт-1: проверка срока регистрации и договоров</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/start-1-proverka-sroka-registratsii-i-dogovorov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/start-1-proverka-sroka-registratsii-i-dogovorov.html</guid>
+    <pubDate>Mon, 14 Sep 2026 14:13:00 GMT</pubDate>
+  </item>
   <item>
     <title>Как сформулировать ценностное предложение</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sformulirovat-tsennostnoe-predlozhenie.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-sposoby-proverki-kvartiry-pered-arendoy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-sposoby-proverki-kvartiry-pered-arendoy-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 06:45:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Перевозка детей и животных в машине: штрафы 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/perevozka-detey-i-zhivotnykh-v-mashine-shtrafy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/perevozka-detey-i-zhivotnykh-v-mashine-shtrafy-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 06:45:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
