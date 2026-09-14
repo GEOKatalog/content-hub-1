@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:07:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Грант Старт-1: как получить 5 млн на Seed</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/grant-start-1-kak-poluchit-5-mln-na-seed.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/grant-start-1-kak-poluchit-5-mln-na-seed.html</guid>
+    <pubDate>Mon, 14 Sep 2026 14:07:24 GMT</pubDate>
+  </item>
   <item>
     <title>Налог УСН или штраф: что выбрать в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-usn-ili-shtraf-chto-vybrat-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vypiski-egrn-v-2026-qr-kod-protiv-poddelki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vypiski-egrn-v-2026-qr-kod-protiv-poddelki.html</guid>
     <pubDate>Mon, 14 Sep 2026 06:43:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Штраф до 10 000 ₽ за перевозку мебели: как сэкономить</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-do-10-000-za-perevozku-mebeli-kak-sekonomit.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-do-10-000-za-perevozku-mebeli-kak-sekonomit.html</guid>
-    <pubDate>Mon, 14 Sep 2026 06:43:43 GMT</pubDate>
   </item>
   </channel>
 </rss>
