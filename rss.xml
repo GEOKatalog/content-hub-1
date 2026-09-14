@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:15:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Подать заявление на классификацию через Госуслуги</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/podat-zayavlenie-na-klassifikatsiyu-cherez-gosuslugi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/podat-zayavlenie-na-klassifikatsiyu-cherez-gosuslugi.html</guid>
+    <pubDate>Mon, 14 Sep 2026 14:15:08 GMT</pubDate>
+  </item>
   <item>
     <title>Анализ ЦА для гостевых домов Геленджика 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/analiz-tsa-dlya-gostevykh-domov-gelendzhika-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zhivotnoe-v-mashine-shtrafy-i-pravila-voronezh-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zhivotnoe-v-mashine-shtrafy-i-pravila-voronezh-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 06:45:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Командировки в ЕАЭС: подтверждение сроков без отметок</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/komandirovki-v-eaes-podtverzhdenie-srokov-bez-otmetok.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/komandirovki-v-eaes-podtverzhdenie-srokov-bez-otmetok.html</guid>
-    <pubDate>Mon, 14 Sep 2026 06:45:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
