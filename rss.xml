@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:17:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:17:27 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог с продажи авто 2026: рейтинг решений</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-avto-2026-reyting-resheniy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-avto-2026-reyting-resheniy.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:17:27 GMT</pubDate>
+  </item>
   <item>
     <title>Имущественный вычет 250 000 ₽: полный справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/imushchestvennyy-vychet-250-000-polnyy-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-premium-zhilyo-svyshe-300-mln-stavka-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-premium-zhilyo-svyshe-300-mln-stavka-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 18:09:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка арендатора по базам ФССП и МВД бесплатно</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendatora-po-bazam-fssp-i-mvd-besplatno.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendatora-po-bazam-fssp-i-mvd-besplatno.html</guid>
-    <pubDate>Sun, 13 Sep 2026 18:08:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
