@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:06:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:07:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Обязательная классификация пансионатов 2026: постановление 1951</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnaya-klassifikatsiya-pansionatov-2026-postanovlenie.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnaya-klassifikatsiya-pansionatov-2026-postanovlenie.html</guid>
+    <pubDate>Mon, 14 Sep 2026 09:07:09 GMT</pubDate>
+  </item>
   <item>
     <title>Пансионаты 2026: как пройти классификацию по 1951</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pansionaty-2026-kak-proyti-klassifikatsiyu-po-1951.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-instrumenta-dlya-remonta-v-saratove-obzor-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-instrumenta-dlya-remonta-v-saratove-obzor-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 02:33:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>С чего начать ремонт в квартире своими руками: план</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/s-chego-nachat-remont-v-kvartire-svoimi-rukami-plan.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/s-chego-nachat-remont-v-kvartire-svoimi-rukami-plan.html</guid>
-    <pubDate>Mon, 14 Sep 2026 02:33:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
