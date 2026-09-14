@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:24:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Бухгалтерское сопровождение перехода на ОСНО 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/bukhgalterskoe-soprovozhdenie-perekhoda-na-osno-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/bukhgalterskoe-soprovozhdenie-perekhoda-na-osno-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 11:24:55 GMT</pubDate>
+  </item>
   <item>
     <title>Гостевой дом 2026: классификация по 127-ФЗ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gostevoy-dom-2026-klassifikatsiya-po-127-fz.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/skolko-dlitsya-urok-v-1-klasse-normy-sanpin-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/skolko-dlitsya-urok-v-1-klasse-normy-sanpin-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 04:18:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Превышение нагрузки в саду: фиксация и запрос 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prevyshenie-nagruzki-v-sadu-fiksatsiya-i-zapros-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prevyshenie-nagruzki-v-sadu-fiksatsiya-i-zapros-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 04:18:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
