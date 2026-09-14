@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:05:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Управление бронированиями гостевого дома: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/upravlenie-bronirovaniyami-gostevogo-doma-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/upravlenie-bronirovaniyami-gostevogo-doma-gid-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 09:05:36 GMT</pubDate>
+  </item>
   <item>
     <title>Реестр гостевых домов 2026: как пройти классификацию</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-gostevykh-domov-2026-kak-proyti-klassifikatsiyu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativ-zanyatiya-4-5-let-proverka-raspisaniya-dou-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativ-zanyatiya-4-5-let-proverka-raspisaniya-dou-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 02:32:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сколько должен спать ребенок 2–4 лет по СанПиН</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/skolko-dolzhen-spat-rebenok-2-4-let-po-sanpin.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/skolko-dolzhen-spat-rebenok-2-4-let-po-sanpin.html</guid>
-    <pubDate>Mon, 14 Sep 2026 02:31:43 GMT</pubDate>
   </item>
   </channel>
 </rss>
