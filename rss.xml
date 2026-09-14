@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:05:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Классификация гостиниц 2026: рейтинг решений</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-gostinits-2026-reyting-resheniy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-gostinits-2026-reyting-resheniy.html</guid>
+    <pubDate>Mon, 14 Sep 2026 09:05:02 GMT</pubDate>
+  </item>
   <item>
     <title>Гостевые дома на ИЖС: исключения из правил 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gostevye-doma-na-izhs-isklyucheniya-iz-pravil-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/raskhod-kraski-na-m-ekonomiya-do-40-bez-pereplat.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/raskhod-kraski-na-m-ekonomiya-do-40-bez-pereplat.html</guid>
     <pubDate>Mon, 14 Sep 2026 02:31:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сон 5–6 лет: таблица 6.7 СанПиН и ROI режима</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/son-5-6-let-tablitsa-6-7-sanpin-i-roi-rezhima.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/son-5-6-let-tablitsa-6-7-sanpin-i-roi-rezhima.html</guid>
-    <pubDate>Mon, 14 Sep 2026 02:31:06 GMT</pubDate>
   </item>
   </channel>
 </rss>
