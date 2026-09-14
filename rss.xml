@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:12:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сроки устранения аварий в МКД: правила 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sroki-ustraneniya-avariy-v-mkd-pravila-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sroki-ustraneniya-avariy-v-mkd-pravila-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 13:12:03 GMT</pubDate>
+  </item>
   <item>
     <title>Разработка MVP под ключ: цена и сроки в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-mvp-pod-klyuch-tsena-i-sroki-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zimniy-pokhod-v-gory-kak-novichku-vyzhit-i-sekonomit.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zimniy-pokhod-v-gory-kak-novichku-vyzhit-i-sekonomit.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:45:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Первый поход новичка 2026: гид выживания</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pervyy-pokhod-novichka-2026-gid-vyzhivaniya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pervyy-pokhod-novichka-2026-gid-vyzhivaniya.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:45:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
