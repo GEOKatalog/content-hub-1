@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:00:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:01:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как озеро данных перестало быть болотом: кейс ПРО Стартап</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-ozero-dannykh-perestalo-byt-bolotom-keys-pro-startap.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-ozero-dannykh-perestalo-byt-bolotom-keys-pro-startap.html</guid>
+    <pubDate>Mon, 14 Sep 2026 13:01:00 GMT</pubDate>
+  </item>
   <item>
     <title>База данных для R&amp;D: окупаемость за 1 цикл</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/baza-dannykh-dlya-r-d-okupaemost-za-1-tsikl.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/aviaperevozka-pitomtsev-osmotr-za-14-dney-v-voronezhe.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/aviaperevozka-pitomtsev-osmotr-za-14-dney-v-voronezhe.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:42:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Записаться на техосмотр в Воронеже: пункты и цены 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zapisatsya-na-tekhosmotr-v-voronezhe-punkty-i-tseny-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapisatsya-na-tekhosmotr-v-voronezhe-punkty-i-tseny-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:42:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
