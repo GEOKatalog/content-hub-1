@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:13:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Правила № 354 в 2026 году: справочник для управляющих</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-354-v-2026-godu-spravochnik-dlya-upravlyayushchikh.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-354-v-2026-godu-spravochnik-dlya-upravlyayushchikh.html</guid>
+    <pubDate>Mon, 14 Sep 2026 13:13:09 GMT</pubDate>
+  </item>
   <item>
     <title>Электроснабжение 24 часа и вода 4 часа</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/elektrosnabzhenie-24-chasa-i-voda-4-chasa.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-2026-sravnenie-stoimosti-i-poryadka.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-2026-sravnenie-stoimosti-i-poryadka.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:46:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Техосмотр при перерегистрации авто старше 4 лет</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-pri-pereregistratsii-avto-starshe-4-let.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-pri-pereregistratsii-avto-starshe-4-let.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:46:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
