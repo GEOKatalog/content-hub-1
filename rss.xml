@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:10:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Разработка MVP под ключ: цена в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-mvp-pod-klyuch-tsena-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-mvp-pod-klyuch-tsena-v-2026-godu.html</guid>
+    <pubDate>Mon, 14 Sep 2026 13:10:24 GMT</pubDate>
+  </item>
   <item>
     <title>MVP под ключ за минимальный бюджет 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mvp-pod-klyuch-za-minimalnyy-byudzhet-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-ruid-za-48-chasov-ekstrennyy-vezd-ekspata.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-ruid-za-48-chasov-ekstrennyy-vezd-ekspata.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:45:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>RuID для командировки в Россию: правила 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ruid-dlya-komandirovki-v-rossiyu-pravila-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ruid-dlya-komandirovki-v-rossiyu-pravila-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:45:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
