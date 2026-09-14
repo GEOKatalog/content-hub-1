@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:27:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:28:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Что делать основателю после провала стартапа</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/chto-delat-osnovatelyu-posle-provala-startapa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chto-delat-osnovatelyu-posle-provala-startapa.html</guid>
+    <pubDate>Mon, 14 Sep 2026 11:28:06 GMT</pubDate>
+  </item>
   <item>
     <title>Как рассчитать НДС при утрате права на УСН в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-rasschitat-nds-pri-utrate-prava-na-usn-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/monitoring-svobodnykh-mest-s-1-iyulya-instruktsiya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/monitoring-svobodnykh-mest-s-1-iyulya-instruktsiya-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 04:20:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Перфоратор 5–8 Дж для квартиры: переплата или необходимость?</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/perforator-5-8-dzh-dlya-kvartiry-pereplata-ili-neobkhodimost.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/perforator-5-8-dzh-dlya-kvartiry-pereplata-ili-neobkhodimost.html</guid>
-    <pubDate>Mon, 14 Sep 2026 04:20:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
