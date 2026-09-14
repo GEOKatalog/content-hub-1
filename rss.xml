@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:00:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:00:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>База данных для R&amp;D: окупаемость за 1 цикл</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/baza-dannykh-dlya-r-d-okupaemost-za-1-tsikl.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/baza-dannykh-dlya-r-d-okupaemost-za-1-tsikl.html</guid>
+    <pubDate>Mon, 14 Sep 2026 13:00:36 GMT</pubDate>
+  </item>
   <item>
     <title>Критерии соответствия до исключения из ЕГРЮЛ 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kriterii-sootvetstviya-do-isklyucheniya-iz-egryul-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zapisatsya-na-tekhosmotr-v-voronezhe-punkty-i-tseny-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapisatsya-na-tekhosmotr-v-voronezhe-punkty-i-tseny-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:42:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Техосмотр для ОСАГО в 2026: кому нужен, кому нет</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-dlya-osago-v-2026-komu-nuzhen-komu-net.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-dlya-osago-v-2026-komu-nuzhen-komu-net.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:42:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
