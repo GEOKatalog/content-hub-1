@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:27:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:27:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Fractional CTO для стартапа Seed: экономия 60%</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/fractional-cto-dlya-startapa-seed-ekonomiya-60.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/fractional-cto-dlya-startapa-seed-ekonomiya-60.html</guid>
+    <pubDate>Mon, 14 Sep 2026 11:27:46 GMT</pubDate>
+  </item>
   <item>
     <title>Цена перехода на ОСНО для стартапа в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tsena-perekhoda-na-osno-dlya-startapa-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/priem-v-pervyy-klass-2026-sroki-i-dokumenty.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/priem-v-pervyy-klass-2026-sroki-i-dokumenty.html</guid>
     <pubDate>Mon, 14 Sep 2026 04:20:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Возраст на 1 сентября 2026: правила приема и ПМПК</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vozrast-na-1-sentyabrya-2026-pravila-priema-i-pmpk.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vozrast-na-1-sentyabrya-2026-pravila-priema-i-pmpk.html</guid>
-    <pubDate>Mon, 14 Sep 2026 04:20:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
