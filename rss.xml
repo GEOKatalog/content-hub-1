@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:16:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Внедрение ценностей в мотивацию персонала 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vnedrenie-tsennostey-v-motivatsiyu-personala-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vnedrenie-tsennostey-v-motivatsiyu-personala-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 15:16:00 GMT</pubDate>
+  </item>
   <item>
     <title>Пожарные документы для гостевого дома Кубани 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnye-dokumenty-dlya-gostevogo-doma-kubani-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-sredstv-razmeshcheniya-2026-dva-etapa.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-sredstv-razmeshcheniya-2026-dva-etapa.html</guid>
     <pubDate>Mon, 14 Sep 2026 09:04:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Четыре звезды 2026: разрыв оснащения и риски блокировки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/chetyre-zvezdy-2026-razryv-osnashcheniya-i-riski-blokirovki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chetyre-zvezdy-2026-razryv-osnashcheniya-i-riski-blokirovki.html</guid>
-    <pubDate>Mon, 14 Sep 2026 07:56:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
