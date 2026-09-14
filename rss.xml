@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:05:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:06:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Постановление 1345: классификация гостевых домов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/postanovlenie-1345-klassifikatsiya-gostevykh-domov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/postanovlenie-1345-klassifikatsiya-gostevykh-domov-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 15:06:13 GMT</pubDate>
+  </item>
   <item>
     <title>Гостевой дом 2026: требования и реестр</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gostevoy-dom-2026-trebovaniya-i-reestr.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-oteley-i-pansionatov-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-oteley-i-pansionatov-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 07:55:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Классификация гостиниц по ПП 1860: инструкция 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-gostinits-po-pp-1860-instruktsiya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-gostinits-po-pp-1860-instruktsiya-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 07:55:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
