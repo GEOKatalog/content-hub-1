@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:59:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:59:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>База данных для технологического скаутинга R&amp;D</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/baza-dannykh-dlya-tekhnologicheskogo-skautinga-r-d.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/baza-dannykh-dlya-tekhnologicheskogo-skautinga-r-d.html</guid>
+    <pubDate>Mon, 14 Sep 2026 12:59:44 GMT</pubDate>
+  </item>
   <item>
     <title>2026: Упрощенная ликвидация ООО для основателя</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/2026-uproshchennaya-likvidatsiya-ooo-dlya-osnovatelya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sobstvennika-kvartiry-pri-arende-cherez-egrn-20.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sobstvennika-kvartiry-pri-arende-cherez-egrn-20.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:41:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как перевезти мебель на газели без сколов и трещин</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-perevezti-mebel-na-gazeli-bez-skolov-i-treshchin.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-perevezti-mebel-na-gazeli-bez-skolov-i-treshchin.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:41:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
