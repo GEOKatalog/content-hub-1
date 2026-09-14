@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:11:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:12:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как сформулировать ценностное предложение</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sformulirovat-tsennostnoe-predlozhenie.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sformulirovat-tsennostnoe-predlozhenie.html</guid>
+    <pubDate>Mon, 14 Sep 2026 14:12:43 GMT</pubDate>
+  </item>
   <item>
     <title>Выйти из операционки за 90 дней: ROI и план</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vyyti-iz-operatsionki-za-90-dney-roi-i-plan.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/perevozka-detey-i-zhivotnykh-v-mashine-shtrafy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/perevozka-detey-i-zhivotnykh-v-mashine-shtrafy-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 06:45:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Упаковка мебели для переезда в Воронеже: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-mebeli-dlya-pereezda-v-voronezhe-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-mebeli-dlya-pereezda-v-voronezhe-gid-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 06:44:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
