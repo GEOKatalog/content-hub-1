@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:24:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:24:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Пакет документов для перепланировки: проект и согласование</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/paket-dokumentov-dlya-pereplanirovki-proekt-i-soglasovanie.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/paket-dokumentov-dlya-pereplanirovki-proekt-i-soglasovanie.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:24:41 GMT</pubDate>
+  </item>
   <item>
     <title>Перепланировка квартиры 2026: разрешение и узаконивание</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pereplanirovka-kvartiry-2026-razreshenie-i-uzakonivanie.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/poisk-samozanyatogo-mastera-zashchita-ot-donachisleniy-fns.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/poisk-samozanyatogo-mastera-zashchita-ot-donachisleniy-fns.html</guid>
     <pubDate>Sun, 13 Sep 2026 18:36:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как найти самозанятого мастера в Махачкале без риска</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-samozanyatogo-mastera-v-makhachkale-bez-riska.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-samozanyatogo-mastera-v-makhachkale-bez-riska.html</guid>
-    <pubDate>Sun, 13 Sep 2026 18:36:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
