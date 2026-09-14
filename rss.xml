@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:18:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог при продаже битого авто на запчасти: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-pri-prodazhe-bitogo-avto-na-zapchasti-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-pri-prodazhe-bitogo-avto-na-zapchasti-gid-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:18:55 GMT</pubDate>
+  </item>
   <item>
     <title>ОСГОП для такси 2026: полный справочник санкций и решений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/osgop-dlya-taksi-2026-polnyy-spravochnik-sanktsiy-i-resheniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kadastrovaya-stoimost-premium-zhilya-osparivanie-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kadastrovaya-stoimost-premium-zhilya-osparivanie-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 18:15:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Когда суд запрещает сдачу квартиры соседям</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kogda-sud-zapreshchaet-sdachu-kvartiry-sosedyam.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kogda-sud-zapreshchaet-sdachu-kvartiry-sosedyam.html</guid>
-    <pubDate>Sun, 13 Sep 2026 18:15:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
