@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 05:47:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:47:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка ЕГРН через Госуслуги: кейс аренды</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-egrn-cherez-gosuslugi-keys-arendy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-egrn-cherez-gosuslugi-keys-arendy.html</guid>
+    <pubDate>Mon, 14 Sep 2026 05:47:20 GMT</pubDate>
+  </item>
   <item>
     <title>Снять фурнитуру и стекло: гид по переезду в Воронеже</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-furnituru-i-steklo-gid-po-pereezdu-v-voronezhe.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-1-2-3685-21-normy-zanyatiy-dlya-detey-3-4-let.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-1-2-3685-21-normy-zanyatiy-dlya-detey-3-4-let.html</guid>
     <pubDate>Mon, 14 Sep 2026 02:22:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Репетитор по подготовке к школе Саратов: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-po-podgotovke-k-shkole-saratov-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-po-podgotovke-k-shkole-saratov-gid-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 02:22:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
