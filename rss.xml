@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 04:18:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:18:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сколько длится урок в 1 классе: нормы СанПиН 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/skolko-dlitsya-urok-v-1-klasse-normy-sanpin-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/skolko-dlitsya-urok-v-1-klasse-normy-sanpin-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 04:18:24 GMT</pubDate>
+  </item>
   <item>
     <title>Превышение нагрузки в саду: фиксация и запрос 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prevyshenie-nagruzki-v-sadu-fiksatsiya-i-zapros-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/lgota-po-utilsboru-2026-paket-dokumentov-i-gike.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/lgota-po-utilsboru-2026-paket-dokumentov-i-gike.html</guid>
     <pubDate>Sun, 13 Sep 2026 22:57:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>Утильсбор для авто старше 30 лет: как оформить</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/utilsbor-dlya-avto-starshe-30-let-kak-oformit.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/utilsbor-dlya-avto-starshe-30-let-kak-oformit.html</guid>
-    <pubDate>Sun, 13 Sep 2026 22:57:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
