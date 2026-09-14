@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:01:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Метрики Solo Founder 2026: на что смотреть</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/metriki-solo-founder-2026-na-chto-smotret.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/metriki-solo-founder-2026-na-chto-smotret.html</guid>
+    <pubDate>Mon, 14 Sep 2026 14:01:08 GMT</pubDate>
+  </item>
   <item>
     <title>Метрики Pre-Seed 2026: что важно для Solo Dev</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/metriki-pre-seed-2026-chto-vazhno-dlya-solo-dev.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-furnituru-i-steklo-gid-po-pereezdu-v-voronezhe.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyat-furnituru-i-steklo-gid-po-pereezdu-v-voronezhe.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:47:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Переезд с мебелью: снять фурнитуру и стекло отдельно</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pereezd-s-mebelyu-snyat-furnituru-i-steklo-otdelno.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pereezd-s-mebelyu-snyat-furnituru-i-steklo-otdelno.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:46:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
