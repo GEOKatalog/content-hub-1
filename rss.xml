@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:29:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:29:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Нормы сна 2-4 года: СанПиН 2026 и решение проблем</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/normy-sna-2-4-goda-sanpin-2026-i-reshenie-problem.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normy-sna-2-4-goda-sanpin-2026-i-reshenie-problem.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:29:33 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН 2026: нормы сна для детей 6-7 лет и режим</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-normy-sna-dlya-detey-6-7-let-i-rezhim.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ts-cherez-gosuslugi-avtorizatsiya-i-vybor-servisa.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ts-cherez-gosuslugi-avtorizatsiya-i-vybor-servisa.html</guid>
     <pubDate>Sun, 13 Sep 2026 22:49:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Снятие с учета без документов: налог, штрафы и тупик</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/snyatie-s-ucheta-bez-dokumentov-nalog-shtrafy-i-tupik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyatie-s-ucheta-bez-dokumentov-nalog-shtrafy-i-tupik.html</guid>
-    <pubDate>Sun, 13 Sep 2026 22:48:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
