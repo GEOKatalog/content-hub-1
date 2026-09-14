@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:07:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:09:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Требования к гостевому дому 2026: пожарная безопасность и реестр</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-gostevomu-domu-2026-pozharnaya-bezopasnost-i-r.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-gostevomu-domu-2026-pozharnaya-bezopasnost-i-r.html</guid>
+    <pubDate>Mon, 14 Sep 2026 15:09:34 GMT</pubDate>
+  </item>
   <item>
     <title>Пожарная безопасность гостевого дома: чек-лист 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-gostevogo-doma-chek-list-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-2026-kak-proyti-samootsenku-i-ne-poteryat-biznes.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reestr-2026-kak-proyti-samootsenku-i-ne-poteryat-biznes.html</guid>
     <pubDate>Mon, 14 Sep 2026 07:55:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как зарегистрировать гостевой дом в Геленджике</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zaregistrirovat-gostevoy-dom-v-gelendzhike.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zaregistrirovat-gostevoy-dom-v-gelendzhike.html</guid>
-    <pubDate>Mon, 14 Sep 2026 07:55:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
