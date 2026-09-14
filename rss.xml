@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 04:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:16:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Режим сна и кормления до 1 года: СанПиН 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-sna-i-kormleniya-do-1-goda-sanpin-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-sna-i-kormleniya-do-1-goda-sanpin-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 04:16:38 GMT</pubDate>
+  </item>
   <item>
     <title>Режим дня первоклассника по СанПиН 2026 в Саратове</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-dnya-pervoklassnika-po-sanpin-2026-v-saratove.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-schitaetsya-srok-vladeniya-avto-dlya-naloga-v-krasnoyars.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-schitaetsya-srok-vladeniya-avto-dlya-naloga-v-krasnoyars.html</guid>
     <pubDate>Sun, 13 Sep 2026 22:55:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Уголок потребителя в Красноярске: гид для сетей 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ugolok-potrebitelya-v-krasnoyarske-gid-dlya-setey-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ugolok-potrebitelya-v-krasnoyarske-gid-dlya-setey-2026.html</guid>
-    <pubDate>Sun, 13 Sep 2026 22:54:55 GMT</pubDate>
   </item>
   </channel>
 </rss>
