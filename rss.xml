@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:32:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:32:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН 4–5 лет: 20 минут занятие, 40 минут нагрузка</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-4-5-let-20-minut-zanyatie-40-minut-nagruzka.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-4-5-let-20-minut-zanyatie-40-minut-nagruzka.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:32:41 GMT</pubDate>
+  </item>
   <item>
     <title>20 минут в день: как монетизировать СанПиН для детей 4–5 лет</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/20-minut-v-den-kak-monetizirovat-sanpin-dlya-detey-4-5-let.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-avto-na-rozysk-i-zaprety-v-krasnoyarske-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-avto-na-rozysk-i-zaprety-v-krasnoyarske-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 22:51:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Путевой лист в длительной поездке: риски ГИБДД и ГСМ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/putevoy-list-v-dlitelnoy-poezdke-riski-gibdd-i-gsm.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/putevoy-list-v-dlitelnoy-poezdke-riski-gibdd-i-gsm.html</guid>
-    <pubDate>Sun, 13 Sep 2026 22:51:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
