@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:21:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Консультант для самооценки гостевого дома Геленджик</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/konsultant-dlya-samootsenki-gostevogo-doma-gelendzhik.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/konsultant-dlya-samootsenki-gostevogo-doma-gelendzhik.html</guid>
+    <pubDate>Mon, 14 Sep 2026 16:21:33 GMT</pubDate>
+  </item>
   <item>
     <title>Налоги гостевого дома в Геленджике 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-gostevogo-doma-v-gelendzhike-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/upravlenie-bronirovaniyami-gostevogo-doma-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/upravlenie-bronirovaniyami-gostevogo-doma-gid-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 09:05:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Реестр гостевых домов 2026: как пройти классификацию</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-gostevykh-domov-2026-kak-proyti-klassifikatsiyu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reestr-gostevykh-domov-2026-kak-proyti-klassifikatsiyu.html</guid>
-    <pubDate>Mon, 14 Sep 2026 09:05:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
