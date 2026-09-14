@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:06:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Календарь коммуникаций: аутсорс против штата</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kalendar-kommunikatsiy-autsors-protiv-shtata.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kalendar-kommunikatsiy-autsors-protiv-shtata.html</guid>
+    <pubDate>Mon, 14 Sep 2026 13:06:50 GMT</pubDate>
+  </item>
   <item>
     <title>Календарь коммуникаций с инвесторами в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kalendar-kommunikatsiy-s-investorami-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sobstvennika-kvartiry-v-egrn-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sobstvennika-kvartiry-v-egrn-gid-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:44:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Срок обжалования штрафа с камеры: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/srok-obzhalovaniya-shtrafa-s-kamery-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/srok-obzhalovaniya-shtrafa-s-kamery-spravochnik-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:44:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
