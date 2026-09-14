@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:27:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:27:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН 1.2.3685-21: нормы занятий и сна для детей 4–5 лет</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-1-2-3685-21-normy-zanyatiy-i-sna-dlya-detey-4-5-let.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-1-2-3685-21-normy-zanyatiy-i-sna-dlya-detey-4-5-let.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:27:30 GMT</pubDate>
+  </item>
   <item>
     <title>Консультант по детскому сну в Саратове: как выбрать и сколько стоит</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/konsultant-po-detskomu-snu-v-saratove-kak-vybrat-i-skolko-st.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vykup-bitykh-avto-v-krasnoyarske-dengi-za-1-chas.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vykup-bitykh-avto-v-krasnoyarske-dengi-za-1-chas.html</guid>
     <pubDate>Sun, 13 Sep 2026 22:47:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как снять с учета утиль авто без акта в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-snyat-s-ucheta-util-avto-bez-akta-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-snyat-s-ucheta-util-avto-bez-akta-v-2026-godu.html</guid>
-    <pubDate>Sun, 13 Sep 2026 22:46:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
