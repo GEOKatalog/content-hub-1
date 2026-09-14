@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:55:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:55:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как зарегистрировать гостевой дом в Геленджике</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zaregistrirovat-gostevoy-dom-v-gelendzhike.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zaregistrirovat-gostevoy-dom-v-gelendzhike.html</guid>
+    <pubDate>Mon, 14 Sep 2026 07:55:48 GMT</pubDate>
+  </item>
   <item>
     <title>Сбалансированная система показателей для курортного комплекса: KPI инструкция 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sbalansirovannaya-sistema-pokazateley-dlya-kurortnogo-komple.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normy-sna-2-4-goda-sanpin-2026-i-reshenie-problem.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normy-sna-2-4-goda-sanpin-2026-i-reshenie-problem.html</guid>
     <pubDate>Mon, 14 Sep 2026 02:29:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>СанПиН 2026: нормы сна для детей 6-7 лет и режим</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-normy-sna-dlya-detey-6-7-let-i-rezhim.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-normy-sna-dlya-detey-6-7-let-i-rezhim.html</guid>
-    <pubDate>Mon, 14 Sep 2026 02:29:06 GMT</pubDate>
   </item>
   </channel>
 </rss>
