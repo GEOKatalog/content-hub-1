@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:12:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:12:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Электроснабжение 24 часа и вода 4 часа</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/elektrosnabzhenie-24-chasa-i-voda-4-chasa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/elektrosnabzhenie-24-chasa-i-voda-4-chasa.html</guid>
+    <pubDate>Mon, 14 Sep 2026 13:12:55 GMT</pubDate>
+  </item>
   <item>
     <title>Второй запуск бизнеса: проверка ФНС в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vtoroy-zapusk-biznesa-proverka-fns-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-pri-pereregistratsii-avto-starshe-4-let.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-pri-pereregistratsii-avto-starshe-4-let.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:46:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как проверить собственника квартиры через ЕГРН в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sobstvennika-kvartiry-cherez-egrn-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sobstvennika-kvartiry-cherez-egrn-v-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:45:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
