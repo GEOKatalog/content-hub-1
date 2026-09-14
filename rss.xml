@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:21:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:23:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Старт-1 2026: сроки, суммы и шансы на грант</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/start-1-2026-sroki-summy-i-shansy-na-grant.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/start-1-2026-sroki-summy-i-shansy-na-grant.html</guid>
+    <pubDate>Mon, 14 Sep 2026 14:23:24 GMT</pubDate>
+  </item>
   <item>
     <title>Классификация 2026: как не потерять объект</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-2026-kak-ne-poteryat-obekt.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-obosnovat-tsenu-kontrakta-po-44-fz-v-gelendzhike-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-obosnovat-tsenu-kontrakta-po-44-fz-v-gelendzhike-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 07:53:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Классификация гостиниц в Геленджике: цена 2026 и поиск эксперта</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-gostinits-v-gelendzhike-tsena-2026-i-poisk-e.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-gostinits-v-gelendzhike-tsena-2026-i-poisk-e.html</guid>
-    <pubDate>Mon, 14 Sep 2026 07:53:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
