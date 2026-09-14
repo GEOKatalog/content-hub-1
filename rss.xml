@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:23:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:25:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регламент нематериальной мотивации: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-nematerialnoy-motivatsii-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-nematerialnoy-motivatsii-gid-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 14:25:28 GMT</pubDate>
+  </item>
   <item>
     <title>Старт-1 2026: сроки, суммы и шансы на грант</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/start-1-2026-sroki-summy-i-shansy-na-grant.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obosnovanie-nmtsk-po-44-fz-praktika-dlya-gelendzhika-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/obosnovanie-nmtsk-po-44-fz-praktika-dlya-gelendzhika-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 07:53:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как обосновать цену контракта по 44-ФЗ в Геленджике 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-obosnovat-tsenu-kontrakta-po-44-fz-v-gelendzhike-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-obosnovat-tsenu-kontrakta-po-44-fz-v-gelendzhike-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 07:53:27 GMT</pubDate>
   </item>
   </channel>
 </rss>
