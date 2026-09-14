@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 05:45:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:45:19 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Срочный RuID за 48 часов: экстренный въезд экспата</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-ruid-za-48-chasov-ekstrennyy-vezd-ekspata.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-ruid-za-48-chasov-ekstrennyy-vezd-ekspata.html</guid>
+    <pubDate>Mon, 14 Sep 2026 05:45:19 GMT</pubDate>
+  </item>
   <item>
     <title>RuID для командировки в Россию: правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ruid-dlya-komandirovki-v-rossiyu-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vo-skolko-let-otdavat-rebenka-v-shkolu-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vo-skolko-let-otdavat-rebenka-v-shkolu-v-2026-godu.html</guid>
     <pubDate>Mon, 14 Sep 2026 02:19:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Норматив занятий для детей 5-6 лет в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativ-zanyatiy-dlya-detey-5-6-let-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativ-zanyatiy-dlya-detey-5-6-let-v-2026-godu.html</guid>
-    <pubDate>Mon, 14 Sep 2026 02:19:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
