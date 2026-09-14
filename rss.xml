@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:27:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:27:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как рассчитать НДС при утрате права на УСН в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-rasschitat-nds-pri-utrate-prava-na-usn-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-rasschitat-nds-pri-utrate-prava-na-usn-v-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 11:27:56 GMT</pubDate>
+  </item>
   <item>
     <title>Fractional CTO для стартапа Seed: экономия 60%</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/fractional-cto-dlya-startapa-seed-ekonomiya-60.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/perforator-5-8-dzh-dlya-kvartiry-pereplata-ili-neobkhodimost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/perforator-5-8-dzh-dlya-kvartiry-pereplata-ili-neobkhodimost.html</guid>
     <pubDate>Mon, 14 Sep 2026 04:20:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Прием в первый класс 2026: сроки и документы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/priem-v-pervyy-klass-2026-sroki-i-dokumenty.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/priem-v-pervyy-klass-2026-sroki-i-dokumenty.html</guid>
-    <pubDate>Mon, 14 Sep 2026 04:20:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
