@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:14:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регламент офиса стратегии: как внедрить за 8 недель</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-ofisa-strategii-kak-vnedrit-za-8-nedel.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-ofisa-strategii-kak-vnedrit-za-8-nedel.html</guid>
+    <pubDate>Mon, 14 Sep 2026 10:14:31 GMT</pubDate>
+  </item>
   <item>
     <title>Как офис стратегии сократил хаос в решениях на 40%</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-ofis-strategii-sokratil-khaos-v-resheniyakh-na-40.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-dnya-rebenka-2-4-let-po-sanpin-2026-v-saratove.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-dnya-rebenka-2-4-let-po-sanpin-2026-v-saratove.html</guid>
     <pubDate>Mon, 14 Sep 2026 04:17:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Режим дня ребенка 2-4 лет по СанПиН 2026: нормы сна и прогулок</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-dnya-rebenka-2-4-let-po-sanpin-2026-normy-sna-i-progu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-dnya-rebenka-2-4-let-po-sanpin-2026-normy-sna-i-progu.html</guid>
-    <pubDate>Mon, 14 Sep 2026 04:17:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
