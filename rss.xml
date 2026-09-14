@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:29:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:29:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН 4–5 лет: 20 минут на занятие и 40 в день</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-4-5-let-20-minut-na-zanyatie-i-40-v-den.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-4-5-let-20-minut-na-zanyatie-i-40-v-den.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:29:59 GMT</pubDate>
+  </item>
   <item>
     <title>Нормы сна детей 1–3 и 4–7 лет по СанПиН 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normy-sna-detey-1-3-i-4-7-let-po-sanpin-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-avto-na-razbor-i-snyat-s-ucheta-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-avto-na-razbor-i-snyat-s-ucheta-gid-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 22:49:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продажа авто на разбор в Красноярске: снятие с учета 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-avto-na-razbor-v-krasnoyarske-snyatie-s-ucheta-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-avto-na-razbor-v-krasnoyarske-snyatie-s-ucheta-2026.html</guid>
-    <pubDate>Sun, 13 Sep 2026 22:49:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
