@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:22:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:22:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН 1.2.3685-21: нормы занятий для детей 3-4 лет</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-1-2-3685-21-normy-zanyatiy-dlya-detey-3-4-let.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-1-2-3685-21-normy-zanyatiy-dlya-detey-3-4-let.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:22:34 GMT</pubDate>
+  </item>
   <item>
     <title>Репетитор по подготовке к школе Саратов: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-po-podgotovke-k-shkole-saratov-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/npd-i-arenda-v-2026-kak-zakonno-sdavat-i-ne-platit-lishnee.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/npd-i-arenda-v-2026-kak-zakonno-sdavat-i-ne-platit-lishnee.html</guid>
     <pubDate>Sun, 13 Sep 2026 18:29:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налог с аренды квартиры в 2026: кейс экономии 84 000 ₽</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-v-2026-keys-ekonomii-84-000.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-v-2026-keys-ekonomii-84-000.html</guid>
-    <pubDate>Sun, 13 Sep 2026 18:28:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
