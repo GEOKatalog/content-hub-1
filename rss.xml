@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:02:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>EVP в Геленджике: как закрепить гарантии в локальных актах 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/evp-v-gelendzhike-kak-zakrepit-garantii-v-lokalnykh-aktakh-2.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/evp-v-gelendzhike-kak-zakrepit-garantii-v-lokalnykh-aktakh-2.html</guid>
+    <pubDate>Mon, 14 Sep 2026 14:02:24 GMT</pubDate>
+  </item>
   <item>
     <title>Как передать гостевой дом в управление в Геленджике 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-peredat-gostevoy-dom-v-upravlenie-v-gelendzhike-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-arendatora-voronezha-roi-proverki-kvartiry.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-arendatora-voronezha-roi-proverki-kvartiry.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:47:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка ЕГРН через Госуслуги: кейс аренды</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-egrn-cherez-gosuslugi-keys-arendy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-egrn-cherez-gosuslugi-keys-arendy.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:47:20 GMT</pubDate>
   </item>
   </channel>
 </rss>
