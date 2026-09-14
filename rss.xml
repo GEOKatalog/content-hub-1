@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:20:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Режим дня ребенка до 1.5 лет: нормы сна по СанПиН</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-dnya-rebenka-do-1-5-let-normy-sna-po-sanpin.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-dnya-rebenka-do-1-5-let-normy-sna-po-sanpin.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:20:53 GMT</pubDate>
+  </item>
   <item>
     <title>Прием в 1 класс 2026: ROI и лидогенерация для бизнеса</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/priem-v-1-klass-2026-roi-i-lidogeneratsiya-dlya-biznesa.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-yuridicheskie-proverki-kvartir-v-rostove-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-yuridicheskie-proverki-kvartir-v-rostove-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 18:23:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка квартиры перед сделкой в Ростове-на-Дону</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kvartiry-pered-sdelkoy-v-rostove-na-donu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kvartiry-pered-sdelkoy-v-rostove-na-donu.html</guid>
-    <pubDate>Sun, 13 Sep 2026 18:22:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
