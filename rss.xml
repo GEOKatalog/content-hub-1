@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:07:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регламент взаимодействия CEO с инвесторами 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-vzaimodeystviya-ceo-s-investorami-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-vzaimodeystviya-ceo-s-investorami-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 13:07:12 GMT</pubDate>
+  </item>
   <item>
     <title>Календарь коммуникаций: аутсорс против штата</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kalendar-kommunikatsiy-autsors-protiv-shtata.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mogut-li-vyselit-semyu-s-detmi-iz-syomnoy-kvartiry.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mogut-li-vyselit-semyu-s-detmi-iz-syomnoy-kvartiry.html</guid>
     <pubDate>Mon, 14 Sep 2026 05:44:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как проверить собственника квартиры в ЕГРН: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sobstvennika-kvartiry-v-egrn-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sobstvennika-kvartiry-v-egrn-gid-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 05:44:20 GMT</pubDate>
   </item>
   </channel>
 </rss>
