@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:30:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:30:25 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН 1.2.3685-21: каталог норм нагрузки 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-1-2-3685-21-katalog-norm-nagruzki-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-1-2-3685-21-katalog-norm-nagruzki-2026.html</guid>
+    <pubDate>Mon, 14 Sep 2026 02:30:25 GMT</pubDate>
+  </item>
   <item>
     <title>Нормы занятий для детей 4–5 лет: СанПиН 2026 каталог</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normy-zanyatiy-dlya-detey-4-5-let-sanpin-2026-katalog.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snyatie-avto-s-ucheta-posle-prodazhi-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyatie-avto-s-ucheta-posle-prodazhi-gid-2026.html</guid>
     <pubDate>Sun, 13 Sep 2026 22:50:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продажа авто на разбор в Красноярске: как снять с учета</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-avto-na-razbor-v-krasnoyarske-kak-snyat-s-ucheta.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-avto-na-razbor-v-krasnoyarske-kak-snyat-s-ucheta.html</guid>
-    <pubDate>Sun, 13 Sep 2026 22:49:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
