@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 03:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:53:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ошибка в распределении долей вычета по ипотеке 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/oshibka-v-raspredelenii-doley-vycheta-po-ipoteke-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/oshibka-v-raspredelenii-doley-vycheta-po-ipoteke-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 03:53:50 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка основных средств 3–10 групп в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-osnovnykh-sredstv-3-10-grupp-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kriterii-sootvetstviya-do-isklyucheniya-iz-egryul-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kriterii-sootvetstviya-do-isklyucheniya-iz-egryul-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 13:00:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>База данных для технологического скаутинга R&amp;D</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/baza-dannykh-dlya-tekhnologicheskogo-skautinga-r-d.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/baza-dannykh-dlya-tekhnologicheskogo-skautinga-r-d.html</guid>
-    <pubDate>Mon, 14 Sep 2026 12:59:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
