@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:47:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:47:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Доказательства владения судном: гид по защите в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokazatelstva-vladeniya-sudnom-gid-po-zashchite-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokazatelstva-vladeniya-sudnom-gid-po-zashchite-v-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:47:32 GMT</pubDate>
+  </item>
   <item>
     <title>Снять помещение свободного назначения в Тюмени без комиссии</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-pomeshchenie-svobodnogo-naznacheniya-v-tyumeni-bez-kom.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-50938-2013-remont-bytovoy-tekhniki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-50938-2013-remont-bytovoy-tekhniki.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ 7360: подбор переводников для бурения</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-7360-podbor-perevodnikov-dlya-bureniya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-7360-podbor-perevodnikov-dlya-bureniya.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:14:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
