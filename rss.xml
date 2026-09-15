@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:42:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как выбрать ходовую часть экскаватора-погрузчика</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-khodovuyu-chast-ekskavatora-pogruzchika.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-khodovuyu-chast-ekskavatora-pogruzchika.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:42:49 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка автокрана 25 тонн перед арендой: документы 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-avtokrana-25-tonn-pered-arendoy-dokumenty-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-massu-i-gabarity-gruza-spravochnik.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-massu-i-gabarity-gruza-spravochnik.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:10:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как выбрать автокран: тоннаж и вылет стрелы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-avtokran-tonnazh-i-vylet-strely.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-avtokran-tonnazh-i-vylet-strely.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:10:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
