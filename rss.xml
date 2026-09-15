@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:44:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:44:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Фермер-агроном сырьевик: правовой статус 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/fermer-agronom-syrevik-pravovoy-status-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/fermer-agronom-syrevik-pravovoy-status-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:44:47 GMT</pubDate>
+  </item>
   <item>
     <title>Разработка ТУ для крафтового производителя 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-tu-dlya-kraftovogo-proizvoditelya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/grant-start-1-kak-poluchit-5-mln-na-seed.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/grant-start-1-kak-poluchit-5-mln-na-seed.html</guid>
     <pubDate>Mon, 14 Sep 2026 14:07:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налог УСН или штраф: что выбрать в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-usn-ili-shtraf-chto-vybrat-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-usn-ili-shtraf-chto-vybrat-v-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 14:05:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
