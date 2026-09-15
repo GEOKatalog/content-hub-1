@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:12:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация аренды нежилого помещения в Тюмени 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-arendy-nezhilogo-pomeshcheniya-v-tyumeni-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-arendy-nezhilogo-pomeshcheniya-v-tyumeni-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:12:12 GMT</pubDate>
+  </item>
   <item>
     <title>Ремонт техники в Тюмени 2026: защита от мошенников</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-v-tyumeni-2026-zashchita-ot-moshennikov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-avtoservisa-v-2026-tolyatti-osno-psn.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-avtoservisa-v-2026-tolyatti-osno-psn.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:41:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Изменения №9 СП 256.1325800.2016: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/izmeneniya-9-sp-256-1325800-2016-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/izmeneniya-9-sp-256-1325800-2016-spravochnik-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:40:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
