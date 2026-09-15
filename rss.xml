@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 03:51:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:51:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>НДФЛ с ренты в 2026 году: обзор решений и разъяснений</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ndfl-s-renty-v-2026-godu-obzor-resheniy-i-razyasneniy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ndfl-s-renty-v-2026-godu-obzor-resheniy-i-razyasneniy.html</guid>
+    <pubDate>Tue, 15 Sep 2026 03:51:41 GMT</pubDate>
+  </item>
   <item>
     <title>НДФЛ по договору ренты в 2026 году: как рассчитать</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ndfl-po-dogovoru-renty-v-2026-godu-kak-rasschitat.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mozhet-li-inostranets-otkryt-ip-v-rossii-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mozhet-li-inostranets-otkryt-ip-v-rossii-v-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 11:28:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Что делать основателю после провала стартапа</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/chto-delat-osnovatelyu-posle-provala-startapa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chto-delat-osnovatelyu-posle-provala-startapa.html</guid>
-    <pubDate>Mon, 14 Sep 2026 11:28:06 GMT</pubDate>
   </item>
   </channel>
 </rss>
