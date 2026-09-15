@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:47:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:47:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Запрет Telegram и WhatsApp для сбора данных в Тольятти</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zapret-telegram-i-whatsapp-dlya-sbora-dannykh-v-tolyatti.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapret-telegram-i-whatsapp-dlya-sbora-dannykh-v-tolyatti.html</guid>
+    <pubDate>Tue, 15 Sep 2026 10:47:41 GMT</pubDate>
+  </item>
   <item>
     <title>Запрет Telegram-ботов на мероприятиях: риски 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zapret-telegram-botov-na-meropriyatiyakh-riski-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gostevoy-dom-2026-trebovaniya-i-reestr.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gostevoy-dom-2026-trebovaniya-i-reestr.html</guid>
     <pubDate>Mon, 14 Sep 2026 15:05:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пожарная безопасность отелей 2026: ФГИС и 1345</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-oteley-2026-fgis-i-1345.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-oteley-2026-fgis-i-1345.html</guid>
-    <pubDate>Mon, 14 Sep 2026 15:04:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
