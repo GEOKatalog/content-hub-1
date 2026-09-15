@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:24:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:24:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Наряд-допуск на автокран в Тюмени: правила 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/naryad-dopusk-na-avtokran-v-tyumeni-pravila-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/naryad-dopusk-na-avtokran-v-tyumeni-pravila-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:24:46 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка спецтехники в Тюмени: чек-лист приёмки 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-spetstekhniki-v-tyumeni-chek-list-priyomki-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oplata-dney-mezhduvakhtovogo-otdykha-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/oplata-dney-mezhduvakhtovogo-otdykha-spravochnik-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:52:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Оплата междувахтового отдыха: инструкция 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/oplata-mezhduvakhtovogo-otdykha-instruktsiya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/oplata-mezhduvakhtovogo-otdykha-instruktsiya-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:52:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
