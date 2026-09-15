@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:27:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:28:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ликвидация аварий с бурильной колонной: алгоритм для КРС</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/likvidatsiya-avariy-s-burilnoy-kolonnoy-algoritm-dlya-krs.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/likvidatsiya-avariy-s-burilnoy-kolonnoy-algoritm-dlya-krs.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:28:01 GMT</pubDate>
+  </item>
   <item>
     <title>Ликвидация аварий с бурильной колонной: алгоритм 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/likvidatsiya-avariy-s-burilnoy-kolonnoy-algoritm-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/keys-remont-tekhniki-v-tyumeni-bez-posrednikov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/keys-remont-tekhniki-v-tyumeni-bez-posrednikov.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:55:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как выбрать репетитора для ЕГЭ 2026 в Тюмени: гид</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-repetitora-dlya-ege-2026-v-tyumeni-gid.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-repetitora-dlya-ege-2026-v-tyumeni-gid.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:55:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
