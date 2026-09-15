@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:45:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:45:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Где искать фермерских поставщиков в Иркутске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-iskat-fermerskikh-postavshchikov-v-irkutske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-iskat-fermerskikh-postavshchikov-v-irkutske.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:45:33 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для фермерского магазина 2026: гид</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-fermerskogo-magazina-2026-gid.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zakrepit-nematerialnye-garantii-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zakrepit-nematerialnye-garantii-v-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 14:08:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Рейтинг решений: нематериальные гарантии 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-nematerialnye-garantii-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-nematerialnye-garantii-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 14:07:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
