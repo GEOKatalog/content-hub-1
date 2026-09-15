@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:50:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:50:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Техосмотр для операторов 2026: новые правила в Тольятти</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-dlya-operatorov-2026-novye-pravila-v-tolyatti.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-dlya-operatorov-2026-novye-pravila-v-tolyatti.html</guid>
+    <pubDate>Tue, 15 Sep 2026 10:50:43 GMT</pubDate>
+  </item>
   <item>
     <title>Правила техосмотра для операторов 2026: гид по Тольятти</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-tekhosmotra-dlya-operatorov-2026-gid-po-tolyatti.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnye-dokumenty-dlya-gostevogo-doma-kubani-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pozharnye-dokumenty-dlya-gostevogo-doma-kubani-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 15:14:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Обзор решений для классификации гостевых домов 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obzor-resheniy-dlya-klassifikatsii-gostevykh-domov-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obzor-resheniy-dlya-klassifikatsii-gostevykh-domov-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 15:11:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
