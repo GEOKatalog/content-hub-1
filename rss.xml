@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:39:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Хранение и маркировка в фермерском магазине Иркутска</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/khranenie-i-markirovka-v-fermerskom-magazine-irkutska.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/khranenie-i-markirovka-v-fermerskom-magazine-irkutska.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:39:51 GMT</pubDate>
+  </item>
   <item>
     <title>Фермерский магазин и СанПиН 2026: новые правила</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/fermerskiy-magazin-i-sanpin-2026-novye-pravila.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-mvp-pod-klyuch-tsena-i-sroki-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-mvp-pod-klyuch-tsena-i-sroki-v-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 13:11:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Разработка MVP под ключ: цена в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-mvp-pod-klyuch-tsena-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-mvp-pod-klyuch-tsena-v-2026-godu.html</guid>
-    <pubDate>Mon, 14 Sep 2026 13:10:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
