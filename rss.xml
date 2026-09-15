@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:43:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:44:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ Р 71883-2024 для крафтовых цехов: гид по Иркутску</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-71883-2024-dlya-kraftovykh-tsekhov-gid-po-irkutsku.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-71883-2024-dlya-kraftovykh-tsekhov-gid-po-irkutsku.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:44:06 GMT</pubDate>
+  </item>
   <item>
     <title>Обязательны ли аллергены в меню кафе: рейтинг 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelny-li-allergeny-v-menyu-kafe-reyting-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/umenshenie-naloga-usn-na-vznosy-ip-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/umenshenie-naloga-usn-na-vznosy-ip-v-2026-godu.html</guid>
     <pubDate>Mon, 14 Sep 2026 14:04:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>EVP в Геленджике: как закрепить гарантии в локальных актах 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/evp-v-gelendzhike-kak-zakrepit-garantii-v-lokalnykh-aktakh-2.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/evp-v-gelendzhike-kak-zakrepit-garantii-v-lokalnykh-aktakh-2.html</guid>
-    <pubDate>Mon, 14 Sep 2026 14:02:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
