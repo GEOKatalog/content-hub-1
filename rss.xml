@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:07:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда автокрана в Тюмени: частник или компания</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-avtokrana-v-tyumeni-chastnik-ili-kompaniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-avtokrana-v-tyumeni-chastnik-ili-kompaniya.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:07:12 GMT</pubDate>
+  </item>
   <item>
     <title>Автокран 25 тонн: ROI 5 660% за месяц</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/avtokran-25-tonn-roi-5-660-za-mesyats.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-proverka-pomeshcheniya-do-arendy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-proverka-pomeshcheniya-do-arendy.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:34:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверенные решения для вывоза мусора в Тюмени</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverennye-resheniya-dlya-vyvoza-musora-v-tyumeni.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverennye-resheniya-dlya-vyvoza-musora-v-tyumeni.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:34:06 GMT</pubDate>
   </item>
   </channel>
 </rss>
