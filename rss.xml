@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:37:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Статистика ЛПК России 2026: каналы данных Росстата</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/statistika-lpk-rossii-2026-kanaly-dannykh-rosstata.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/statistika-lpk-rossii-2026-kanaly-dannykh-rosstata.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:37:01 GMT</pubDate>
+  </item>
   <item>
     <title>Дизайн упаковки для фермерских продуктов: сервис 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dizayn-upakovki-dlya-fermerskikh-produktov-servis-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kalendar-invest-kommunikatsiy-2026-gid.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kalendar-invest-kommunikatsiy-2026-gid.html</guid>
     <pubDate>Mon, 14 Sep 2026 13:05:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регламент для CEO с инвесторами: защита от рисков</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-dlya-ceo-s-investorami-zashchita-ot-riskov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-dlya-ceo-s-investorami-zashchita-ot-riskov.html</guid>
-    <pubDate>Mon, 14 Sep 2026 13:04:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
