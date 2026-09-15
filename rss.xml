@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:42:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:42:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ПДУ пестицидов в зерне ТР ТС 015/2011: таблица 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pdu-pestitsidov-v-zerne-tr-ts-015-2011-tablitsa-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pdu-pestitsidov-v-zerne-tr-ts-015-2011-tablitsa-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:42:20 GMT</pubDate>
+  </item>
   <item>
     <title>Обзор решений для маркировки аллергенов 2026 в Иркутске</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obzor-resheniy-dlya-markirovki-allergenov-2026-v-irkutske.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/metriki-pre-seed-2026-chto-vazhno-dlya-solo-dev.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/metriki-pre-seed-2026-chto-vazhno-dlya-solo-dev.html</guid>
     <pubDate>Mon, 14 Sep 2026 14:00:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы для оформления первого сотрудника ИП 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-oformleniya-pervogo-sotrudnika-ip-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-oformleniya-pervogo-sotrudnika-ip-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 13:14:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
