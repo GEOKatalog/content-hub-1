@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:52:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:53:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы репетитора по закону 2026: рейтинг</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-repetitora-po-zakonu-2026-reyting.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-repetitora-po-zakonu-2026-reyting.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:53:02 GMT</pubDate>
+  </item>
   <item>
     <title>Гарантийный ремонт бытовой техники: права 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/garantiynyy-remont-bytovoy-tekhniki-prava-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-trebovaniya-k-ekskavatoru-pogruzchiku.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-trebovaniya-k-ekskavatoru-pogruzchiku.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:24:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ 12.2.011-2012: безопасность экскаватора-погрузчика</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-bezopasnost-ekskavatora-pogruzchika.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-bezopasnost-ekskavatora-pogruzchika.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:24:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
