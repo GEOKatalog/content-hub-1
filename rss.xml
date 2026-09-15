@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:03:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ремонт техники после гарантии: права по 1514</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-posle-garantii-prava-po-1514.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-posle-garantii-prava-po-1514.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:03:24 GMT</pubDate>
+  </item>
   <item>
     <title>Договор аренды спецтехники с экипажем: регламент 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-spetstekhniki-s-ekipazhem-reglament-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podbor-oborudovaniya-pod-zadachu-v-tyumeni-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podbor-oborudovaniya-pod-zadachu-v-tyumeni-spravochnik-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:33:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Подбор оборудования под задачу: алгоритм 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/podbor-oborudovaniya-pod-zadachu-algoritm-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/podbor-oborudovaniya-pod-zadachu-algoritm-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:33:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
