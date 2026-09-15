@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:04:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Репетиторы Тюмени 2026: математика, русский, физика, информатика</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitory-tyumeni-2026-matematika-russkiy-fizika-informatik.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/repetitory-tyumeni-2026-matematika-russkiy-fizika-informatik.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:04:58 GMT</pubDate>
+  </item>
   <item>
     <title>Репетитор в Тюмени 2026: сравнение цен и форматов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-v-tyumeni-2026-sravnenie-tsen-i-formatov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kommercheskoy-nedvizhimosti-v-tyumeni-gid-po-dogovoru.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kommercheskoy-nedvizhimosti-v-tyumeni-gid-po-dogovoru.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:35:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Вернул 97 000 ₽ за ремонт техники: права потребителя</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vernul-97-000-za-remont-tekhniki-prava-potrebitelya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vernul-97-000-za-remont-tekhniki-prava-potrebitelya.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:35:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
