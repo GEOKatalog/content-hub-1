@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:21:15 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Консервация скважин 2026: закон, сроки, проект</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/konservatsiya-skvazhin-2026-zakon-sroki-proekt.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/konservatsiya-skvazhin-2026-zakon-sroki-proekt.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:21:15 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг способов проверки диплома репетитора в Тюмени 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-sposobov-proverki-diploma-repetitora-v-tyumeni-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-repetitorov-ege-2026-katalog-resheniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-repetitorov-ege-2026-katalog-resheniy.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:49:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Режим труда водителя вахтового автобуса: приказ 15</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-truda-voditelya-vakhtovogo-avtobusa-prikaz-15.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-truda-voditelya-vakhtovogo-avtobusa-prikaz-15.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:48:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
