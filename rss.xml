@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:13:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:13:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация аренды: срок год и более</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-arendy-srok-god-i-bolee.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-arendy-srok-god-i-bolee.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:13:30 GMT</pubDate>
+  </item>
   <item>
     <title>Репетитор по профильной математике ЕГЭ 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-po-profilnoy-matematike-ege-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vzyat-tochnyy-ves-gruza-iz-nakladnoy-ili-pasporta.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vzyat-tochnyy-ves-gruza-iz-nakladnoy-ili-pasporta.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:40:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Вес груза в накладной: как проверить и не попасть на штраф</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ves-gruza-v-nakladnoy-kak-proverit-i-ne-popast-na-shtraf.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ves-gruza-v-nakladnoy-kak-proverit-i-ne-popast-na-shtraf.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:39:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
