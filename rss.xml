@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:12:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда на 11 месяцев без регистрации: правила 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-na-11-mesyatsev-bez-registratsii-pravila-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-na-11-mesyatsev-bez-registratsii-pravila-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:12:34 GMT</pubDate>
+  </item>
   <item>
     <title>Регистрация аренды нежилого помещения в Тюмени 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-arendy-nezhilogo-pomeshcheniya-v-tyumeni-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/patent-ili-osno-vybor-sto-v-tolyatti-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/patent-ili-osno-vybor-sto-v-tolyatti-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:41:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налоги автосервиса в 2026: Тольятти, ОСНО, ПСН</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-avtoservisa-v-2026-tolyatti-osno-psn.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-avtoservisa-v-2026-tolyatti-osno-psn.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:41:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
