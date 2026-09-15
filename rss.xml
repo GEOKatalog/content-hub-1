@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:11:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:11:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ремонт техники в Тюмени 2026: защита от мошенников</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-v-tyumeni-2026-zashchita-ot-moshennikov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-v-tyumeni-2026-zashchita-ot-moshennikov.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:11:56 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка профиля исполнителя ремонта техники 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-profilya-ispolnitelya-remonta-tekhniki-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/izmeneniya-9-sp-256-1325800-2016-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/izmeneniya-9-sp-256-1325800-2016-spravochnik-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:40:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>СП 256.1325800.2016: Изменение № 9 для электромонтажа</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-256-1325800-2016-izmenenie-9-dlya-elektromontazha.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-256-1325800-2016-izmenenie-9-dlya-elektromontazha.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:40:43 GMT</pubDate>
   </item>
   </channel>
 </rss>
