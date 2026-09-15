@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:00:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Актуальные материалы ЕГЭ 2026: как не купить устаревшее</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/aktualnye-materialy-ege-2026-kak-ne-kupit-ustarevshee.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/aktualnye-materialy-ege-2026-kak-ne-kupit-ustarevshee.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:00:46 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка материалов ЕГЭ 2026: рейтинг источников</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-materialov-ege-2026-reyting-istochnikov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-ege-2026-dokumenty-pravila-sredstva.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-ege-2026-dokumenty-pravila-sredstva.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:28:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда офиса у физлица: риски и решения 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ofisa-u-fizlitsa-riski-i-resheniya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ofisa-u-fizlitsa-riski-i-resheniya-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:28:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
