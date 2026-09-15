@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:23:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:24:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аудит договоров и инструкций ЧОП: алгоритм 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-dogovorov-i-instruktsiy-chop-algoritm-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-dogovorov-i-instruktsiy-chop-algoritm-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 11:24:16 GMT</pubDate>
+  </item>
   <item>
     <title>Договор на фотосъемку с юрлицом: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-na-fotosemku-s-yurlitsom-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/statistika-lpk-rossii-2026-kanaly-dannykh-rosstata.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/statistika-lpk-rossii-2026-kanaly-dannykh-rosstata.html</guid>
     <pubDate>Tue, 15 Sep 2026 06:37:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Дизайн упаковки для фермерских продуктов: сервис 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dizayn-upakovki-dlya-fermerskikh-produktov-servis-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dizayn-upakovki-dlya-fermerskikh-produktov-servis-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 06:36:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
