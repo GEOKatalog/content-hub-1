@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:35:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ТУ по ГОСТ Р 51740: гид для крафтового технолога</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tu-po-gost-r-51740-gid-dlya-kraftovogo-tekhnologa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tu-po-gost-r-51740-gid-dlya-kraftovogo-tekhnologa.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:35:23 GMT</pubDate>
+  </item>
   <item>
     <title>Аудит упаковки и маркировки: чек-лист 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-upakovki-i-markirovki-chek-list-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sootvetstvie-kriteriyam-do-egryul-okupaemost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sootvetstvie-kriteriyam-do-egryul-okupaemost.html</guid>
     <pubDate>Mon, 14 Sep 2026 13:01:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как озеро данных перестало быть болотом: кейс ПРО Стартап</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-ozero-dannykh-perestalo-byt-bolotom-keys-pro-startap.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-ozero-dannykh-perestalo-byt-bolotom-keys-pro-startap.html</guid>
-    <pubDate>Mon, 14 Sep 2026 13:01:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
