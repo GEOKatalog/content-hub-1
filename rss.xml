@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:03:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Права потребителя при срочном ремонте техники 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prava-potrebitelya-pri-srochnom-remonte-tekhniki-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prava-potrebitelya-pri-srochnom-remonte-tekhniki-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:03:45 GMT</pubDate>
+  </item>
   <item>
     <title>Почему ремонт техники без договора дороже на 40%</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pochemu-remont-tekhniki-bez-dogovora-dorozhe-na-40.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prava-potrebitelya-pri-srochnom-remonte-bytovoy-tekhniki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prava-potrebitelya-pri-srochnom-remonte-bytovoy-tekhniki.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:34:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Права потребителя при срочном ремонте техники в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prava-potrebitelya-pri-srochnom-remonte-tekhniki-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prava-potrebitelya-pri-srochnom-remonte-tekhniki-v-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:33:56 GMT</pubDate>
   </item>
   </channel>
 </rss>
