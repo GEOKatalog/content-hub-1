@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:35:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:35:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Блокировка карточек на Ozon и WB: алгоритм окупаемости</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/blokirovka-kartochek-na-ozon-i-wb-algoritm-okupaemosti.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/blokirovka-kartochek-na-ozon-i-wb-algoritm-okupaemosti.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:35:40 GMT</pubDate>
+  </item>
   <item>
     <title>ТУ по ГОСТ Р 51740: гид для крафтового технолога</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tu-po-gost-r-51740-gid-dlya-kraftovogo-tekhnologa.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/top-instrumentov-semanticheskogo-poiska-startapov-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/top-instrumentov-semanticheskogo-poiska-startapov-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 13:02:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Соответствие критериям до ЕГРЮЛ: окупаемость</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sootvetstvie-kriteriyam-do-egryul-okupaemost.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sootvetstvie-kriteriyam-do-egryul-okupaemost.html</guid>
-    <pubDate>Mon, 14 Sep 2026 13:01:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
