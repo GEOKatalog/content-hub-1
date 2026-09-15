@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:35:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ликвидация прихвата за 46 часов: кейс по МПЗ</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/likvidatsiya-prikhvata-za-46-chasov-keys-po-mpz.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/likvidatsiya-prikhvata-za-46-chasov-keys-po-mpz.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:35:49 GMT</pubDate>
+  </item>
   <item>
     <title>Ликвидация прихвата за 48 часов: кейс по МПЗ для бурения</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/likvidatsiya-prikhvata-za-48-chasov-keys-po-mpz-dlya-bureniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-spetstekhniki-s-ekipazhem-reglament-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-spetstekhniki-s-ekipazhem-reglament-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:03:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Защита прав потребителей в Тюмени: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zashchita-prav-potrebiteley-v-tyumeni-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zashchita-prav-potrebiteley-v-tyumeni-gid-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:02:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
