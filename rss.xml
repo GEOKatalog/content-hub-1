@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:27:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:27:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Что можно брать на ЕГЭ 2026: официальный регламент</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/chto-mozhno-brat-na-ege-2026-ofitsialnyy-reglament.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chto-mozhno-brat-na-ege-2026-ofitsialnyy-reglament.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:27:48 GMT</pubDate>
+  </item>
   <item>
     <title>Ремонт стиральных машин: реклама с окупаемостью</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-stiralnykh-mashin-reklama-s-okupaemostyu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-arendy-spetstekhniki-v-tyumeni-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-arendy-spetstekhniki-v-tyumeni-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:54:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пакет документов для аренды спецтехники в Тюмени</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/paket-dokumentov-dlya-arendy-spetstekhniki-v-tyumeni.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/paket-dokumentov-dlya-arendy-spetstekhniki-v-tyumeni.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:54:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
