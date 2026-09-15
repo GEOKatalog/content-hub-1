@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:03:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:04:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Маркировка запчастей 2026: инструкция для СТО</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-zapchastey-2026-instruktsiya-dlya-sto.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-zapchastey-2026-instruktsiya-dlya-sto.html</guid>
+    <pubDate>Tue, 15 Sep 2026 11:04:06 GMT</pubDate>
+  </item>
   <item>
     <title>Лицензирование ЧОП по Постановлению 781 в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenzirovanie-chop-po-postanovleniyu-781-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-tsennykh-bumag-dlya-nasledstva-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-tsennykh-bumag-dlya-nasledstva-v-2026-godu.html</guid>
     <pubDate>Tue, 15 Sep 2026 02:34:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Оценка ценных бумаг на дату смерти в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-tsennykh-bumag-na-datu-smerti-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-tsennykh-bumag-na-datu-smerti-v-2026-godu.html</guid>
-    <pubDate>Tue, 15 Sep 2026 02:34:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
