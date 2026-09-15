@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:02:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Профстандарты педагога и лицензирование репетиторства</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandarty-pedagoga-i-litsenzirovanie-repetitorstva.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandarty-pedagoga-i-litsenzirovanie-repetitorstva.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:02:24 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка квалификации репетитора по документам: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kvalifikatsii-repetitora-po-dokumentam-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-samozanyatogo-ili-ip-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-samozanyatogo-ili-ip-gid-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:32:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>Договор с репетитором-самозанятым: образец 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-s-repetitorom-samozanyatym-obrazets-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-s-repetitorom-samozanyatym-obrazets-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:32:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
