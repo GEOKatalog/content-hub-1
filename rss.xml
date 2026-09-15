@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:55:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:55:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ремонт бытовой техники в Тюмени: договор и гарантии</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-v-tyumeni-dogovor-i-garantii.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-v-tyumeni-dogovor-i-garantii.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:55:47 GMT</pubDate>
+  </item>
   <item>
     <title>Ремонт техники по 1514: гарантия или платная диагностика</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-po-1514-garantiya-ili-platnaya-diagnostika.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-rosgvardii-2026-gid-dlya-chop.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reestr-rosgvardii-2026-gid-dlya-chop.html</guid>
     <pubDate>Tue, 15 Sep 2026 11:07:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Перечень услуг клининга: гид по выбору в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/perechen-uslug-klininga-gid-po-vyboru-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/perechen-uslug-klininga-gid-po-vyboru-v-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 11:06:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
