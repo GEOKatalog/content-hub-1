@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:25:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:26:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Нужно ли репетитору оформлять самозанятость</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nuzhno-li-repetitoru-oformlyat-samozanyatost.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nuzhno-li-repetitoru-oformlyat-samozanyatost.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:26:00 GMT</pubDate>
+  </item>
   <item>
     <title>Найти бригаду для уборки снега с крыш в Тюмени</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nayti-brigadu-dlya-uborki-snega-s-krysh-v-tyumeni.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/garantiynyy-remont-bytovoy-tekhniki-prava-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/garantiynyy-remont-bytovoy-tekhniki-prava-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:52:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Рейтинг решений 2026: подготовка площадки под кран</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-podgotovka-ploshchadki-pod-kran.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-podgotovka-ploshchadki-pod-kran.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:52:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
