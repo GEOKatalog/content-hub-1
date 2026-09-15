@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:36:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:36:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Дизайн упаковки для фермерских продуктов: сервис 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dizayn-upakovki-dlya-fermerskikh-produktov-servis-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dizayn-upakovki-dlya-fermerskikh-produktov-servis-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:36:46 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН 2.3/2.4.4282-26: алгоритм для общепита 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2-3-2-4-4282-26-algoritm-dlya-obshchepita-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-dlya-ceo-s-investorami-zashchita-ot-riskov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-dlya-ceo-s-investorami-zashchita-ot-riskov.html</guid>
     <pubDate>Mon, 14 Sep 2026 13:04:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ Р 59921.2-2021: акселератор без техбэкграунда</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-59921-2-2021-akselerator-bez-tekhbekgraunda.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-59921-2-2021-akselerator-bez-tekhbekgraunda.html</guid>
-    <pubDate>Mon, 14 Sep 2026 13:03:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
