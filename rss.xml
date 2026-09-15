@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:11:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:12:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ 27570.0-87: ремонт бытовой техники</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-27570-0-87-remont-bytovoy-tekhniki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-27570-0-87-remont-bytovoy-tekhniki.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:12:12 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ 27570.0-87: ремонт техники и нормативы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-27570-0-87-remont-tekhniki-i-normativy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ekskavatora-pogruzchika-v-tyumeni-tsena-za-smenu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ekskavatora-pogruzchika-v-tyumeni-tsena-za-smenu.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:38:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Лицензия для ИП-репетитора в 2026: когда не нужна</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenziya-dlya-ip-repetitora-v-2026-kogda-ne-nuzhna.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/litsenziya-dlya-ip-repetitora-v-2026-kogda-ne-nuzhna.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:38:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
