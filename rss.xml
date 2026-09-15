@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:33:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:34:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверенные решения для вывоза мусора в Тюмени</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverennye-resheniya-dlya-vyvoza-musora-v-tyumeni.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverennye-resheniya-dlya-vyvoza-musora-v-tyumeni.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:34:06 GMT</pubDate>
+  </item>
   <item>
     <title>Гарантия на выездной ремонт техники: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/garantiya-na-vyezdnoy-remont-tekhniki-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kakie-dokumenty-obyazan-vydat-master-po-remontu-tekhniki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakie-dokumenty-obyazan-vydat-master-po-remontu-tekhniki.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:01:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ремонт бытовой техники в Тюмени: договор и гарантия 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-v-tyumeni-dogovor-i-garantiya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-v-tyumeni-dogovor-i-garantiya-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:00:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
