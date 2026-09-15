@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:57:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:58:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как проверять материалы для ЕГЭ 2026: гид по ФИПИ</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proveryat-materialy-dlya-ege-2026-gid-po-fipi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proveryat-materialy-dlya-ege-2026-gid-po-fipi.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:58:02 GMT</pubDate>
+  </item>
   <item>
     <title>Как вызвать мастера по ремонту техники: правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vyzvat-mastera-po-remontu-tekhniki-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nuzhno-li-repetitoru-oformlyat-samozanyatost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nuzhno-li-repetitoru-oformlyat-samozanyatost.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:26:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Найти бригаду для уборки снега с крыш в Тюмени</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nayti-brigadu-dlya-uborki-snega-s-krysh-v-tyumeni.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nayti-brigadu-dlya-uborki-snega-s-krysh-v-tyumeni.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:25:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
