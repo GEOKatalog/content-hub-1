@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:49:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:49:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Вахта 30/30 в Тюмени: рейтинг прозрачных условий 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vakhta-30-30-v-tyumeni-reyting-prozrachnykh-usloviy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vakhta-30-30-v-tyumeni-reyting-prozrachnykh-usloviy-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:49:52 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда спецтехники в Тюмени: договор и риски 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-v-tyumeni-dogovor-i-riski-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vspashka-tseliny-podbor-traktora-po-dopuskam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vspashka-tseliny-podbor-traktora-po-dopuskam.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:17:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Приказ № 534: ликвидация скважин и аварии</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-534-likvidatsiya-skvazhin-i-avarii.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-534-likvidatsiya-skvazhin-i-avarii.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:17:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
