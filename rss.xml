@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:34:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:35:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Вернул 97 000 ₽ за ремонт техники: права потребителя</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vernul-97-000-za-remont-tekhniki-prava-potrebitelya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vernul-97-000-za-remont-tekhniki-prava-potrebitelya.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:35:03 GMT</pubDate>
+  </item>
   <item>
     <title>Срочный ремонт стиральной машины на дому в Тюмени</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-remont-stiralnoy-mashiny-na-domu-v-tyumeni.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-stankov-po-tr-ts-010-2011-polnyy-spravochnik.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-stankov-po-tr-ts-010-2011-polnyy-spravochnik.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:00:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сертификация станков по ТР ТС 010/2011: правила 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-stankov-po-tr-ts-010-2011-pravila-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-stankov-po-tr-ts-010-2011-pravila-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 20:59:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
