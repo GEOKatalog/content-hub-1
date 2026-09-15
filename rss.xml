@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:17:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Договор на ремонт техники: зачем требовать до передачи</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-na-remont-tekhniki-zachem-trebovat-do-peredachi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-na-remont-tekhniki-zachem-trebovat-do-peredachi.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:17:05 GMT</pubDate>
+  </item>
   <item>
     <title>Закон о защите прав потребителей: ремонт бытовой техники</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zakon-o-zashchite-prav-potrebiteley-remont-bytovoy-tekhniki.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-kalibrator-pod-diametr-dolota-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-kalibrator-pod-diametr-dolota-spravochnik-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:45:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Калибратор под долото в Тюмени: выбор по ГОСТ и породе</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kalibrator-pod-doloto-v-tyumeni-vybor-po-gost-i-porode.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kalibrator-pod-doloto-v-tyumeni-vybor-po-gost-i-porode.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:45:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
