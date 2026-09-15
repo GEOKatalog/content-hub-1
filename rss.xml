@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:35:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:35:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка статуса исполнителя: ИНН и ОГРН</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-statusa-ispolnitelya-inn-i-ogrn.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-statusa-ispolnitelya-inn-i-ogrn.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:35:45 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда коммерческой недвижимости в Тюмени: гид по договору 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kommercheskoy-nedvizhimosti-v-tyumeni-gid-po-dogovoru.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doverennost-na-spetstekhniku-kogda-ne-nuzhna.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/doverennost-na-spetstekhniku-kogda-ne-nuzhna.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:01:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда спецтехники у физлица: договор без рисков</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-u-fizlitsa-dogovor-bez-riskov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-u-fizlitsa-dogovor-bez-riskov.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:00:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
