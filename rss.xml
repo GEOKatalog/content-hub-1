@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:00:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда спецтехники у физлица: договор без рисков</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-u-fizlitsa-dogovor-bez-riskov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-u-fizlitsa-dogovor-bez-riskov.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:00:38 GMT</pubDate>
+  </item>
   <item>
     <title>Сертификация станков по ТР ТС 010/2011: полный справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-stankov-po-tr-ts-010-2011-polnyy-spravochnik.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-i-sanpin-dlya-klininga-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-i-sanpin-dlya-klininga-v-2026-godu.html</guid>
     <pubDate>Tue, 15 Sep 2026 11:20:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аудит документов клининга до 1 сентября 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-dokumentov-klininga-do-1-sentyabrya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-dokumentov-klininga-do-1-sentyabrya-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 11:20:23 GMT</pubDate>
   </item>
   </channel>
 </rss>
