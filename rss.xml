@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:40:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Маркировка блюд и аллергенов в меню HoReCa 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-blyud-i-allergenov-v-menyu-horeca-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-blyud-i-allergenov-v-menyu-horeca-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:40:59 GMT</pubDate>
+  </item>
   <item>
     <title>Инвентаризация рецептур 2026: аллергены по ГОСТ в Иркутске</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-retseptur-2026-allergeny-po-gost-v-irkutske.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/elektrosnabzhenie-24-chasa-i-voda-4-chasa.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/elektrosnabzhenie-24-chasa-i-voda-4-chasa.html</guid>
     <pubDate>Mon, 14 Sep 2026 13:12:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Второй запуск бизнеса: проверка ФНС в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vtoroy-zapusk-biznesa-proverka-fns-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vtoroy-zapusk-biznesa-proverka-fns-v-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 13:12:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
