@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:00:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Заказы сантехнику и электрику: подработка 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakazy-santekhniku-i-elektriku-podrabotka-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakazy-santekhniku-i-elektriku-podrabotka-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 11:00:40 GMT</pubDate>
+  </item>
   <item>
     <title>Электромонтаж без допуска в квартире 2026: что можно</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/elektromontazh-bez-dopuska-v-kvartire-2026-chto-mozhno.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-po-osparivaniyu-kadastra-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-po-osparivaniyu-kadastra-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 17:49:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налог с продажи квартиры в Оренбурге в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-kvartiry-v-orenburge-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-kvartiry-v-orenburge-v-2026-godu.html</guid>
-    <pubDate>Mon, 14 Sep 2026 17:47:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
