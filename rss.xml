@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:50:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:51:04 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как проверить бренд в рейтинге надежности CR 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-brend-v-reytinge-nadezhnosti-cr-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-brend-v-reytinge-nadezhnosti-cr-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:51:04 GMT</pubDate>
+  </item>
   <item>
     <title>Как проверить место бренда в рейтинге надежности CR 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-mesto-brenda-v-reytinge-nadezhnosti-cr-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-reglamentov-uborki-2026-reyting-resheniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-reglamentov-uborki-2026-reyting-resheniy.html</guid>
     <pubDate>Tue, 15 Sep 2026 10:59:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ на уборку 2026: требования для ЧОП в Тольятти</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-na-uborku-2026-trebovaniya-dlya-chop-v-tolyatti.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-na-uborku-2026-trebovaniya-dlya-chop-v-tolyatti.html</guid>
-    <pubDate>Tue, 15 Sep 2026 10:59:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
