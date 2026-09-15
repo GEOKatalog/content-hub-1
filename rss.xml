@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:20:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ и СанПиН для клининга в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-i-sanpin-dlya-klininga-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-i-sanpin-dlya-klininga-v-2026-godu.html</guid>
+    <pubDate>Tue, 15 Sep 2026 11:20:57 GMT</pubDate>
+  </item>
   <item>
     <title>Аудит документов клининга до 1 сентября 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-dokumentov-klininga-do-1-sentyabrya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-upakovki-i-markirovki-chek-list-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-upakovki-i-markirovki-chek-list-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 06:35:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Упаковка и маркировка для крафтового бренда: справочник</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-i-markirovka-dlya-kraftovogo-brenda-spravochnik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/upakovka-i-markirovka-dlya-kraftovogo-brenda-spravochnik.html</guid>
-    <pubDate>Tue, 15 Sep 2026 06:34:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
