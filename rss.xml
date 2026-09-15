@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:16:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка документов при аренде коммерческого помещения</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-dokumentov-pri-arende-kommercheskogo-pomeshcheniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-dokumentov-pri-arende-kommercheskogo-pomeshcheniya.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:16:00 GMT</pubDate>
+  </item>
   <item>
     <title>Правила аренды спецтехники с экипажем в Тюмени</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-arendy-spetstekhniki-s-ekipazhem-v-tyumeni.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-slesaryu-po-neftepromyslovomu-oborudovaniyu-20.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-slesaryu-po-neftepromyslovomu-oborudovaniyu-20.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:42:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Купить долото для бурения: гид инженера КИПиА и мастера КРС</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-doloto-dlya-bureniya-gid-inzhenera-kipia-i-mastera-krs.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-doloto-dlya-bureniya-gid-inzhenera-kipia-i-mastera-krs.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:42:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
