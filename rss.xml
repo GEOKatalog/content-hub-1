@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:44:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:44:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда экскаватора-погрузчика в Тюмени: условия</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ekskavatora-pogruzchika-v-tyumeni-usloviya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ekskavatora-pogruzchika-v-tyumeni-usloviya.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:44:43 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда помещения в Тюмени: договор, сроки, риски 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-pomeshcheniya-v-tyumeni-dogovor-sroki-riski-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-vin-i-otkaz-v-eaisto-spravochnik-operatora-to.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-vin-i-otkaz-v-eaisto-spravochnik-operatora-to.html</guid>
     <pubDate>Tue, 15 Sep 2026 10:51:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Техосмотр для операторов 2026: новые правила в Тольятти</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-dlya-operatorov-2026-novye-pravila-v-tolyatti.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhosmotr-dlya-operatorov-2026-novye-pravila-v-tolyatti.html</guid>
-    <pubDate>Tue, 15 Sep 2026 10:50:43 GMT</pubDate>
   </item>
   </channel>
 </rss>
