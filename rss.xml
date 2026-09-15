@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:56:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:56:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аттестация бурового оборудования в Тюмени: регламент 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/attestatsiya-burovogo-oborudovaniya-v-tyumeni-reglament-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/attestatsiya-burovogo-oborudovaniya-v-tyumeni-reglament-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:56:57 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда экскаватора-погрузчика с экипажем: договор</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ekskavatora-pogruzchika-s-ekipazhem-dogovor.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-lodki-bez-dokumentov-riski-i-resheniya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-lodki-bez-dokumentov-riski-i-resheniya.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:24:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда манипулятора 10 тонн с экипажем в Тюмени</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-manipulyatora-10-tonn-s-ekipazhem-v-tyumeni.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-manipulyatora-10-tonn-s-ekipazhem-v-tyumeni.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:24:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
