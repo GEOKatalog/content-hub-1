@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:20:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда спецтехники в Тюмени: рейтинг 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-v-tyumeni-reyting-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-v-tyumeni-reyting-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:20:24 GMT</pubDate>
+  </item>
   <item>
     <title>Рапорт о работе спецтехники в Тюмени: правила 2026 года</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/raport-o-rabote-spetstekhniki-v-tyumeni-pravila-2026-goda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otbrakovka-dolot-krs-normy-iznosa-i-periodichnost-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/otbrakovka-dolot-krs-normy-iznosa-i-periodichnost-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 20:43:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нормы отбраковки долот КРС: регламент 2026 года</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/normy-otbrakovki-dolot-krs-reglament-2026-goda.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normy-otbrakovki-dolot-krs-reglament-2026-goda.html</guid>
-    <pubDate>Tue, 15 Sep 2026 20:42:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
