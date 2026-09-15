@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:12:18 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как выбрать репетитора для ЕГЭ и не платить дважды</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-repetitora-dlya-ege-i-ne-platit-dvazhdy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-repetitora-dlya-ege-i-ne-platit-dvazhdy.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:12:18 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда автокрана 25 тонн в Тюмени: тарифы 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-avtokrana-25-tonn-v-tyumeni-tarify-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-stiralnuyu-mashinu-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-stiralnuyu-mashinu-v-2026-godu.html</guid>
     <pubDate>Tue, 15 Sep 2026 20:32:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Какие договоры аренды нежилого помещения регистрируются</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kakie-dogovory-arendy-nezhilogo-pomeshcheniya-registriruyuts.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakie-dogovory-arendy-nezhilogo-pomeshcheniya-registriruyuts.html</guid>
-    <pubDate>Tue, 15 Sep 2026 20:30:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
