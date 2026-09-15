@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:44:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:44:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Редкие долота и переводники без посредников в Тюмени</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/redkie-dolota-i-perevodniki-bez-posrednikov-v-tyumeni.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/redkie-dolota-i-perevodniki-bez-posrednikov-v-tyumeni.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:44:48 GMT</pubDate>
+  </item>
   <item>
     <title>Лицензия репетитора в 2026: статус и налоги</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenziya-repetitora-v-2026-status-i-nalogi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-115-i-semeynoe-obuchenie-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-115-i-semeynoe-obuchenie-spravochnik-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:12:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ 27570.0-87: ремонт бытовой техники</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-27570-0-87-remont-bytovoy-tekhniki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-27570-0-87-remont-bytovoy-tekhniki.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:12:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
