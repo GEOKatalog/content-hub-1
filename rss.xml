@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:38:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>НПД для репетиторов в Тюмени: лимиты и аренда</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/npd-dlya-repetitorov-v-tyumeni-limity-i-arenda.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/npd-dlya-repetitorov-v-tyumeni-limity-i-arenda.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:38:34 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для репетиторства: оформление и налоги</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-repetitorstva-oformlenie-i-nalogi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chastniki-ili-kompanii-stavki-1700-2800-chas-v-tyumeni.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/chastniki-ili-kompanii-stavki-1700-2800-chas-v-tyumeni.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:06:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сколько стоит час автокрана 25 тонн в Тюмени</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/skolko-stoit-chas-avtokrana-25-tonn-v-tyumeni.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/skolko-stoit-chas-avtokrana-25-tonn-v-tyumeni.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:05:56 GMT</pubDate>
   </item>
   </channel>
 </rss>
