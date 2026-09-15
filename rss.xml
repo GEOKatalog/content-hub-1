@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:53:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:53:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Установка автокрана на слабом грунте: пошаговый алгоритм 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ustanovka-avtokrana-na-slabom-grunte-poshagovyy-algoritm-202.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ustanovka-avtokrana-na-slabom-grunte-poshagovyy-algoritm-202.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:53:12 GMT</pubDate>
+  </item>
   <item>
     <title>Документы репетитора по закону 2026: рейтинг</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-repetitora-po-zakonu-2026-reyting.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-bezopasnost-mashin-v-tyumeni-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-bezopasnost-mashin-v-tyumeni-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:24:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ 12.2.011-2012: требования к экскаватору-погрузчику</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-trebovaniya-k-ekskavatoru-pogruzchiku.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-trebovaniya-k-ekskavatoru-pogruzchiku.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:24:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
