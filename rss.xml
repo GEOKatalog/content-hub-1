@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:14:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Калибры для замковой резьбы бурильных труб с поверкой</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kalibry-dlya-zamkovoy-rezby-burilnykh-trub-s-poverkoy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kalibry-dlya-zamkovoy-rezby-burilnykh-trub-s-poverkoy.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:14:28 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ 7360: подбор переводников для КРС без аварий</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-7360-podbor-perevodnikov-dlya-krs-bez-avariy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-tsen-na-remont-stiralnykh-mashin-tyumen-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-tsen-na-remont-stiralnykh-mashin-tyumen-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:41:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Вызвать мастера по ремонту стиральной машины в Тюмени</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vyzvat-mastera-po-remontu-stiralnoy-mashiny-v-tyumeni.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vyzvat-mastera-po-remontu-stiralnoy-mashiny-v-tyumeni.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:40:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
