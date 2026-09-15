@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:12:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Репетитор по профильной математике ЕГЭ: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-po-profilnoy-matematike-ege-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-po-profilnoy-matematike-ege-gid-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:12:36 GMT</pubDate>
+  </item>
   <item>
     <title>Приказ 115 и семейное обучение: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-115-i-semeynoe-obuchenie-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-rasschitat-gruzopodemnost-avtokrana-na-vylete.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-rasschitat-gruzopodemnost-avtokrana-na-vylete.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:39:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как подобрать автокран по грузоподъемности и вылету стрелы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-avtokran-po-gruzopodemnosti-i-vyletu-strely.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-avtokran-po-gruzopodemnosti-i-vyletu-strely.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:39:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
