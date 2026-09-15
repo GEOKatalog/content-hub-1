@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:24:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:24:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация лодки без документов: риски и решения</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-lodki-bez-dokumentov-riski-i-resheniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-lodki-bez-dokumentov-riski-i-resheniya.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:24:48 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда манипулятора 10 тонн с экипажем в Тюмени</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-manipulyatora-10-tonn-s-ekipazhem-v-tyumeni.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-spetstekhniki-otvetstvennost-za-okhranu-truda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-spetstekhniki-otvetstvennost-za-okhranu-truda.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:51:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Рейтинг решений 2026: сбалансированный ноутбук</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-sbalansirovannyy-noutbuk.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-sbalansirovannyy-noutbuk.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:51:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
