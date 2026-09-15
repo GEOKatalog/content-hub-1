@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:42:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:42:39 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы для автосервиса 2026: разрешения и нормы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-avtoservisa-2026-razresheniya-i-normy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-avtoservisa-2026-razresheniya-i-normy.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:42:39 GMT</pubDate>
+  </item>
   <item>
     <title>Пособие до 1.5 лет при ликвидации: правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/posobie-do-1-5-let-pri-likvidatsii-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-repetitora-dlya-ege-i-ne-platit-dvazhdy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-repetitora-dlya-ege-i-ne-platit-dvazhdy.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:12:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда автокрана 25 тонн в Тюмени: тарифы 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-avtokrana-25-tonn-v-tyumeni-tarify-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-avtokrana-25-tonn-v-tyumeni-tarify-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:11:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
