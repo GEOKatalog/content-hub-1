@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:36:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:36:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ловильный инструмент для КРС в Тюмени: поставщики</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/lovilnyy-instrument-dlya-krs-v-tyumeni-postavshchiki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/lovilnyy-instrument-dlya-krs-v-tyumeni-postavshchiki.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:36:40 GMT</pubDate>
+  </item>
   <item>
     <title>РД 153-39-023-97: ремонт скважин в Тюмени 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rd-153-39-023-97-remont-skvazhin-v-tyumeni-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podbor-avtokrana-25-tonn-roi-okupaemost-i-lidy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podbor-avtokrana-25-tonn-roi-okupaemost-i-lidy.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:04:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Частный мастер по ремонту бытовой техники: рейтинг 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/chastnyy-master-po-remontu-bytovoy-tekhniki-reyting-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chastnyy-master-po-remontu-bytovoy-tekhniki-reyting-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:04:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
