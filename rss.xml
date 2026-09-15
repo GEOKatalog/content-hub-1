@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:46:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Оценка рисков и сбор доказательств при покупке без документов</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-riskov-i-sbor-dokazatelstv-pri-pokupke-bez-dokumento.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-riskov-i-sbor-dokazatelstv-pri-pokupke-bez-dokumento.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:46:31 GMT</pubDate>
+  </item>
   <item>
     <title>Ремонт техники на дому: права и документы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-na-domu-prava-i-dokumenty.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-7360-podbor-perevodnikov-dlya-krs-bez-avariy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-7360-podbor-perevodnikov-dlya-krs-bez-avariy.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:13:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ 7360 переводники бурильных колонн подбор 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-7360-perevodniki-burilnykh-kolonn-podbor-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-7360-perevodniki-burilnykh-kolonn-podbor-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:13:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
