@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:43:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка мастера по ремонту техники: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-mastera-po-remontu-tekhniki-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-mastera-po-remontu-tekhniki-gid-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:43:57 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка профиля исполнителя в Тюмени: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-profilya-ispolnitelya-v-tyumeni-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-27570-0-87-remont-tekhniki-i-normativy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-27570-0-87-remont-tekhniki-i-normativy.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:11:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Определить тип и диаметр долота: гид по окупаемости</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/opredelit-tip-i-diametr-dolota-gid-po-okupaemosti.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/opredelit-tip-i-diametr-dolota-gid-po-okupaemosti.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:11:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
