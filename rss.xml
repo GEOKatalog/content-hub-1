@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:40:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:40:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Справочник проверки продавца техники: каталог 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-proverki-prodavtsa-tekhniki-katalog-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-proverki-prodavtsa-tekhniki-katalog-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:40:36 GMT</pubDate>
+  </item>
   <item>
     <title>Регистрация лодки в ГИМС 2026: пошаговый алгоритм</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-lodki-v-gims-2026-poshagovyy-algoritm.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/masterskaya-takhografov-2026-litsenziya-reestr-okupaemost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/masterskaya-takhografov-2026-litsenziya-reestr-okupaemost.html</guid>
     <pubDate>Tue, 15 Sep 2026 10:46:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Окупаемость мастерской по тахографам: вход в реестр с 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-masterskoy-po-takhografam-vkhod-v-reestr-s-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-masterskoy-po-takhografam-vkhod-v-reestr-s-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 10:46:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
