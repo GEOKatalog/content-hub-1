@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:51:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:51:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Междусменный отдых на вахте: норма 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mezhdusmennyy-otdykh-na-vakhte-norma-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mezhdusmennyy-otdykh-na-vakhte-norma-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:51:48 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда спецтехники Тюмень: как не платить за простой</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-tyumen-kak-ne-platit-za-prostoy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-samozanyatogo-repetitora-s-chekom-dlya-oge-v-tyume.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-samozanyatogo-repetitora-s-chekom-dlya-oge-v-tyume.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:19:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Вычет за обучение у самозанятого репетитора: правила 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vychet-za-obuchenie-u-samozanyatogo-repetitora-pravila-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vychet-za-obuchenie-u-samozanyatogo-repetitora-pravila-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:18:58 GMT</pubDate>
   </item>
   </channel>
 </rss>
