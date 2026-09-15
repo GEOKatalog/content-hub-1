@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:47:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:47:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ Р 72236-2025: маркировка фермерской продукции в Иркутске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72236-2025-markirovka-fermerskoy-produktsii-v-irkutsk.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72236-2025-markirovka-fermerskoy-produktsii-v-irkutsk.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:47:24 GMT</pubDate>
+  </item>
   <item>
     <title>Декларация и ВСД для ИП и ООО: алгоритм 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/deklaratsiya-i-vsd-dlya-ip-i-ooo-algoritm-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podat-zayavlenie-na-klassifikatsiyu-cherez-gosuslugi.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podat-zayavlenie-na-klassifikatsiyu-cherez-gosuslugi.html</guid>
     <pubDate>Mon, 14 Sep 2026 14:15:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Анализ ЦА для гостевых домов Геленджика 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/analiz-tsa-dlya-gostevykh-domov-gelendzhika-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/analiz-tsa-dlya-gostevykh-domov-gelendzhika-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 14:14:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
