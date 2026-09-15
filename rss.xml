@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:44:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:45:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Подбор ловильного инструмента для КРС: кейс Тюмени</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/podbor-lovilnogo-instrumenta-dlya-krs-keys-tyumeni.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/podbor-lovilnogo-instrumenta-dlya-krs-keys-tyumeni.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:45:16 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда экскаватора-погрузчика в Тюмени: условия</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ekskavatora-pogruzchika-v-tyumeni-usloviya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pirotekhnika-i-alkogol-na-sobytiyakh-tolyatti-litsenzii-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pirotekhnika-i-alkogol-na-sobytiyakh-tolyatti-litsenzii-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 10:51:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сверка VIN и отказ в ЕАИСТО: справочник оператора ТО</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-vin-i-otkaz-v-eaisto-spravochnik-operatora-to.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-vin-i-otkaz-v-eaisto-spravochnik-operatora-to.html</guid>
-    <pubDate>Tue, 15 Sep 2026 10:51:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
