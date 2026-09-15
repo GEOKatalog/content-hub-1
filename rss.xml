@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:24:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:24:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регламент пропускного режима в ЧОП: образец 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-propusknogo-rezhima-v-chop-obrazets-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-propusknogo-rezhima-v-chop-obrazets-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 11:24:43 GMT</pubDate>
+  </item>
   <item>
     <title>Аудит договоров и инструкций ЧОП: алгоритм 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-dogovorov-i-instruktsiy-chop-algoritm-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/analitika-lpk-po-podpiske-gid-po-platformam-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/analitika-lpk-po-podpiske-gid-po-platformam-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 06:37:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Статистика ЛПК России 2026: каналы данных Росстата</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/statistika-lpk-rossii-2026-kanaly-dannykh-rosstata.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/statistika-lpk-rossii-2026-kanaly-dannykh-rosstata.html</guid>
-    <pubDate>Tue, 15 Sep 2026 06:37:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
