@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:04:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:04:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Подбор автокрана 25 тонн: ROI, окупаемость и лиды</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/podbor-avtokrana-25-tonn-roi-okupaemost-i-lidy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/podbor-avtokrana-25-tonn-roi-okupaemost-i-lidy.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:04:30 GMT</pubDate>
+  </item>
   <item>
     <title>Частный мастер по ремонту бытовой техники: рейтинг 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chastnyy-master-po-remontu-bytovoy-tekhniki-reyting-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/raschet-gruzopodemnosti-avtokrana-dlya-montazha-metallokonst.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/raschet-gruzopodemnosti-avtokrana-dlya-montazha-metallokonst.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:31:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Репетитор ОГЭ математика 2026: цены и критерии выбора</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-oge-matematika-2026-tseny-i-kriterii-vybora.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-oge-matematika-2026-tseny-i-kriterii-vybora.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:31:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
