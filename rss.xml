@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:38:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:38:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Лабораторные испытания зерна и ФГИС: гид по Иркутску 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/laboratornye-ispytaniya-zerna-i-fgis-gid-po-irkutsku-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/laboratornye-ispytaniya-zerna-i-fgis-gid-po-irkutsku-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:38:26 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для продажи зерна фермером: правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-prodazhi-zerna-fermerom-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otvetstvennost-osnovatelya-za-predelami-produkta.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/otvetstvennost-osnovatelya-za-predelami-produkta.html</guid>
     <pubDate>Mon, 14 Sep 2026 13:08:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регламент взаимодействия CEO с инвесторами 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-vzaimodeystviya-ceo-s-investorami-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-vzaimodeystviya-ceo-s-investorami-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 13:07:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
