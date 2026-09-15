@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:25:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:25:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Права потребителя при ремонте техники по гарантии</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prava-potrebitelya-pri-remonte-tekhniki-po-garantii.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prava-potrebitelya-pri-remonte-tekhniki-po-garantii.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:25:52 GMT</pubDate>
+  </item>
   <item>
     <title>Обязательные документы при вводе скважины в эксплуатацию</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnye-dokumenty-pri-vvode-skvazhiny-v-ekspluatatsiyu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/fiksatsiya-nagruzki-na-kryuk-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/fiksatsiya-nagruzki-na-kryuk-spravochnik-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 20:49:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Авария по КИПиА: как читать показания в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/avariya-po-kipia-kak-chitat-pokazaniya-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/avariya-po-kipia-kak-chitat-pokazaniya-v-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 20:48:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
