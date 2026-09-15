@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:33:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:33:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как подобрать бытовую технику под задачи семьи</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-bytovuyu-tekhniku-pod-zadachi-semi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-bytovuyu-tekhniku-pod-zadachi-semi.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:33:31 GMT</pubDate>
+  </item>
   <item>
     <title>Диагностика стиральных машин и холодильников до звонка</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/diagnostika-stiralnykh-mashin-i-kholodilnikov-do-zvonka.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/aktualnye-materialy-ege-2026-kak-ne-kupit-ustarevshee.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/aktualnye-materialy-ege-2026-kak-ne-kupit-ustarevshee.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:00:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка материалов ЕГЭ 2026: рейтинг источников</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-materialov-ege-2026-reyting-istochnikov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-materialov-ege-2026-reyting-istochnikov.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:00:31 GMT</pubDate>
   </item>
   </channel>
 </rss>
