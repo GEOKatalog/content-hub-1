@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:06:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:06:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Экспертиза за счёт исполнителя при споре о недостатках</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ekspertiza-za-schyot-ispolnitelya-pri-spore-o-nedostatkakh.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ekspertiza-za-schyot-ispolnitelya-pri-spore-o-nedostatkakh.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:06:35 GMT</pubDate>
+  </item>
   <item>
     <title>Гарантия на ремонт техники: сроки и права 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/garantiya-na-remont-tekhniki-sroki-i-prava-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-na-kliningovye-uslugi-obrazets-i-razbor-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-na-kliningovye-uslugi-obrazets-i-razbor-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 11:26:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка лицензии ЧОП и видов услуг: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-litsenzii-chop-i-vidov-uslug-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-litsenzii-chop-i-vidov-uslug-spravochnik-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 11:25:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
