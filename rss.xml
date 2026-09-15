@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:03:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Лицензирование ЧОП по Постановлению 781 в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenzirovanie-chop-po-postanovleniyu-781-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/litsenzirovanie-chop-po-postanovleniyu-781-v-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 11:03:31 GMT</pubDate>
+  </item>
   <item>
     <title>Реестр Росгвардии 2026: гид для руководителя ЧОП</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-rosgvardii-2026-gid-dlya-rukovoditelya-chop.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-tsennykh-bumag-na-datu-smerti-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-tsennykh-bumag-na-datu-smerti-v-2026-godu.html</guid>
     <pubDate>Tue, 15 Sep 2026 02:34:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Оценка акций на день смерти: алгоритм для Оренбурга 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-aktsiy-na-den-smerti-algoritm-dlya-orenburga-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-aktsiy-na-den-smerti-algoritm-dlya-orenburga-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 02:34:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
