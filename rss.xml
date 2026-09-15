@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:07:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Реестр Росгвардии 2026: гид для ЧОП</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-rosgvardii-2026-gid-dlya-chop.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reestr-rosgvardii-2026-gid-dlya-chop.html</guid>
+    <pubDate>Tue, 15 Sep 2026 11:07:36 GMT</pubDate>
+  </item>
   <item>
     <title>Перечень услуг клининга: гид по выбору в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/perechen-uslug-klininga-gid-po-vyboru-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-aktsiy-na-datu-smerti-okupaemost-42-dney.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-aktsiy-na-datu-smerti-okupaemost-42-dney.html</guid>
     <pubDate>Tue, 15 Sep 2026 02:36:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Индекс локализации Wildberries в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/indeks-lokalizatsii-wildberries-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/indeks-lokalizatsii-wildberries-v-2026-godu.html</guid>
-    <pubDate>Tue, 15 Sep 2026 02:36:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
