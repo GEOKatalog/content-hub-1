@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:59:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:59:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Честный знак для СТО: интеграция и обучение в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/chestnyy-znak-dlya-sto-integratsiya-i-obuchenie-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chestnyy-znak-dlya-sto-integratsiya-i-obuchenie-v-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 10:59:59 GMT</pubDate>
+  </item>
   <item>
     <title>Аудит регламентов уборки 2026: рейтинг решений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-reglamentov-uborki-2026-reyting-resheniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-na-vtorichku-v-orenburge-usloviya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-na-vtorichku-v-orenburge-usloviya-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 17:46:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Оспаривание кадастровой стоимости квартиры в Оренбурге 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/osparivanie-kadastrovoy-stoimosti-kvartiry-v-orenburge-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/osparivanie-kadastrovoy-stoimosti-kvartiry-v-orenburge-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 17:45:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
