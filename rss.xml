@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:41:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:42:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Обзор решений для маркировки аллергенов 2026 в Иркутске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obzor-resheniy-dlya-markirovki-allergenov-2026-v-irkutske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obzor-resheniy-dlya-markirovki-allergenov-2026-v-irkutske.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:42:05 GMT</pubDate>
+  </item>
   <item>
     <title>Инвентаризация рецептур 2026: аллергены по ГОСТ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-retseptur-2026-allergeny-po-gost.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-oformleniya-pervogo-sotrudnika-ip-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-oformleniya-pervogo-sotrudnika-ip-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 13:14:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ 15.309-98: испытания без потерь в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-15-309-98-ispytaniya-bez-poter-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-15-309-98-ispytaniya-bez-poter-v-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 13:13:23 GMT</pubDate>
   </item>
   </channel>
 </rss>
