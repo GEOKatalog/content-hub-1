@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:32:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:33:07 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Разряды стропальщиков в Тюмени 2026: от 2 до 6 разряда</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/razryady-stropalshchikov-v-tyumeni-2026-ot-2-do-6-razryada.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razryady-stropalshchikov-v-tyumeni-2026-ot-2-do-6-razryada.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:33:07 GMT</pubDate>
+  </item>
   <item>
     <title>Требования к стропальщику в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-stropalshchiku-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-obshchepita-2026-chto-deystvuet.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-obshchepita-2026-chto-deystvuet.html</guid>
     <pubDate>Tue, 15 Sep 2026 06:45:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Где искать фермерских поставщиков в Иркутске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-iskat-fermerskikh-postavshchikov-v-irkutske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-iskat-fermerskikh-postavshchikov-v-irkutske.html</guid>
-    <pubDate>Tue, 15 Sep 2026 06:45:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
