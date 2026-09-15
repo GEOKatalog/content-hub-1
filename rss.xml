@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:07:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Критичность ошибки: частник или профи в Тюмени</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kritichnost-oshibki-chastnik-ili-profi-v-tyumeni.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kritichnost-oshibki-chastnik-ili-profi-v-tyumeni.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:07:22 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда автокрана в Тюмени: частник или компания</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-avtokrana-v-tyumeni-chastnik-ili-kompaniya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podbor-generatora-dlya-doma-v-tyumeni-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podbor-generatora-dlya-doma-v-tyumeni-gid-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:34:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>Рейтинг решений 2026: проверка помещения до аренды</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-proverka-pomeshcheniya-do-arendy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-proverka-pomeshcheniya-do-arendy.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:34:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
