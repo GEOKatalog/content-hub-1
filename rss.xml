@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:40:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:40:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Гарантия теряется: как не платить дважды за ремонт</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/garantiya-teryaetsya-kak-ne-platit-dvazhdy-za-remont.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/garantiya-teryaetsya-kak-ne-platit-dvazhdy-za-remont.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:40:54 GMT</pubDate>
+  </item>
   <item>
     <title>Справочник проверки продавца техники: каталог 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-proverki-prodavtsa-tekhniki-katalog-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/crm-dlya-sto-2026-polnyy-katalog-resheniy-s-zakaz-naryadami.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/crm-dlya-sto-2026-polnyy-katalog-resheniy-s-zakaz-naryadami.html</guid>
     <pubDate>Tue, 15 Sep 2026 10:47:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Мастерская тахографов 2026: лицензия, реестр, окупаемость</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/masterskaya-takhografov-2026-litsenziya-reestr-okupaemost.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/masterskaya-takhografov-2026-litsenziya-reestr-okupaemost.html</guid>
-    <pubDate>Tue, 15 Sep 2026 10:46:52 GMT</pubDate>
   </item>
   </channel>
 </rss>
