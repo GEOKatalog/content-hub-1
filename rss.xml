@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:24:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:24:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сколько стоит выезд мастера по ремонту техники</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/skolko-stoit-vyezd-mastera-po-remontu-tekhniki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/skolko-stoit-vyezd-mastera-po-remontu-tekhniki.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:24:58 GMT</pubDate>
+  </item>
   <item>
     <title>Регистрация лодки без документов: риски и решения</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-lodki-bez-dokumentov-riski-i-resheniya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ustanovka-avtokrana-na-krayu-kotlovana-v-tyumeni-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ustanovka-avtokrana-na-krayu-kotlovana-v-tyumeni-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:52:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Договор аренды спецтехники: ответственность за охрану труда</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-spetstekhniki-otvetstvennost-za-okhranu-truda.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-spetstekhniki-otvetstvennost-za-okhranu-truda.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:51:52 GMT</pubDate>
   </item>
   </channel>
 </rss>
