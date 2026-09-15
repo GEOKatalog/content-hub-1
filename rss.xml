@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 02:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 02:36:25 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Оценка акций на дату смерти: окупаемость 42 дней</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-aktsiy-na-datu-smerti-okupaemost-42-dney.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-aktsiy-na-datu-smerti-okupaemost-42-dney.html</guid>
+    <pubDate>Tue, 15 Sep 2026 02:36:25 GMT</pubDate>
+  </item>
   <item>
     <title>Индекс локализации Wildberries в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/indeks-lokalizatsii-wildberries-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mandat-cto-na-stadii-seed-zadachi-i-granitsy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mandat-cto-na-stadii-seed-zadachi-i-granitsy.html</guid>
     <pubDate>Mon, 14 Sep 2026 11:27:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Утрата права на УСН в 2026: как рассчитать НДС</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/utrata-prava-na-usn-v-2026-kak-rasschitat-nds.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/utrata-prava-na-usn-v-2026-kak-rasschitat-nds.html</guid>
-    <pubDate>Mon, 14 Sep 2026 11:26:52 GMT</pubDate>
   </item>
   </channel>
 </rss>
