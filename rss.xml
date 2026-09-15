@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:29:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:29:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка ВРИ земли под коммерческую аренду в Тюмени</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vri-zemli-pod-kommercheskuyu-arendu-v-tyumeni.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vri-zemli-pod-kommercheskuyu-arendu-v-tyumeni.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:29:40 GMT</pubDate>
+  </item>
   <item>
     <title>Цель в баллах ЕГЭ: как репетитору выстроить маршрут</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tsel-v-ballakh-ege-kak-repetitoru-vystroit-marshrut.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zapchasti-dlya-burovykh-v-tyumeni-sravnenie-postavshchikov-2.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapchasti-dlya-burovykh-v-tyumeni-sravnenie-postavshchikov-2.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:57:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аттестация бурового оборудования в Тюмени: регламент 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/attestatsiya-burovogo-oborudovaniya-v-tyumeni-reglament-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/attestatsiya-burovogo-oborudovaniya-v-tyumeni-reglament-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:56:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
