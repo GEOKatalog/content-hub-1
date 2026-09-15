@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:40:27 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Взять точный вес груза из накладной или паспорта</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vzyat-tochnyy-ves-gruza-iz-nakladnoy-ili-pasporta.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vzyat-tochnyy-ves-gruza-iz-nakladnoy-ili-pasporta.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:40:27 GMT</pubDate>
+  </item>
   <item>
     <title>Вес груза в накладной: как проверить и не попасть на штраф</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ves-gruza-v-nakladnoy-kak-proverit-i-ne-popast-na-shtraf.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-mintruda-ekonomiya-na-remonte-spetstekhniki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-mintruda-ekonomiya-na-remonte-spetstekhniki.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:08:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда муниципального помещения: торги 135-ФЗ или прямой договор</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-munitsipalnogo-pomeshcheniya-torgi-135-fz-ili-pryamoy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-munitsipalnogo-pomeshcheniya-torgi-135-fz-ili-pryamoy.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:07:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
