@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:26:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка гарантийного талона и чека: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-garantiynogo-talona-i-cheka-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-garantiynogo-talona-i-cheka-gid-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:26:03 GMT</pubDate>
+  </item>
   <item>
     <title>Права потребителя при ремонте техники по гарантии</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prava-potrebitelya-pri-remonte-tekhniki-po-garantii.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-nezhilogo-pomeshcheniya-2026-obrazets-i-uslov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-nezhilogo-pomeshcheniya-2026-obrazets-i-uslov.html</guid>
     <pubDate>Tue, 15 Sep 2026 20:49:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Фиксация нагрузки на крюк: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/fiksatsiya-nagruzki-na-kryuk-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/fiksatsiya-nagruzki-na-kryuk-spravochnik-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 20:49:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
