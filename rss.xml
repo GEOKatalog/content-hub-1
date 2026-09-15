@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:41:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка контрагента в ФНС Прозрачный бизнес 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-v-fns-prozrachnyy-biznes-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-v-fns-prozrachnyy-biznes-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:41:47 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка арендодателя: полный справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendodatelya-polnyy-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zapret-telegram-i-whatsapp-dlya-sbora-dannykh-v-tolyatti.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapret-telegram-i-whatsapp-dlya-sbora-dannykh-v-tolyatti.html</guid>
     <pubDate>Tue, 15 Sep 2026 10:47:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Запрет Telegram-ботов на мероприятиях: риски 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zapret-telegram-botov-na-meropriyatiyakh-riski-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapret-telegram-botov-na-meropriyatiyakh-riski-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 10:47:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
