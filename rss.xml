@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:31:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:31:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Расчет грузоподъемности автокрана для монтажа металлоконструкций</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/raschet-gruzopodemnosti-avtokrana-dlya-montazha-metallokonst.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/raschet-gruzopodemnosti-avtokrana-dlya-montazha-metallokonst.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:31:58 GMT</pubDate>
+  </item>
   <item>
     <title>Репетитор ОГЭ математика 2026: цены и критерии выбора</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-oge-matematika-2026-tseny-i-kriterii-vybora.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/posledstviya-otsutstviya-registratsii-arendy-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/posledstviya-otsutstviya-registratsii-arendy-v-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:59:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регистрация аренды нежилого помещения в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-arendy-nezhilogo-pomeshcheniya-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-arendy-nezhilogo-pomeshcheniya-v-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:59:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
