@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:34:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:34:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Рейтинг решений 2026: проверка помещения до аренды</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-proverka-pomeshcheniya-do-arendy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-proverka-pomeshcheniya-do-arendy.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:34:16 GMT</pubDate>
+  </item>
   <item>
     <title>Проверенные решения для вывоза мусора в Тюмени</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverennye-resheniya-dlya-vyvoza-musora-v-tyumeni.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-na-remont-tekhniki-ekonomiya-do-40-byudzheta.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-na-remont-tekhniki-ekonomiya-do-40-byudzheta.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:01:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Какие документы обязан выдать мастер по ремонту техники</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kakie-dokumenty-obyazan-vydat-master-po-remontu-tekhniki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakie-dokumenty-obyazan-vydat-master-po-remontu-tekhniki.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:01:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
