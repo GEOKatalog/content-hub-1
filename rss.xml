@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:07:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:08:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Нормативы Минтруда: экономия на ремонте спецтехники</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-mintruda-ekonomiya-na-remonte-spetstekhniki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-mintruda-ekonomiya-na-remonte-spetstekhniki.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:08:08 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда муниципального помещения: торги 135-ФЗ или прямой договор</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-munitsipalnogo-pomeshcheniya-torgi-135-fz-ili-pryamoy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zakazat-akusticheskiy-raschyot-s-ukazaniem-rw-i-lnw.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakazat-akusticheskiy-raschyot-s-ukazaniem-rw-i-lnw.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:37:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Самозанятый по ФЗ-422: легализация услуг в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-po-fz-422-legalizatsiya-uslug-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-po-fz-422-legalizatsiya-uslug-v-2026-godu.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:37:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
