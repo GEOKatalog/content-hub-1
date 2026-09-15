@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:35:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как проверить исполнителя по ИНН и ОГРН</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-ispolnitelya-po-inn-i-ogrn.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-ispolnitelya-po-inn-i-ogrn.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:35:55 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка статуса исполнителя: ИНН и ОГРН</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-statusa-ispolnitelya-inn-i-ogrn.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-v-tyumeni-reyting-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-v-tyumeni-reyting-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:01:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Доверенность на спецтехнику: когда не нужна</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/doverennost-na-spetstekhniku-kogda-ne-nuzhna.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/doverennost-na-spetstekhniku-kogda-ne-nuzhna.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:01:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
