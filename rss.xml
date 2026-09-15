@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:49:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:49:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Приказ Минтранса 15 и вахтовики: что важно знать</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-mintransa-15-i-vakhtoviki-chto-vazhno-znat.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-mintransa-15-i-vakhtoviki-chto-vazhno-znat.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:49:47 GMT</pubDate>
+  </item>
   <item>
     <title>Справочник репетиторов ЕГЭ 2026: каталог решений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-repetitorov-ege-2026-katalog-resheniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-v-tyumeni-dokumenty-i-tseny-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-v-tyumeni-dokumenty-i-tseny-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:20:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда спецтехники в Тюмени: рейтинг 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-v-tyumeni-reyting-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-v-tyumeni-reyting-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:20:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
