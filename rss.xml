@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:48:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:48:19 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как получить письменный отказ ГИМС в регистрации судна</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-poluchit-pismennyy-otkaz-gims-v-registratsii-sudna.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-poluchit-pismennyy-otkaz-gims-v-registratsii-sudna.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:48:19 GMT</pubDate>
+  </item>
   <item>
     <title>Как зарегистрировать лодку Казанка без документов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zaregistrirovat-lodku-kazanka-bez-dokumentov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/razresheniya-dlya-avtoservisa-v-2026-polnyy-spravochnik.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/razresheniya-dlya-avtoservisa-v-2026-polnyy-spravochnik.html</guid>
     <pubDate>Tue, 15 Sep 2026 10:55:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Гаражное оборудование в Тольятти: цены и окупаемость</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/garazhnoe-oborudovanie-v-tolyatti-tseny-i-okupaemost.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/garazhnoe-oborudovanie-v-tolyatti-tseny-i-okupaemost.html</guid>
-    <pubDate>Tue, 15 Sep 2026 10:54:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
