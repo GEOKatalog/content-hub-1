@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:58:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:58:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как проверить репетитора ЕГЭ на знание ФИПИ 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-repetitora-ege-na-znanie-fipi-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-repetitora-ege-na-znanie-fipi-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:58:13 GMT</pubDate>
+  </item>
   <item>
     <title>Как проверять материалы для ЕГЭ 2026: гид по ФИПИ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proveryat-materialy-dlya-ege-2026-gid-po-fipi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-remont-stiralnoy-mashiny-v-tyumeni-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-remont-stiralnoy-mashiny-v-tyumeni-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:26:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нужно ли репетитору оформлять самозанятость</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nuzhno-li-repetitoru-oformlyat-samozanyatost.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nuzhno-li-repetitoru-oformlyat-samozanyatost.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:26:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
