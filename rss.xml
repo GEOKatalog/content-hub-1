@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:24:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:24:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ 12.2.011-2012: требования к экскаватору-погрузчику</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-trebovaniya-k-ekskavatoru-pogruzchiku.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-trebovaniya-k-ekskavatoru-pogruzchiku.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:24:36 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ 12.2.011-2012: безопасность экскаватора-погрузчика</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-bezopasnost-ekskavatora-pogruzchika.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zaregistrirovat-lodku-kazanka-bez-dokumentov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zaregistrirovat-lodku-kazanka-bez-dokumentov.html</guid>
     <pubDate>Tue, 15 Sep 2026 20:48:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регламент фиксации времени начала аварии на ОПО</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-fiksatsii-vremeni-nachala-avarii-na-opo.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-fiksatsii-vremeni-nachala-avarii-na-opo.html</guid>
-    <pubDate>Tue, 15 Sep 2026 20:47:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
