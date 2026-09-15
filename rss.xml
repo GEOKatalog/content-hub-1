@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:33:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:33:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Подбор оборудования под задачу в Тюмени: справочник 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/podbor-oborudovaniya-pod-zadachu-v-tyumeni-spravochnik-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/podbor-oborudovaniya-pod-zadachu-v-tyumeni-spravochnik-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:33:46 GMT</pubDate>
+  </item>
   <item>
     <title>Подбор оборудования под задачу: алгоритм 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podbor-oborudovaniya-pod-zadachu-algoritm-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-zachem-nuzhen-dogovor-podryada-i-kvitantsiya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-zachem-nuzhen-dogovor-podryada-i-kvitantsiya.html</guid>
     <pubDate>Tue, 15 Sep 2026 20:58:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Претензия в сервисный центр: образец и защита прав 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pretenziya-v-servisnyy-tsentr-obrazets-i-zashchita-prav-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pretenziya-v-servisnyy-tsentr-obrazets-i-zashchita-prav-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 20:58:20 GMT</pubDate>
   </item>
   </channel>
 </rss>
