@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:46:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы при ремонте техники на дому: защита от переплат</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-pri-remonte-tekhniki-na-domu-zashchita-ot-pereplat.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-pri-remonte-tekhniki-na-domu-zashchita-ot-pereplat.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:46:03 GMT</pubDate>
+  </item>
   <item>
     <title>Договор аренды автокрана в Тюмени: 4 ключевых пункта</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-avtokrana-v-tyumeni-4-klyuchevykh-punkta.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-arendy-srok-god-i-bolee.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-arendy-srok-god-i-bolee.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:13:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Репетитор по профильной математике ЕГЭ 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-po-profilnoy-matematike-ege-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-po-profilnoy-matematike-ege-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:13:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
