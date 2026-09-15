@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:48:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:48:29 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка вахты и срочный ремонт: сравнение 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vakhty-i-srochnyy-remont-sravnenie-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vakhty-i-srochnyy-remont-sravnenie-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:48:29 GMT</pubDate>
+  </item>
   <item>
     <title>Как получить письменный отказ ГИМС в регистрации судна</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-poluchit-pismennyy-otkaz-gims-v-registratsii-sudna.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/razresheniya-dlya-avtoservisa-v-2026-sravnenie-variantov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/razresheniya-dlya-avtoservisa-v-2026-sravnenie-variantov.html</guid>
     <pubDate>Tue, 15 Sep 2026 10:56:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Разрешения для автосервиса в 2026: полный справочник</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/razresheniya-dlya-avtoservisa-v-2026-polnyy-spravochnik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razresheniya-dlya-avtoservisa-v-2026-polnyy-spravochnik.html</guid>
-    <pubDate>Tue, 15 Sep 2026 10:55:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
