@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:01:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ремонт бытовой техники в Тюмени: рейтинг 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-v-tyumeni-reyting-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-v-tyumeni-reyting-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:01:23 GMT</pubDate>
+  </item>
   <item>
     <title>Доверенность на спецтехнику: когда не нужна</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doverennost-na-spetstekhniku-kogda-ne-nuzhna.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-pravila-dlya-sto-s-1-sentyabrya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-pravila-dlya-sto-s-1-sentyabrya-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 11:22:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Санитарные правила для СТО с 1 сентября 2026 года</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-pravila-dlya-sto-s-1-sentyabrya-2026-goda.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-pravila-dlya-sto-s-1-sentyabrya-2026-goda.html</guid>
-    <pubDate>Tue, 15 Sep 2026 11:21:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
