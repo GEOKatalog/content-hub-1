@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:59:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:59:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Легализация экспертизы качества товаров: справочник 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/legalizatsiya-ekspertizy-kachestva-tovarov-spravochnik-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/legalizatsiya-ekspertizy-kachestva-tovarov-spravochnik-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:59:48 GMT</pubDate>
+  </item>
   <item>
     <title>Последствия отсутствия регистрации аренды в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/posledstviya-otsutstviya-registratsii-arendy-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-v-tyumeni-pravila-bezopasnosti-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-v-tyumeni-pravila-bezopasnosti-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:30:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Манипулятор 10 тонн в Тюмени: цена за час от собственника</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/manipulyator-10-tonn-v-tyumeni-tsena-za-chas-ot-sobstvennika.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/manipulyator-10-tonn-v-tyumeni-tsena-za-chas-ot-sobstvennika.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:30:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
