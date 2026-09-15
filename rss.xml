@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:47:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:47:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>РД 153-39-023-97: где взять и как сверить формы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/rd-153-39-023-97-gde-vzyat-i-kak-sverit-formy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rd-153-39-023-97-gde-vzyat-i-kak-sverit-formy.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:47:59 GMT</pubDate>
+  </item>
   <item>
     <title>Правила ведения ремонтных работ в скважинах: РД 153-39-023-97</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-vedeniya-remontnykh-rabot-v-skvazhinakh-rd-153-39-02.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-arendy-spetstekhniki-s-ekipazhem-v-tyumeni.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-arendy-spetstekhniki-s-ekipazhem-v-tyumeni.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:15:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда автокрана 25 тонн: почасовая оплата без посредников</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-avtokrana-25-tonn-pochasovaya-oplata-bez-posrednikov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-avtokrana-25-tonn-pochasovaya-oplata-bez-posrednikov.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:15:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
