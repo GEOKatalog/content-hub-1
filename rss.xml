@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:05:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:06:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Частники или компании: ставки 1700–2800 ₽/час в Тюмени</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/chastniki-ili-kompanii-stavki-1700-2800-chas-v-tyumeni.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chastniki-ili-kompanii-stavki-1700-2800-chas-v-tyumeni.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:06:33 GMT</pubDate>
+  </item>
   <item>
     <title>Сколько стоит час автокрана 25 тонн в Тюмени</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/skolko-stoit-chas-avtokrana-25-tonn-v-tyumeni.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/garantiya-na-vyezdnoy-remont-tekhniki-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/garantiya-na-vyezdnoy-remont-tekhniki-spravochnik-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:33:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Гарантия на ремонт: как не платить дважды в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/garantiya-na-remont-kak-ne-platit-dvazhdy-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/garantiya-na-remont-kak-ne-platit-dvazhdy-v-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:33:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
