@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:47:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:47:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Запрет Telegram-ботов на мероприятиях: риски 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zapret-telegram-botov-na-meropriyatiyakh-riski-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapret-telegram-botov-na-meropriyatiyakh-riski-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 10:47:30 GMT</pubDate>
+  </item>
   <item>
     <title>CRM для СТО 2026: полный каталог решений с заказ-нарядами</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/crm-dlya-sto-2026-polnyy-katalog-resheniy-s-zakaz-naryadami.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-oteley-2026-fgis-i-1345.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-oteley-2026-fgis-i-1345.html</guid>
     <pubDate>Mon, 14 Sep 2026 15:04:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пожарная безопасность гостевого дома 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-gostevogo-doma-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-gostevogo-doma-2026.html</guid>
-    <pubDate>Mon, 14 Sep 2026 15:03:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
