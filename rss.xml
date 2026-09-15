@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:22:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ЗИП для буровых установок: ГОСТ, цены и риски 2026 года</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zip-dlya-burovykh-ustanovok-gost-tseny-i-riski-2026-goda.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zip-dlya-burovykh-ustanovok-gost-tseny-i-riski-2026-goda.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:22:49 GMT</pubDate>
+  </item>
   <item>
     <title>Как найти репетитора ЕГЭ в Тюмени: пошаговый план 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-repetitora-ege-v-tyumeni-poshagovyy-plan-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zakaz-avtokrana-25-tonn-v-tyumeni-pochasovo.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakaz-avtokrana-25-tonn-v-tyumeni-pochasovo.html</guid>
     <pubDate>Tue, 15 Sep 2026 20:45:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Классификация аварий бурения: экономика и нормативы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-avariy-bureniya-ekonomika-i-normativy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-avariy-bureniya-ekonomika-i-normativy.html</guid>
-    <pubDate>Tue, 15 Sep 2026 20:45:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
