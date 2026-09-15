@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 03:52:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:53:07 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ФИНВ и РИНВ в 2026: полный справочник по вычетам</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/finv-i-rinv-v-2026-polnyy-spravochnik-po-vychetam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/finv-i-rinv-v-2026-polnyy-spravochnik-po-vychetam.html</guid>
+    <pubDate>Tue, 15 Sep 2026 03:53:07 GMT</pubDate>
+  </item>
   <item>
     <title>Налог на купоны ОФЗ в 2026 году: гид для рантье</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-kupony-ofz-v-2026-godu-gid-dlya-rante.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/2026-uproshchennaya-likvidatsiya-ooo-dlya-osnovatelya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/2026-uproshchennaya-likvidatsiya-ooo-dlya-osnovatelya.html</guid>
     <pubDate>Mon, 14 Sep 2026 12:59:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Семантический поиск стартапов для корпоративного скаутинга</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/semanticheskiy-poisk-startapov-dlya-korporativnogo-skautinga.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semanticheskiy-poisk-startapov-dlya-korporativnogo-skautinga.html</guid>
-    <pubDate>Mon, 14 Sep 2026 12:59:06 GMT</pubDate>
   </item>
   </channel>
 </rss>
