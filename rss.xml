@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:40:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:40:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Изменения №9 СП 256.1325800.2016: справочник 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/izmeneniya-9-sp-256-1325800-2016-spravochnik-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/izmeneniya-9-sp-256-1325800-2016-spravochnik-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:40:54 GMT</pubDate>
+  </item>
   <item>
     <title>СП 256.1325800.2016: Изменение № 9 для электромонтажа</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-256-1325800-2016-izmenenie-9-dlya-elektromontazha.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-nezhilogo-pomeshcheniya-top-resheniy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-nezhilogo-pomeshcheniya-top-resheniy-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:10:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Договор аренды нежилого помещения: образец 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-nezhilogo-pomeshcheniya-obrazets-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-nezhilogo-pomeshcheniya-obrazets-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:10:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
