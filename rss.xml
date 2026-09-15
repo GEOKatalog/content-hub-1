@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:19:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Учет заправки спецтехники в Тюмени: что говорит закон</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/uchet-zapravki-spetstekhniki-v-tyumeni-chto-govorit-zakon.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uchet-zapravki-spetstekhniki-v-tyumeni-chto-govorit-zakon.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:19:50 GMT</pubDate>
+  </item>
   <item>
     <title>Заправка топливом в аренде спецтехники: правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zapravka-toplivom-v-arende-spetstekhniki-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-repetitora-dlya-ege-na-80-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-repetitora-dlya-ege-na-80-v-2026-godu.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:47:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Каталог репетиторов ЕГЭ 2026: как найти за 1 день</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-repetitorov-ege-2026-kak-nayti-za-1-den.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/katalog-repetitorov-ege-2026-kak-nayti-za-1-den.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:47:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
