@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:42:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:42:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Пестициды в зерне: справочник по ТР ТС 015/2011 на 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pestitsidy-v-zerne-spravochnik-po-tr-ts-015-2011-na-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pestitsidy-v-zerne-spravochnik-po-tr-ts-015-2011-na-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:42:47 GMT</pubDate>
+  </item>
   <item>
     <title>ПДУ пестицидов в зерне ТР ТС 015/2011: таблица 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pdu-pestitsidov-v-zerne-tr-ts-015-2011-tablitsa-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/metriki-solo-founder-2026-na-chto-smotret.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/metriki-solo-founder-2026-na-chto-smotret.html</guid>
     <pubDate>Mon, 14 Sep 2026 14:01:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Метрики Pre-Seed 2026: что важно для Solo Dev</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/metriki-pre-seed-2026-chto-vazhno-dlya-solo-dev.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/metriki-pre-seed-2026-chto-vazhno-dlya-solo-dev.html</guid>
-    <pubDate>Mon, 14 Sep 2026 14:00:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
