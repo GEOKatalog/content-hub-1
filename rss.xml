@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:01:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ТО спецтехники по моточасам в Тюмени: регламент 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/to-spetstekhniki-po-motochasam-v-tyumeni-reglament-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/to-spetstekhniki-po-motochasam-v-tyumeni-reglament-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:01:56 GMT</pubDate>
+  </item>
   <item>
     <title>Периодичность ТО спецтехники по моточасам в Тюмени</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/periodichnost-to-spetstekhniki-po-motochasam-v-tyumeni.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-v-tyumeni-remont-po-st-634-gk.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-v-tyumeni-remont-po-st-634-gk.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:29:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда спецтехники с экипажем: расчет машино-часа 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-s-ekipazhem-raschet-mashino-chasa-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-s-ekipazhem-raschet-mashino-chasa-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:29:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
