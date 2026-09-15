@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:52:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:52:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Гарантийный ремонт бытовой техники: права 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/garantiynyy-remont-bytovoy-tekhniki-prava-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/garantiynyy-remont-bytovoy-tekhniki-prava-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:52:52 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг решений 2026: подготовка площадки под кран</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-podgotovka-ploshchadki-pod-kran.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-bezopasnost-ekskavatora-pogruzchika.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-011-2012-bezopasnost-ekskavatora-pogruzchika.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:24:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Площадки для поиска репетиторов: сравнение 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ploshchadki-dlya-poiska-repetitorov-sravnenie-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ploshchadki-dlya-poiska-repetitorov-sravnenie-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:24:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
