@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:17:25 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Вспашка целины: подбор трактора по допускам</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vspashka-tseliny-podbor-traktora-po-dopuskam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vspashka-tseliny-podbor-traktora-po-dopuskam.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:17:25 GMT</pubDate>
+  </item>
   <item>
     <title>Приказ № 534: ликвидация скважин и аварии</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-534-likvidatsiya-skvazhin-i-avarii.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nuzhna-li-litsenziya-repetitoru-v-tyumeni-zakon-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nuzhna-li-litsenziya-repetitoru-v-tyumeni-zakon-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:43:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Срок ремонта бытовой техники по закону: 45 дней в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/srok-remonta-bytovoy-tekhniki-po-zakonu-45-dney-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/srok-remonta-bytovoy-tekhniki-po-zakonu-45-dney-v-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:43:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
