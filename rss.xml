@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:47:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:47:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда экскаватора-погрузчика с гидромолотом в Тюмени</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ekskavatora-pogruzchika-s-gidromolotom-v-tyumeni.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ekskavatora-pogruzchika-s-gidromolotom-v-tyumeni.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:47:28 GMT</pubDate>
+  </item>
   <item>
     <title>Аттестация спецтехники в Тюмени: требования 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/attestatsiya-spetstekhniki-v-tyumeni-trebovaniya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-nayti-repetitora-dlya-oge-i-ege-v-tyumeni-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-nayti-repetitora-dlya-oge-i-ege-v-tyumeni-gid-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:15:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Справочник по выбору репетитора ЕГЭ и ОГЭ 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-po-vyboru-repetitora-ege-i-oge-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-po-vyboru-repetitora-ege-i-oge-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:14:58 GMT</pubDate>
   </item>
   </channel>
 </rss>
