@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:17:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Требуйте договор до передачи техники в ремонт</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebuyte-dogovor-do-peredachi-tekhniki-v-remont.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebuyte-dogovor-do-peredachi-tekhniki-v-remont.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:17:21 GMT</pubDate>
+  </item>
   <item>
     <title>Договор на ремонт техники: зачем требовать до передачи</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-na-remont-tekhniki-zachem-trebovat-do-peredachi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-kupit-kalibrator-dlya-burovoy-v-tyumeni-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-kupit-kalibrator-dlya-burovoy-v-tyumeni-v-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:45:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как подобрать калибратор под диаметр долота: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-kalibrator-pod-diametr-dolota-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-kalibrator-pod-diametr-dolota-spravochnik-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:45:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
