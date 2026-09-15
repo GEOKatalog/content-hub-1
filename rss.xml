@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:47:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:47:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Правила ведения ремонтных работ в скважинах: РД 153-39-023-97</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-vedeniya-remontnykh-rabot-v-skvazhinakh-rd-153-39-02.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-vedeniya-remontnykh-rabot-v-skvazhinakh-rd-153-39-02.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:47:49 GMT</pubDate>
+  </item>
   <item>
     <title>Доказательства владения судном: гид по защите в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokazatelstva-vladeniya-sudnom-gid-po-zashchite-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-avtokrana-25-tonn-pochasovaya-oplata-bez-posrednikov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-avtokrana-25-tonn-pochasovaya-oplata-bez-posrednikov.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:15:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ Р 50938-2013: ремонт бытовой техники</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-50938-2013-remont-bytovoy-tekhniki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-50938-2013-remont-bytovoy-tekhniki.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:15:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
