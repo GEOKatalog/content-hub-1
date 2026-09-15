@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:52:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:52:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ремонт бытовой техники: права потребителя 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-prava-potrebitelya-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-prava-potrebitelya-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:52:59 GMT</pubDate>
+  </item>
   <item>
     <title>Права при ремонте техники: сроки и подмена 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prava-pri-remonte-tekhniki-sroki-i-podmena-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-kupit-zapchasti-dlya-tekhniki-krs-v-tyumeni.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-kupit-zapchasti-dlya-tekhniki-krs-v-tyumeni.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:20:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка б/у спиннинга: как вернуть деньги за скрытый брак</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-b-u-spinninga-kak-vernut-dengi-za-skrytyy-brak.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-b-u-spinninga-kak-vernut-dengi-za-skrytyy-brak.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:20:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
