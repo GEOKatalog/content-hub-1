@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:39:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация лодки свыше 200 кг: пошаговый алгоритм</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-lodki-svyshe-200-kg-poshagovyy-algoritm.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-lodki-svyshe-200-kg-poshagovyy-algoritm.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:39:59 GMT</pubDate>
+  </item>
   <item>
     <title>Надёжная стиральная машина недорого: окупаемость и сервис</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nadyozhnaya-stiralnaya-mashina-nedorogo-okupaemost-i-servis.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-ploshchadey-i-tipov-poverkhnostey-gid.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-ploshchadey-i-tipov-poverkhnostey-gid.html</guid>
     <pubDate>Tue, 15 Sep 2026 10:46:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Инвентаризация площадей для уборки: гид по нормативам</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-ploshchadey-dlya-uborki-gid-po-normativam.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-ploshchadey-dlya-uborki-gid-po-normativam.html</guid>
-    <pubDate>Tue, 15 Sep 2026 10:45:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
