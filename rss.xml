@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:51:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда спецтехники Тюмень: как не платить за простой</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-tyumen-kak-ne-platit-za-prostoy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-tyumen-kak-ne-platit-za-prostoy.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:51:24 GMT</pubDate>
+  </item>
   <item>
     <title>Ремонт техники в Тюмени: окупаемость каналов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-v-tyumeni-okupaemost-kanalov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vychet-za-obuchenie-u-samozanyatogo-repetitora-pravila-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vychet-za-obuchenie-u-samozanyatogo-repetitora-pravila-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:18:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как найти репетитора самозанятого с чеком для ОГЭ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-repetitora-samozanyatogo-s-chekom-dlya-oge.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-repetitora-samozanyatogo-s-chekom-dlya-oge.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:18:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
