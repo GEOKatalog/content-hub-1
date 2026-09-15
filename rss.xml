@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:05:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:05:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Закон о защите прав потребителей: ремонт техники 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakon-o-zashchite-prav-potrebiteley-remont-tekhniki-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakon-o-zashchite-prav-potrebiteley-remont-tekhniki-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:05:34 GMT</pubDate>
+  </item>
   <item>
     <title>Подбор ЗИП по паспорту: алгоритм 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podbor-zip-po-pasportu-algoritm-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/manipulyator-na-chas-bez-pereplat-algoritm-proverki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/manipulyator-na-chas-bez-pereplat-algoritm-proverki.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:33:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Заказать манипулятор на час без переплаты: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakazat-manipulyator-na-chas-bez-pereplaty-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakazat-manipulyator-na-chas-bez-pereplaty-gid-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:32:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
