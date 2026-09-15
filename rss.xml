@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:00:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:00:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Приказ МЧС 777 и регистрация лодки без документов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-mchs-777-i-registratsiya-lodki-bez-dokumentov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-mchs-777-i-registratsiya-lodki-bez-dokumentov-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:00:48 GMT</pubDate>
+  </item>
   <item>
     <title>Регистрация лодки Казанка без документов в ГИМС 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-lodki-kazanka-bez-dokumentov-v-gims-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-avtokran-dlya-montazha-na-vylete-20-metrov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-avtokran-dlya-montazha-na-vylete-20-metrov.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:31:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда спецтехники в Тюмени: контроль топлива 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-v-tyumeni-kontrol-topliva-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-v-tyumeni-kontrol-topliva-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:30:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
