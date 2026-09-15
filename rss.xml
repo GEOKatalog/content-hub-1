@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 14 Sep 2026 17:49:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 02:33:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Оценка наследства в Оренбурге: рейтинг решений 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-nasledstva-v-orenburge-reyting-resheniy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-nasledstva-v-orenburge-reyting-resheniy-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 02:33:12 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг решений по оспариванию кадастра 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-po-osparivaniyu-kadastra-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-ofisa-strategii-kak-vnedrit-za-8-nedel.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-ofisa-strategii-kak-vnedrit-za-8-nedel.html</guid>
     <pubDate>Mon, 14 Sep 2026 10:14:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как офис стратегии сократил хаос в решениях на 40%</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-ofis-strategii-sokratil-khaos-v-resheniyakh-na-40.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-ofis-strategii-sokratil-khaos-v-resheniyakh-na-40.html</guid>
-    <pubDate>Mon, 14 Sep 2026 10:14:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
