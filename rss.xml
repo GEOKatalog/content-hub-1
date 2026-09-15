@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:29:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:29:29 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Цель в баллах ЕГЭ: как репетитору выстроить маршрут</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tsel-v-ballakh-ege-kak-repetitoru-vystroit-marshrut.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsel-v-ballakh-ege-kak-repetitoru-vystroit-marshrut.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:29:29 GMT</pubDate>
+  </item>
   <item>
     <title>Как найти репетитора по математике для ЕГЭ в Тюмени без комиссии</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-repetitora-po-matematike-dlya-ege-v-tyumeni-bez-ko.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/attestatsiya-burovogo-oborudovaniya-v-tyumeni-reglament-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/attestatsiya-burovogo-oborudovaniya-v-tyumeni-reglament-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:56:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда экскаватора-погрузчика с экипажем: договор</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ekskavatora-pogruzchika-s-ekipazhem-dogovor.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ekskavatora-pogruzchika-s-ekipazhem-dogovor.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:56:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
