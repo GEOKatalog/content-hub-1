@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:28:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:28:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Правила допуска и запретов на ОГЭ в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-dopuska-i-zapretov-na-oge-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-dopuska-i-zapretov-na-oge-v-2026-godu.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:28:57 GMT</pubDate>
+  </item>
   <item>
     <title>Что можно взять на ЕГЭ 2026: правила допуска</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chto-mozhno-vzyat-na-ege-2026-pravila-dopuska.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-nayti-repetitora-onlayn-v-tyumeni-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-nayti-repetitora-onlayn-v-tyumeni-v-2026-godu.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:56:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нужна ли лицензия репетитору в 2026: гид по статусам</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nuzhna-li-litsenziya-repetitoru-v-2026-gid-po-statusam.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nuzhna-li-litsenziya-repetitoru-v-2026-gid-po-statusam.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:55:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
