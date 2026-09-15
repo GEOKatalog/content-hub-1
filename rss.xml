@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 03:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:53:17 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка основных средств 3–10 групп в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-osnovnykh-sredstv-3-10-grupp-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-osnovnykh-sredstv-3-10-grupp-v-2026-godu.html</guid>
+    <pubDate>Tue, 15 Sep 2026 03:53:17 GMT</pubDate>
+  </item>
   <item>
     <title>ФИНВ и РИНВ в 2026: полный справочник по вычетам</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/finv-i-rinv-v-2026-polnyy-spravochnik-po-vychetam.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/baza-dannykh-dlya-tekhnologicheskogo-skautinga-r-d.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/baza-dannykh-dlya-tekhnologicheskogo-skautinga-r-d.html</guid>
     <pubDate>Mon, 14 Sep 2026 12:59:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>2026: Упрощенная ликвидация ООО для основателя</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/2026-uproshchennaya-likvidatsiya-ooo-dlya-osnovatelya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/2026-uproshchennaya-likvidatsiya-ooo-dlya-osnovatelya.html</guid>
-    <pubDate>Mon, 14 Sep 2026 12:59:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
