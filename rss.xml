@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:53:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Реквизиты квитанции по Правилам бытового обслуживания</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/rekvizity-kvitantsii-po-pravilam-bytovogo-obsluzhivaniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rekvizity-kvitantsii-po-pravilam-bytovogo-obsluzhivaniya.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:53:30 GMT</pubDate>
+  </item>
   <item>
     <title>Договор на ремонт и поиск репетитора: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-na-remont-i-poisk-repetitora-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenzirovanie-chop-po-postanovleniyu-781-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/litsenzirovanie-chop-po-postanovleniyu-781-v-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 11:03:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Реестр Росгвардии 2026: гид для руководителя ЧОП</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-rosgvardii-2026-gid-dlya-rukovoditelya-chop.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reestr-rosgvardii-2026-gid-dlya-rukovoditelya-chop.html</guid>
-    <pubDate>Tue, 15 Sep 2026 11:02:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
