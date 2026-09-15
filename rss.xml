@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:30:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:31:07 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как подобрать автокран для монтажа на вылете 20 метров</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-avtokran-dlya-montazha-na-vylete-20-metrov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-avtokran-dlya-montazha-na-vylete-20-metrov.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:31:07 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда спецтехники в Тюмени: контроль топлива 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-v-tyumeni-kontrol-topliva-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-v-tyumeni-dogovor-i-garantii.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-v-tyumeni-dogovor-i-garantii.html</guid>
     <pubDate>Tue, 15 Sep 2026 20:55:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ремонт техники по 1514: гарантия или платная диагностика</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-po-1514-garantiya-ili-platnaya-diagnostika.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-po-1514-garantiya-ili-platnaya-diagnostika.html</guid>
-    <pubDate>Tue, 15 Sep 2026 20:55:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
