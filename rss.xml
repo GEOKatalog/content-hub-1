@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 02:33:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 02:33:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Оценка акций на дату смерти: гид для Оренбурга</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-aktsiy-na-datu-smerti-gid-dlya-orenburga.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-aktsiy-na-datu-smerti-gid-dlya-orenburga.html</guid>
+    <pubDate>Tue, 15 Sep 2026 02:33:51 GMT</pubDate>
+  </item>
   <item>
     <title>Оценка наследства в Оренбурге: рейтинг решений 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-nasledstva-v-orenburge-reyting-resheniy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polozhenie-o-motivatsii-personala-obrazets-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/polozhenie-o-motivatsii-personala-obrazets-2026.html</guid>
     <pubDate>Mon, 14 Sep 2026 10:15:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регламент офиса стратегии: как внедрить за 8 недель</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-ofisa-strategii-kak-vnedrit-za-8-nedel.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-ofisa-strategii-kak-vnedrit-za-8-nedel.html</guid>
-    <pubDate>Mon, 14 Sep 2026 10:14:31 GMT</pubDate>
   </item>
   </channel>
 </rss>
