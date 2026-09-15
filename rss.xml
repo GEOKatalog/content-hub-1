@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:36:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:36:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН 2.3/2.4.4282-26: алгоритм для общепита 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2-3-2-4-4282-26-algoritm-dlya-obshchepita-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2-3-2-4-4282-26-algoritm-dlya-obshchepita-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 06:36:35 GMT</pubDate>
+  </item>
   <item>
     <title>Фермерская зона в магазине: ГОСТ 2026 и правила</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/fermerskaya-zona-v-magazine-gost-2026-i-pravila.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-59921-2-2021-akselerator-bez-tekhbekgraunda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-59921-2-2021-akselerator-bez-tekhbekgraunda.html</guid>
     <pubDate>Mon, 14 Sep 2026 13:03:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Корпоративный акселератор 2026: пошаговый запуск</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/korporativnyy-akselerator-2026-poshagovyy-zapusk.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/korporativnyy-akselerator-2026-poshagovyy-zapusk.html</guid>
-    <pubDate>Mon, 14 Sep 2026 13:02:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
