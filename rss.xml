@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:44:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:44:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как стать руководителем ЧОП в 2026: полный гид</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-stat-rukovoditelem-chop-v-2026-polnyy-gid.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-stat-rukovoditelem-chop-v-2026-polnyy-gid.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:44:32 GMT</pubDate>
+  </item>
   <item>
     <title>Требования к руководителю ЧОП в 2026: закон 2487-1</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-rukovoditelyu-chop-v-2026-zakon-2487-1.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-avtokrana-25-tonn-pochasovaya-bez-pereplaty.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-avtokrana-25-tonn-pochasovaya-bez-pereplaty.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:15:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Каталог решений: вахта 30/30 и 60/30 в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-resheniy-vakhta-30-30-i-60-30-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/katalog-resheniy-vakhta-30-30-i-60-30-v-2026-godu.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:15:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
