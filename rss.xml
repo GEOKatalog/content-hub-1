@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:36:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Замена или возврат денег после 30 дней ремонта</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zamena-ili-vozvrat-deneg-posle-30-dney-remonta.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zamena-ili-vozvrat-deneg-posle-30-dney-remonta.html</guid>
+    <pubDate>Tue, 15 Sep 2026 20:36:12 GMT</pubDate>
+  </item>
   <item>
     <title>Максимальный срок гарантийного ремонта техники в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/maksimalnyy-srok-garantiynogo-remonta-tekhniki-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72236-2025-markirovka-fermerskoy-produktsii-v-irkutsk.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-72236-2025-markirovka-fermerskoy-produktsii-v-irkutsk.html</guid>
     <pubDate>Tue, 15 Sep 2026 06:47:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Декларация и ВСД для ИП и ООО: алгоритм 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/deklaratsiya-i-vsd-dlya-ip-i-ooo-algoritm-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/deklaratsiya-i-vsd-dlya-ip-i-ooo-algoritm-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 06:47:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
