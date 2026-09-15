@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:29:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:29:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда спецтехники без экипажа: нормы топлива и моточасов</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-bez-ekipazha-normy-topliva-i-motochasov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-bez-ekipazha-normy-topliva-i-motochasov.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:29:36 GMT</pubDate>
+  </item>
   <item>
     <title>Ремонт стиральных машин в Тюмени: ROI каналов 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-stiralnykh-mashin-v-tyumeni-roi-kanalov-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rekvizity-kvitantsii-po-pravilam-bytovogo-obsluzhivaniya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/rekvizity-kvitantsii-po-pravilam-bytovogo-obsluzhivaniya.html</guid>
     <pubDate>Tue, 15 Sep 2026 20:53:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Договор на ремонт и поиск репетитора: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-na-remont-i-poisk-repetitora-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-na-remont-i-poisk-repetitora-spravochnik-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 20:53:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
