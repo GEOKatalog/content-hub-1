@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:17:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:18:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как найти репетитора самозанятого с чеком для ОГЭ</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-repetitora-samozanyatogo-s-chekom-dlya-oge.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-repetitora-samozanyatogo-s-chekom-dlya-oge.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:18:32 GMT</pubDate>
+  </item>
   <item>
     <title>Тюмень: квитанция на ремонт техники по правилам 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tyumen-kvitantsiya-na-remont-tekhniki-po-pravilam-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sharoshechnye-dolota-gost-20692-instruktsiya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sharoshechnye-dolota-gost-20692-instruktsiya-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:44:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Периодичность ТО-1 и ТО-2 спецтехники в Тюмени: регламент 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/periodichnost-to-1-i-to-2-spetstekhniki-v-tyumeni-reglament.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/periodichnost-to-1-i-to-2-spetstekhniki-v-tyumeni-reglament.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:44:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
