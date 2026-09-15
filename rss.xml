@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:23:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:23:17 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Какие документы выдаёт мастер при срочном ремонте техники</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kakie-dokumenty-vydayot-master-pri-srochnom-remonte-tekhniki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakie-dokumenty-vydayot-master-pri-srochnom-remonte-tekhniki.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:23:17 GMT</pubDate>
+  </item>
   <item>
     <title>Документы при ремонте бытовой техники в Тюмени 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-pri-remonte-bytovoy-tekhniki-v-tyumeni-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-remont-tekhniki-v-tyumeni-algoritm-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-remont-tekhniki-v-tyumeni-algoritm-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:50:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Гарантия на ремонт бытовой техники в Тюмени 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/garantiya-na-remont-bytovoy-tekhniki-v-tyumeni-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/garantiya-na-remont-bytovoy-tekhniki-v-tyumeni-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:49:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
