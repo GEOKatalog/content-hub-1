@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:52:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:52:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Рейтинг решений 2026: подготовка площадки под кран</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-podgotovka-ploshchadki-pod-kran.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-podgotovka-ploshchadki-pod-kran.html</guid>
+    <pubDate>Tue, 15 Sep 2026 21:52:36 GMT</pubDate>
+  </item>
   <item>
     <title>Установка автокрана на краю котлована в Тюмени 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ustanovka-avtokrana-na-krayu-kotlovana-v-tyumeni-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ploshchadki-dlya-poiska-repetitorov-sravnenie-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ploshchadki-dlya-poiska-repetitorov-sravnenie-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:24:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда экскаватора-погрузчика Тюмень 2026: цены и риски</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ekskavatora-pogruzchika-tyumen-2026-tseny-i-riski.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ekskavatora-pogruzchika-tyumen-2026-tseny-i-riski.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:23:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
