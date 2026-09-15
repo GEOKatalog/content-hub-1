@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:05:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Компрессор 500 л/мин на два поста: окупаемость и экономия</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kompressor-500-l-min-na-dva-posta-okupaemost-i-ekonomiya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kompressor-500-l-min-na-dva-posta-okupaemost-i-ekonomiya.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:05:41 GMT</pubDate>
+  </item>
   <item>
     <title>Определение предметной потребности ученика</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/opredelenie-predmetnoy-potrebnosti-uchenika.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-ispolnitelya-po-inn-i-ogrn.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-ispolnitelya-po-inn-i-ogrn.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:35:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка статуса исполнителя: ИНН и ОГРН</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-statusa-ispolnitelya-inn-i-ogrn.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-statusa-ispolnitelya-inn-i-ogrn.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:35:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
