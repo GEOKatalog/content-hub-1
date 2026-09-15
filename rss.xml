@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:14:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:15:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ Р 50938-2013: ремонт бытовой техники</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-50938-2013-remont-bytovoy-tekhniki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-50938-2013-remont-bytovoy-tekhniki.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:15:00 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ 7360: подбор переводников для бурения</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-7360-podbor-perevodnikov-dlya-bureniya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-stiralnoy-mashiny-v-tyumeni-tseny-i-algoritm-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-stiralnoy-mashiny-v-tyumeni-tseny-i-algoritm-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:41:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда коммерции в Тюмени: гид по выбору 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kommertsii-v-tyumeni-gid-po-vyboru-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kommertsii-v-tyumeni-gid-po-vyboru-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:41:43 GMT</pubDate>
   </item>
   </channel>
 </rss>
