@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:52:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:52:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Оплата междувахтового отдыха: проверка и взыскание</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/oplata-mezhduvakhtovogo-otdykha-proverka-i-vzyskanie.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/oplata-mezhduvakhtovogo-otdykha-proverka-i-vzyskanie.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:52:30 GMT</pubDate>
+  </item>
   <item>
     <title>Оплата дней междувахтового отдыха: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oplata-dney-mezhduvakhtovogo-otdykha-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/uchet-zapravki-spetstekhniki-v-tyumeni-chto-govorit-zakon.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/uchet-zapravki-spetstekhniki-v-tyumeni-chto-govorit-zakon.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:19:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Заправка топливом в аренде спецтехники: правила 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zapravka-toplivom-v-arende-spetstekhniki-pravila-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapravka-toplivom-v-arende-spetstekhniki-pravila-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:19:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
