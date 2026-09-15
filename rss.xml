@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:22:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:22:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Готовый автосервис в Тольятти: рейтинг 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gotovyy-avtoservis-v-tolyatti-reyting-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gotovyy-avtoservis-v-tolyatti-reyting-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 11:22:56 GMT</pubDate>
+  </item>
   <item>
     <title>Санитарные правила для СТО с 1 сентября 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-pravila-dlya-sto-s-1-sentyabrya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/fermerskaya-zona-v-magazine-gost-2026-i-pravila.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/fermerskaya-zona-v-magazine-gost-2026-i-pravila.html</guid>
     <pubDate>Tue, 15 Sep 2026 06:36:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Блокировка карточек на Ozon и WB: алгоритм окупаемости</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/blokirovka-kartochek-na-ozon-i-wb-algoritm-okupaemosti.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/blokirovka-kartochek-na-ozon-i-wb-algoritm-okupaemosti.html</guid>
-    <pubDate>Tue, 15 Sep 2026 06:35:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
