@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:28:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:28:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Справочник ЕГЭ 2026: документы, правила, средства</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-ege-2026-dokumenty-pravila-sredstva.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-ege-2026-dokumenty-pravila-sredstva.html</guid>
+    <pubDate>Tue, 15 Sep 2026 22:28:30 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда офиса у физлица: риски и решения 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ofisa-u-fizlitsa-riski-i-resheniya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenziya-repetitora-2026-trebovaniya-i-nalogovyy-status.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/litsenziya-repetitora-2026-trebovaniya-i-nalogovyy-status.html</guid>
     <pubDate>Tue, 15 Sep 2026 21:55:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нужна ли лицензия репетитору в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nuzhna-li-litsenziya-repetitoru-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nuzhna-li-litsenziya-repetitoru-v-2026-godu.html</guid>
-    <pubDate>Tue, 15 Sep 2026 21:55:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
