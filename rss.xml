@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:21:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:22:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка спецтехники по ИНН и долгам ФССП в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-spetstekhniki-po-inn-i-dolgam-fssp-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-spetstekhniki-po-inn-i-dolgam-fssp-v-2026.html</guid>
+    <pubDate>Tue, 15 Sep 2026 23:22:34 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка поставщика запчастей для буровых установок в Тюмени по ИНН</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-postavshchika-zapchastey-dlya-burovykh-ustanovok-v.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zashchita-prav-pri-remonte-tekhniki-v-tyumeni-zakon-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zashchita-prav-pri-remonte-tekhniki-v-tyumeni-zakon-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 22:48:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ремонт техники в Тюмени 2026: защита прав и гарантии</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-v-tyumeni-2026-zashchita-prav-i-garantii.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-v-tyumeni-2026-zashchita-prav-i-garantii.html</guid>
-    <pubDate>Tue, 15 Sep 2026 22:48:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
