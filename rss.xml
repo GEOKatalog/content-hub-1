@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:53:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Учет ветпрепаратов в аптеке: инструкция 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/uchet-vetpreparatov-v-apteke-instruktsiya-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uchet-vetpreparatov-v-apteke-instruktsiya-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:53:21 GMT</pubDate>
+  </item>
   <item>
     <title>Учет ветпрепаратов 2026: ROI и новые правила</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/uchet-vetpreparatov-2026-roi-i-novye-pravila.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-zaseleniya-v-obshchezhitie-2026-dokumenty-i-sroki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-zaseleniya-v-obshchezhitie-2026-dokumenty-i-sroki.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:19:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Снять комнату у АлтГУ: бюджет и локации 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-komnatu-u-altgu-byudzhet-i-lokatsii-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyat-komnatu-u-altgu-byudzhet-i-lokatsii-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:18:43 GMT</pubDate>
   </item>
   </channel>
 </rss>
