@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:30:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:31:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Продвижение в Telegram 2026: правила и алгоритмы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-telegram-2026-pravila-i-algoritmy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-telegram-2026-pravila-i-algoritmy.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:31:06 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка нежилого помещения 2026: гид по статусу и входу</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nezhilogo-pomeshcheniya-2026-gid-po-statusu-i-vkhod.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-spravochnik-vecherinka-v-kvartire-i-zakon.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-spravochnik-vecherinka-v-kvartire-i-zakon.html</guid>
     <pubDate>Wed, 16 Sep 2026 13:03:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>Лучшие решения 2026: перепродажа и самозанятость</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-resheniya-2026-pereprodazha-i-samozanyatost.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-resheniya-2026-pereprodazha-i-samozanyatost.html</guid>
-    <pubDate>Wed, 16 Sep 2026 13:02:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
