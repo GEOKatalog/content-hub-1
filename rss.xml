@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:41:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налоги ИП на УСН 2026: сэкономить до 120 000 ₽</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-ip-na-usn-2026-sekonomit-do-120-000.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-ip-na-usn-2026-sekonomit-do-120-000.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:41:44 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ Р 21.101-2026: сравнение старой и новой редакции</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-21-101-2026-sravnenie-staroy-i-novoy-redaktsii.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obzor-resheniy-dlya-registratsii-studentov-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/obzor-resheniy-dlya-registratsii-studentov-v-2026-godu.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:39:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда в Барнауле без кредитной истории и поручителей</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-v-barnaule-bez-kreditnoy-istorii-i-poruchiteley.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-v-barnaule-bez-kreditnoy-istorii-i-poruchiteley.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:39:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
