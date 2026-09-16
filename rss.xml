@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 08:52:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:52:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка недвижимости перед покупкой: алгоритм 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nedvizhimosti-pered-pokupkoy-algoritm-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nedvizhimosti-pered-pokupkoy-algoritm-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 08:52:57 GMT</pubDate>
+  </item>
   <item>
     <title>Как оценить локацию для магазина: рейтинг сервисов 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-otsenit-lokatsiyu-dlya-magazina-reyting-servisov-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nanyat-devops-na-autsorse-nastroyka-bekapov-pod-152-fz.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nanyat-devops-na-autsorse-nastroyka-bekapov-pod-152-fz.html</guid>
     <pubDate>Wed, 16 Sep 2026 05:16:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка выручки и ставка НДС на УСН в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vyruchki-i-stavka-nds-na-usn-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vyruchki-i-stavka-nds-na-usn-v-2026-godu.html</guid>
-    <pubDate>Wed, 16 Sep 2026 05:15:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
