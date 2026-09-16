@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:09:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самооценка soft skills: чек-лист компетенций 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samootsenka-soft-skills-chek-list-kompetentsiy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samootsenka-soft-skills-chek-list-kompetentsiy-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 14:09:53 GMT</pubDate>
+  </item>
   <item>
     <title>Базовый пакет документов для поступления в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/bazovyy-paket-dokumentov-dlya-postupleniya-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/strakhovanie-iis-3-v-orenburge-limit-1-4-mln.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/strakhovanie-iis-3-v-orenburge-limit-1-4-mln.html</guid>
     <pubDate>Wed, 16 Sep 2026 06:27:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Переуступки в новостройках Оренбурга в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pereustupki-v-novostroykakh-orenburga-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pereustupki-v-novostroykakh-orenburga-v-2026-godu.html</guid>
-    <pubDate>Wed, 16 Sep 2026 06:27:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
