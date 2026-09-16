@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:55:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:55:27 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Инфраструктура госсистем: аутсорс или свой DevOps</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/infrastruktura-gossistem-autsors-ili-svoy-devops.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/infrastruktura-gossistem-autsors-ili-svoy-devops.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:55:27 GMT</pubDate>
+  </item>
   <item>
     <title>44-ФЗ с 1 октября 2026: гид для снабженца</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/44-fz-s-1-oktyabrya-2026-gid-dlya-snabzhentsa.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nuzhna-li-litsenziya-na-proizvodstvo-khleba-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nuzhna-li-litsenziya-na-proizvodstvo-khleba-v-2026-godu.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:24:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Онлайн-касса на ярмарке в 2026: инструкция для фермеров</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-kassa-na-yarmarke-v-2026-instruktsiya-dlya-fermerov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-kassa-na-yarmarke-v-2026-instruktsiya-dlya-fermerov.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:24:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
