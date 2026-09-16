@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:30:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:31:04 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Варроатоз и препараты: справочник пчеловода 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/varroatoz-i-preparaty-spravochnik-pchelovoda-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/varroatoz-i-preparaty-spravochnik-pchelovoda-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:31:04 GMT</pubDate>
+  </item>
   <item>
     <title>Лечение пчел от клеща Варроа: препараты 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/lechenie-pchel-ot-kleshcha-varroa-preparaty-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podacha-tekhniki-i-nachalo-rabot-gid-po-tyumeni.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podacha-tekhniki-i-nachalo-rabot-gid-po-tyumeni.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:52:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда спецтехники с экипажем: правила 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-s-ekipazhem-pravila-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-spetstekhniki-s-ekipazhem-pravila-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:51:58 GMT</pubDate>
   </item>
   </channel>
 </rss>
