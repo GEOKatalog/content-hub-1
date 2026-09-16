@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:15:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>НОК для проектировщиков в Ярославле: рейтинг решений 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nok-dlya-proektirovshchikov-v-yaroslavle-reyting-resheniy-20.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nok-dlya-proektirovshchikov-v-yaroslavle-reyting-resheniy-20.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:15:11 GMT</pubDate>
+  </item>
   <item>
     <title>Профстандарт 10.015: окупаемость квалификации ГИПа</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-10-015-okupaemost-kvalifikatsii-gipa.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tryokhstupenchatyy-reglament-proverki-kontragenta.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tryokhstupenchatyy-reglament-proverki-kontragenta.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:54:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка контрагента по 115-ФЗ в закупках 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-115-fz-v-zakupkakh-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-115-fz-v-zakupkakh-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:54:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
