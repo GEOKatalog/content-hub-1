@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:50:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:50:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация студентов 2026: экономия 15 000 ₽</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-studentov-2026-ekonomiya-15-000.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-studentov-2026-ekonomiya-15-000.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:50:28 GMT</pubDate>
+  </item>
   <item>
     <title>Налоговый режим рантье: рейтинг решений 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovyy-rezhim-rante-reyting-resheniy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srok-arendy-menee-12-mesyatsev-registratsiya-ne-nuzhna.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/srok-arendy-menee-12-mesyatsev-registratsiya-ne-nuzhna.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:13:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нужна ли лицензия репетитору в 2026: полный справочник</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nuzhna-li-litsenziya-repetitoru-v-2026-polnyy-spravochnik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nuzhna-li-litsenziya-repetitoru-v-2026-polnyy-spravochnik.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:13:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
