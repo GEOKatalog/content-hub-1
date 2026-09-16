@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:03:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:06:04 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Законно ли шуметь на вечеринке: правила и штрафы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakonno-li-shumet-na-vecherinke-pravila-i-shtrafy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakonno-li-shumet-na-vecherinke-pravila-i-shtrafy.html</guid>
+    <pubDate>Wed, 16 Sep 2026 13:06:04 GMT</pubDate>
+  </item>
   <item>
     <title>Полный справочник: вечеринка в квартире и закон</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-spravochnik-vecherinka-v-kvartire-i-zakon.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/osporit-kadastrovuyu-stoimost-v-orenburge-roi-i-vozvrat-nalo.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/osporit-kadastrovuyu-stoimost-v-orenburge-roi-i-vozvrat-nalo.html</guid>
     <pubDate>Wed, 16 Sep 2026 06:17:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Наследство и вычет: правила 2026 года для Оренбурга</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nasledstvo-i-vychet-pravila-2026-goda-dlya-orenburga.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nasledstvo-i-vychet-pravila-2026-goda-dlya-orenburga.html</guid>
-    <pubDate>Wed, 16 Sep 2026 06:16:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
