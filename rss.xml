@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:07:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:07:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Калькулятор доходности аренды: расчет окупаемости для рантье</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kalkulyator-dokhodnosti-arendy-raschet-okupaemosti-dlya-rant.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kalkulyator-dokhodnosti-arendy-raschet-okupaemosti-dlya-rant.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:07:37 GMT</pubDate>
+  </item>
   <item>
     <title>Налог на аренду для самозанятых в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-arendu-dlya-samozanyatykh-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-to-2026-ekonomiya-do-40-na-byudzhetnykh-avto.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-to-2026-ekonomiya-do-40-na-byudzhetnykh-avto.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:32:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как сдать грибы на заготовительный пункт: цены 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sdat-griby-na-zagotovitelnyy-punkt-tseny-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sdat-griby-na-zagotovitelnyy-punkt-tseny-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:32:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
