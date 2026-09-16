@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:04:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:04:25 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Срочный поиск поставщика комплектующих в Ярославле</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-poisk-postavshchika-komplektuyushchikh-v-yaroslavle.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-poisk-postavshchika-komplektuyushchikh-v-yaroslavle.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:04:25 GMT</pubDate>
+  </item>
   <item>
     <title>Профстандарт 625н: уровни квалификации закупщика</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-625n-urovni-kvalifikatsii-zakupshchika.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okved-dlya-pvz-i-mini-sklada-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/okved-dlya-pvz-i-mini-sklada-spravochnik-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:20:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Требования к ветеринарной аптеке в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-veterinarnoy-apteke-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-veterinarnoy-apteke-v-2026-godu.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:20:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
