@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:16:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Вентиляция в кафе 2026: рейтинг решений по СанПиН</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-v-kafe-2026-reyting-resheniy-po-sanpin.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-v-kafe-2026-reyting-resheniy-po-sanpin.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:16:38 GMT</pubDate>
+  </item>
   <item>
     <title>Шум и разгрузка: жалобы жильцов на общепит</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shum-i-razgruzka-zhaloby-zhiltsov-na-obshchepit.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samovolnaya-postroyka-v-ulyanovske-arenda-i-snos.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/samovolnaya-postroyka-v-ulyanovske-arenda-i-snos.html</guid>
     <pubDate>Wed, 16 Sep 2026 08:49:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка НДФЛ-доходов 2025: выгода до 88 000 ₽</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ndfl-dokhodov-2025-vygoda-do-88-000.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ndfl-dokhodov-2025-vygoda-do-88-000.html</guid>
-    <pubDate>Wed, 16 Sep 2026 07:48:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
