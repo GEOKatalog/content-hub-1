@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:41:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:42:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регламент резервного копирования ПДн: системный администратор 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-rezervnogo-kopirovaniya-pdn-sistemnyy-administrato.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-rezervnogo-kopirovaniya-pdn-sistemnyy-administrato.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:42:14 GMT</pubDate>
+  </item>
   <item>
     <title>Налоги ИП на УСН 2026: сэкономить до 120 000 ₽</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-ip-na-usn-2026-sekonomit-do-120-000.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-zhiltsov-dlya-rante-v-barnaule-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-zhiltsov-dlya-rante-v-barnaule-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:40:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Обзор решений для регистрации студентов в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obzor-resheniy-dlya-registratsii-studentov-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obzor-resheniy-dlya-registratsii-studentov-v-2026-godu.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:39:58 GMT</pubDate>
   </item>
   </channel>
 </rss>
