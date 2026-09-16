@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:25:39 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI-гид по покраске миниатюр: цвета и техники 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ai-gid-po-pokraske-miniatyur-tsveta-i-tekhniki-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ai-gid-po-pokraske-miniatyur-tsveta-i-tekhniki-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:25:39 GMT</pubDate>
+  </item>
   <item>
     <title>Покраска миниатюр для начинающих: краски и аэрограф 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pokraska-miniatyur-dlya-nachinayushchikh-kraski-i-aerograf-2.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-vedeniya-remontnykh-rabot-v-skvazhinakh-rd-153-39-02.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-vedeniya-remontnykh-rabot-v-skvazhinakh-rd-153-39-02.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:47:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Доказательства владения судном: гид по защите в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokazatelstva-vladeniya-sudnom-gid-po-zashchite-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokazatelstva-vladeniya-sudnom-gid-po-zashchite-v-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:47:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
