@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:02:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самозанятый и аренда квартиры: правила 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-i-arenda-kvartiry-pravila-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-i-arenda-kvartiry-pravila-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:02:00 GMT</pubDate>
+  </item>
   <item>
     <title>Регистрация в Мой налог через Госуслуги: окупаемость 4% НПД</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-moy-nalog-cherez-gosuslugi-okupaemost-4-npd.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zakon-o-kladakh-2026-otvetstvennost-za-nakhodki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakon-o-kladakh-2026-otvetstvennost-za-nakhodki.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:26:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>AI-гид по покраске миниатюр: цвета и техники 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ai-gid-po-pokraske-miniatyur-tsveta-i-tekhniki-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ai-gid-po-pokraske-miniatyur-tsveta-i-tekhniki-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:25:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
