@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:32:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регламент ТО 2026: экономия до 40% на бюджетных авто</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-to-2026-ekonomiya-do-40-na-byudzhetnykh-avto.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-to-2026-ekonomiya-do-40-na-byudzhetnykh-avto.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:32:21 GMT</pubDate>
+  </item>
   <item>
     <title>Как сдать грибы на заготовительный пункт: цены 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sdat-griby-na-zagotovitelnyy-punkt-tseny-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-v-tyumeni-prava-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-bytovoy-tekhniki-v-tyumeni-prava-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:53:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Гарантийный ремонт техники: полный справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/garantiynyy-remont-tekhniki-polnyy-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/garantiynyy-remont-tekhniki-polnyy-spravochnik-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:53:22 GMT</pubDate>
   </item>
   </channel>
 </rss>
