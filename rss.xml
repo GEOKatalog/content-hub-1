@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:39:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация студентов в общежитии: сроки и алгоритм 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-studentov-v-obshchezhitii-sroki-i-algoritm-202.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-studentov-v-obshchezhitii-sroki-i-algoritm-202.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:39:38 GMT</pubDate>
+  </item>
   <item>
     <title>Нотариальное удостоверение аренды жилья в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/notarialnoe-udostoverenie-arendy-zhilya-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-2026-novye-pravila-i-norma-6-kv-m.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-2026-novye-pravila-i-norma-6-kv-m.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:06:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Общежитие 2026: порядок заселения и норма 6 кв м</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obshchezhitie-2026-poryadok-zaseleniya-i-norma-6-kv-m.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obshchezhitie-2026-poryadok-zaseleniya-i-norma-6-kv-m.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:05:55 GMT</pubDate>
   </item>
   </channel>
 </rss>
