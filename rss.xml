@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:05:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:05:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Общежитие 2026: порядок заселения и норма 6 кв м</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obshchezhitie-2026-poryadok-zaseleniya-i-norma-6-kv-m.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obshchezhitie-2026-poryadok-zaseleniya-i-norma-6-kv-m.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:05:55 GMT</pubDate>
+  </item>
   <item>
     <title>Взыскание долгов с арендаторов: юрист или сервис</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vzyskanie-dolgov-s-arendatorov-yurist-ili-servis.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/lechenie-pchel-ot-kleshcha-varroa-preparaty-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/lechenie-pchel-ot-kleshcha-varroa-preparaty-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:30:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пестициды и биопрепараты: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pestitsidy-i-biopreparaty-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pestitsidy-i-biopreparaty-spravochnik-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:30:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
