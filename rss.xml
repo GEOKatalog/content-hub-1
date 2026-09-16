@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 02:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 02:16:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как ПВЗ в Хабаровске прошёл проверку по воде и вентиляции</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pvz-v-khabarovske-proshyol-proverku-po-vode-i-ventilyats.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-pvz-v-khabarovske-proshyol-proverku-po-vode-i-ventilyats.html</guid>
+    <pubDate>Wed, 16 Sep 2026 02:16:08 GMT</pubDate>
+  </item>
   <item>
     <title>Санитарные правила для магазина у дома в Хабаровске 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-pravila-dlya-magazina-u-doma-v-khabarovske-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendatora-2026-fssp-pasport-efrsb.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendatora-2026-fssp-pasport-efrsb.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:23:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как проверить арендатора по базам ФССП и МВД в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-arendatora-po-bazam-fssp-i-mvd-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-arendatora-po-bazam-fssp-i-mvd-v-2026-godu.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:23:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
