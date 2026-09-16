@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:05:15 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Законная неустойка по ст. 395 ГК РФ: справочник 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakonnaya-neustoyka-po-st-395-gk-rf-spravochnik-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakonnaya-neustoyka-po-st-395-gk-rf-spravochnik-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:05:15 GMT</pubDate>
+  </item>
   <item>
     <title>Срочный поиск поставщика: Telegram против B2B</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-poisk-postavshchika-telegram-protiv-b2b.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-podgotovit-zoomagazin-k-proverke-rospotrebnadzora-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-podgotovit-zoomagazin-k-proverke-rospotrebnadzora-v-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:21:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аудит санитарной документации: что проверять в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-sanitarnoy-dokumentatsii-chto-proveryat-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-sanitarnoy-dokumentatsii-chto-proveryat-v-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:20:52 GMT</pubDate>
   </item>
   </channel>
 </rss>
