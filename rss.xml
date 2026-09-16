@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 02:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 02:25:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Штрафы ПВЗ 2026: кейс снижения потерь с 100 000 ₽</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-pvz-2026-keys-snizheniya-poter-s-100-000.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-pvz-2026-keys-snizheniya-poter-s-100-000.html</guid>
+    <pubDate>Wed, 16 Sep 2026 02:25:26 GMT</pubDate>
+  </item>
   <item>
     <title>ОКВЭД 10.71 для пекарни в Хабаровске: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okved-10-71-dlya-pekarni-v-khabarovske-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zashchititsya-ot-nedobrosovestnogo-arendodatelya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zashchititsya-ot-nedobrosovestnogo-arendodatelya.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:33:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Защита от недобросовестного арендодателя в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zashchita-ot-nedobrosovestnogo-arendodatelya-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zashchita-ot-nedobrosovestnogo-arendodatelya-v-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:33:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
