@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:18:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>КС РФ № 48-П: наследники оспорят архивный налог</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ks-rf-48-p-nasledniki-osporyat-arkhivnyy-nalog.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ks-rf-48-p-nasledniki-osporyat-arkhivnyy-nalog.html</guid>
+    <pubDate>Wed, 16 Sep 2026 06:18:49 GMT</pubDate>
+  </item>
   <item>
     <title>Семейная ипотека Оренбург вторичка 2026: список городов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-orenburg-vtorichka-2026-spisok-gorodov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/infrastruktura-gossistem-autsors-ili-svoy-devops.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/infrastruktura-gossistem-autsors-ili-svoy-devops.html</guid>
     <pubDate>Wed, 16 Sep 2026 04:55:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>44-ФЗ с 1 октября 2026: гид для снабженца</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/44-fz-s-1-oktyabrya-2026-gid-dlya-snabzhentsa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/44-fz-s-1-oktyabrya-2026-gid-dlya-snabzhentsa.html</guid>
-    <pubDate>Wed, 16 Sep 2026 04:55:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
