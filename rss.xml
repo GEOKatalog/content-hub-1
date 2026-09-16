@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:08:10 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Монтаж в контракте по ч. 12 ст. 93 44-ФЗ в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/montazh-v-kontrakte-po-ch-12-st-93-44-fz-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/montazh-v-kontrakte-po-ch-12-st-93-44-fz-v-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:08:10 GMT</pubDate>
+  </item>
   <item>
     <title>Резервное копирование персданных в Ярославле 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rezervnoe-kopirovanie-persdannykh-v-yaroslavle-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-ip-remontnika-rabota-s-yurlitsami-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-ip-remontnika-rabota-s-yurlitsami-v-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:48:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Где найти ИП-ремонтника для юрлиц в Ярославле</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-nayti-ip-remontnika-dlya-yurlits-v-yaroslavle.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-nayti-ip-remontnika-dlya-yurlits-v-yaroslavle.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:48:27 GMT</pubDate>
   </item>
   </channel>
 </rss>
