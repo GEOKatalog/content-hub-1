@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:48:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:49:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>НДФЛ, самозанятость или ИП: налог с аренды в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ndfl-samozanyatost-ili-ip-nalog-s-arendy-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ndfl-samozanyatost-ili-ip-nalog-s-arendy-v-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:49:03 GMT</pubDate>
+  </item>
   <item>
     <title>Налог с аренды квартиры в Барнауле: правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-v-barnaule-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podgotovka-vakhty-roi-dokumentov-i-zaezd-bez-poter.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podgotovka-vakhty-roi-dokumentov-i-zaezd-bez-poter.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:12:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ловильный инструмент для КРС в Тюмени: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/lovilnyy-instrument-dlya-krs-v-tyumeni-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/lovilnyy-instrument-dlya-krs-v-tyumeni-gid-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:11:55 GMT</pubDate>
   </item>
   </channel>
 </rss>
