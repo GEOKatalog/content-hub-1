@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:15:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Наёмные педагоги и лицензия: рейтинг решений 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nayomnye-pedagogi-i-litsenziya-reyting-resheniy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nayomnye-pedagogi-i-litsenziya-reyting-resheniy-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:15:09 GMT</pubDate>
+  </item>
   <item>
     <title>Лицензия репетитору 2026: экономия или штраф?</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenziya-repetitoru-2026-ekonomiya-ili-shtraf.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/npd-dlya-repetitorov-v-tyumeni-limity-i-arenda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/npd-dlya-repetitorov-v-tyumeni-limity-i-arenda.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:38:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы для репетиторства: оформление и налоги</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-repetitorstva-oformlenie-i-nalogi.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-repetitorstva-oformlenie-i-nalogi.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:38:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
