@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:40:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Грант Агростартап 2026: как получить до 8 млн рублей</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/grant-agrostartap-2026-kak-poluchit-do-8-mln-rubley.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/grant-agrostartap-2026-kak-poluchit-do-8-mln-rubley.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:40:32 GMT</pubDate>
+  </item>
   <item>
     <title>Гранты для фермеров Алтая: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/granty-dlya-fermerov-altaya-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-bez-komissii-v-tyumeni-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-bez-komissii-v-tyumeni-gid-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:01:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регламент замены масла: 500 моточасов или 250</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-zameny-masla-500-motochasov-ili-250.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-zameny-masla-500-motochasov-ili-250.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:00:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
