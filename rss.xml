@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:06:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ЕГРИП 2026: заявительные и отчетные коды ОКВЭД</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/egrip-2026-zayavitelnye-i-otchetnye-kody-okved.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/egrip-2026-zayavitelnye-i-otchetnye-kody-okved.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:06:09 GMT</pubDate>
+  </item>
   <item>
     <title>DevOps на аутсорсе в Ярославле: CI/CD и Kubernetes</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/devops-na-autsorse-v-yaroslavle-ci-cd-i-kubernetes.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/master-po-remontu-kholodilnogo-oborudovaniya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/master-po-remontu-kholodilnogo-oborudovaniya-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:45:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Программа производственного контроля 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/programma-proizvodstvennogo-kontrolya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/programma-proizvodstvennogo-kontrolya-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:45:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
