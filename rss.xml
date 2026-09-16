@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:38:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:39:07 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Нотариальное удостоверение аренды жилья в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/notarialnoe-udostoverenie-arendy-zhilya-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/notarialnoe-udostoverenie-arendy-zhilya-v-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:39:07 GMT</pubDate>
+  </item>
   <item>
     <title>Нотариальное удостоверение договора аренды в Барнауле 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/notarialnoe-udostoverenie-dogovora-arendy-v-barnaule-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obshchezhitie-2026-poryadok-zaseleniya-i-norma-6-kv-m.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/obshchezhitie-2026-poryadok-zaseleniya-i-norma-6-kv-m.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:05:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Взыскание долгов с арендаторов: юрист или сервис</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vzyskanie-dolgov-s-arendatorov-yurist-ili-servis.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vzyskanie-dolgov-s-arendatorov-yurist-ili-servis.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:05:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
