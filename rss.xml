@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:11:29 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Поставщик по КТРУ до 5 млн: опыт госконтрактов в Ярославле</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchik-po-ktru-do-5-mln-opyt-goskontraktov-v-yaroslavl.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/postavshchik-po-ktru-do-5-mln-opyt-goskontraktov-v-yaroslavl.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:11:29 GMT</pubDate>
+  </item>
   <item>
     <title>НМЦК методом сопоставимых цен: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nmtsk-metodom-sopostavimykh-tsen-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/instruktsiya-po-okhrane-truda-sisadmina-shablon-ili-razrabot.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/instruktsiya-po-okhrane-truda-sisadmina-shablon-ili-razrabot.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:51:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Инструкция по охране труда для сисадмина: структура и утверждение</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/instruktsiya-po-okhrane-truda-dlya-sisadmina-struktura-i-utv.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/instruktsiya-po-okhrane-truda-dlya-sisadmina-struktura-i-utv.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:51:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
