@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:42:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:42:25 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самозанятый 2026: налог 4% или 6% и как платить</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-2026-nalog-4-ili-6-i-kak-platit.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-2026-nalog-4-ili-6-i-kak-platit.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:42:25 GMT</pubDate>
+  </item>
   <item>
     <title>Продажа дикоросов 2026: требования и правила</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-dikorosov-2026-trebovaniya-i-pravila.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendodatelya-egrn-fns-i-kad-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendodatelya-egrn-fns-i-kad-v-2026-godu.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:03:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка собственника перед арендой: ЕГРН, ФНС, КАД 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sobstvennika-pered-arendoy-egrn-fns-kad-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sobstvennika-pered-arendoy-egrn-fns-kad-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:03:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
