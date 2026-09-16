@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:05:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Юридическая чистота склада класса B: чек-лист 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/yuridicheskaya-chistota-sklada-klassa-b-chek-list-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/yuridicheskaya-chistota-sklada-klassa-b-chek-list-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 10:05:03 GMT</pubDate>
+  </item>
   <item>
     <title>Санитарные требования к кафе и магазину до аренды 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-kafe-i-magazinu-do-arendy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/st-54-1-nk-rf-i-delovaya-tsel-instruktsiya-dlya-investorov-o.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/st-54-1-nk-rf-i-delovaya-tsel-instruktsiya-dlya-investorov-o.html</guid>
     <pubDate>Wed, 16 Sep 2026 06:09:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налоговая оптимизация 2026: где грань закона</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovaya-optimizatsiya-2026-gde-gran-zakona.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovaya-optimizatsiya-2026-gde-gran-zakona.html</guid>
-    <pubDate>Wed, 16 Sep 2026 06:09:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
