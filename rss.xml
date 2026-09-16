@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:50:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:50:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Инструкция по охране труда для системного администратора 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/instruktsiya-po-okhrane-truda-dlya-sistemnogo-administratora.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/instruktsiya-po-okhrane-truda-dlya-sistemnogo-administratora.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:50:59 GMT</pubDate>
+  </item>
   <item>
     <title>НДС на УСН с 2026: порог 20 млн и взносы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nds-na-usn-s-2026-porog-20-mln-i-vznosy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nto-v-khabarovske-2026-dokumenty-dlya-ip-i-kfkh.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nto-v-khabarovske-2026-dokumenty-dlya-ip-i-kfkh.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:49:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сезонная торговля 2026: документы для фермеров</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sezonnaya-torgovlya-2026-dokumenty-dlya-fermerov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sezonnaya-torgovlya-2026-dokumenty-dlya-fermerov.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:49:06 GMT</pubDate>
   </item>
   </channel>
 </rss>
