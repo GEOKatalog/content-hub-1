@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:24:18 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI-помощник для нумизматов: оценка монет онлайн</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ai-pomoshchnik-dlya-numizmatov-otsenka-monet-onlayn.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ai-pomoshchnik-dlya-numizmatov-otsenka-monet-onlayn.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:24:18 GMT</pubDate>
+  </item>
   <item>
     <title>Параллельный импорт 2026: обзор решений для стройотрасли</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/parallelnyy-import-2026-obzor-resheniy-dlya-stroyotrasli.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-riskov-i-sbor-dokazatelstv-pri-pokupke-bez-dokumento.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-riskov-i-sbor-dokazatelstv-pri-pokupke-bez-dokumento.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:46:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ремонт техники на дому: права и документы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-na-domu-prava-i-dokumenty.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-na-domu-prava-i-dokumenty.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:46:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
