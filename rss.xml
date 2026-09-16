@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:48:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:49:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самовольная постройка в Ульяновске: аренда и снос</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samovolnaya-postroyka-v-ulyanovske-arenda-i-snos.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samovolnaya-postroyka-v-ulyanovske-arenda-i-snos.html</guid>
+    <pubDate>Wed, 16 Sep 2026 08:49:12 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка НДФЛ-доходов 2025: выгода до 88 000 ₽</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ndfl-dokhodov-2025-vygoda-do-88-000.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obosnovanie-nmtsk-po-44-fz-v-2026-godu-pravila.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/obosnovanie-nmtsk-po-44-fz-v-2026-godu-pravila.html</guid>
     <pubDate>Wed, 16 Sep 2026 05:14:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Приказ об ответственном за ОТ в Ярославле: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-ob-otvetstvennom-za-ot-v-yaroslavle-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-ob-otvetstvennom-za-ot-v-yaroslavle-gid-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 05:13:55 GMT</pubDate>
   </item>
   </channel>
 </rss>
