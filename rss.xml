@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:38:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СП 20.13330 2026: рейтинг решений для проверки смет</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-2026-reyting-resheniy-dlya-proverki-smet.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-2026-reyting-resheniy-dlya-proverki-smet.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:38:51 GMT</pubDate>
+  </item>
   <item>
     <title>Себестоимость печати страницы в Ярославле 2026: расчет</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sebestoimost-pechati-stranitsy-v-yaroslavle-2026-raschet.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kompensatsiya-za-pereezd-molodomu-spetsialistu-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kompensatsiya-za-pereezd-molodomu-spetsialistu-v-2026-godu.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:37:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Статья 620 ГК РФ: справочник защиты арендатора</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/statya-620-gk-rf-spravochnik-zashchity-arendatora.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/statya-620-gk-rf-spravochnik-zashchity-arendatora.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:36:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
