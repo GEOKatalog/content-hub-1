@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 02:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 02:16:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Санитарные нормы 2026 для зоомагазинов Хабаровска</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-normy-2026-dlya-zoomagazinov-khabarovska.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-normy-2026-dlya-zoomagazinov-khabarovska.html</guid>
+    <pubDate>Wed, 16 Sep 2026 02:16:33 GMT</pubDate>
+  </item>
   <item>
     <title>Зона ответственности сантехника: УК или частник</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zona-otvetstvennosti-santekhnika-uk-ili-chastnik.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nezavisimaya-ekspertiza-ushcherba-posle-zaliva-barnaul-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nezavisimaya-ekspertiza-ushcherba-posle-zaliva-barnaul-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:24:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как вернуть депозит при досрочном расторжении аренды</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vernut-depozit-pri-dosrochnom-rastorzhenii-arendy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vernut-depozit-pri-dosrochnom-rastorzhenii-arendy.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:23:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
