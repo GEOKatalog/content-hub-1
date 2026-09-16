@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:19:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:19:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Вентиляция кафе по СанПиН 4282-26: что изменится</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-kafe-po-sanpin-4282-26-chto-izmenitsya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-kafe-po-sanpin-4282-26-chto-izmenitsya.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:19:21 GMT</pubDate>
+  </item>
   <item>
     <title>Вентиляция кафе по СанПиН 2026: нормы и цены</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-kafe-po-sanpin-2026-normy-i-tseny.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/intent-marketing-2026-kak-ne-szhech-byudzhet-na-nerelevantny.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/intent-marketing-2026-kak-ne-szhech-byudzhet-na-nerelevantny.html</guid>
     <pubDate>Wed, 16 Sep 2026 08:53:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка недвижимости перед покупкой: алгоритм 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nedvizhimosti-pered-pokupkoy-algoritm-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nedvizhimosti-pered-pokupkoy-algoritm-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 08:52:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
