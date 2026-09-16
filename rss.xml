@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:08:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:09:10 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Состав разделов проектной документации по 87 постановлению</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sostav-razdelov-proektnoy-dokumentatsii-po-87-postanovleniyu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sostav-razdelov-proektnoy-dokumentatsii-po-87-postanovleniyu.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:09:10 GMT</pubDate>
+  </item>
   <item>
     <title>ИНН для иностранцев в 2026: проактивно через банк</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/inn-dlya-inostrantsev-v-2026-proaktivno-cherez-bank.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/priemka-tovara-po-44-fz-dokumenty-i-sroki-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/priemka-tovara-po-44-fz-dokumenty-i-sroki-v-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:49:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Найти ИП-ремонтника для юрлиц в Ярославле: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nayti-ip-remontnika-dlya-yurlits-v-yaroslavle-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nayti-ip-remontnika-dlya-yurlits-v-yaroslavle-gid-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:48:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
