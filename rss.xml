@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:25:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:26:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Закон о кладах 2026: ответственность за находки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakon-o-kladakh-2026-otvetstvennost-za-nakhodki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakon-o-kladakh-2026-otvetstvennost-za-nakhodki.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:26:12 GMT</pubDate>
+  </item>
   <item>
     <title>AI-гид по покраске миниатюр: цвета и техники 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ai-gid-po-pokraske-miniatyur-tsveta-i-tekhniki-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rd-153-39-023-97-gde-vzyat-i-kak-sverit-formy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/rd-153-39-023-97-gde-vzyat-i-kak-sverit-formy.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:47:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Правила ведения ремонтных работ в скважинах: РД 153-39-023-97</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-vedeniya-remontnykh-rabot-v-skvazhinakh-rd-153-39-02.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-vedeniya-remontnykh-rabot-v-skvazhinakh-rd-153-39-02.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:47:49 GMT</pubDate>
   </item>
   </channel>
 </rss>
