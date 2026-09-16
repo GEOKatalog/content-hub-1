@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 02:17:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 02:18:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Готовый пакет документов НАП для ветеринарной аптеки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gotovyy-paket-dokumentov-nap-dlya-veterinarnoy-apteki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gotovyy-paket-dokumentov-nap-dlya-veterinarnoy-apteki.html</guid>
+    <pubDate>Wed, 16 Sep 2026 02:18:05 GMT</pubDate>
+  </item>
   <item>
     <title>Открытие ветаптеки в 2026: документы и окупаемость</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otkrytie-vetapteki-v-2026-dokumenty-i-okupaemost.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doveritelnoe-upravlenie-kvartiroy-rante-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/doveritelnoe-upravlenie-kvartiroy-rante-v-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:26:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Раздельный учет НДС при аренде жилья в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/razdelnyy-uchet-nds-pri-arende-zhilya-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razdelnyy-uchet-nds-pri-arende-zhilya-v-2026-godu.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:26:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
