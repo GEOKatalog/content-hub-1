@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 08:50:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:51:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Брокер для офисного центра класса B в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/broker-dlya-ofisnogo-tsentra-klassa-b-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/broker-dlya-ofisnogo-tsentra-klassa-b-v-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 08:51:34 GMT</pubDate>
+  </item>
   <item>
     <title>Лимит НПД 2,4 млн и запрет нежилых: что важно знать</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/limit-npd-2-4-mln-i-zapret-nezhilykh-chto-vazhno-znat.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nok-dlya-proektirovshchikov-v-yaroslavle-reyting-resheniy-20.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nok-dlya-proektirovshchikov-v-yaroslavle-reyting-resheniy-20.html</guid>
     <pubDate>Wed, 16 Sep 2026 05:15:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Профстандарт 10.015: окупаемость квалификации ГИПа</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-10-015-okupaemost-kvalifikatsii-gipa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-10-015-okupaemost-kvalifikatsii-gipa.html</guid>
-    <pubDate>Wed, 16 Sep 2026 05:14:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
