@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:07:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:07:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Резервное копирование персданных в Ярославле 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/rezervnoe-kopirovanie-persdannykh-v-yaroslavle-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rezervnoe-kopirovanie-persdannykh-v-yaroslavle-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:07:54 GMT</pubDate>
+  </item>
   <item>
     <title>Инструкции по охране труда для малого бизнеса 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/instruktsii-po-okhrane-truda-dlya-malogo-biznesa-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-nayti-ip-remontnika-dlya-yurlits-v-yaroslavle.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-nayti-ip-remontnika-dlya-yurlits-v-yaroslavle.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:48:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ремонт для юрлиц в Ярославле: выбор ИП в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-dlya-yurlits-v-yaroslavle-vybor-ip-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-dlya-yurlits-v-yaroslavle-vybor-ip-v-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:48:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
