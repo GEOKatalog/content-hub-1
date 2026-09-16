@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:43:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:43:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Прямые контракты на дикоросы 2026: как уйти от комиссий</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pryamye-kontrakty-na-dikorosy-2026-kak-uyti-ot-komissiy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pryamye-kontrakty-na-dikorosy-2026-kak-uyti-ot-komissiy.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:43:22 GMT</pubDate>
+  </item>
   <item>
     <title>Налог на аренду 2026: НПД, лимиты и переход на ИП</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-arendu-2026-npd-limity-i-perekhod-na-ip.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/poisk-repetitora-v-tyumeni-tseny-i-pravila-2026-goda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/poisk-repetitora-v-tyumeni-tseny-i-pravila-2026-goda.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:04:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка номенклатуры Ойл Линк: гид по ЗИП для КРС 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nomenklatury-oyl-link-gid-po-zip-dlya-krs-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nomenklatury-oyl-link-gid-po-zip-dlya-krs-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:04:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
