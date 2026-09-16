@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:21:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:22:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Поисковый интент 2026: окупаемость каналов за 4 недели</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/poiskovyy-intent-2026-okupaemost-kanalov-za-4-nedeli.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/poiskovyy-intent-2026-okupaemost-kanalov-za-4-nedeli.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:22:08 GMT</pubDate>
+  </item>
   <item>
     <title>ОКВЭД по виду услуг: полный справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okved-po-vidu-uslug-polnyy-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/serp-analiz-intentov-v-ulyanovske-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/serp-analiz-intentov-v-ulyanovske-gid-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 10:02:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Классификация интентов 2026: полный справочник</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-intentov-2026-polnyy-spravochnik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-intentov-2026-polnyy-spravochnik.html</guid>
-    <pubDate>Wed, 16 Sep 2026 10:01:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
