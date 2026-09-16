@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:24:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:24:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН против СП 60: что важнее для кухни в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-protiv-sp-60-chto-vazhnee-dlya-kukhni-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-protiv-sp-60-chto-vazhnee-dlya-kukhni-v-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:24:51 GMT</pubDate>
+  </item>
   <item>
     <title>Вентиляция для общепита в 2026: нормы, штрафы, исполнители</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-dlya-obshchepita-v-2026-normy-shtrafy-ispolnit.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ploshchadka-dlya-vecherinki-s-barom-i-zvukom-vygoda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ploshchadka-dlya-vecherinki-s-barom-i-zvukom-vygoda.html</guid>
     <pubDate>Wed, 16 Sep 2026 12:39:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Законная вечеринка во Владивостоке: выгода и окупаемость</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakonnaya-vecherinka-vo-vladivostoke-vygoda-i-okupaemost.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakonnaya-vecherinka-vo-vladivostoke-vygoda-i-okupaemost.html</guid>
-    <pubDate>Wed, 16 Sep 2026 12:38:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
