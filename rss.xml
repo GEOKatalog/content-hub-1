@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:03:15 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Технический аудит здания 2026: инструкция для класса B и C</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskiy-audit-zdaniya-2026-instruktsiya-dlya-klassa-b.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskiy-audit-zdaniya-2026-instruktsiya-dlya-klassa-b.html</guid>
+    <pubDate>Wed, 16 Sep 2026 10:03:15 GMT</pubDate>
+  </item>
   <item>
     <title>SERP-анализ интентов в Ульяновске: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/serp-analiz-intentov-v-ulyanovske-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/auktsiony-po-arende-zemli-v-orenburge-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/auktsiony-po-arende-zemli-v-orenburge-spravochnik-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 06:09:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Земельные поправки 2026: что изменилось для Оренбурга</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zemelnye-popravki-2026-chto-izmenilos-dlya-orenburga.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zemelnye-popravki-2026-chto-izmenilos-dlya-orenburga.html</guid>
-    <pubDate>Wed, 16 Sep 2026 06:08:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
