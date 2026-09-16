@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:03:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Профстандарт 625н для снабженца: уровни и требования 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-625n-dlya-snabzhentsa-urovni-i-trebovaniya-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-625n-dlya-snabzhentsa-urovni-i-trebovaniya-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:03:13 GMT</pubDate>
+  </item>
   <item>
     <title>Окупаемость аудита инструкции сисадмина: 684н и DevOps</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-audita-instruktsii-sisadmina-684n-i-devops.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oborudovanie-dlya-mini-pekarni-v-khabarovske-obzor-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/oborudovanie-dlya-mini-pekarni-v-khabarovske-obzor-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:20:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Требования Роспотребнадзора к мини-пекарне в Хабаровске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-rospotrebnadzora-k-mini-pekarne-v-khabarovske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-rospotrebnadzora-k-mini-pekarne-v-khabarovske.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:19:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
