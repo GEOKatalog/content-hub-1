@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:07:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Закупки с полки: КТРУ и запрет монтажа в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakupki-s-polki-ktru-i-zapret-montazha-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakupki-s-polki-ktru-i-zapret-montazha-v-2026-godu.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:07:08 GMT</pubDate>
+  </item>
   <item>
     <title>КТРУ и закупка до 5 млн: алгоритм для снабженца</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ktru-i-zakupka-do-5-mln-algoritm-dlya-snabzhentsa.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-2016-s-izmeneniyami-2026-gid-po-redaktsiyam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-2016-s-izmeneniyami-2026-gid-po-redaktsiyam.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:47:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Общежитие для иностранных студентов: правила 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obshchezhitie-dlya-inostrannykh-studentov-pravila-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obshchezhitie-dlya-inostrannykh-studentov-pravila-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:46:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
