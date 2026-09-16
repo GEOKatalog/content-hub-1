@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:59:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:00:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка юридической чистоты склада перед покупкой</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-yuridicheskoy-chistoty-sklada-pered-pokupkoy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-yuridicheskoy-chistoty-sklada-pered-pokupkoy.html</guid>
+    <pubDate>Wed, 16 Sep 2026 10:00:43 GMT</pubDate>
+  </item>
   <item>
     <title>Вентиляция и нежилой фонд для кафе: инструкция 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-i-nezhiloy-fond-dlya-kafe-instruktsiya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-i-gost-dlya-proektirovaniya-promobektov-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-i-gost-dlya-proektirovaniya-promobektov-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 05:18:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Полис ДМС для иностранного студента онлайн</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/polis-dms-dlya-inostrannogo-studenta-onlayn.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/polis-dms-dlya-inostrannogo-studenta-onlayn.html</guid>
-    <pubDate>Wed, 16 Sep 2026 05:17:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
