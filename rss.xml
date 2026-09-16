@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:39:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:39:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Обзор решений для регистрации студентов в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obzor-resheniy-dlya-registratsii-studentov-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obzor-resheniy-dlya-registratsii-studentov-v-2026-godu.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:39:58 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда в Барнауле без кредитной истории и поручителей</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-v-barnaule-bez-kreditnoy-istorii-i-poruchiteley.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sdat-kvartiru-v-2026-nalogi-i-zashchita-ot-riskov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sdat-kvartiru-v-2026-nalogi-i-zashchita-ot-riskov.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:07:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Снять квартиру в Барнауле студенту без залога 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-kvartiru-v-barnaule-studentu-bez-zaloga-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyat-kvartiru-v-barnaule-studentu-bez-zaloga-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:06:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
