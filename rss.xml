@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:39:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Гранты для фермеров Алтая: справочник 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/granty-dlya-fermerov-altaya-spravochnik-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/granty-dlya-fermerov-altaya-spravochnik-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:39:58 GMT</pubDate>
+  </item>
   <item>
     <title>Как стать волонтером-спасателем в Барнауле 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-stat-volonterom-spasatelem-v-barnaule-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-zameny-masla-500-motochasov-ili-250.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-zameny-masla-500-motochasov-ili-250.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:00:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регламент ТО Кировец Weichai: нормы и цены 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-to-kirovets-weichai-normy-i-tseny-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-to-kirovets-weichai-normy-i-tseny-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:00:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
