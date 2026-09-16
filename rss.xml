@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:55:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:55:25 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Земляки и адаптация первокурсника в Ярославле 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zemlyaki-i-adaptatsiya-pervokursnika-v-yaroslavle-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zemlyaki-i-adaptatsiya-pervokursnika-v-yaroslavle-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:55:25 GMT</pubDate>
+  </item>
   <item>
     <title>Миграционный учёт иностранного студента в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchyot-inostrannogo-studenta-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/skoroport-v-konditerskoy-polnyy-perechen-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/skoroport-v-konditerskoy-polnyy-perechen-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:54:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Учет сырья в кондитерской: нормативы и экономия 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/uchet-syrya-v-konditerskoy-normativy-i-ekonomiya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uchet-syrya-v-konditerskoy-normativy-i-ekonomiya-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:54:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
