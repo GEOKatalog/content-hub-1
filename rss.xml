@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:48:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сдача квартиры без комиссии: сервисы с отчетом в ФНС</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sdacha-kvartiry-bez-komissii-servisy-s-otchetom-v-fns.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sdacha-kvartiry-bez-komissii-servisy-s-otchetom-v-fns.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:48:37 GMT</pubDate>
+  </item>
   <item>
     <title>Сервис проверки арендатора: гид для Барнаула 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/servis-proverki-arendatora-gid-dlya-barnaula-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-doloto-po-tverdosti-porod-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-doloto-po-tverdosti-porod-v-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:11:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Репетитор в 2026: лично ведет или подмена</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-v-2026-lichno-vedet-ili-podmena.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-v-2026-lichno-vedet-ili-podmena.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:10:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
