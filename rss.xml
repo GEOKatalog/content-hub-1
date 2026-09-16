@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:59:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Полис ДМС для иностранных студентов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/polis-dms-dlya-inostrannykh-studentov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/polis-dms-dlya-inostrannykh-studentov-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:59:01 GMT</pubDate>
+  </item>
   <item>
     <title>Экспертиза без возвратов: экономия 1,8 млн ₽ на ГОСТ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ekspertiza-bez-vozvratov-ekonomiya-1-8-mln-na-gost.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pvz-v-khabarovske-proshyol-proverku-po-vode-i-ventilyats.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-pvz-v-khabarovske-proshyol-proverku-po-vode-i-ventilyats.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:16:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Санитарные правила для магазина у дома в Хабаровске 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-pravila-dlya-magazina-u-doma-v-khabarovske-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-pravila-dlya-magazina-u-doma-v-khabarovske-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:15:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
