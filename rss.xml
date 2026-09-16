@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:23:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:24:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Параллельный импорт 2026: обзор решений для стройотрасли</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/parallelnyy-import-2026-obzor-resheniy-dlya-stroyotrasli.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/parallelnyy-import-2026-obzor-resheniy-dlya-stroyotrasli.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:24:00 GMT</pubDate>
+  </item>
   <item>
     <title>Антикризисные полномочия правительства 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/antikrizisnye-polnomochiya-pravitelstva-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-na-domu-prava-i-dokumenty.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-na-domu-prava-i-dokumenty.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:46:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы при ремонте техники на дому: защита от переплат</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-pri-remonte-tekhniki-na-domu-zashchita-ot-pereplat.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-pri-remonte-tekhniki-na-domu-zashchita-ot-pereplat.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:46:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
