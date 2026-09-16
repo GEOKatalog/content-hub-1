@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:43:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:43:42 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Возврат залога арендодателем: закон и практика 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vozvrat-zaloga-arendodatelem-zakon-i-praktika-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vozvrat-zaloga-arendodatelem-zakon-i-praktika-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:43:42 GMT</pubDate>
+  </item>
   <item>
     <title>Налог с аренды квартиры 2026: как платить меньше</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-2026-kak-platit-menshe.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-nayma-cherez-gosuslugi-reyting-resheniy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-nayma-cherez-gosuslugi-reyting-resheniy-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:10:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Калькулятор аренды Домклик: ROI рантье без потерь</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kalkulyator-arendy-domklik-roi-rante-bez-poter.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kalkulyator-arendy-domklik-roi-rante-bez-poter.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:09:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
