@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:50:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ПВЗ 2026: отдельный вход и вентиляция</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pvz-2026-otdelnyy-vkhod-i-ventilyatsiya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pvz-2026-otdelnyy-vkhod-i-ventilyatsiya.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:50:23 GMT</pubDate>
+  </item>
   <item>
     <title>Легальный статус для пекарни в Хабаровске: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/legalnyy-status-dlya-pekarni-v-khabarovske-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-studentu-zaselitsya-v-syomnuyu-komnatu-bez-otkaza.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-studentu-zaselitsya-v-syomnuyu-komnatu-bez-otkaza.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:15:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сдать квартиру онлайн без комиссии: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sdat-kvartiru-onlayn-bez-komissii-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sdat-kvartiru-onlayn-bez-komissii-gid-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:15:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
