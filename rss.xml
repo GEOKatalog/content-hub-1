@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:51:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:52:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Открытие пекарни: документы и разрешения в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/otkrytie-pekarni-dokumenty-i-razresheniya-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otkrytie-pekarni-dokumenty-i-razresheniya-v-2026-godu.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:52:08 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для сезонной торговли на рынке 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-sezonnoy-torgovli-na-rynke-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oshibka-v-stavke-arendy-poterya-19-pribyli-v-barnaule.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/oshibka-v-stavke-arendy-poterya-19-pribyli-v-barnaule.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:18:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Доходность аренды в Барнауле 2026: расчет</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokhodnost-arendy-v-barnaule-2026-raschet.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokhodnost-arendy-v-barnaule-2026-raschet.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:17:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
