@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:56:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>УСН или АУСН в 2026: пересчет лимитов и риски</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/usn-ili-ausn-v-2026-pereschet-limitov-i-riski.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/usn-ili-ausn-v-2026-pereschet-limitov-i-riski.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:56:38 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка контрагента по 44-ФЗ: сервисы или ручной аудит</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-44-fz-servisy-ili-ruchnoy-audit.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-pvz-wildberries-i-ozon-v-2026-gid-po-sanktsiyam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-pvz-wildberries-i-ozon-v-2026-gid-po-sanktsiyam.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:25:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Штрафы ПВЗ 2026: кейс снижения потерь с 100 000 ₽</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-pvz-2026-keys-snizheniya-poter-s-100-000.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-pvz-2026-keys-snizheniya-poter-s-100-000.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:25:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
