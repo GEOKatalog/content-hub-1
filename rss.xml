@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:35:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аналитика WB и Ozon: рейтинг сервисов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/analitika-wb-i-ozon-reyting-servisov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/analitika-wb-i-ozon-reyting-servisov-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:35:54 GMT</pubDate>
+  </item>
   <item>
     <title>Налог с продаж на маркетплейсах в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazh-na-marketpleysakh-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-po-matematike-ege-v-tyumeni-roi-i-okupaemost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-po-matematike-ege-v-tyumeni-roi-i-okupaemost.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:56:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы на спецтехнику до осмотра: гид по Тюмени 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-na-spetstekhniku-do-osmotra-gid-po-tyumeni-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-na-spetstekhniku-do-osmotra-gid-po-tyumeni-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:56:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
