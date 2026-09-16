@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:15:42 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Магазин в жилом доме: требования СанПиН 2026 года</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/magazin-v-zhilom-dome-trebovaniya-sanpin-2026-goda.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/magazin-v-zhilom-dome-trebovaniya-sanpin-2026-goda.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:15:42 GMT</pubDate>
+  </item>
   <item>
     <title>Проверь риелтора по номеру телефона в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prover-rieltora-po-nomeru-telefona-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokhody-s-ndfl-za-2025-god-kak-proverit.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokhody-s-ndfl-za-2025-god-kak-proverit.html</guid>
     <pubDate>Wed, 16 Sep 2026 07:47:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Семейная выплата 2026: условия для самозанятых</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-vyplata-2026-usloviya-dlya-samozanyatykh.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-vyplata-2026-usloviya-dlya-samozanyatykh.html</guid>
-    <pubDate>Wed, 16 Sep 2026 07:46:47 GMT</pubDate>
   </item>
   </channel>
 </rss>
