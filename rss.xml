@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:46:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:47:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Доходы с НДФЛ за 2025 год: как проверить</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokhody-s-ndfl-za-2025-god-kak-proverit.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokhody-s-ndfl-za-2025-god-kak-proverit.html</guid>
+    <pubDate>Wed, 16 Sep 2026 07:47:21 GMT</pubDate>
+  </item>
   <item>
     <title>Семейная выплата 2026: условия для самозанятых</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-vyplata-2026-usloviya-dlya-samozanyatykh.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-po-okhrane-truda-dlya-ip-s-rabotnikami-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-po-okhrane-truda-dlya-ip-s-rabotnikami-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 05:13:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Лучшие системы бэкапа 2026: тест восстановления раз в месяц</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-sistemy-bekapa-2026-test-vosstanovleniya-raz-v-mesy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-sistemy-bekapa-2026-test-vosstanovleniya-raz-v-mesy.html</guid>
-    <pubDate>Wed, 16 Sep 2026 05:13:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
