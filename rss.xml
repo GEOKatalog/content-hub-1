@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:14:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Профстандарт 10.015: окупаемость квалификации ГИПа</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-10-015-okupaemost-kvalifikatsii-gipa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-10-015-okupaemost-kvalifikatsii-gipa.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:14:45 GMT</pubDate>
+  </item>
   <item>
     <title>Банковская карта иностранному студенту в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/bankovskaya-karta-inostrannomu-studentu-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-115-fz-v-zakupkakh-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-115-fz-v-zakupkakh-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:54:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>C5:2026 для DevOps: рейтинг YAML-инструментов</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/c5-2026-dlya-devops-reyting-yaml-instrumentov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/c5-2026-dlya-devops-reyting-yaml-instrumentov.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:54:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
