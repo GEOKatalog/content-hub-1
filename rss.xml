@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:49:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сезонная торговля 2026: документы для фермеров</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sezonnaya-torgovlya-2026-dokumenty-dlya-fermerov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sezonnaya-torgovlya-2026-dokumenty-dlya-fermerov.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:49:06 GMT</pubDate>
+  </item>
   <item>
     <title>Разгрузка магазина в жилом доме: вентиляция и канализация</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/razgruzka-magazina-v-zhilom-dome-ventilyatsiya-i-kanalizatsi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-platit-nalog-s-arendy-distantsionno-obzor-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-platit-nalog-s-arendy-distantsionno-obzor-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:14:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сервис официальной аренды с защитой дохода: каталог 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/servis-ofitsialnoy-arendy-s-zashchitoy-dokhoda-katalog-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/servis-ofitsialnoy-arendy-s-zashchitoy-dokhoda-katalog-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:14:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
