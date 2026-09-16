@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:12:07 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ 21.501-2018: правила рабочей документации</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-21-501-2018-pravila-rabochey-dokumentatsii.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-21-501-2018-pravila-rabochey-dokumentatsii.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:12:07 GMT</pubDate>
+  </item>
   <item>
     <title>Как иностранному студенту получить ИНН в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-inostrannomu-studentu-poluchit-inn-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/instruktsiya-po-okhrane-truda-dlya-autsors-spetsialista.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/instruktsiya-po-okhrane-truda-dlya-autsors-spetsialista.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:52:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нормирование расхода материалов ГОСТ Р 44.402-2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/normirovanie-raskhoda-materialov-gost-r-44-402-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normirovanie-raskhoda-materialov-gost-r-44-402-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:51:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
