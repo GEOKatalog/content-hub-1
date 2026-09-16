@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:08:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Земельные поправки 2026: что изменилось для Оренбурга</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zemelnye-popravki-2026-chto-izmenilos-dlya-orenburga.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zemelnye-popravki-2026-chto-izmenilos-dlya-orenburga.html</guid>
+    <pubDate>Wed, 16 Sep 2026 06:08:38 GMT</pubDate>
+  </item>
   <item>
     <title>Как регламент ППР сократил простои на 40%</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-reglament-ppr-sokratil-prostoi-na-40.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ekspertiza-bez-vozvratov-ekonomiya-1-8-mln-na-gost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ekspertiza-bez-vozvratov-ekonomiya-1-8-mln-na-gost.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:58:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ Р 21.101-2026: полный справочник проектировщика</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-21-101-2026-polnyy-spravochnik-proektirovshchika.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-21-101-2026-polnyy-spravochnik-proektirovshchika.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:58:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
