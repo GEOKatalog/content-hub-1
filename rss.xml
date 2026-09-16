@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:27:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:27:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Страхование ИИС-3 в Оренбурге: лимит 1,4 млн ₽</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/strakhovanie-iis-3-v-orenburge-limit-1-4-mln.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/strakhovanie-iis-3-v-orenburge-limit-1-4-mln.html</guid>
+    <pubDate>Wed, 16 Sep 2026 06:27:55 GMT</pubDate>
+  </item>
   <item>
     <title>Переуступки в новостройках Оренбурга в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pereustupki-v-novostroykakh-orenburga-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-inostrannogo-studenta-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-inostrannogo-studenta-v-2026-godu.html</guid>
     <pubDate>Wed, 16 Sep 2026 05:04:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Превысил 2,4 млн: сохрани 172 390 ₽ на налогах</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prevysil-2-4-mln-sokhrani-172-390-na-nalogakh.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prevysil-2-4-mln-sokhrani-172-390-na-nalogakh.html</guid>
-    <pubDate>Wed, 16 Sep 2026 05:04:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
