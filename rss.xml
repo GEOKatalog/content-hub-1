@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:23:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:23:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как вернуть депозит при досрочном расторжении аренды</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vernut-depozit-pri-dosrochnom-rastorzhenii-arendy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vernut-depozit-pri-dosrochnom-rastorzhenii-arendy.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:23:51 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка арендатора 2026: ФССП, паспорт, ЕФРСБ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendatora-2026-fssp-pasport-efrsb.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zhilishchnye-spory-studentov-v-barnaule-zashchita-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zhilishchnye-spory-studentov-v-barnaule-zashchita-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:50:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регистрация по месту пребывания студента: сроки 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-po-mestu-prebyvaniya-studenta-sroki-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-po-mestu-prebyvaniya-studenta-sroki-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:49:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
