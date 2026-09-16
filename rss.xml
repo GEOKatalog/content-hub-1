@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 08:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:54:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Классификация поисковых запросов: справочник 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-poiskovykh-zaprosov-spravochnik-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-poiskovykh-zaprosov-spravochnik-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 08:54:37 GMT</pubDate>
+  </item>
   <item>
     <title>Как определить интент запроса в 2026: гид для Ульяновска</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-intent-zaprosa-v-2026-gid-dlya-ulyanovska.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dms-ili-oms-dlya-inostrannogo-studenta-v-obshchezhitii.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dms-ili-oms-dlya-inostrannogo-studenta-v-obshchezhitii.html</guid>
     <pubDate>Wed, 16 Sep 2026 05:17:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Лицензирование по ФЗ-99: что нужно ИП-ремонтнику в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenzirovanie-po-fz-99-chto-nuzhno-ip-remontniku-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/litsenzirovanie-po-fz-99-chto-nuzhno-ip-remontniku-v-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 05:16:49 GMT</pubDate>
   </item>
   </channel>
 </rss>
