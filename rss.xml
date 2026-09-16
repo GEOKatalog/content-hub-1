@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:03:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:04:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка номенклатуры Ойл Линк: гид по ЗИП для КРС 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nomenklatury-oyl-link-gid-po-zip-dlya-krs-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nomenklatury-oyl-link-gid-po-zip-dlya-krs-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:04:37 GMT</pubDate>
+  </item>
   <item>
     <title>Репетитор ОГЭ: как рост с 12 до 24 баллов меняет рынок</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-oge-kak-rost-s-12-do-24-ballov-menyaet-rynok.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-ofis-v-tyumeni-bez-komissii-ekonomiya-100-stavki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyat-ofis-v-tyumeni-bez-komissii-ekonomiya-100-stavki.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:29:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка ВРИ земли под коммерческую аренду в Тюмени</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vri-zemli-pod-kommercheskuyu-arendu-v-tyumeni.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vri-zemli-pod-kommercheskuyu-arendu-v-tyumeni.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:29:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
