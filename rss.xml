@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:52:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Точка заказа в 2026: расчёт для закупщика</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tochka-zakaza-v-2026-raschyot-dlya-zakupshchika.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tochka-zakaza-v-2026-raschyot-dlya-zakupshchika.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:52:33 GMT</pubDate>
+  </item>
   <item>
     <title>Инструкция по охране труда для аутсорс-специалиста</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/instruktsiya-po-okhrane-truda-dlya-autsors-spetsialista.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-v-zoomagazine-2026-proverka-rospotrebnadzora.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-v-zoomagazine-2026-proverka-rospotrebnadzora.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:51:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Кейс: аварийный сантехник за 1 час в Хабаровске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/keys-avariynyy-santekhnik-za-1-chas-v-khabarovske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/keys-avariynyy-santekhnik-za-1-chas-v-khabarovske.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:50:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
