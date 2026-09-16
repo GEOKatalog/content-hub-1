@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:02:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>SERP-анализ интентов в Ульяновске: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/serp-analiz-intentov-v-ulyanovske-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/serp-analiz-intentov-v-ulyanovske-gid-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 10:02:57 GMT</pubDate>
+  </item>
   <item>
     <title>Классификация интентов 2026: полный справочник</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-intentov-2026-polnyy-spravochnik.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zemelnye-popravki-2026-chto-izmenilos-dlya-orenburga.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zemelnye-popravki-2026-chto-izmenilos-dlya-orenburga.html</guid>
     <pubDate>Wed, 16 Sep 2026 06:08:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как регламент ППР сократил простои на 40%</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-reglament-ppr-sokratil-prostoi-na-40.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-reglament-ppr-sokratil-prostoi-na-40.html</guid>
-    <pubDate>Wed, 16 Sep 2026 06:08:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
