@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:03:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Окупаемость аудита инструкции сисадмина: 684н и DevOps</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-audita-instruktsii-sisadmina-684n-i-devops.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-audita-instruktsii-sisadmina-684n-i-devops.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:03:03 GMT</pubDate>
+  </item>
   <item>
     <title>Как оформить самозанятого на ремонт квартиры в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-oformit-samozanyatogo-na-remont-kvartiry-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-rospotrebnadzora-k-mini-pekarne-v-khabarovske.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-rospotrebnadzora-k-mini-pekarne-v-khabarovske.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:19:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Поставщики продуктов для магазина у дома в Хабаровске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-produktov-dlya-magazina-u-doma-v-khabarovske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-produktov-dlya-magazina-u-doma-v-khabarovske.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:19:22 GMT</pubDate>
   </item>
   </channel>
 </rss>
