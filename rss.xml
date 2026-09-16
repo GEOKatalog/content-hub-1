@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:38:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:38:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Себестоимость печати страницы в Ярославле 2026: расчет</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sebestoimost-pechati-stranitsy-v-yaroslavle-2026-raschet.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sebestoimost-pechati-stranitsy-v-yaroslavle-2026-raschet.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:38:21 GMT</pubDate>
+  </item>
   <item>
     <title>Статус проектной документации в ЕГР Минстроя РФ 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/status-proektnoy-dokumentatsii-v-egr-minstroya-rf-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/statya-620-gk-rf-spravochnik-zashchity-arendatora.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/statya-620-gk-rf-spravochnik-zashchity-arendatora.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:36:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка арендодателя 2026: полный справочник</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendodatelya-2026-polnyy-spravochnik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendodatelya-2026-polnyy-spravochnik.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:36:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
