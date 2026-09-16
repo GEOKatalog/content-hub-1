@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:30:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:30:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налоговое сопровождение инвестора в Оренбурге: оптимизация 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovoe-soprovozhdenie-investora-v-orenburge-optimizatsiya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovoe-soprovozhdenie-investora-v-orenburge-optimizatsiya.html</guid>
+    <pubDate>Wed, 16 Sep 2026 06:30:36 GMT</pubDate>
+  </item>
   <item>
     <title>ИИС-3 в 2026: вычеты и инструкция для Оренбурга</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/iis-3-v-2026-vychety-i-instruktsiya-dlya-orenburga.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zakupki-s-polki-ktru-i-zapret-montazha-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakupki-s-polki-ktru-i-zapret-montazha-v-2026-godu.html</guid>
     <pubDate>Wed, 16 Sep 2026 05:07:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>КТРУ и закупка до 5 млн: алгоритм для снабженца</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ktru-i-zakupka-do-5-mln-algoritm-dlya-snabzhentsa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ktru-i-zakupka-do-5-mln-algoritm-dlya-snabzhentsa.html</guid>
-    <pubDate>Wed, 16 Sep 2026 05:06:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
