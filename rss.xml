@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:03:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:03:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка арендодателя: ЕГРН, ФНС и КАД в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendodatelya-egrn-fns-i-kad-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendodatelya-egrn-fns-i-kad-v-2026-godu.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:03:44 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка собственника перед арендой: ЕГРН, ФНС, КАД 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sobstvennika-pered-arendoy-egrn-fns-kad-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tsel-v-ballakh-ege-kak-repetitoru-vystroit-marshrut.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsel-v-ballakh-ege-kak-repetitoru-vystroit-marshrut.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:29:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как найти репетитора по математике для ЕГЭ в Тюмени без комиссии</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-repetitora-po-matematike-dlya-ege-v-tyumeni-bez-ko.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-repetitora-po-matematike-dlya-ege-v-tyumeni-bez-ko.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:29:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
