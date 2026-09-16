@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:16:39 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Лицензии и допуски для ремонта квартир ИП в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenzii-i-dopuski-dlya-remonta-kvartir-ip-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/litsenzii-i-dopuski-dlya-remonta-kvartir-ip-v-2026-godu.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:16:39 GMT</pubDate>
+  </item>
   <item>
     <title>Нанять DevOps на аутсорсе: настройка бэкапов под 152-ФЗ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nanyat-devops-na-autsorse-nastroyka-bekapov-pod-152-fz.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zarplata-nizhe-mrot-v-yaroslavle-riski-i-doplaty.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zarplata-nizhe-mrot-v-yaroslavle-riski-i-doplaty.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:56:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Зарплата ниже МРОТ в 2026: полный справочник</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zarplata-nizhe-mrot-v-2026-polnyy-spravochnik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zarplata-nizhe-mrot-v-2026-polnyy-spravochnik.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:55:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
