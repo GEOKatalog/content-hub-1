@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:05:42 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы для ИП-ремонтника в Ярославле: гайд 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-ip-remontnika-v-yaroslavle-gayd-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-ip-remontnika-v-yaroslavle-gayd-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:05:42 GMT</pubDate>
+  </item>
   <item>
     <title>Новый приказ ФСТЭК: окупаемость защиты ПДн</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/novyy-prikaz-fstek-okupaemost-zashchity-pdn.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-torgovli-na-rynke-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-torgovli-na-rynke-v-2026-godu.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:21:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы для торговли на фермерском рынке в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-torgovli-na-fermerskom-rynke-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-torgovli-na-fermerskom-rynke-v-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:21:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
