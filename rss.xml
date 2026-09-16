@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:45:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Вычет по ИИС-3 в 2026: расчет для ставок 15–22%</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vychet-po-iis-3-v-2026-raschet-dlya-stavok-15-22.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vychet-po-iis-3-v-2026-raschet-dlya-stavok-15-22.html</guid>
+    <pubDate>Wed, 16 Sep 2026 07:45:38 GMT</pubDate>
+  </item>
   <item>
     <title>Норматив полива для сельских населённых пунктов Оренбурга</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativ-poliva-dlya-selskikh-naselyonnykh-punktov-orenburga.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravilo-70-dlya-lgotnykh-vznosov-msp-kak-podtverdit.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravilo-70-dlya-lgotnykh-vznosov-msp-kak-podtverdit.html</guid>
     <pubDate>Wed, 16 Sep 2026 05:12:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Льготы по страховым взносам для МСП в 2026 году: условия применения</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/lgoty-po-strakhovym-vznosam-dlya-msp-v-2026-godu-usloviya-pr.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/lgoty-po-strakhovym-vznosam-dlya-msp-v-2026-godu-usloviya-pr.html</guid>
-    <pubDate>Wed, 16 Sep 2026 05:12:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
