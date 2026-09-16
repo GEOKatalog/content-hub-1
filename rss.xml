@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:42:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:42:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>DevOps на аутсорсе 2026: сравнение и выбор</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/devops-na-autsorse-2026-sravnenie-i-vybor.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/devops-na-autsorse-2026-sravnenie-i-vybor.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:42:48 GMT</pubDate>
+  </item>
   <item>
     <title>Регламент резервного копирования ПДн: системный администратор 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-rezervnogo-kopirovaniya-pdn-sistemnyy-administrato.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-nayma-s-ukazaniem-sroka-i-adresa.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-nayma-s-ukazaniem-sroka-i-adresa.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:40:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регистрация жильцов для рантье в Барнауле 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-zhiltsov-dlya-rante-v-barnaule-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-zhiltsov-dlya-rante-v-barnaule-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:40:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
