@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:31:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СЗЗ для автосервиса в 2026: риски для СТО</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/szz-dlya-avtoservisa-v-2026-riski-dlya-sto.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/szz-dlya-avtoservisa-v-2026-riski-dlya-sto.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:31:24 GMT</pubDate>
+  </item>
   <item>
     <title>Продвижение в Telegram 2026: правила и алгоритмы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-telegram-2026-pravila-i-algoritmy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zakonno-li-shumet-na-vecherinke-pravila-i-shtrafy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakonno-li-shumet-na-vecherinke-pravila-i-shtrafy.html</guid>
     <pubDate>Wed, 16 Sep 2026 13:06:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Полный справочник: вечеринка в квартире и закон</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-spravochnik-vecherinka-v-kvartire-i-zakon.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-spravochnik-vecherinka-v-kvartire-i-zakon.html</guid>
-    <pubDate>Wed, 16 Sep 2026 13:03:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
