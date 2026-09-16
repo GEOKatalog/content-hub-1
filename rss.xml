@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:40:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:42:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налоговые каникулы 2026: сверка ОКВЭД и ОКПД 2</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovye-kanikuly-2026-sverka-okved-i-okpd-2.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovye-kanikuly-2026-sverka-okved-i-okpd-2.html</guid>
+    <pubDate>Wed, 16 Sep 2026 17:42:46 GMT</pubDate>
+  </item>
   <item>
     <title>Коды бытовых услуг для ИП в 2026: ОКВЭД и ОКПД 2</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kody-bytovykh-uslug-dlya-ip-v-2026-okved-i-okpd-2.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-arendu-kvartiry-v-orenburge-reyting-rezhimov-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-arendu-kvartiry-v-orenburge-reyting-rezhimov-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 06:29:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как сдать унаследованную квартиру в Оренбурге без агентства</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sdat-unasledovannuyu-kvartiru-v-orenburge-bez-agentstva.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sdat-unasledovannuyu-kvartiru-v-orenburge-bez-agentstva.html</guid>
-    <pubDate>Wed, 16 Sep 2026 06:29:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
