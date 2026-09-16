@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:52:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:52:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Страховые взносы МСП 2026: тариф 15% отменён</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/strakhovye-vznosy-msp-2026-tarif-15-otmenyon.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/strakhovye-vznosy-msp-2026-tarif-15-otmenyon.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:52:44 GMT</pubDate>
+  </item>
   <item>
     <title>Точка заказа в 2026: расчёт для закупщика</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tochka-zakaza-v-2026-raschyot-dlya-zakupshchika.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-v-produktovom-magazine-2026-spravochnik.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-v-produktovom-magazine-2026-spravochnik.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:51:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Вентиляция в зоомагазине 2026: проверка Роспотребнадзора</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-v-zoomagazine-2026-proverka-rospotrebnadzora.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-v-zoomagazine-2026-proverka-rospotrebnadzora.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:51:31 GMT</pubDate>
   </item>
   </channel>
 </rss>
