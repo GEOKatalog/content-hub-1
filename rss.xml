@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:08:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:08:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Заселение в общежитие 2026: новый порядок для студентов</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-2026-novyy-poryadok-dlya-studentov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-2026-novyy-poryadok-dlya-studentov.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:08:55 GMT</pubDate>
+  </item>
   <item>
     <title>Снять комнату в Барнауле студенту: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-komnatu-v-barnaule-studentu-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/legalnyy-tyuning-2026-reyting-resheniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/legalnyy-tyuning-2026-reyting-resheniy.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:33:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Консервация авто на зиму 2026: правила хранения</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/konservatsiya-avto-na-zimu-2026-pravila-khraneniya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/konservatsiya-avto-na-zimu-2026-pravila-khraneniya.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:33:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
