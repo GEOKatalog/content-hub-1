@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:36:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:36:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы для открытия мини-цеха в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-otkrytiya-mini-tsekha-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-otkrytiya-mini-tsekha-v-2026-godu.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:36:58 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для открытия общепита в Барнауле 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-otkrytiya-obshchepita-v-barnaule-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mpz-i-kalibratory-dlya-krs-v-tyumeni-gde-kupit.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mpz-i-kalibratory-dlya-krs-v-tyumeni-gde-kupit.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:57:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Репетитор ЕГЭ Тюмень: окупаемость вложений и ROI</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-ege-tyumen-okupaemost-vlozheniy-i-roi.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/repetitor-ege-tyumen-okupaemost-vlozheniy-i-roi.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:57:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
