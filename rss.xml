@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:52:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:52:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Льгота МСП 2026: справочник приоритетных ОКВЭД</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/lgota-msp-2026-spravochnik-prioritetnykh-okved.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/lgota-msp-2026-spravochnik-prioritetnykh-okved.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:52:55 GMT</pubDate>
+  </item>
   <item>
     <title>Страховые взносы МСП 2026: тариф 15% отменён</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/strakhovye-vznosy-msp-2026-tarif-15-otmenyon.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-sezonnoy-torgovli-na-rynke-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-sezonnoy-torgovli-na-rynke-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:51:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Вентиляция в продуктовом магазине 2026: справочник</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-v-produktovom-magazine-2026-spravochnik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-v-produktovom-magazine-2026-spravochnik.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:51:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
