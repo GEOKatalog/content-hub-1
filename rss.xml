@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:24:39 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Вентиляция для общепита в 2026: нормы, штрафы, исполнители</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-dlya-obshchepita-v-2026-normy-shtrafy-ispolnit.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-dlya-obshchepita-v-2026-normy-shtrafy-ispolnit.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:24:39 GMT</pubDate>
+  </item>
   <item>
     <title>Нормы воздухообмена горячего цеха 2026: каталог систем</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normy-vozdukhoobmena-goryachego-tsekha-2026-katalog-sistem.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zakonnaya-vecherinka-vo-vladivostoke-vygoda-i-okupaemost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakonnaya-vecherinka-vo-vladivostoke-vygoda-i-okupaemost.html</guid>
     <pubDate>Wed, 16 Sep 2026 12:38:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Расширенная выписка ЕГРН в Ульяновске: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/rasshirennaya-vypiska-egrn-v-ulyanovske-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rasshirennaya-vypiska-egrn-v-ulyanovske-gid-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 10:10:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
