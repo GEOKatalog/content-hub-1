@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:46:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:46:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Общежитие для иностранных студентов: правила 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obshchezhitie-dlya-inostrannykh-studentov-pravila-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obshchezhitie-dlya-inostrannykh-studentov-pravila-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:46:53 GMT</pubDate>
+  </item>
   <item>
     <title>План-график закупок 2026: правила внесения изменений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/plan-grafik-zakupok-2026-pravila-vneseniya-izmeneniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vozvrat-zaloga-u-arendodatelya-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vozvrat-zaloga-u-arendodatelya-spravochnik-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:45:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Срок пребывания свыше 90 дней: правила для студентов</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/srok-prebyvaniya-svyshe-90-dney-pravila-dlya-studentov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/srok-prebyvaniya-svyshe-90-dney-pravila-dlya-studentov.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:44:52 GMT</pubDate>
   </item>
   </channel>
 </rss>
