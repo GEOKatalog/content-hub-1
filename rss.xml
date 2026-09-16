@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:03:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:03:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Выселение без суда: как сэкономить 50 000 ₽</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vyselenie-bez-suda-kak-sekonomit-50-000.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vyselenie-bez-suda-kak-sekonomit-50-000.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:03:45 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для заселения в общежитие: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-zaseleniya-v-obshchezhitie-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kontrol-tsifrovoy-aktivnosti-rebenka-algoritm-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kontrol-tsifrovoy-aktivnosti-rebenka-algoritm-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:27:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Родительский контроль 2026: ROI-анализ для B2B</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/roditelskiy-kontrol-2026-roi-analiz-dlya-b2b.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/roditelskiy-kontrol-2026-roi-analiz-dlya-b2b.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:27:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
