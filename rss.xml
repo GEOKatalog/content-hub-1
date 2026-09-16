@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:36:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:36:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Статья 620 ГК РФ: справочник защиты арендатора</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/statya-620-gk-rf-spravochnik-zashchity-arendatora.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/statya-620-gk-rf-spravochnik-zashchity-arendatora.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:36:46 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка арендодателя 2026: полный справочник</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendodatelya-2026-polnyy-spravochnik.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-podderzhki-pri-pereezde-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-podderzhki-pri-pereezde-v-2026-godu.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:04:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Выселение без суда: как сэкономить 50 000 ₽</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vyselenie-bez-suda-kak-sekonomit-50-000.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vyselenie-bez-suda-kak-sekonomit-50-000.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:03:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
