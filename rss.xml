@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:17:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Вклад или ОФЗ в 2026: сравнение доходности</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vklad-ili-ofz-v-2026-sravnenie-dokhodnosti.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vklad-ili-ofz-v-2026-sravnenie-dokhodnosti.html</guid>
+    <pubDate>Wed, 16 Sep 2026 06:17:14 GMT</pubDate>
+  </item>
   <item>
     <title>Оспорить кадастровую стоимость в Оренбурге: ROI и возврат налога</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/osporit-kadastrovuyu-stoimost-v-orenburge-roi-i-vozvrat-nalo.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-srochno-nayti-postavshchika-komplektuyushchikh-v-yarosla.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-srochno-nayti-postavshchika-komplektuyushchikh-v-yarosla.html</guid>
     <pubDate>Wed, 16 Sep 2026 04:54:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Профстандарт 625н: уровни квалификации закупщика 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-625n-urovni-kvalifikatsii-zakupshchika-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-625n-urovni-kvalifikatsii-zakupshchika-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 04:53:49 GMT</pubDate>
   </item>
   </channel>
 </rss>
