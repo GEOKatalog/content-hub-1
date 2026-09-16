@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:24:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:24:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Нормы воздухообмена горячего цеха 2026: каталог систем</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/normy-vozdukhoobmena-goryachego-tsekha-2026-katalog-sistem.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normy-vozdukhoobmena-goryachego-tsekha-2026-katalog-sistem.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:24:28 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН 2026: окупаемость стеллажей и рост выручки пекарни</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-okupaemost-stellazhey-i-rost-vyruchki-pekarni.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rasshirennaya-vypiska-egrn-v-ulyanovske-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/rasshirennaya-vypiska-egrn-v-ulyanovske-gid-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 10:10:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Чек-лист юридической чистоты склада класса B: 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/chek-list-yuridicheskoy-chistoty-sklada-klassa-b-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chek-list-yuridicheskoy-chistoty-sklada-klassa-b-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 10:09:27 GMT</pubDate>
   </item>
   </channel>
 </rss>
