@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:23:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аудит технической готовности кассы к ТС ПИоТ в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-tekhnicheskoy-gotovnosti-kassy-k-ts-piot-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-tekhnicheskoy-gotovnosti-kassy-k-ts-piot-v-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:23:16 GMT</pubDate>
+  </item>
   <item>
     <title>Уведомление Роспотребнадзора для общепита: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-rospotrebnadzora-dlya-obshchepita-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/yuridicheskaya-chistota-sklada-klassa-b-chek-list-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/yuridicheskaya-chistota-sklada-klassa-b-chek-list-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 10:05:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Санитарные требования к кафе и магазину до аренды 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-kafe-i-magazinu-do-arendy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-kafe-i-magazinu-do-arendy-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 10:04:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
