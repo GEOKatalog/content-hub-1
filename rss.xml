@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:22:19 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самозанятые 2026: лимиты, больничные и налоги</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatye-2026-limity-bolnichnye-i-nalogi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatye-2026-limity-bolnichnye-i-nalogi.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:22:19 GMT</pubDate>
+  </item>
   <item>
     <title>Миграционная регистрация для иностранцев 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnaya-registratsiya-dlya-inostrantsev-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-mastera-po-remontu-tekhniki-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-mastera-po-remontu-tekhniki-gid-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:43:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка профиля исполнителя в Тюмени: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-profilya-ispolnitelya-v-tyumeni-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-profilya-ispolnitelya-v-tyumeni-gid-2026.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:43:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
