@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:28:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:29:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Автономная вентиляция в кафе Ижевска: СанПиН 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/avtonomnaya-ventilyatsiya-v-kafe-izhevska-sanpin-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/avtonomnaya-ventilyatsiya-v-kafe-izhevska-sanpin-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:29:26 GMT</pubDate>
+  </item>
   <item>
     <title>Автономная вентиляция для заведений в МКД: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/avtonomnaya-ventilyatsiya-dlya-zavedeniy-v-mkd-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/antiplagiat-i-gia-2026-spravochnik-resheniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/antiplagiat-i-gia-2026-spravochnik-resheniy.html</guid>
     <pubDate>Wed, 16 Sep 2026 12:58:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сроки сдачи ВКР в ДВФУ 2026: регламент и даты</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sroki-sdachi-vkr-v-dvfu-2026-reglament-i-daty.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sroki-sdachi-vkr-v-dvfu-2026-reglament-i-daty.html</guid>
-    <pubDate>Wed, 16 Sep 2026 12:56:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
