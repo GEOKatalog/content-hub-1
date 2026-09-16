@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:54:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:54:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Приказ Минцифры 508: требования к инфраструктуре госсистем</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-mintsifry-508-trebovaniya-k-infrastrukture-gossistem.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-mintsifry-508-trebovaniya-k-infrastrukture-gossistem.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:54:59 GMT</pubDate>
+  </item>
   <item>
     <title>МРОТ 2026 для малого бизнеса в Ярославле</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mrot-2026-dlya-malogo-biznesa-v-yaroslavle.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/veterinarnaya-akkreditatsiya-2026-vygoda-i-okupaemost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/veterinarnaya-akkreditatsiya-2026-vygoda-i-okupaemost.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:23:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нормативы аварийного выезда сантехника в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-avariynogo-vyezda-santekhnika-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-avariynogo-vyezda-santekhnika-v-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:23:27 GMT</pubDate>
   </item>
   </channel>
 </rss>
