@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:30:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:30:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Онлайн-управление арендой в Барнауле: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-upravlenie-arendoy-v-barnaule-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-upravlenie-arendoy-v-barnaule-gid-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:30:56 GMT</pubDate>
+  </item>
   <item>
     <title>Сервис управления квартирой для сдачи в аренду онлайн 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/servis-upravleniya-kvartiroy-dlya-sdachi-v-arendu-onlayn-202.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/lokalnye-akty-vuzov-barnaula-ekonomiya-vremeni-i-deneg.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/lokalnye-akty-vuzov-barnaula-ekonomiya-vremeni-i-deneg.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:56:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Фиксация нарушений арендатором в Барнауле</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/fiksatsiya-narusheniy-arendatorom-v-barnaule.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/fiksatsiya-narusheniy-arendatorom-v-barnaule.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:56:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
