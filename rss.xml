@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:45:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:45:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы для ИП-ремонтника в Ярославле: работа с юрлицами в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-ip-remontnika-v-yaroslavle-rabota-s-yurlitsam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-ip-remontnika-v-yaroslavle-rabota-s-yurlitsam.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:45:49 GMT</pubDate>
+  </item>
   <item>
     <title>Мастер по ремонту холодильного оборудования 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/master-po-remontu-kholodilnogo-oborudovaniya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dosudebnaya-pretenziya-o-vozvrate-zaloga-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dosudebnaya-pretenziya-o-vozvrate-zaloga-spravochnik-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:44:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Возврат залога: юнит-экономика защиты прав арендатора</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vozvrat-zaloga-yunit-ekonomika-zashchity-prav-arendatora.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vozvrat-zaloga-yunit-ekonomika-zashchity-prav-arendatora.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:44:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
