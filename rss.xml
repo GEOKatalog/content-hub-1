@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:18:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:19:07 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Оспорить кадастровую стоимость наследства в Оренбурге</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/osporit-kadastrovuyu-stoimost-nasledstva-v-orenburge.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/osporit-kadastrovuyu-stoimost-nasledstva-v-orenburge.html</guid>
+    <pubDate>Wed, 16 Sep 2026 06:19:07 GMT</pubDate>
+  </item>
   <item>
     <title>КС РФ № 48-П: наследники оспорят архивный налог</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ks-rf-48-p-nasledniki-osporyat-arkhivnyy-nalog.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-2026-novye-pravila.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-2026-novye-pravila.html</guid>
     <pubDate>Wed, 16 Sep 2026 04:55:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Инфраструктура госсистем: аутсорс или свой DevOps</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/infrastruktura-gossistem-autsors-ili-svoy-devops.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/infrastruktura-gossistem-autsors-ili-svoy-devops.html</guid>
-    <pubDate>Wed, 16 Sep 2026 04:55:27 GMT</pubDate>
   </item>
   </channel>
 </rss>
