@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:03:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:04:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Профстандарт 625н: уровни квалификации закупщика</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-625n-urovni-kvalifikatsii-zakupshchika.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-625n-urovni-kvalifikatsii-zakupshchika.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:04:02 GMT</pubDate>
+  </item>
   <item>
     <title>Срочный поиск поставщика: Telegram против B2B-площадок</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnyy-poisk-postavshchika-telegram-protiv-b2b-ploshchadok.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-veterinarnoy-apteke-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-veterinarnoy-apteke-v-2026-godu.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:20:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Купить оборудование для мини-пекарни в Хабаровске 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-oborudovanie-dlya-mini-pekarni-v-khabarovske-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-oborudovanie-dlya-mini-pekarni-v-khabarovske-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:20:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
