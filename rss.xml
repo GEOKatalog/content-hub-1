@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:24:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как проверить подлинность монеты в Барнауле 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-podlinnost-monety-v-barnaule-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-podlinnost-monety-v-barnaule-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:24:57 GMT</pubDate>
+  </item>
   <item>
     <title>AI-помощник для нумизматов: оценка монет онлайн</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ai-pomoshchnik-dlya-numizmatov-otsenka-monet-onlayn.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-nezhilogo-pomeshcheniya-s-fizlitsom-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-nezhilogo-pomeshcheniya-s-fizlitsom-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:46:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Оценка рисков и сбор доказательств при покупке без документов</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-riskov-i-sbor-dokazatelstv-pri-pokupke-bez-dokumento.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otsenka-riskov-i-sbor-dokazatelstv-pri-pokupke-bez-dokumento.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:46:31 GMT</pubDate>
   </item>
   </channel>
 </rss>
