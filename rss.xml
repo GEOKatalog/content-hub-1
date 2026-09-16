@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:17:10 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ДМС или ОМС для иностранного студента в общежитии</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dms-ili-oms-dlya-inostrannogo-studenta-v-obshchezhitii.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dms-ili-oms-dlya-inostrannogo-studenta-v-obshchezhitii.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:17:10 GMT</pubDate>
+  </item>
   <item>
     <title>Лицензирование по ФЗ-99: что нужно ИП-ремонтнику в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenzirovanie-po-fz-99-chto-nuzhno-ip-remontniku-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/st-54-1-nk-rf-v-2026-kak-zashchitit-vychety-i-vybrat-kontrag.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/st-54-1-nk-rf-v-2026-kak-zashchitit-vychety-i-vybrat-kontrag.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:57:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка контрагента по 115-ФЗ в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-115-fz-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-115-fz-v-2026-godu.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:56:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
