@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 02:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 02:20:04 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Оборудование для мини-пекарни в Хабаровске: обзор 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/oborudovanie-dlya-mini-pekarni-v-khabarovske-obzor-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/oborudovanie-dlya-mini-pekarni-v-khabarovske-obzor-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 02:20:04 GMT</pubDate>
+  </item>
   <item>
     <title>Требования Роспотребнадзора к мини-пекарне в Хабаровске</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-rospotrebnadzora-k-mini-pekarne-v-khabarovske.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-2026-dokumenty-dlya-pervokursnika.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-2026-dokumenty-dlya-pervokursnika.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:28:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Заселение в общежитие Барнаул 2026: правила и документы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-barnaul-2026-pravila-i-dokumenty.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-barnaul-2026-pravila-i-dokumenty.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:28:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
