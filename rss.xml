@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:56:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:56:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Локальные акты вузов Барнаула: экономия времени и денег</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/lokalnye-akty-vuzov-barnaula-ekonomiya-vremeni-i-deneg.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/lokalnye-akty-vuzov-barnaula-ekonomiya-vremeni-i-deneg.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:56:58 GMT</pubDate>
+  </item>
   <item>
     <title>Фиксация нарушений арендатором в Барнауле</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/fiksatsiya-narusheniy-arendatorom-v-barnaule.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatye-2026-bolnichnyy-i-limit-dokhoda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatye-2026-bolnichnyy-i-limit-dokhoda.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:21:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда жилья для вахтовиков в Барнауле 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-zhilya-dlya-vakhtovikov-v-barnaule-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-zhilya-dlya-vakhtovikov-v-barnaule-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:21:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
