@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:28:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:28:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка квартиры до сделки: паспорт и выписка ЕГРН</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kvartiry-do-sdelki-pasport-i-vypiska-egrn.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kvartiry-do-sdelki-pasport-i-vypiska-egrn.html</guid>
+    <pubDate>Wed, 16 Sep 2026 01:28:37 GMT</pubDate>
+  </item>
   <item>
     <title>Заселение в общежитие 2026: документы для первокурсника</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-2026-dokumenty-dlya-pervokursnika.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-snyat-kvartiru-bez-spravki-o-dokhodakh-v-barnaule.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-snyat-kvartiru-bez-spravki-o-dokhodakh-v-barnaule.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:54:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Локальные акты вузов Барнаула: гид для новичков 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/lokalnye-akty-vuzov-barnaula-gid-dlya-novichkov-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/lokalnye-akty-vuzov-barnaula-gid-dlya-novichkov-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:54:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
