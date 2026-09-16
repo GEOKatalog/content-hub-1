@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:12:39 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Льготы по страховым взносам для МСП в 2026 году: условия применения</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/lgoty-po-strakhovym-vznosam-dlya-msp-v-2026-godu-usloviya-pr.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/lgoty-po-strakhovym-vznosam-dlya-msp-v-2026-godu-usloviya-pr.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:12:39 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ 21.501-2018: правила рабочей документации</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-21-501-2018-pravila-rabochey-dokumentatsii.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tochka-zakaza-v-2026-raschyot-dlya-zakupshchika.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tochka-zakaza-v-2026-raschyot-dlya-zakupshchika.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:52:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Инструкция по охране труда для аутсорс-специалиста</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/instruktsiya-po-okhrane-truda-dlya-autsors-spetsialista.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/instruktsiya-po-okhrane-truda-dlya-autsors-spetsialista.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:52:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
