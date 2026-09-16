@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:16:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Шум и разгрузка: жалобы жильцов на общепит</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shum-i-razgruzka-zhaloby-zhiltsov-na-obshchepit.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shum-i-razgruzka-zhaloby-zhiltsov-na-obshchepit.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:16:16 GMT</pubDate>
+  </item>
   <item>
     <title>Магазин в жилом доме: требования СанПиН 2026 года</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/magazin-v-zhilom-dome-trebovaniya-sanpin-2026-goda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ndfl-dokhodov-2025-vygoda-do-88-000.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ndfl-dokhodov-2025-vygoda-do-88-000.html</guid>
     <pubDate>Wed, 16 Sep 2026 07:48:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Доходы с НДФЛ за 2025 год: как проверить</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokhody-s-ndfl-za-2025-god-kak-proverit.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokhody-s-ndfl-za-2025-god-kak-proverit.html</guid>
-    <pubDate>Wed, 16 Sep 2026 07:47:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
