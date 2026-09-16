@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:14:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Обоснование НМЦК по 44-ФЗ в 2026 году: правила</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obosnovanie-nmtsk-po-44-fz-v-2026-godu-pravila.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obosnovanie-nmtsk-po-44-fz-v-2026-godu-pravila.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:14:11 GMT</pubDate>
+  </item>
   <item>
     <title>Приказ об ответственном за ОТ в Ярославле: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-ob-otvetstvennom-za-ot-v-yaroslavle-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/c5-2026-i-devops-reyting-resheniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/c5-2026-i-devops-reyting-resheniy.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:53:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>BSI C5:2026 для DevOps в Ярославле: гид по аудиту</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/bsi-c5-2026-dlya-devops-v-yaroslavle-gid-po-auditu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/bsi-c5-2026-dlya-devops-v-yaroslavle-gid-po-auditu.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:53:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
