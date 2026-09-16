@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:55:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:55:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Заселение в общежитие 2026: новые правила</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-2026-novye-pravila.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-2026-novye-pravila.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:55:56 GMT</pubDate>
+  </item>
   <item>
     <title>Инфраструктура госсистем: аутсорс или свой DevOps</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/infrastruktura-gossistem-autsors-ili-svoy-devops.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okved-10-71-dlya-pekarni-v-khabarovske-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/okved-10-71-dlya-pekarni-v-khabarovske-gid-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:25:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нужна ли лицензия на производство хлеба в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nuzhna-li-litsenziya-na-proizvodstvo-khleba-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nuzhna-li-litsenziya-na-proizvodstvo-khleba-v-2026-godu.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:24:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
