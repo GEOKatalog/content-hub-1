@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:08:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:09:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аукционы по аренде земли в Оренбурге: справочник 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/auktsiony-po-arende-zemli-v-orenburge-spravochnik-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/auktsiony-po-arende-zemli-v-orenburge-spravochnik-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 06:09:11 GMT</pubDate>
+  </item>
   <item>
     <title>Земельные поправки 2026: что изменилось для Оренбурга</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zemelnye-popravki-2026-chto-izmenilos-dlya-orenburga.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polis-dms-dlya-inostrannykh-studentov-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/polis-dms-dlya-inostrannykh-studentov-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:59:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Экспертиза без возвратов: экономия 1,8 млн ₽ на ГОСТ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ekspertiza-bez-vozvratov-ekonomiya-1-8-mln-na-gost.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ekspertiza-bez-vozvratov-ekonomiya-1-8-mln-na-gost.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:58:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
