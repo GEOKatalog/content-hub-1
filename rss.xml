@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 02:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 02:16:18 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Зона ответственности сантехника: УК или частник</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zona-otvetstvennosti-santekhnika-uk-ili-chastnik.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zona-otvetstvennosti-santekhnika-uk-ili-chastnik.html</guid>
+    <pubDate>Wed, 16 Sep 2026 02:16:18 GMT</pubDate>
+  </item>
   <item>
     <title>Как ПВЗ в Хабаровске прошёл проверку по воде и вентиляции</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pvz-v-khabarovske-proshyol-proverku-po-vode-i-ventilyats.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vernut-depozit-pri-dosrochnom-rastorzhenii-arendy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vernut-depozit-pri-dosrochnom-rastorzhenii-arendy.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:23:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка арендатора 2026: ФССП, паспорт, ЕФРСБ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendatora-2026-fssp-pasport-efrsb.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-arendatora-2026-fssp-pasport-efrsb.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:23:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
