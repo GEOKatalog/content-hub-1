@@ -5,8 +5,32 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:42:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:53:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН 2026: руководство для общепита</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-rukovodstvo-dlya-obshchepita.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-rukovodstvo-dlya-obshchepita.html</guid>
+    <pubDate>Wed, 16 Sep 2026 17:53:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Уведомление Роспотребнадзора для магазина у дома в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-rospotrebnadzora-dlya-magazina-u-doma-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-rospotrebnadzora-dlya-magazina-u-doma-v-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 17:49:50 GMT</pubDate>
+  </item>
+  <item>
+    <title>Налоговые каникулы в Ижевске: сверка ОКВЭД и ОКПД 2 в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovye-kanikuly-v-izhevske-sverka-okved-i-okpd-2-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovye-kanikuly-v-izhevske-sverka-okved-i-okpd-2-v-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 17:46:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Сверка ОКВЭД и ОКПД 2: как не потерять каникулы в Ижевске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-okved-i-okpd-2-kak-ne-poteryat-kanikuly-v-izhevske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-okved-i-okpd-2-kak-ne-poteryat-kanikuly-v-izhevske.html</guid>
+    <pubDate>Wed, 16 Sep 2026 17:43:27 GMT</pubDate>
+  </item>
   <item>
     <title>Налоговые каникулы 2026: сверка ОКВЭД и ОКПД 2</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovye-kanikuly-2026-sverka-okved-i-okpd-2.html</link>
@@ -582,30 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovoe-soprovozhdenie-investora-v-orenburge-optimizatsiya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovoe-soprovozhdenie-investora-v-orenburge-optimizatsiya.html</guid>
     <pubDate>Wed, 16 Sep 2026 06:30:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>ИИС-3 в 2026: вычеты и инструкция для Оренбурга</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/iis-3-v-2026-vychety-i-instruktsiya-dlya-orenburga.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/iis-3-v-2026-vychety-i-instruktsiya-dlya-orenburga.html</guid>
-    <pubDate>Wed, 16 Sep 2026 06:30:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Выписка из ЕГРН через Госуслуги: инструкция 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-iz-egrn-cherez-gosuslugi-instruktsiya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-iz-egrn-cherez-gosuslugi-instruktsiya-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 06:30:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Межевание участка в СНТ Оренбурга: нужно ли в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mezhevanie-uchastka-v-snt-orenburga-nuzhno-li-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mezhevanie-uchastka-v-snt-orenburga-nuzhno-li-v-2026-godu.html</guid>
-    <pubDate>Wed, 16 Sep 2026 06:29:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налог на аренду квартиры в Оренбурге: рейтинг режимов 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-arendu-kvartiry-v-orenburge-reyting-rezhimov-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-arendu-kvartiry-v-orenburge-reyting-rezhimov-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 06:29:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
