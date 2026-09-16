@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:57:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:57:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка контрагента по 44-ФЗ перед срочной закупкой</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-44-fz-pered-srochnoy-zakupkoy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-44-fz-pered-srochnoy-zakupkoy.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:57:51 GMT</pubDate>
+  </item>
   <item>
     <title>Изменения 44-ФЗ с 1 октября 2026: обзор для заказчика</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/izmeneniya-44-fz-s-1-oktyabrya-2026-obzor-dlya-zakazchika.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-pekarne-i-konditerskoy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-pekarne-i-konditerskoy-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:27:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Самозанятый и Меркурий: как работать фермерской лавке в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-i-merkuriy-kak-rabotat-fermerskoy-lavke-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-i-merkuriy-kak-rabotat-fermerskoy-lavke-v-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:26:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
