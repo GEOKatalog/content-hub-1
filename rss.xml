@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:59:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:59:18 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Штрафы за онлайн-кассу в 2026: как избежать 150 000 ₽</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-onlayn-kassu-v-2026-kak-izbezhat-150-000.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-onlayn-kassu-v-2026-kak-izbezhat-150-000.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:59:18 GMT</pubDate>
+  </item>
   <item>
     <title>Полис ДМС для иностранных студентов 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polis-dms-dlya-inostrannykh-studentov-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zona-otvetstvennosti-santekhnika-uk-ili-chastnik.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zona-otvetstvennosti-santekhnika-uk-ili-chastnik.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:16:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как ПВЗ в Хабаровске прошёл проверку по воде и вентиляции</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pvz-v-khabarovske-proshyol-proverku-po-vode-i-ventilyats.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-pvz-v-khabarovske-proshyol-proverku-po-vode-i-ventilyats.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:16:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
