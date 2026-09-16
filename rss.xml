@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:28:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:29:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как сдать унаследованную квартиру в Оренбурге без агентства</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sdat-unasledovannuyu-kvartiru-v-orenburge-bez-agentstva.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sdat-unasledovannuyu-kvartiru-v-orenburge-bez-agentstva.html</guid>
+    <pubDate>Wed, 16 Sep 2026 06:29:02 GMT</pubDate>
+  </item>
   <item>
     <title>Как признать дом аварийным в Оренбурге: правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-priznat-dom-avariynym-v-orenburge-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/devops-na-autsorse-v-yaroslavle-ci-cd-i-kubernetes.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/devops-na-autsorse-v-yaroslavle-ci-cd-i-kubernetes.html</guid>
     <pubDate>Wed, 16 Sep 2026 05:05:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>ISO/IEC/IEEE 32675-2022: DevOps требования</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/iso-iec-ieee-32675-2022-devops-trebovaniya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/iso-iec-ieee-32675-2022-devops-trebovaniya.html</guid>
-    <pubDate>Wed, 16 Sep 2026 05:05:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
