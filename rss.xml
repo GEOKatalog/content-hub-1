@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:04:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Превысил 2,4 млн: сохрани 172 390 ₽ на налогах</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prevysil-2-4-mln-sokhrani-172-390-na-nalogakh.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prevysil-2-4-mln-sokhrani-172-390-na-nalogakh.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:04:03 GMT</pubDate>
+  </item>
   <item>
     <title>Превышение лимита НПД в 2026: как зафиксировать дату</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prevyshenie-limita-npd-v-2026-kak-zafiksirovat-datu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatost-dlya-remonta-tekhniki-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatost-dlya-remonta-tekhniki-spravochnik-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:43:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>Мастер по ремонту техники для магазина 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/master-po-remontu-tekhniki-dlya-magazina-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/master-po-remontu-tekhniki-dlya-magazina-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:43:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
