@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:46:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:47:15 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СП 20.13330.2016 с Изменениями 2026: гид по редакциям</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-2016-s-izmeneniyami-2026-gid-po-redaktsiyam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-2016-s-izmeneniyami-2026-gid-po-redaktsiyam.html</guid>
+    <pubDate>Wed, 16 Sep 2026 03:47:15 GMT</pubDate>
+  </item>
   <item>
     <title>Общежитие для иностранных студентов: правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obshchezhitie-dlya-inostrannykh-studentov-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-ili-novyy-kholodilnik-raschet-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-ili-novyy-kholodilnik-raschet-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 01:45:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Возврат залога у арендодателя: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vozvrat-zaloga-u-arendodatelya-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vozvrat-zaloga-u-arendodatelya-spravochnik-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 01:45:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
