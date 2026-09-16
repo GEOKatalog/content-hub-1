@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:02:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Миграционный учет студентов в Ярославле: рейтинг решений 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-studentov-v-yaroslavle-reyting-resheniy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-studentov-v-yaroslavle-reyting-resheniy.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:02:53 GMT</pubDate>
+  </item>
   <item>
     <title>Миграционный учет иностранного студента в Ярославле: сроки 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-inostrannogo-studenta-v-yaroslavle-sroki.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/devops-na-autsorse-2026-sravnenie-i-vybor.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/devops-na-autsorse-2026-sravnenie-i-vybor.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:42:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регламент резервного копирования ПДн: системный администратор 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-rezervnogo-kopirovaniya-pdn-sistemnyy-administrato.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-rezervnogo-kopirovaniya-pdn-sistemnyy-administrato.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:42:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
