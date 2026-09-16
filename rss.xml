@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:11:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Наследство брокерского счёта: как оформить активы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nasledstvo-brokerskogo-schyota-kak-oformit-aktivy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nasledstvo-brokerskogo-schyota-kak-oformit-aktivy.html</guid>
+    <pubDate>Wed, 16 Sep 2026 06:11:02 GMT</pubDate>
+  </item>
   <item>
     <title>Наследство брокерского счёта: сроки, порядок 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nasledstvo-brokerskogo-schyota-sroki-poryadok-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-inostrannogo-studenta-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-inostrannogo-studenta-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 04:00:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка контрагента по 223-ФЗ: сервисы ФНС</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-223-fz-servisy-fns.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-223-fz-servisy-fns.html</guid>
-    <pubDate>Wed, 16 Sep 2026 04:00:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
