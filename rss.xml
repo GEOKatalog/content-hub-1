@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:04:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:05:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Какие отчеты сдает ООО на УСН в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kakie-otchety-sdaet-ooo-na-usn-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakie-otchety-sdaet-ooo-na-usn-v-2026-godu.html</guid>
+    <pubDate>Wed, 16 Sep 2026 05:05:00 GMT</pubDate>
+  </item>
   <item>
     <title>Исполнительная документация 2026: сдать объект без потерь</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ispolnitelnaya-dokumentatsiya-2026-sdat-obekt-bez-poter.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-21-101-2020-pravila-oformleniya-dokumentatsii.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-21-101-2020-pravila-oformleniya-dokumentatsii.html</guid>
     <pubDate>Wed, 16 Sep 2026 03:44:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Инвентаризация оборудования торговой точки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-oborudovaniya-torgovoy-tochki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-oborudovaniya-torgovoy-tochki.html</guid>
-    <pubDate>Wed, 16 Sep 2026 03:44:23 GMT</pubDate>
   </item>
   </channel>
 </rss>
