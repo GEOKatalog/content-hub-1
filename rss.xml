@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:55:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:56:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка контрагента по 44-ФЗ: сервисы или ручной аудит</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-44-fz-servisy-ili-ruchnoy-audit.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragenta-po-44-fz-servisy-ili-ruchnoy-audit.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:56:14 GMT</pubDate>
+  </item>
   <item>
     <title>Заселение в общежитие 2026: новые правила</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zaselenie-v-obshchezhitie-2026-novye-pravila.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-pvz-2026-keys-snizheniya-poter-s-100-000.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-pvz-2026-keys-snizheniya-poter-s-100-000.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:25:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>ОКВЭД 10.71 для пекарни в Хабаровске: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/okved-10-71-dlya-pekarni-v-khabarovske-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okved-10-71-dlya-pekarni-v-khabarovske-gid-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:25:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
