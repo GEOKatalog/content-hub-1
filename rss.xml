@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:02:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Профстандарт 684н: инструкция сисадмина в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-684n-instruktsiya-sisadmina-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-684n-instruktsiya-sisadmina-v-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 04:02:31 GMT</pubDate>
+  </item>
   <item>
     <title>Проект СЗЗ для цеха: справочник по выбору подрядчика</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proekt-szz-dlya-tsekha-spravochnik-po-vyboru-podryadchika.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-magazinu-u-doma-v-khabarovske-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-magazinu-u-doma-v-khabarovske-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 02:19:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Поставщик продуктов для магазина у дома в Хабаровске 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchik-produktov-dlya-magazina-u-doma-v-khabarovske-20.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/postavshchik-produktov-dlya-magazina-u-doma-v-khabarovske-20.html</guid>
-    <pubDate>Wed, 16 Sep 2026 02:18:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
