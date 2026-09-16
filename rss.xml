@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:20:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Локальные вытяжки для кафе: инструкция по СанПиН 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/lokalnye-vytyazhki-dlya-kafe-instruktsiya-po-sanpin-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/lokalnye-vytyazhki-dlya-kafe-instruktsiya-po-sanpin-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 18:20:23 GMT</pubDate>
+  </item>
   <item>
     <title>Уведомление Роспотребнадзора для бытовых услуг 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-rospotrebnadzora-dlya-bytovykh-uslug-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-poiskovykh-zaprosov-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/klassifikatsiya-poiskovykh-zaprosov-spravochnik-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 08:54:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как определить интент запроса в 2026: гид для Ульяновска</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-intent-zaprosa-v-2026-gid-dlya-ulyanovska.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-intent-zaprosa-v-2026-gid-dlya-ulyanovska.html</guid>
-    <pubDate>Wed, 16 Sep 2026 08:54:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
