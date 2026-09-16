@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:26:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:26:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как законно не платить налог с прибыли от инвестиций в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zakonno-ne-platit-nalog-s-pribyli-ot-investitsiy-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zakonno-ne-platit-nalog-s-pribyli-ot-investitsiy-v-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 06:26:33 GMT</pubDate>
+  </item>
   <item>
     <title>Налоговый вычет по ИИС-3 в 2026 году: 400 000 ₽ без 3-НДФЛ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovyy-vychet-po-iis-3-v-2026-godu-400-000-bez-3-ndfl.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-studentov-v-yaroslavle-reyting-resheniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-studentov-v-yaroslavle-reyting-resheniy.html</guid>
     <pubDate>Wed, 16 Sep 2026 05:02:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Миграционный учет иностранного студента в Ярославле: сроки 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-inostrannogo-studenta-v-yaroslavle-sroki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-inostrannogo-studenta-v-yaroslavle-sroki.html</guid>
-    <pubDate>Wed, 16 Sep 2026 05:02:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
