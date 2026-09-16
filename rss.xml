@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:45:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:46:18 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Калькулятор доходности аренды онлайн: ставка 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kalkulyator-dokhodnosti-arendy-onlayn-stavka-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kalkulyator-dokhodnosti-arendy-onlayn-stavka-2026.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:46:18 GMT</pubDate>
+  </item>
   <item>
     <title>Реальная доходность аренды: рейтинг методов 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/realnaya-dokhodnost-arendy-reyting-metodov-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-rezby-perevodnikov-oyl-link-v-tyumeni-reglament-202.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-rezby-perevodnikov-oyl-link-v-tyumeni-reglament-202.html</guid>
     <pubDate>Wed, 16 Sep 2026 00:07:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка репетитора к ОГЭ: 5 критериев 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-repetitora-k-oge-5-kriteriev-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-repetitora-k-oge-5-kriteriev-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 00:07:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
