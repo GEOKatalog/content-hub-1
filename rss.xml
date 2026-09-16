@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:35:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог с продаж на маркетплейсах в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazh-na-marketpleysakh-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazh-na-marketpleysakh-v-2026-godu.html</guid>
+    <pubDate>Wed, 16 Sep 2026 00:35:36 GMT</pubDate>
+  </item>
   <item>
     <title>Клининг в Барнауле: окупаемость и ROI</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klining-v-barnaule-okupaemost-i-roi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-na-spetstekhniku-do-osmotra-gid-po-tyumeni-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-na-spetstekhniku-do-osmotra-gid-po-tyumeni-2026.html</guid>
     <pubDate>Tue, 15 Sep 2026 23:56:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Покупка спецтехники с рук в Тюмени: ПСМ, ЭПСМ и утильсбор</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pokupka-spetstekhniki-s-ruk-v-tyumeni-psm-epsm-i-utilsbor.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pokupka-spetstekhniki-s-ruk-v-tyumeni-psm-epsm-i-utilsbor.html</guid>
-    <pubDate>Tue, 15 Sep 2026 23:55:58 GMT</pubDate>
   </item>
   </channel>
 </rss>
