@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:22:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:22:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сверка ОКВЭД и ОКПД 2: как не потерять каникулы в Ижевске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-okved-i-okpd-2-kak-ne-poteryat-kanikuly-v-izhevske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-okved-i-okpd-2-kak-ne-poteryat-kanikuly-v-izhevske.html</guid>
+    <pubDate>Thu, 17 Sep 2026 04:22:45 GMT</pubDate>
+  </item>
   <item>
     <title>Правовой аудит для малого бизнеса в Ижевске: цены и исполнители</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravovoy-audit-dlya-malogo-biznesa-v-izhevske-tseny-i-ispoln.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovye-kanikuly-v-izhevske-sverka-okved-i-okpd-2-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovye-kanikuly-v-izhevske-sverka-okved-i-okpd-2-v-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 17:46:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сверка ОКВЭД и ОКПД 2: как не потерять каникулы в Ижевске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-okved-i-okpd-2-kak-ne-poteryat-kanikuly-v-izhevske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-okved-i-okpd-2-kak-ne-poteryat-kanikuly-v-izhevske.html</guid>
-    <pubDate>Wed, 16 Sep 2026 17:43:27 GMT</pubDate>
   </item>
   </channel>
 </rss>
