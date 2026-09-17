@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:15:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:16:04 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Требования к зоомагазину с животными в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-zoomagazinu-s-zhivotnymi-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-zoomagazinu-s-zhivotnymi-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:16:04 GMT</pubDate>
+  </item>
   <item>
     <title>Требования Wildberries к ПВЗ 2026: гид для Хабаровска</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-wildberries-k-pvz-2026-gid-dlya-khabarovska.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-24557-2025-na-sdobu-spravochnik-dlya-pekaren-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-24557-2025-na-sdobu-spravochnik-dlya-pekaren-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:39:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Норматив ТКО для магазина у дома: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativ-tko-dlya-magazina-u-doma-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativ-tko-dlya-magazina-u-doma-spravochnik-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:38:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
