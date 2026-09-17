@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:23:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:24:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СП 2.3.6.4281-26 для фермерской лавки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-dlya-fermerskoy-lavki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-dlya-fermerskoy-lavki.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:24:01 GMT</pubDate>
+  </item>
   <item>
     <title>СП 2.3.6.4281-26 для фермерской лавки: что меняется с 1 сентября 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-dlya-fermerskoy-lavki-chto-menyaetsya-s-1-s.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normy-vozdukhoobmena-goryachego-tsekha-2026-katalog-sistem.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normy-vozdukhoobmena-goryachego-tsekha-2026-katalog-sistem.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:24:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>СанПиН 2026: окупаемость стеллажей и рост выручки пекарни</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-okupaemost-stellazhey-i-rost-vyruchki-pekarni.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-okupaemost-stellazhey-i-rost-vyruchki-pekarni.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:24:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
