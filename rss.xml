@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:42:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:42:17 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Разрешение на сезонную торговлю 2026: новые правила</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/razreshenie-na-sezonnuyu-torgovlyu-2026-novye-pravila.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razreshenie-na-sezonnuyu-torgovlyu-2026-novye-pravila.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:42:17 GMT</pubDate>
+  </item>
   <item>
     <title>Сезонная торговля 2026: новые правила и окупаемость точки</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sezonnaya-torgovlya-2026-novye-pravila-i-okupaemost-tochki.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kontrol-vetaptek-2026-rospotrebnadzor-i-rosselkhoznadzor.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kontrol-vetaptek-2026-rospotrebnadzor-i-rosselkhoznadzor.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:49:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налоговый режим и касса в 2026: кого освободили</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovyy-rezhim-i-kassa-v-2026-kogo-osvobodili.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovyy-rezhim-i-kassa-v-2026-kogo-osvobodili.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:49:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
