@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:40:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ozon ПВЗ как микро-склад: гид для владельца</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ozon-pvz-kak-mikro-sklad-gid-dlya-vladeltsa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ozon-pvz-kak-mikro-sklad-gid-dlya-vladeltsa.html</guid>
+    <pubDate>Thu, 17 Sep 2026 15:40:37 GMT</pubDate>
+  </item>
   <item>
     <title>ТКО для магазина в жилой застройке: риски 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tko-dlya-magazina-v-zhiloy-zastroyke-riski-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-avtomatizirovat-kafe-i-strit-fud-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-avtomatizirovat-kafe-i-strit-fud-v-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 04:23:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Автоматизация кафе и стрит-фуда с маркировкой 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/avtomatizatsiya-kafe-i-strit-fuda-s-markirovkoy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/avtomatizatsiya-kafe-i-strit-fuda-s-markirovkoy-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 04:23:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
