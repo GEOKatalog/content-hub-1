@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:36:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Видеонаблюдение Ozon для ПВЗ: как не терять 5000 ₽ ежемесячно</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/videonablyudenie-ozon-dlya-pvz-kak-ne-teryat-5000-ezhemesyac.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/videonablyudenie-ozon-dlya-pvz-kak-ne-teryat-5000-ezhemesyac.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:36:22 GMT</pubDate>
+  </item>
   <item>
     <title>Лучшие решения для ПВЗ и мини-складов в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-resheniya-dlya-pvz-i-mini-skladov-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snizili-tseny-na-syryo-na-23-keys-pekarni-khabarovska.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/snizili-tseny-na-syryo-na-23-keys-pekarni-khabarovska.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:42:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ 24557-2025: справочник для пекарни у дома</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-24557-2025-spravochnik-dlya-pekarni-u-doma.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-24557-2025-spravochnik-dlya-pekarni-u-doma.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:42:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
