@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:35:39 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Рейтинг решений для настройки Меркурия в Хабаровске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-dlya-nastroyki-merkuriya-v-khabarovske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-dlya-nastroyki-merkuriya-v-khabarovske.html</guid>
+    <pubDate>Thu, 17 Sep 2026 15:35:39 GMT</pubDate>
+  </item>
   <item>
     <title>Реестр рынков Хабаровского края: проверка статуса объекта</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-rynkov-khabarovskogo-kraya-proverka-statusa-obekta.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okved-dlya-bytovykh-uslug-v-2026-polnyy-perechen.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/okved-dlya-bytovykh-uslug-v-2026-polnyy-perechen.html</guid>
     <pubDate>Thu, 17 Sep 2026 04:20:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Мораторий на проверки МСП 2026: как защититься</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/moratoriy-na-proverki-msp-2026-kak-zashchititsya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/moratoriy-na-proverki-msp-2026-kak-zashchititsya.html</guid>
-    <pubDate>Thu, 17 Sep 2026 04:20:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
