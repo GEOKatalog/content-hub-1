@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:38:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:38:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ППК для пекарни: обновить до 1 сентября 2026 года</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ppk-dlya-pekarni-obnovit-do-1-sentyabrya-2026-goda.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ppk-dlya-pekarni-obnovit-do-1-sentyabrya-2026-goda.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:38:23 GMT</pubDate>
+  </item>
   <item>
     <title>Алгоритм выбора формы бизнеса для фермерской лавки 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-vybora-formy-biznesa-dlya-fermerskoy-lavki-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/legalizatsiya-pereplanirovki-2026-reyting-putey.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/legalizatsiya-pereplanirovki-2026-reyting-putey.html</guid>
     <pubDate>Thu, 17 Sep 2026 04:16:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Автоматический риск 2026: легализация аренды в Ижевске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/avtomaticheskiy-risk-2026-legalizatsiya-arendy-v-izhevske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/avtomaticheskiy-risk-2026-legalizatsiya-arendy-v-izhevske.html</guid>
-    <pubDate>Thu, 17 Sep 2026 04:16:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
