@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:41:19 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Окупаемость охранных зон канализации: ставка на аварийные службы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-okhrannykh-zon-kanalizatsii-stavka-na-avariynye-s.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-okhrannykh-zon-kanalizatsii-stavka-na-avariynye-s.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:41:19 GMT</pubDate>
+  </item>
   <item>
     <title>Персональный склад Wildberries: правила и риски 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/personalnyy-sklad-wildberries-pravila-i-riski-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-vyezda-avariynoy-santekhsluzhby-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-vyezda-avariynoy-santekhsluzhby-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:48:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Микробиология кремовых изделий в Хабаровске 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mikrobiologiya-kremovykh-izdeliy-v-khabarovske-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mikrobiologiya-kremovykh-izdeliy-v-khabarovske-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:47:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
