@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:10:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Приёмка помещения маркетплейсом: риски и штрафы 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/priyomka-pomeshcheniya-marketpleysom-riski-i-shtrafy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/priyomka-pomeshcheniya-marketpleysom-riski-i-shtrafy-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:10:55 GMT</pubDate>
+  </item>
   <item>
     <title>Требования Wildberries к помещению ПВЗ 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-wildberries-k-pomeshcheniyu-pvz-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/avariynyy-santekhnik-algoritm-snizheniya-izderzhek-uk.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/avariynyy-santekhnik-algoritm-snizheniya-izderzhek-uk.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:39:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>СанПиН для ПВЗ в жилом доме: гид для Хабаровска 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-pvz-v-zhilom-dome-gid-dlya-khabarovska-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-pvz-v-zhilom-dome-gid-dlya-khabarovska-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:39:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
