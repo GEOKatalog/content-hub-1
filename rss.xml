@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:37:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:14:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Какой код ОКВЭД выбрать для клининга в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kakoy-kod-okved-vybrat-dlya-klininga-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakoy-kod-okved-vybrat-dlya-klininga-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 04:14:45 GMT</pubDate>
+  </item>
   <item>
     <title>Продовольственный магазин: вода и канализация по СП 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodovolstvennyy-magazin-voda-i-kanalizatsiya-po-sp-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/priznanie-inostrannogo-diploma-servis-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/priznanie-inostrannogo-diploma-servis-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 13:32:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка контрагентов фрилансеру: рейтинг 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragentov-frilanseru-reyting-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-kontragentov-frilanseru-reyting-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 13:31:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
