@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:13:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Требования к зоомагазину с живыми животными в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-zoomagazinu-s-zhivymi-zhivotnymi-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-zoomagazinu-s-zhivymi-zhivotnymi-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:13:49 GMT</pubDate>
+  </item>
   <item>
     <title>Требования Wildberries к помещению ПВЗ 2026: полный справочник</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-wildberries-k-pomeshcheniyu-pvz-2026-polnyy-spra.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ukep-dlya-merkuriya-i-tserbera-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ukep-dlya-merkuriya-i-tserbera-v-2026-godu.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:36:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Рейтинг решений для настройки Меркурия в Хабаровске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-dlya-nastroyki-merkuriya-v-khabarovske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-dlya-nastroyki-merkuriya-v-khabarovske.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:35:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
