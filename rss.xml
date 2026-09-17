@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:44:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:45:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Приказ 555 против новых правил: что изменится для ветаптек</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-555-protiv-novykh-pravil-chto-izmenitsya-dlya-vetapte.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-555-protiv-novykh-pravil-chto-izmenitsya-dlya-vetapte.html</guid>
+    <pubDate>Thu, 17 Sep 2026 15:45:37 GMT</pubDate>
+  </item>
   <item>
     <title>Электронная подпись для ИП: как получить за 15 минут</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/elektronnaya-podpis-dlya-ip-kak-poluchit-za-15-minut.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-zakazat-videonablyudenie-dlya-pvz-ozon-v-khabarovske.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-zakazat-videonablyudenie-dlya-pvz-ozon-v-khabarovske.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:13:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Штрафы за расчёты без ККТ в 2026 году: обзор решений</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-raschyoty-bez-kkt-v-2026-godu-obzor-resheniy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-raschyoty-bez-kkt-v-2026-godu-obzor-resheniy.html</guid>
-    <pubDate>Thu, 17 Sep 2026 04:27:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
