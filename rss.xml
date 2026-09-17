@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:17:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:17:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Меркурий для самозанятых: обзор решений 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/merkuriy-dlya-samozanyatykh-obzor-resheniy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/merkuriy-dlya-samozanyatykh-obzor-resheniy-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:17:53 GMT</pubDate>
+  </item>
   <item>
     <title>Комплект аварийного сантехника: окупаемость за один выезд</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/komplekt-avariynogo-santekhnika-okupaemost-za-odin-vyezd.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/povrezhdenie-tovara-v-pvz-okupaemost-videofiksatsii.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/povrezhdenie-tovara-v-pvz-okupaemost-videofiksatsii.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:41:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ozon ПВЗ как микро-склад: гид для владельца</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ozon-pvz-kak-mikro-sklad-gid-dlya-vladeltsa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ozon-pvz-kak-mikro-sklad-gid-dlya-vladeltsa.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:40:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
