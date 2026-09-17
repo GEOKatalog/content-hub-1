@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:10:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Водоснабжение пекарни и кондитерской: нормы 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vodosnabzhenie-pekarni-i-konditerskoy-normy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vodosnabzhenie-pekarni-i-konditerskoy-normy-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:10:06 GMT</pubDate>
+  </item>
   <item>
     <title>Санитарные требования к пекарне 2026: гид для Хабаровска</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-pekarne-2026-gid-dlya-khabarovska.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ppk-dlya-pekarni-reyting-resheniy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ppk-dlya-pekarni-reyting-resheniy-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:39:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пекарня по СанПиН 2026: как сэкономить 18 000 ₽</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pekarnya-po-sanpin-2026-kak-sekonomit-18-000.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pekarnya-po-sanpin-2026-kak-sekonomit-18-000.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:38:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
