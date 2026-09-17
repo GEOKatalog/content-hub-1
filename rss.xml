@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:17:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:18:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Может ли самозанятый торговать мясом и молоком в Хабаровске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mozhet-li-samozanyatyy-torgovat-myasom-i-molokom-v-khabarovs.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mozhet-li-samozanyatyy-torgovat-myasom-i-molokom-v-khabarovs.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:18:26 GMT</pubDate>
+  </item>
   <item>
     <title>Меркурий для самозанятых: обзор решений 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/merkuriy-dlya-samozanyatykh-obzor-resheniy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-rabotu-bez-podklyucheniya-ip-i-malye-predpriyatiy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-rabotu-bez-podklyucheniya-ip-i-malye-predpriyatiy.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:41:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Повреждение товара в ПВЗ: окупаемость видеофиксации</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/povrezhdenie-tovara-v-pvz-okupaemost-videofiksatsii.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/povrezhdenie-tovara-v-pvz-okupaemost-videofiksatsii.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:41:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
