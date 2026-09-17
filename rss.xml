@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:38:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Внедрение маркировки кормов для зоомагазина в Хабаровске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vnedrenie-markirovki-kormov-dlya-zoomagazina-v-khabarovske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vnedrenie-markirovki-kormov-dlya-zoomagazina-v-khabarovske.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:38:53 GMT</pubDate>
+  </item>
   <item>
     <title>Маркировка кормов 2026: правила Честного знака для Хабаровска</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-kormov-2026-pravila-chestnogo-znaka-dlya-khabarov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/novye-pravila-veterinarnykh-aptek-chto-izmenitsya-v-2027-god.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/novye-pravila-veterinarnykh-aptek-chto-izmenitsya-v-2027-god.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:46:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Приказ 555 против новых правил: что изменится для ветаптек</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-555-protiv-novykh-pravil-chto-izmenitsya-dlya-vetapte.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-555-protiv-novykh-pravil-chto-izmenitsya-dlya-vetapte.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:45:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
