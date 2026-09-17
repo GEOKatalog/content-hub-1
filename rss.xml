@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:42:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:42:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Снизили цены на сырьё на 23%: кейс пекарни Хабаровска</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/snizili-tseny-na-syryo-na-23-keys-pekarni-khabarovska.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/snizili-tseny-na-syryo-na-23-keys-pekarni-khabarovska.html</guid>
+    <pubDate>Thu, 17 Sep 2026 15:42:48 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ 24557-2025: справочник для пекарни у дома</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-24557-2025-spravochnik-dlya-pekarni-u-doma.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ugolok-potrebitelya-na-zakaz-v-izhevske-katalog-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ugolok-potrebitelya-na-zakaz-v-izhevske-katalog-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 04:25:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы для открытия кафе в 2026 году: полный справочник</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-otkrytiya-kafe-v-2026-godu-polnyy-spravochnik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-otkrytiya-kafe-v-2026-godu-polnyy-spravochnik.html</guid>
-    <pubDate>Thu, 17 Sep 2026 04:25:06 GMT</pubDate>
   </item>
   </channel>
 </rss>
