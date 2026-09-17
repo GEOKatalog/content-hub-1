@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:19:10 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Гашение ВСД за 24 часа: окупаемость за месяц</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gashenie-vsd-za-24-chasa-okupaemost-za-mesyats.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gashenie-vsd-za-24-chasa-okupaemost-za-mesyats.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:19:10 GMT</pubDate>
+  </item>
   <item>
     <title>Гашение ВСД в Меркурии за 24 часа: сервис для фермеров</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gashenie-vsd-v-merkurii-za-24-chasa-servis-dlya-fermerov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-v-telegram-dlya-tochek-u-doma-pravila-i-okhvat.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-v-telegram-dlya-tochek-u-doma-pravila-i-okhvat.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:18:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Объявления для дома в Telegram: район против листовок</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-dlya-doma-v-telegram-rayon-protiv-listovok.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-dlya-doma-v-telegram-rayon-protiv-listovok.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:18:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
