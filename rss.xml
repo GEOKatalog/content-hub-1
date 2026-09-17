@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:25:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:25:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Уголок потребителя на заказ в Ижевске: каталог 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ugolok-potrebitelya-na-zakaz-v-izhevske-katalog-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ugolok-potrebitelya-na-zakaz-v-izhevske-katalog-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 04:25:24 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для открытия кафе в 2026 году: полный справочник</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-otkrytiya-kafe-v-2026-godu-polnyy-spravochnik.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-klyuchevye-slova-gid-po-semantike-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-podobrat-klyuchevye-slova-gid-po-semantike-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:08:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Инструменты для определения интента запросов в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/instrumenty-dlya-opredeleniya-intenta-zaprosov-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/instrumenty-dlya-opredeleniya-intenta-zaprosov-v-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:06:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
