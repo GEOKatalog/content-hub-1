@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:33:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:33:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Норматив выезда аварийного сантехника в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativ-vyezda-avariynogo-santekhnika-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativ-vyezda-avariynogo-santekhnika-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:33:23 GMT</pubDate>
+  </item>
   <item>
     <title>Сверка ФИО, ИНН и паспорта: инструкция для ПВЗ 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-fio-inn-i-pasporta-instruktsiya-dlya-pvz-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodovolstvennyy-magazin-vodosnabzhenie-i-vodootvedenie.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodovolstvennyy-magazin-vodosnabzhenie-i-vodootvedenie.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:34:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как покупатели находят продавца в Telegram и Авито 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pokupateli-nakhodyat-prodavtsa-v-telegram-i-avito-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-pokupateli-nakhodyat-prodavtsa-v-telegram-i-avito-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:34:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
