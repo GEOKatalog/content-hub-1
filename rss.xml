@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:19:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ветеринарные аптеки 2026: лицензия и правила</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/veterinarnye-apteki-2026-litsenziya-i-pravila.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/veterinarnye-apteki-2026-litsenziya-i-pravila.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:19:49 GMT</pubDate>
+  </item>
   <item>
     <title>Оферта Ozon для ПВЗ: обзор изменений 2026 года</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oferta-ozon-dlya-pvz-obzor-izmeneniy-2026-goda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-kafe-po-sanpin-4282-26-chto-izmenitsya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-kafe-po-sanpin-4282-26-chto-izmenitsya.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:19:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Вентиляция кафе по СанПиН 2026: нормы и цены</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-kafe-po-sanpin-2026-normy-i-tseny.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-kafe-po-sanpin-2026-normy-i-tseny.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:19:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
