@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:49:19 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налоговый режим и касса в 2026: кого освободили</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovyy-rezhim-i-kassa-v-2026-kogo-osvobodili.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovyy-rezhim-i-kassa-v-2026-kogo-osvobodili.html</guid>
+    <pubDate>Thu, 17 Sep 2026 15:49:19 GMT</pubDate>
+  </item>
   <item>
     <title>Онлайн-касса для фермерской лавки в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-kassa-dlya-fermerskoy-lavki-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mobilnaya-torgovlya-na-yarmarkakh-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mobilnaya-torgovlya-na-yarmarkakh-spravochnik-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:17:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Видеонаблюдение для ПВЗ Wildberries и Ozon 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/videonablyudenie-dlya-pvz-wildberries-i-ozon-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/videonablyudenie-dlya-pvz-wildberries-i-ozon-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:16:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
