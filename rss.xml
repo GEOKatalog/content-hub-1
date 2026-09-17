@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:24:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:24:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Новые правила маркетплейсов для ПВЗ с 1 октября 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/novye-pravila-marketpleysov-dlya-pvz-s-1-oktyabrya-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/novye-pravila-marketpleysov-dlya-pvz-s-1-oktyabrya-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:24:55 GMT</pubDate>
+  </item>
   <item>
     <title>Штраф по ст. 14.43 КоАП: риски для ПВЗ 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-po-st-14-43-koap-riski-dlya-pvz-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-protiv-sp-60-chto-vazhnee-dlya-kukhni-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-protiv-sp-60-chto-vazhnee-dlya-kukhni-v-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:24:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Вентиляция для общепита в 2026: нормы, штрафы, исполнители</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-dlya-obshchepita-v-2026-normy-shtrafy-ispolnit.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ventilyatsiya-dlya-obshchepita-v-2026-normy-shtrafy-ispolnit.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:24:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
