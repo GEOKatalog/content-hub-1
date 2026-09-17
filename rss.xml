@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:34:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:34:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Санитарные требования к пекарне в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-pekarne-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-pekarne-v-2026-godu.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:34:31 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для ярмарки 2026: рейтинг лучших решений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-yarmarki-2026-reyting-luchshikh-resheniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-kafe-i-strit-fuda-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-kafe-i-strit-fuda-spravochnik-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:36:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как войти в схему НТО и получить договор на стрит-фуд в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-voyti-v-skhemu-nto-i-poluchit-dogovor-na-strit-fud-v-202.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-voyti-v-skhemu-nto-i-poluchit-dogovor-na-strit-fud-v-202.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:35:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
