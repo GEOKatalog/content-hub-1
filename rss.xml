@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:09:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Санитарные требования к пекарне 2026: гид для Хабаровска</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-pekarne-2026-gid-dlya-khabarovska.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-pekarne-2026-gid-dlya-khabarovska.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:09:51 GMT</pubDate>
+  </item>
   <item>
     <title>СП 2.3.6.4281-26: сезонная торговля овощами в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-sezonnaya-torgovlya-ovoshchami-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pekarnya-po-sanpin-2026-kak-sekonomit-18-000.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pekarnya-po-sanpin-2026-kak-sekonomit-18-000.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:38:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>ППК для пекарни: обновить до 1 сентября 2026 года</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ppk-dlya-pekarni-obnovit-do-1-sentyabrya-2026-goda.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ppk-dlya-pekarni-obnovit-do-1-sentyabrya-2026-goda.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:38:23 GMT</pubDate>
   </item>
   </channel>
 </rss>
