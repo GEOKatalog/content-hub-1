@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:16:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Согласование планировки ПВЗ WB: инструкция 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/soglasovanie-planirovki-pvz-wb-instruktsiya-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/soglasovanie-planirovki-pvz-wb-instruktsiya-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:16:28 GMT</pubDate>
+  </item>
   <item>
     <title>Требования к зоомагазину с животными в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-zoomagazinu-s-zhivotnymi-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/format-i-lokatsiya-dlya-torgovli-v-khabarovske-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/format-i-lokatsiya-dlya-torgovli-v-khabarovske-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:39:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ 24557-2025 на сдобу: справочник для пекарен 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-24557-2025-na-sdobu-spravochnik-dlya-pekaren-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-24557-2025-na-sdobu-spravochnik-dlya-pekaren-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:39:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
