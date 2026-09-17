@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:30:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:30:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Контроль S. aureus в пекарне: окупаемость за 2 месяца</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kontrol-s-aureus-v-pekarne-okupaemost-za-2-mesyatsa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kontrol-s-aureus-v-pekarne-okupaemost-za-2-mesyatsa.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:30:32 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН для пекарни и кондитерской с 2026 года</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-pekarni-i-konditerskoy-s-2026-goda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-telegram-2026-pravila-i-algoritmy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-telegram-2026-pravila-i-algoritmy.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:31:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка нежилого помещения 2026: гид по статусу и входу</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nezhilogo-pomeshcheniya-2026-gid-po-statusu-i-vkhod.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-nezhilogo-pomeshcheniya-2026-gid-po-statusu-i-vkhod.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:30:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
