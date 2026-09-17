@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:32:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:33:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сверка ФИО, ИНН и паспорта: инструкция для ПВЗ 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-fio-inn-i-pasporta-instruktsiya-dlya-pvz-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-fio-inn-i-pasporta-instruktsiya-dlya-pvz-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:33:09 GMT</pubDate>
+  </item>
   <item>
     <title>Сверка ФИО, ИНН и адреса до 1 октября 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-fio-inn-i-adresa-do-1-oktyabrya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pokupateli-nakhodyat-prodavtsa-v-telegram-i-avito-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-pokupateli-nakhodyat-prodavtsa-v-telegram-i-avito-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:34:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Требования к магазину на первом этаже жилого дома в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-magazinu-na-pervom-etazhe-zhilogo-doma-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-magazinu-na-pervom-etazhe-zhilogo-doma-v-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:33:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
