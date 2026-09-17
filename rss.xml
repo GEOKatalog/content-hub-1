@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:20:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ОКВЭД для бытовых услуг в 2026: полный перечень</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/okved-dlya-bytovykh-uslug-v-2026-polnyy-perechen.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okved-dlya-bytovykh-uslug-v-2026-polnyy-perechen.html</guid>
+    <pubDate>Thu, 17 Sep 2026 04:20:28 GMT</pubDate>
+  </item>
   <item>
     <title>Мораторий на проверки МСП 2026: как защититься</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/moratoriy-na-proverki-msp-2026-kak-zashchititsya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samootsenka-soft-skills-chek-list-kompetentsiy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/samootsenka-soft-skills-chek-list-kompetentsiy-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 14:09:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Базовый пакет документов для поступления в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/bazovyy-paket-dokumentov-dlya-postupleniya-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/bazovyy-paket-dokumentov-dlya-postupleniya-v-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 14:07:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
