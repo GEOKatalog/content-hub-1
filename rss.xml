@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:50:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:51:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ПВЗ и зоомагазины 2026: критерии выбора площадки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pvz-i-zoomagaziny-2026-kriterii-vybora-ploshchadki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pvz-i-zoomagaziny-2026-kriterii-vybora-ploshchadki.html</guid>
+    <pubDate>Thu, 17 Sep 2026 15:51:09 GMT</pubDate>
+  </item>
   <item>
     <title>Требования к помещению для ПВЗ Ozon и Wildberries 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-pomeshcheniyu-dlya-pvz-ozon-i-wildberries-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gashenie-vsd-za-24-chasa-okupaemost-za-mesyats.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gashenie-vsd-za-24-chasa-okupaemost-za-mesyats.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:19:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Гашение ВСД в Меркурии за 24 часа: сервис для фермеров</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gashenie-vsd-v-merkurii-za-24-chasa-servis-dlya-fermerov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gashenie-vsd-v-merkurii-za-24-chasa-servis-dlya-fermerov.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:18:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
