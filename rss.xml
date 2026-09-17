@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:31:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:31:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН 2026 для магазина у дома в Хабаровске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-dlya-magazina-u-doma-v-khabarovske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-dlya-magazina-u-doma-v-khabarovske.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:31:48 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг сантехников-аварийщиков Хабаровска 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-santekhnikov-avariyshchikov-khabarovska-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zagruzka-so-dvora-i-shum-kholodilnikov-normy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zagruzka-so-dvora-i-shum-kholodilnikov-normy-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:32:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Требования Роспотребнадзора к магазину в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-rospotrebnadzora-k-magazinu-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-rospotrebnadzora-k-magazinu-v-2026-godu.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:32:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
