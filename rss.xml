@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:36:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:36:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Блокировка в Меркурии: как точечному магазину избежать потерь</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/blokirovka-v-merkurii-kak-tochechnomu-magazinu-izbezhat-pote.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/blokirovka-v-merkurii-kak-tochechnomu-magazinu-izbezhat-pote.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:36:46 GMT</pubDate>
+  </item>
   <item>
     <title>Оборудование для мини-склада Ozon в ПВЗ: каталог 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oborudovanie-dlya-mini-sklada-ozon-v-pvz-katalog-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-pvz-po-vozvratu-tovarov-s-1-oktyabrya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-pvz-po-vozvratu-tovarov-s-1-oktyabrya-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:43:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как пекарня в Хабаровске нашла 4 поставщиков сырья</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pekarnya-v-khabarovske-nashla-4-postavshchikov-syrya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-pekarnya-v-khabarovske-nashla-4-postavshchikov-syrya.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:43:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
