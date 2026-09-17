@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:56:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:57:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Учет влажности муки: 1С, Excel или калькулятор</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/uchet-vlazhnosti-muki-1s-excel-ili-kalkulyator.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uchet-vlazhnosti-muki-1s-excel-ili-kalkulyator.html</guid>
+    <pubDate>Thu, 17 Sep 2026 19:57:06 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для сезонной торговли в Хабаровске 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-sezonnoy-torgovli-v-khabarovske-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-pekarni-2026-obzor-klyuchevykh-trebovaniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-pekarni-2026-obzor-klyuchevykh-trebovaniy.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:26:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Хабаровск: фермерская лавка по СП 2.3.6.4281-26 в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/khabarovsk-fermerskaya-lavka-po-sp-2-3-6-4281-26-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/khabarovsk-fermerskaya-lavka-po-sp-2-3-6-4281-26-v-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:26:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
