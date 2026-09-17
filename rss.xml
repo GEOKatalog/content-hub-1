@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:03:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:03:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Требования Wildberries к ПВЗ в 2026: полный справочник</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-wildberries-k-pvz-v-2026-polnyy-spravochnik.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-wildberries-k-pvz-v-2026-polnyy-spravochnik.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:03:41 GMT</pubDate>
+  </item>
   <item>
     <title>Аварии на кухне: как действовать владельцам пекарен</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/avarii-na-kukhne-kak-deystvovat-vladeltsam-pekaren.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vladeltsev-pvz-zakon-o-platformennoy-ekonomike-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-vladeltsev-pvz-zakon-o-platformennoy-ekonomike-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:32:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Автоматизация магазина у дома: касса и сканер в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/avtomatizatsiya-magazina-u-doma-kassa-i-skaner-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/avtomatizatsiya-magazina-u-doma-kassa-i-skaner-v-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:31:58 GMT</pubDate>
   </item>
   </channel>
 </rss>
