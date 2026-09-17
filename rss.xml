@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:37:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка уведомлений Роспотребнадзора: ROI платформ 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-uvedomleniy-rospotrebnadzora-roi-platform-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-uvedomleniy-rospotrebnadzora-roi-platform-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:37:08 GMT</pubDate>
+  </item>
   <item>
     <title>Перекрыть воду при аварии: кран на вводе или стояке</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/perekryt-vodu-pri-avarii-kran-na-vvode-ili-stoyake.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vyveska-dlya-magazina-v-izhevske-byudzhet-do-10-000.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vyveska-dlya-magazina-v-izhevske-byudzhet-do-10-000.html</guid>
     <pubDate>Thu, 17 Sep 2026 04:15:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Требования к вывеске магазина у дома 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-vyveske-magazina-u-doma-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-vyveske-magazina-u-doma-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 04:15:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
