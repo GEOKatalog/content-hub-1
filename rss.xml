@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:36:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:36:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация в Честном ЗНАКе 2026: сравнение путей</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-chestnom-znake-2026-sravnenie-putey.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-chestnom-znake-2026-sravnenie-putey.html</guid>
+    <pubDate>Thu, 17 Sep 2026 15:36:55 GMT</pubDate>
+  </item>
   <item>
     <title>Фермерский рынок 2026: окупаемость легальной точки</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/fermerskiy-rynok-2026-okupaemost-legalnoy-tochki.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-rospotrebnadzora-dlya-magazina-u-doma-v-2026-god.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-rospotrebnadzora-dlya-magazina-u-doma-v-2026-god.html</guid>
     <pubDate>Thu, 17 Sep 2026 04:21:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Уведомление для салонов Ижевска: проверка базы 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-dlya-salonov-izhevska-proverka-bazy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-dlya-salonov-izhevska-proverka-bazy-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 04:21:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
