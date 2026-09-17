@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:39:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ 24557-2025 на сдобу: справочник для пекарен 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-24557-2025-na-sdobu-spravochnik-dlya-pekaren-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-24557-2025-na-sdobu-spravochnik-dlya-pekaren-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 15:39:00 GMT</pubDate>
+  </item>
   <item>
     <title>Норматив ТКО для магазина у дома: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativ-tko-dlya-magazina-u-doma-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-okved-i-okpd-2-kak-ne-poteryat-kanikuly-v-izhevske.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-okved-i-okpd-2-kak-ne-poteryat-kanikuly-v-izhevske.html</guid>
     <pubDate>Thu, 17 Sep 2026 04:22:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Правовой аудит для малого бизнеса в Ижевске: цены и исполнители</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravovoy-audit-dlya-malogo-biznesa-v-izhevske-tseny-i-ispoln.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravovoy-audit-dlya-malogo-biznesa-v-izhevske-tseny-i-ispoln.html</guid>
-    <pubDate>Thu, 17 Sep 2026 04:22:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
