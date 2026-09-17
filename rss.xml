@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:10:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:10:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Требования Wildberries к помещению ПВЗ 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-wildberries-k-pomeshcheniyu-pvz-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-wildberries-k-pomeshcheniyu-pvz-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:10:22 GMT</pubDate>
+  </item>
   <item>
     <title>Водоснабжение пекарни и кондитерской: нормы 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vodosnabzhenie-pekarni-i-konditerskoy-normy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-pvz-v-zhilom-dome-gid-dlya-khabarovska-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-pvz-v-zhilom-dome-gid-dlya-khabarovska-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:39:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>ППК для пекарни: рейтинг решений 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ppk-dlya-pekarni-reyting-resheniy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ppk-dlya-pekarni-reyting-resheniy-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:39:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
