@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:26:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:26:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Новые СанПиН для пекарни: что изменилось в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/novye-sanpin-dlya-pekarni-chto-izmenilos-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/novye-sanpin-dlya-pekarni-chto-izmenilos-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:26:45 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН для пекарни 2026: обзор ключевых требований</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-pekarni-2026-obzor-klyuchevykh-trebovaniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/programma-ucheta-dlya-magazina-u-doma-v-izhevske-tseny-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/programma-ucheta-dlya-magazina-u-doma-v-izhevske-tseny-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:27:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Купить программу учета для магазина у дома в Ижевске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-programmu-ucheta-dlya-magazina-u-doma-v-izhevske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-programmu-ucheta-dlya-magazina-u-doma-v-izhevske.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:26:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
