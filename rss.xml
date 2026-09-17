@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:16:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:16:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Автоматический риск 2026: легализация аренды в Ижевске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/avtomaticheskiy-risk-2026-legalizatsiya-arendy-v-izhevske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/avtomaticheskiy-risk-2026-legalizatsiya-arendy-v-izhevske.html</guid>
+    <pubDate>Thu, 17 Sep 2026 04:16:13 GMT</pubDate>
+  </item>
   <item>
     <title>Серая аренда под контролем: легализация в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/seraya-arenda-pod-kontrolem-legalizatsiya-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nulevaya-otchetnost-2026-shtrafy-otmeneny-pravila-izmeneny.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nulevaya-otchetnost-2026-shtrafy-otmeneny-pravila-izmeneny.html</guid>
     <pubDate>Wed, 16 Sep 2026 13:42:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда под вечеринку во Владивостоке: бюджет 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-pod-vecherinku-vo-vladivostoke-byudzhet-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-pod-vecherinku-vo-vladivostoke-byudzhet-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 13:42:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
