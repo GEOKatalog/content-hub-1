@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:39:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Бренд-бук Ozon и WB для ПВЗ Хабаровска в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/brend-buk-ozon-i-wb-dlya-pvz-khabarovska-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/brend-buk-ozon-i-wb-dlya-pvz-khabarovska-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:39:35 GMT</pubDate>
+  </item>
   <item>
     <title>СП 2.3.6.4281-26: окупаемость вложений в водоснабжение</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-okupaemost-vlozheniy-v-vodosnabzhenie.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/merkuriy-medknizhka-i-vse-pravila-torgovli-myasom-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/merkuriy-medknizhka-i-vse-pravila-torgovli-myasom-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:46:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Торговля мясом в 2026: правила для фермеров и самозанятых</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/torgovlya-myasom-v-2026-pravila-dlya-fermerov-i-samozanyatyk.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/torgovlya-myasom-v-2026-pravila-dlya-fermerov-i-samozanyatyk.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:46:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
