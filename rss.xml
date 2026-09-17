@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:41:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Штрафы за работу без подключения: ИП и малые предприятия</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-rabotu-bez-podklyucheniya-ip-i-malye-predpriyatiy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-rabotu-bez-podklyucheniya-ip-i-malye-predpriyatiy.html</guid>
+    <pubDate>Thu, 17 Sep 2026 15:41:44 GMT</pubDate>
+  </item>
   <item>
     <title>Повреждение товара в ПВЗ: окупаемость видеофиксации</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/povrezhdenie-tovara-v-pvz-okupaemost-videofiksatsii.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-rospotrebnadzora-dlya-magazina-u-doma-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-rospotrebnadzora-dlya-magazina-u-doma-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 04:24:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Автоматизация кафе 2026: окупаемость за 3 месяца</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/avtomatizatsiya-kafe-2026-okupaemost-za-3-mesyatsa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/avtomatizatsiya-kafe-2026-okupaemost-za-3-mesyatsa.html</guid>
-    <pubDate>Thu, 17 Sep 2026 04:24:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
