@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:00:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Хлеб до 30 суток: маркировка не нужна в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/khleb-do-30-sutok-markirovka-ne-nuzhna-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/khleb-do-30-sutok-markirovka-ne-nuzhna-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:00:35 GMT</pubDate>
+  </item>
   <item>
     <title>Маркировка сладостей 2026: кто освобожден от Честного знака</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-sladostey-2026-kto-osvobozhden-ot-chestnogo-znaka.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-i-razresheniya-dlya-fermerskoy-lavki-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-i-razresheniya-dlya-fermerskoy-lavki-v-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:30:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Регистрация ИП или ООО и выбор ОКВЭД 47.11 в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-ili-ooo-i-vybor-okved-47-11-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-ip-ili-ooo-i-vybor-okved-47-11-v-2026-godu.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:29:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
