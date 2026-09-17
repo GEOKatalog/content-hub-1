@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:55:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:56:10 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сервис автоматизации магазина у дома с ЭДО и маркировкой</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/servis-avtomatizatsii-magazina-u-doma-s-edo-i-markirovkoy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/servis-avtomatizatsii-magazina-u-doma-s-edo-i-markirovkoy.html</guid>
+    <pubDate>Thu, 17 Sep 2026 19:56:10 GMT</pubDate>
+  </item>
   <item>
     <title>Меркурий для ИП 2026: регистрация и работа в рознице</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/merkuriy-dlya-ip-2026-registratsiya-i-rabota-v-roznitse.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zakon-289-fz-dlya-sellerov-khabarovska-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakon-289-fz-dlya-sellerov-khabarovska-v-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:25:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сроки аварийного реагирования сантехника в Хабаровске: нормативы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sroki-avariynogo-reagirovaniya-santekhnika-v-khabarovske-nor.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sroki-avariynogo-reagirovaniya-santekhnika-v-khabarovske-nor.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:25:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
