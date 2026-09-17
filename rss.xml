@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:37:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:38:04 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Блокировка в Меркурии: как магазину избежать потерь</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/blokirovka-v-merkurii-kak-magazinu-izbezhat-poter.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/blokirovka-v-merkurii-kak-magazinu-izbezhat-poter.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:38:04 GMT</pubDate>
+  </item>
   <item>
     <title>Гашение ВСД в Хабаровске: ручной труд или автоматизация</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gashenie-vsd-v-khabarovske-ruchnoy-trud-ili-avtomatizatsiya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/elektronnaya-podpis-dlya-ip-kak-poluchit-za-15-minut.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/elektronnaya-podpis-dlya-ip-kak-poluchit-za-15-minut.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:44:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как фермерской лавке в Хабаровске войти в Меркурий в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-fermerskoy-lavke-v-khabarovske-voyti-v-merkuriy-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-fermerskoy-lavke-v-khabarovske-voyti-v-merkuriy-v-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:44:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
