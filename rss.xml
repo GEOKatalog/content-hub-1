@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:22:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:22:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ПВЗ в частном доме: правила 2026 и выбор площадки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pvz-v-chastnom-dome-pravila-2026-i-vybor-ploshchadki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pvz-v-chastnom-dome-pravila-2026-i-vybor-ploshchadki.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:22:35 GMT</pubDate>
+  </item>
   <item>
     <title>Новый СанПиН для пекарни и кондитерской с 2026 года</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/novyy-sanpin-dlya-pekarni-i-konditerskoy-s-2026-goda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/poiskovyy-intent-vidy-i-kak-opredelit-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/poiskovyy-intent-vidy-i-kak-opredelit-v-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:22:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Поисковый интент 2026: окупаемость каналов за 4 недели</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/poiskovyy-intent-2026-okupaemost-kanalov-za-4-nedeli.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/poiskovyy-intent-2026-okupaemost-kanalov-za-4-nedeli.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:22:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
