@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:18:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:18:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аналитика WB и Ozon: какой сервис выбрать в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/analitika-wb-i-ozon-kakoy-servis-vybrat-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/analitika-wb-i-ozon-kakoy-servis-vybrat-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 04:18:51 GMT</pubDate>
+  </item>
   <item>
     <title>Плановые проверки МСП в 2026 году: мораторий и что дальше</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/planovye-proverki-msp-v-2026-godu-moratoriy-i-chto-dalshe.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/spetsializatsiya-i-portfolio-frilansera-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/spetsializatsiya-i-portfolio-frilansera-gid-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 14:02:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как заказать организатора мероприятий во Владивостоке</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zakazat-organizatora-meropriyatiy-vo-vladivostoke.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zakazat-organizatora-meropriyatiy-vo-vladivostoke.html</guid>
-    <pubDate>Wed, 16 Sep 2026 13:59:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
