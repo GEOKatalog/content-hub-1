@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:09:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СП 2.3.6.4281-26: сезонная торговля овощами в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-sezonnaya-torgovlya-ovoshchami-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-sezonnaya-torgovlya-ovoshchami-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:09:35 GMT</pubDate>
+  </item>
   <item>
     <title>Водоснабжение для фермерских лавок: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vodosnabzhenie-dlya-fermerskikh-lavok-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ppk-dlya-pekarni-obnovit-do-1-sentyabrya-2026-goda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ppk-dlya-pekarni-obnovit-do-1-sentyabrya-2026-goda.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:38:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Алгоритм выбора формы бизнеса для фермерской лавки 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-vybora-formy-biznesa-dlya-fermerskoy-lavki-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-vybora-formy-biznesa-dlya-fermerskoy-lavki-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:38:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
