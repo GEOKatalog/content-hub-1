@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:35:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:35:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ФОТ, НДФЛ и взносы для ПВЗ в Хабаровске в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/fot-ndfl-i-vznosy-dlya-pvz-v-khabarovske-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/fot-ndfl-i-vznosy-dlya-pvz-v-khabarovske-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:35:33 GMT</pubDate>
+  </item>
   <item>
     <title>Налоги ИП за работников в 2026: взносы и НДФЛ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-ip-za-rabotnikov-v-2026-vznosy-i-ndfl.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodovolstvennyy-magazin-voda-i-kanalizatsiya-po-sp-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodovolstvennyy-magazin-voda-i-kanalizatsiya-po-sp-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 18:37:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Договор без реквизитов: риски бытовых услуг в Ижевске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-bez-rekvizitov-riski-bytovykh-uslug-v-izhevske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-bez-rekvizitov-riski-bytovykh-uslug-v-izhevske.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:36:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
