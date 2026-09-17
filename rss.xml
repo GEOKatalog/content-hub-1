@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:59:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:59:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Маркировка кондитерских изделий 2026: сроки и этапы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-konditerskikh-izdeliy-2026-sroki-i-etapy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-konditerskikh-izdeliy-2026-sroki-i-etapy.html</guid>
+    <pubDate>Thu, 17 Sep 2026 19:59:43 GMT</pubDate>
+  </item>
   <item>
     <title>Правила торговли на частной земле для самозанятых с 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-torgovli-na-chastnoy-zemle-dlya-samozanyatykh-s-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-otkrytiya-produktovogo-magazina-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-otkrytiya-produktovogo-magazina-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:29:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>СП 2.3.6.4281-26: содержание инженерных систем</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-soderzhanie-inzhenernykh-sistem.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-soderzhanie-inzhenernykh-sistem.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:29:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
