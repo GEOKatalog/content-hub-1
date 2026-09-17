@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:23:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:23:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Уведомление Роспотребнадзора для магазина у дома в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-rospotrebnadzora-dlya-magazina-u-doma-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-rospotrebnadzora-dlya-magazina-u-doma-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 04:23:14 GMT</pubDate>
+  </item>
   <item>
     <title>Налоговые каникулы в Ижевске: сверка ОКВЭД и ОКПД 2 в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovye-kanikuly-v-izhevske-sverka-okved-i-okpd-2-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-rukovodstvo-dlya-obshchepita.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-rukovodstvo-dlya-obshchepita.html</guid>
     <pubDate>Wed, 16 Sep 2026 17:53:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Уведомление Роспотребнадзора для магазина у дома в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-rospotrebnadzora-dlya-magazina-u-doma-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uvedomlenie-rospotrebnadzora-dlya-magazina-u-doma-v-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 17:49:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
