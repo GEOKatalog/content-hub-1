@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:08:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:08:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Санитарные требования к сезонной торговле овощами 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-sezonnoy-torgovle-ovoshchami-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-sezonnoy-torgovle-ovoshchami-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:08:37 GMT</pubDate>
+  </item>
   <item>
     <title>Коды аварийных работ сантехники Хабаровск: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kody-avariynykh-rabot-santekhniki-khabarovsk-spravochnik-202.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-fermerskoy-lavki-v-khabarovske-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-fermerskoy-lavki-v-khabarovske-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:37:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка уведомлений Роспотребнадзора: ROI платформ 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-uvedomleniy-rospotrebnadzora-roi-platform-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-uvedomleniy-rospotrebnadzora-roi-platform-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:37:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
