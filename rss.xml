@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:38:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:39:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ППК для пекарни: рейтинг решений 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ppk-dlya-pekarni-reyting-resheniy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ppk-dlya-pekarni-reyting-resheniy-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:39:16 GMT</pubDate>
+  </item>
   <item>
     <title>Пекарня по СанПиН 2026: как сэкономить 18 000 ₽</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pekarnya-po-sanpin-2026-kak-sekonomit-18-000.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-obshchepita-s-1-sentyabrya-2026-gid.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-obshchepita-s-1-sentyabrya-2026-gid.html</guid>
     <pubDate>Thu, 17 Sep 2026 04:17:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Инвентаризация недвижимости 2026: доходы под контроль</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-nedvizhimosti-2026-dokhody-pod-kontrol.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-nedvizhimosti-2026-dokhody-pod-kontrol.html</guid>
-    <pubDate>Thu, 17 Sep 2026 04:16:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
