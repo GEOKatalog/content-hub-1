@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:38:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:38:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Маркировка кормов 2026: правила Честного знака для Хабаровска</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-kormov-2026-pravila-chestnogo-znaka-dlya-khabarov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-kormov-2026-pravila-chestnogo-znaka-dlya-khabarov.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:38:21 GMT</pubDate>
+  </item>
   <item>
     <title>Блокировка в Меркурии: как магазину избежать потерь</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/blokirovka-v-merkurii-kak-magazinu-izbezhat-poter.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-555-protiv-novykh-pravil-chto-izmenitsya-dlya-vetapte.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-555-protiv-novykh-pravil-chto-izmenitsya-dlya-vetapte.html</guid>
     <pubDate>Thu, 17 Sep 2026 15:45:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Электронная подпись для ИП: как получить за 15 минут</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/elektronnaya-podpis-dlya-ip-kak-poluchit-za-15-minut.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/elektronnaya-podpis-dlya-ip-kak-poluchit-za-15-minut.html</guid>
-    <pubDate>Thu, 17 Sep 2026 15:44:56 GMT</pubDate>
   </item>
   </channel>
 </rss>
