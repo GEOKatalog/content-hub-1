@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:35:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:35:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы для зоомагазина в Роспотребнадзор 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-zoomagazina-v-rospotrebnadzor-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-zoomagazina-v-rospotrebnadzor-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 10:35:57 GMT</pubDate>
+  </item>
   <item>
     <title>ФОТ, НДФЛ и взносы для ПВЗ в Хабаровске в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/fot-ndfl-i-vznosy-dlya-pvz-v-khabarovske-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kakoy-kod-okved-vybrat-dlya-klininga-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakoy-kod-okved-vybrat-dlya-klininga-v-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 04:14:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продовольственный магазин: вода и канализация по СП 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodovolstvennyy-magazin-voda-i-kanalizatsiya-po-sp-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodovolstvennyy-magazin-voda-i-kanalizatsiya-po-sp-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 18:37:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
