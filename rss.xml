@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:47:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:47:29 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Микробиология кремовых изделий в Хабаровске 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mikrobiologiya-kremovykh-izdeliy-v-khabarovske-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mikrobiologiya-kremovykh-izdeliy-v-khabarovske-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 15:47:29 GMT</pubDate>
+  </item>
   <item>
     <title>Лабораторный контроль пекарни: рейтинг решений 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/laboratornyy-kontrol-pekarni-reyting-resheniy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/torgovlya-s-koles-na-yarmarke-pravila-dlya-fermerov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/torgovlya-s-koles-na-yarmarke-pravila-dlya-fermerov.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:15:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Медосмотр для зоомагазина: виды и перечень 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/medosmotr-dlya-zoomagazina-vidy-i-perechen-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/medosmotr-dlya-zoomagazina-vidy-i-perechen-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:15:23 GMT</pubDate>
   </item>
   </channel>
 </rss>
