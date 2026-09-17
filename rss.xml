@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:43:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:43:27 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Требования к ПВЗ по возврату товаров с 1 октября 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-pvz-po-vozvratu-tovarov-s-1-oktyabrya-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-pvz-po-vozvratu-tovarov-s-1-oktyabrya-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 15:43:27 GMT</pubDate>
+  </item>
   <item>
     <title>Как пекарня в Хабаровске нашла 4 поставщиков сырья</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pekarnya-v-khabarovske-nashla-4-postavshchikov-syrya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-za-chek-i-ugolok-potrebitelya-v-izhevske-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-za-chek-i-ugolok-potrebitelya-v-izhevske-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 04:26:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Штрафы 2026: уголок потребителя и непробитый чек</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-2026-ugolok-potrebitelya-i-neprobityy-chek.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-2026-ugolok-potrebitelya-i-neprobityy-chek.html</guid>
-    <pubDate>Thu, 17 Sep 2026 04:25:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
