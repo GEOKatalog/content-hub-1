@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:16:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Серая аренда под контролем: легализация в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/seraya-arenda-pod-kontrolem-legalizatsiya-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/seraya-arenda-pod-kontrolem-legalizatsiya-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 04:16:01 GMT</pubDate>
+  </item>
   <item>
     <title>Вывеска для магазина в Ижевске: бюджет до 10 000 ₽</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vyveska-dlya-magazina-v-izhevske-byudzhet-do-10-000.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-pod-vecherinku-vo-vladivostoke-byudzhet-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-pod-vecherinku-vo-vladivostoke-byudzhet-2026.html</guid>
     <pubDate>Wed, 16 Sep 2026 13:42:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Снять квартиру для вечеринки во Владивостоке: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-kvartiru-dlya-vecherinki-vo-vladivostoke-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyat-kvartiru-dlya-vecherinki-vo-vladivostoke-gid-2026.html</guid>
-    <pubDate>Wed, 16 Sep 2026 13:41:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
