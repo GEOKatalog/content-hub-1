@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:44:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:44:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как фермерской лавке в Хабаровске войти в Меркурий в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-fermerskoy-lavke-v-khabarovske-voyti-v-merkuriy-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-fermerskoy-lavke-v-khabarovske-voyti-v-merkuriy-v-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 15:44:30 GMT</pubDate>
+  </item>
   <item>
     <title>Новые правила для ветаптек с 1 марта 2027</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/novye-pravila-dlya-vetaptek-s-1-marta-2027.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-rieltoru-v-izhevske-sekonomit-na-nalogakh-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-rieltoru-v-izhevske-sekonomit-na-nalogakh-v-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 04:26:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы в уголке потребителя для риелтора 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-v-ugolke-potrebitelya-dlya-rieltora-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-v-ugolke-potrebitelya-dlya-rieltora-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 04:26:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
