@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:07:27 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Реестр аварийных работ ЖКХ Хабаровска 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-avariynykh-rabot-zhkkh-khabarovska-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reestr-avariynykh-rabot-zhkkh-khabarovska-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:07:27 GMT</pubDate>
+  </item>
   <item>
     <title>Коды аварийных работ сантехники в Хабаровске 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kody-avariynykh-rabot-santekhniki-v-khabarovske-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazannosti-avariynoy-santekhsluzhby-nochyu-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyazannosti-avariynoy-santekhsluzhby-nochyu-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:36:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы для зоомагазина в Роспотребнадзор 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-zoomagazina-v-rospotrebnadzor-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-zoomagazina-v-rospotrebnadzor-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:35:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
