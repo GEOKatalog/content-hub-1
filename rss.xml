@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:52:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:52:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Хранение хлеба по новым правилам с 1 марта 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/khranenie-khleba-po-novym-pravilam-s-1-marta-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/khranenie-khleba-po-novym-pravilam-s-1-marta-2026.html</guid>
+    <pubDate>Thu, 17 Sep 2026 19:52:43 GMT</pubDate>
+  </item>
   <item>
     <title>Санитарные требования к пекарне в 2026: как избежать штрафов до 1 млн ₽</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanitarnye-trebovaniya-k-pekarne-v-2026-kak-izbezhat-shtrafo.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/novyy-sanpin-dlya-pekarni-i-konditerskoy-s-2026-goda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/novyy-sanpin-dlya-pekarni-i-konditerskoy-s-2026-goda.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:22:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>СанПиН 2026 для пекарен: зонирование и журналы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-dlya-pekaren-zonirovanie-i-zhurnaly.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-dlya-pekaren-zonirovanie-i-zhurnaly.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:22:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
