@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:10:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:11:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СП 2.3.6.4281-26: санитарные требования к магазину</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-sanitarnye-trebovaniya-k-magazinu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-sanitarnye-trebovaniya-k-magazinu.html</guid>
+    <pubDate>Thu, 17 Sep 2026 20:11:11 GMT</pubDate>
+  </item>
   <item>
     <title>Приёмка помещения маркетплейсом: риски и штрафы 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/priyomka-pomeshcheniya-marketpleysom-riski-i-shtrafy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zoomagazin-v-zhilom-dome-pravila-khabarovska-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zoomagazin-v-zhilom-dome-pravila-khabarovska-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 10:39:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аварийный сантехник: алгоритм снижения издержек УК</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/avariynyy-santekhnik-algoritm-snizheniya-izderzhek-uk.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/avariynyy-santekhnik-algoritm-snizheniya-izderzhek-uk.html</guid>
-    <pubDate>Thu, 17 Sep 2026 10:39:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
