@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:36:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:36:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как заполнять форму ПМ-пром в 2026 году: руководство</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zapolnyat-formu-pm-prom-v-2026-godu-rukovodstvo.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zapolnyat-formu-pm-prom-v-2026-godu-rukovodstvo.html</guid>
+    <pubDate>Fri, 18 Sep 2026 18:36:54 GMT</pubDate>
+  </item>
   <item>
     <title>Форма ПМ-пром 2026: обзор решений для малого бизнеса</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/forma-pm-prom-2026-obzor-resheniy-dlya-malogo-biznesa.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mgs-po-vkladam-2026-kak-chitat-dogovor-i-ne-teryat-dokhod.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mgs-po-vkladam-2026-kak-chitat-dogovor-i-ne-teryat-dokhod.html</guid>
     <pubDate>Fri, 18 Sep 2026 12:16:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Межевание участка в Оренбурге: без координат не продать</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mezhevanie-uchastka-v-orenburge-bez-koordinat-ne-prodat.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mezhevanie-uchastka-v-orenburge-bez-koordinat-ne-prodat.html</guid>
-    <pubDate>Fri, 18 Sep 2026 12:15:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
