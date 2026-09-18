@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:30:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:31:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Лицензионный статус сорта пшеницы 2026: матрица проверки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenzionnyy-status-sorta-pshenitsy-2026-matritsa-proverki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/litsenzionnyy-status-sorta-pshenitsy-2026-matritsa-proverki.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:31:34 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ 33756-2016: коды упаковки и маркировка 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-33756-2016-kody-upakovki-i-markirovka-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oborudovanie-dlya-mini-pekarni-v-khabarovske-pod-klyuch.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/oborudovanie-dlya-mini-pekarni-v-khabarovske-pod-klyuch.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:15:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>СанПиН для пекарни у дома: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-pekarni-u-doma-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-pekarni-u-doma-spravochnik-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:14:58 GMT</pubDate>
   </item>
   </channel>
 </rss>
