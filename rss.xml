@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:35:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Форма ПМ-пром 2026: каталог решений для малого производства</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/forma-pm-prom-2026-katalog-resheniy-dlya-malogo-proizvodstva.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/forma-pm-prom-2026-katalog-resheniy-dlya-malogo-proizvodstva.html</guid>
+    <pubDate>Fri, 18 Sep 2026 18:35:56 GMT</pubDate>
+  </item>
   <item>
     <title>Обслуживание пожарной сигнализации в Ярославле 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obsluzhivanie-pozharnoy-signalizatsii-v-yaroslavle-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-uchastka-bez-mezhevaniya-v-2026-poshagovyy-algoritm.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-uchastka-bez-mezhevaniya-v-2026-poshagovyy-algoritm.html</guid>
     <pubDate>Fri, 18 Sep 2026 12:15:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда в Оренбурге 2026: сравнение решений для рантье</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-v-orenburge-2026-sravnenie-resheniy-dlya-rante.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-v-orenburge-2026-sravnenie-resheniy-dlya-rante.html</guid>
-    <pubDate>Fri, 18 Sep 2026 12:15:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
