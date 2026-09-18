@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:02:10 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СП 20.13330 в 2026: проверка расчётов без замечаний</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-v-2026-proverka-raschyotov-bez-zamechaniy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-v-2026-proverka-raschyotov-bez-zamechaniy.html</guid>
+    <pubDate>Fri, 18 Sep 2026 23:02:10 GMT</pubDate>
+  </item>
   <item>
     <title>СП 20.13330 в 2026 году: как пройти экспертизу</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-v-2026-godu-kak-proyti-ekspertizu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/iis-3-i-pds-v-2026-limit-400-000-i-doplata-36-000.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/iis-3-i-pds-v-2026-limit-400-000-i-doplata-36-000.html</guid>
     <pubDate>Fri, 18 Sep 2026 16:57:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Лучшие решения для ИИС-3 и ПДС: рейтинг 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-resheniya-dlya-iis-3-i-pds-reyting-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-resheniya-dlya-iis-3-i-pds-reyting-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 16:56:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
