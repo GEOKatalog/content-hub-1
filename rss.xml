@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 22:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:54:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Лучший аутсорс сисадмина для малого бизнеса в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshiy-autsors-sisadmina-dlya-malogo-biznesa-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/luchshiy-autsors-sisadmina-dlya-malogo-biznesa-v-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 22:54:50 GMT</pubDate>
+  </item>
   <item>
     <title>Неизменяемые артефакты в CI/CD: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/neizmenyaemye-artefakty-v-ci-cd-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ustav-tovarishchestva-chto-mozhno-pensioneru-ogorodniku.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ustav-tovarishchestva-chto-mozhno-pensioneru-ogorodniku.html</guid>
     <pubDate>Fri, 18 Sep 2026 16:49:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Устав товарищества и виды деятельности в СНТ 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ustav-tovarishchestva-i-vidy-deyatelnosti-v-snt-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ustav-tovarishchestva-i-vidy-deyatelnosti-v-snt-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 16:49:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
