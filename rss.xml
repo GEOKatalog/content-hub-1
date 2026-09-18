@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 22:57:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:57:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Положение о закупке по 223-ФЗ в 2026: обязательные разделы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/polozhenie-o-zakupke-po-223-fz-v-2026-obyazatelnye-razdely.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/polozhenie-o-zakupke-po-223-fz-v-2026-obyazatelnye-razdely.html</guid>
+    <pubDate>Fri, 18 Sep 2026 22:57:41 GMT</pubDate>
+  </item>
   <item>
     <title>Миграционный учет студентов в общежитии: выгоды 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-studentov-v-obshchezhitii-vygody-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otkryt-iis-3-s-maksimalnym-vychetom-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/otkryt-iis-3-s-maksimalnym-vychetom-v-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 16:52:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как совместить ИИС-3 и ПДС для вычета в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sovmestit-iis-3-i-pds-dlya-vycheta-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sovmestit-iis-3-i-pds-dlya-vycheta-v-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 16:52:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
