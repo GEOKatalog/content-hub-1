@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:54:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:54:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Межевание и регистрация границ участка в ЕГРН</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mezhevanie-i-registratsiya-granits-uchastka-v-egrn.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mezhevanie-i-registratsiya-granits-uchastka-v-egrn.html</guid>
+    <pubDate>Fri, 18 Sep 2026 16:54:55 GMT</pubDate>
+  </item>
   <item>
     <title>Межевание участка в Оренбурге под ключ в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mezhevanie-uchastka-v-orenburge-pod-klyuch-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-kvartiru-bez-naloga-esli-vladeesh-menshe-5-let.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-kvartiru-bez-naloga-esli-vladeesh-menshe-5-let.html</guid>
     <pubDate>Fri, 18 Sep 2026 10:20:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Самозанятый для сдачи квартиры: рейтинг решений 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-dlya-sdachi-kvartiry-reyting-resheniy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-dlya-sdachi-kvartiry-reyting-resheniy-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 10:19:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
