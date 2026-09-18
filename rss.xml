@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:15:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация в Честном знаке 2026: сравнение способов</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-chestnom-znake-2026-sravnenie-sposobov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-chestnom-znake-2026-sravnenie-sposobov.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:15:08 GMT</pubDate>
+  </item>
   <item>
     <title>Регистрация в Честном знаке 2026: пошаговое руководство</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-chestnom-znake-2026-poshagovoe-rukovodstvo.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/uchet-vlazhnosti-syrya-v-konditerskom-tsekhe-tochnoe-spisani.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/uchet-vlazhnosti-syrya-v-konditerskom-tsekhe-tochnoe-spisani.html</guid>
     <pubDate>Thu, 17 Sep 2026 19:58:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Таргет пекарни у дома: радиус 1-2 км</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/target-pekarni-u-doma-radius-1-2-km.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/target-pekarni-u-doma-radius-1-2-km.html</guid>
-    <pubDate>Thu, 17 Sep 2026 19:57:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
