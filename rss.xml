@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 22:53:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:53:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Неизменяемые артефакты и версионирование в CI/CD 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/neizmenyaemye-artefakty-i-versionirovanie-v-ci-cd-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/neizmenyaemye-artefakty-i-versionirovanie-v-ci-cd-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 22:53:56 GMT</pubDate>
+  </item>
   <item>
     <title>Как сократить инциденты на 73% через неизменяемые артефакты</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sokratit-intsidenty-na-73-cherez-neizmenyaemye-artefakty.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-resheniy-dlya-rante-novichkov-ipoteka-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/katalog-resheniy-dlya-rante-novichkov-ipoteka-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 16:48:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Семейная ипотека на вторичке: окупаемость и риски 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-na-vtorichke-okupaemost-i-riski-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-na-vtorichke-okupaemost-i-riski-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 16:48:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
