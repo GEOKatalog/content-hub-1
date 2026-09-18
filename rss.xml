@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:16:29 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Удаленный инженер-проектировщик КМД для промышленного объекта</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/udalennyy-inzhener-proektirovshchik-kmd-dlya-promyshlennogo.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/udalennyy-inzhener-proektirovshchik-kmd-dlya-promyshlennogo.html</guid>
+    <pubDate>Fri, 18 Sep 2026 18:16:29 GMT</pubDate>
+  </item>
   <item>
     <title>Как сверить выручку 2025 с порогом 20 млн рублей</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sverit-vyruchku-2025-s-porogom-20-mln-rubley.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynyy-keshbek-2026-v-orenburge-usloviya-i-poryadok.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynyy-keshbek-2026-v-orenburge-usloviya-i-poryadok.html</guid>
     <pubDate>Fri, 18 Sep 2026 12:09:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налоговый консультант по продаже недвижимости в Оренбурге</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovyy-konsultant-po-prodazhe-nedvizhimosti-v-orenburge.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovyy-konsultant-po-prodazhe-nedvizhimosti-v-orenburge.html</guid>
-    <pubDate>Fri, 18 Sep 2026 12:08:49 GMT</pubDate>
   </item>
   </channel>
 </rss>
