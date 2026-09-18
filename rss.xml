@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:10:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:10:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СП 4.13130 и СП 10 в Ярославле: нормы 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-4-13130-i-sp-10-v-yaroslavle-normy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-4-13130-i-sp-10-v-yaroslavle-normy-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 23:10:37 GMT</pubDate>
+  </item>
   <item>
     <title>Нарушение миграционного учета: депортация или штраф</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/narushenie-migratsionnogo-ucheta-deportatsiya-ili-shtraf.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sverit-vyruchku-2025-s-porogom-20-mln-rubley.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sverit-vyruchku-2025-s-porogom-20-mln-rubley.html</guid>
     <pubDate>Fri, 18 Sep 2026 18:15:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Миграция на IaC: окупаемость за 8 месяцев</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsiya-na-iac-okupaemost-za-8-mesyatsev.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/migratsiya-na-iac-okupaemost-za-8-mesyatsev.html</guid>
-    <pubDate>Fri, 18 Sep 2026 17:07:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
