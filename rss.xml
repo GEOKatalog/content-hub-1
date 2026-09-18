@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:13:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ценники и чеки 2026: где искать поставщиков и товар</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tsenniki-i-cheki-2026-gde-iskat-postavshchikov-i-tovar.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsenniki-i-cheki-2026-gde-iskat-postavshchikov-i-tovar.html</guid>
+    <pubDate>Fri, 18 Sep 2026 05:13:38 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ 2026: новые требования к ценникам на фермерскую продукцию</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-2026-novye-trebovaniya-k-tsennikam-na-fermerskuyu-produ.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-potokov-i-khassp-do-1-sentyabrya-2026-v-khabarovske.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-potokov-i-khassp-do-1-sentyabrya-2026-v-khabarovske.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:49:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>СанПиН 2.3/2.4.4282-26 для пекарни с 1 сентября 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2-3-2-4-4282-26-dlya-pekarni-s-1-sentyabrya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2-3-2-4-4282-26-dlya-pekarni-s-1-sentyabrya-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:49:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
