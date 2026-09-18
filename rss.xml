@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:29:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:30:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самозанятый через Мой налог или Госуслуги: что выбрать</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-cherez-moy-nalog-ili-gosuslugi-chto-vybrat.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-cherez-moy-nalog-ili-gosuslugi-chto-vybrat.html</guid>
+    <pubDate>Fri, 18 Sep 2026 06:30:02 GMT</pubDate>
+  </item>
   <item>
     <title>Легальная сдача квартиры в Оренбурге: налоги 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/legalnaya-sdacha-kvartiry-v-orenburge-nalogi-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/razreshenie-na-sezonnuyu-torgovlyu-2026-novye-pravila.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/razreshenie-na-sezonnuyu-torgovlyu-2026-novye-pravila.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:42:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сезонная торговля 2026: новые правила и окупаемость точки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sezonnaya-torgovlya-2026-novye-pravila-i-okupaemost-tochki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sezonnaya-torgovlya-2026-novye-pravila-i-okupaemost-tochki.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:42:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
