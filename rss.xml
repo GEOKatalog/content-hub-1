@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:00:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Норматив полива для пенсионеров Оренбург 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativ-poliva-dlya-pensionerov-orenburg-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativ-poliva-dlya-pensionerov-orenburg-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 10:00:53 GMT</pubDate>
+  </item>
   <item>
     <title>Кейс: 0 ₽ на рекламу — 239 212 ₽ за сотку земли</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/keys-0-na-reklamu-239-212-za-sotku-zemli.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/monitoring-pshenitsy-2026-kak-riteyleru-proyti-kontrol.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/monitoring-pshenitsy-2026-kak-riteyleru-proyti-kontrol.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:21:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как технологу-одиночке внедрить маркировку Честный знак</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-tekhnologu-odinochke-vnedrit-markirovku-chestnyy-znak.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-tekhnologu-odinochke-vnedrit-markirovku-chestnyy-znak.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:20:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
