@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:48:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:48:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Вычет 1 млн или расходы наследодателя: что выбрать</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vychet-1-mln-ili-raskhody-nasledodatelya-chto-vybrat.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vychet-1-mln-ili-raskhody-nasledodatelya-chto-vybrat.html</guid>
+    <pubDate>Fri, 18 Sep 2026 06:48:41 GMT</pubDate>
+  </item>
   <item>
     <title>ИИС-3 и имущественный вычет: как не потерять возврат</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/iis-3-i-imushchestvennyy-vychet-kak-ne-poteryat-vozvrat.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravo-na-status-audit-proizvoditelya-v-tsifrakh.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravo-na-status-audit-proizvoditelya-v-tsifrakh.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:25:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аудит фермерской продукции в Иркутске: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-fermerskoy-produktsii-v-irkutske-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-fermerskoy-produktsii-v-irkutske-gid-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:25:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
