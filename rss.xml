@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:47:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:47:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог с продажи: сроки владения и правила 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-sroki-vladeniya-i-pravila-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-sroki-vladeniya-i-pravila-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 16:47:45 GMT</pubDate>
+  </item>
   <item>
     <title>Налог с продажи квартиры пенсионером: правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-kvartiry-pensionerom-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-imushchestvo-v-orenburge-2026-pereraschet.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-imushchestvo-v-orenburge-2026-pereraschet.html</guid>
     <pubDate>Fri, 18 Sep 2026 10:12:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налог на имущество в Оренбурге 2026: ставки и расчет для рантье</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-imushchestvo-v-orenburge-2026-stavki-i-raschet-dlya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-imushchestvo-v-orenburge-2026-stavki-i-raschet-dlya.html</guid>
-    <pubDate>Fri, 18 Sep 2026 10:11:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
