@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:02:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самопроверка МЧС 2026: чек-листы и декларация ПБ</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samoproverka-mchs-2026-chek-listy-i-deklaratsiya-pb.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samoproverka-mchs-2026-chek-listy-i-deklaratsiya-pb.html</guid>
+    <pubDate>Fri, 18 Sep 2026 23:02:44 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг решений для подготовки к МЧС 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-dlya-podgotovki-k-mchs-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/investory-optimizatory-gid-po-iis-3-i-pds-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/investory-optimizatory-gid-po-iis-3-i-pds-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 16:58:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пенсионный вклад 2026: ставки, суммы и досрочное расторжение</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pensionnyy-vklad-2026-stavki-summy-i-dosrochnoe-rastorzhenie.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pensionnyy-vklad-2026-stavki-summy-i-dosrochnoe-rastorzhenie.html</guid>
-    <pubDate>Fri, 18 Sep 2026 16:57:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
