@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:11:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Алгоритм проверки редакции СП: инструкция 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-proverki-redaktsii-sp-instruktsiya-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-proverki-redaktsii-sp-instruktsiya-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 23:11:32 GMT</pubDate>
+  </item>
   <item>
     <title>Алгоритм проверки редакций СП 4.13130 в Ярославле</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-proverki-redaktsiy-sp-4-13130-v-yaroslavle.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-spetsialista-po-zakupkam-uroven-5-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-spetsialista-po-zakupkam-uroven-5-v-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 18:16:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Удаленный инженер-проектировщик КМД для промышленного объекта</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/udalennyy-inzhener-proektirovshchik-kmd-dlya-promyshlennogo.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/udalennyy-inzhener-proektirovshchik-kmd-dlya-promyshlennogo.html</guid>
-    <pubDate>Fri, 18 Sep 2026 18:16:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
