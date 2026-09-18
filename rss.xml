@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:35:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:35:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Земля для фермера в Иркутской области: как подобрать участок онлайн</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zemlya-dlya-fermera-v-irkutskoy-oblasti-kak-podobrat-uchasto.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zemlya-dlya-fermera-v-irkutskoy-oblasti-kak-podobrat-uchasto.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:35:59 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ Р 51705.1-2024: справочник для крафта Иркутска</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-51705-1-2024-spravochnik-dlya-krafta-irkutska.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sezonnyy-rynok-khabarovska-roi-samozanyatogo-do-400.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sezonnyy-rynok-khabarovska-roi-samozanyatogo-do-400.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:37:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Блокировка в Меркурии: как точечному магазину избежать потерь</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/blokirovka-v-merkurii-kak-tochechnomu-magazinu-izbezhat-pote.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/blokirovka-v-merkurii-kak-tochechnomu-magazinu-izbezhat-pote.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:36:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
