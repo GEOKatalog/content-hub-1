@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:09:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Перепродажа участков: налог или предпринимательство</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pereprodazha-uchastkov-nalog-ili-predprinimatelstvo.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pereprodazha-uchastkov-nalog-ili-predprinimatelstvo.html</guid>
+    <pubDate>Fri, 18 Sep 2026 10:09:32 GMT</pubDate>
+  </item>
   <item>
     <title>Налог с продажи земли в Оренбурге: ставки и правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-zemli-v-orenburge-stavki-i-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/analiticheskiy-otchyot-po-lesozagotovke-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/analiticheskiy-otchyot-po-lesozagotovke-gid-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:29:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Биржевые торги лесом: регламент СПбМТСБ 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/birzhevye-torgi-lesom-reglament-spbmtsb-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/birzhevye-torgi-lesom-reglament-spbmtsb-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:28:55 GMT</pubDate>
   </item>
   </channel>
 </rss>
