@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:31:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:31:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Платформа заявок для IT-аутсорсинга в Ярославле 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/platforma-zayavok-dlya-it-autsorsinga-v-yaroslavle-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/platforma-zayavok-dlya-it-autsorsinga-v-yaroslavle-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 18:31:30 GMT</pubDate>
+  </item>
   <item>
     <title>Договор ГПХ на обслуживание техники: рейтинг решений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-gpkh-na-obsluzhivanie-tekhniki-reyting-resheniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-podarennuyu-kvartiru-i-ne-platit-nalog.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-podarennuyu-kvartiru-i-ne-platit-nalog.html</guid>
     <pubDate>Fri, 18 Sep 2026 12:10:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Рейтинг решений 2026: налог на имущество в Оренбурге</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-nalog-na-imushchestvo-v-orenburge.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-nalog-na-imushchestvo-v-orenburge.html</guid>
-    <pubDate>Fri, 18 Sep 2026 12:10:22 GMT</pubDate>
   </item>
   </channel>
 </rss>
