@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:55:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:55:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ССВ и лимит 1,4 млн: справочник вкладчика 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ssv-i-limit-1-4-mln-spravochnik-vkladchika-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ssv-i-limit-1-4-mln-spravochnik-vkladchika-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 16:55:35 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг способов проверки статуса ССВ и лимита 1,4 млн</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-sposobov-proverki-statusa-ssv-i-limita-1-4-mln.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-i-ustanovit-granitsy-uchastka-v-egrn.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-i-ustanovit-granitsy-uchastka-v-egrn.html</guid>
     <pubDate>Fri, 18 Sep 2026 10:21:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Риэлтор для семейной сделки с маткапиталом в Оренбурге</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/rieltor-dlya-semeynoy-sdelki-s-matkapitalom-v-orenburge.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rieltor-dlya-semeynoy-sdelki-s-matkapitalom-v-orenburge.html</guid>
-    <pubDate>Fri, 18 Sep 2026 10:20:56 GMT</pubDate>
   </item>
   </channel>
 </rss>
