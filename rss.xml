@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:38:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:39:10 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самозанятость для сдачи квартиры через Мой налог</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatost-dlya-sdachi-kvartiry-cherez-moy-nalog.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatost-dlya-sdachi-kvartiry-cherez-moy-nalog.html</guid>
+    <pubDate>Fri, 18 Sep 2026 06:39:10 GMT</pubDate>
+  </item>
   <item>
     <title>Налог с наследства квартиры: платить или нет</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-nasledstva-kvartiry-platit-ili-net.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/novye-sanitarnye-pravila-dlya-magazinov-s-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/novye-sanitarnye-pravila-dlya-magazinov-s-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:12:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Требования к помещению ПВЗ Ozon и Wildberries 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-pomeshcheniyu-pvz-ozon-i-wildberries-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-pomeshcheniyu-pvz-ozon-i-wildberries-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:49:56 GMT</pubDate>
   </item>
   </channel>
 </rss>
