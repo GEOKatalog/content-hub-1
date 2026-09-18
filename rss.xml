@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:15:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СП 10.13130.2020: актуальная редакция 2026 и риски проектов</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-10-13130-2020-aktualnaya-redaktsiya-2026-i-riski-proektov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-10-13130-2020-aktualnaya-redaktsiya-2026-i-riski-proektov.html</guid>
+    <pubDate>Fri, 18 Sep 2026 23:15:53 GMT</pubDate>
+  </item>
   <item>
     <title>СП 10 с Изменением №1: как избежать ошибок 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-10-s-izmeneniem-1-kak-izbezhat-oshibok-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-pozharnoy-signalizatsii-v-2026-gid-dlya-direktora.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-pozharnoy-signalizatsii-v-2026-gid-dlya-direktora.html</guid>
     <pubDate>Fri, 18 Sep 2026 18:35:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка пожарной сигнализации в 2026: регламент для директора</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-pozharnoy-signalizatsii-v-2026-reglament-dlya-direk.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-pozharnoy-signalizatsii-v-2026-reglament-dlya-direk.html</guid>
-    <pubDate>Fri, 18 Sep 2026 18:35:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
