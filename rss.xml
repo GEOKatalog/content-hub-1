@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:07:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ФИНВ-2026: передача вычета внутри группы компаний</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/finv-2026-peredacha-vycheta-vnutri-gruppy-kompaniy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/finv-2026-peredacha-vycheta-vnutri-gruppy-kompaniy.html</guid>
+    <pubDate>Fri, 18 Sep 2026 10:07:31 GMT</pubDate>
+  </item>
   <item>
     <title>Декларация 3-НДФЛ: сроки уплаты налога в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/deklaratsiya-3-ndfl-sroki-uplaty-naloga-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mikropredpriyatie-2026-limity-120-mln-i-15-chelovek.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mikropredpriyatie-2026-limity-120-mln-i-15-chelovek.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:27:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Фермерская продукция 2026: критерии 297-ФЗ и риски</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/fermerskaya-produktsiya-2026-kriterii-297-fz-i-riski.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/fermerskaya-produktsiya-2026-kriterii-297-fz-i-riski.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:26:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
