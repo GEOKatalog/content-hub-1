@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:44:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:45:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проект промобъекта под ключ в Ярославле: цены 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proekt-promobekta-pod-klyuch-v-yaroslavle-tseny-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proekt-promobekta-pod-klyuch-v-yaroslavle-tseny-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 18:45:26 GMT</pubDate>
+  </item>
   <item>
     <title>Полный реестр СП и ГОСТ для промпроектирования 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/polnyy-reestr-sp-i-gost-dlya-promproektirovaniya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sdat-apartamenty-kak-samozanyatyy-zapret-npd.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sdat-apartamenty-kak-samozanyatyy-zapret-npd.html</guid>
     <pubDate>Fri, 18 Sep 2026 16:46:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Выписка ЕГРН 2026: как проверить назначение объекта</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-egrn-2026-kak-proverit-naznachenie-obekta.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-egrn-2026-kak-proverit-naznachenie-obekta.html</guid>
-    <pubDate>Fri, 18 Sep 2026 16:46:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
