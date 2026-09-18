@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:19:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:19:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Штраф до 100 000 ₽: как фермеру сэкономить в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-do-100-000-kak-fermeru-sekonomit-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-do-100-000-kak-fermeru-sekonomit-v-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:19:50 GMT</pubDate>
+  </item>
   <item>
     <title>СанПиН 2026 для общепита: рейтинг решений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-dlya-obshchepita-reyting-resheniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/avarii-na-kukhne-kak-deystvovat-vladeltsam-pekaren.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/avarii-na-kukhne-kak-deystvovat-vladeltsam-pekaren.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:03:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Авария в пекарне Хабаровска: гид по фиксации ущерба 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/avariya-v-pekarne-khabarovska-gid-po-fiksatsii-ushcherba-202.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/avariya-v-pekarne-khabarovska-gid-po-fiksatsii-ushcherba-202.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:03:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
