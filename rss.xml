@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:17:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:17:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ХАССП и профстандарты технолога крафтового цеха 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/khassp-i-profstandarty-tekhnologa-kraftovogo-tsekha-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/khassp-i-profstandarty-tekhnologa-kraftovogo-tsekha-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:17:50 GMT</pubDate>
+  </item>
   <item>
     <title>Маркировка древесины ценных пород: Иркутск 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-drevesiny-tsennykh-porod-irkutsk-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sroki-ustraneniya-avariy-santekhniki-v-mkd-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sroki-ustraneniya-avariy-santekhniki-v-mkd-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:01:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аккредитация специалистов ветаптек с 1 марта 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/akkreditatsiya-spetsialistov-vetaptek-s-1-marta-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/akkreditatsiya-spetsialistov-vetaptek-s-1-marta-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:00:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
