@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:06:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Поставщики локальных продуктов для ресторана: сравнение 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-lokalnykh-produktov-dlya-restorana-sravnenie-2.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-lokalnykh-produktov-dlya-restorana-sravnenie-2.html</guid>
+    <pubDate>Fri, 18 Sep 2026 05:06:31 GMT</pubDate>
+  </item>
   <item>
     <title>Нормы закладки продуктов и техническая карта блюда 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normy-zakladki-produktov-i-tekhnicheskaya-karta-blyuda-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-pomeshcheniyu-pvz-wildberries-i-ozon-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-pomeshcheniyu-pvz-wildberries-i-ozon-v-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:42:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Разрешение на сезонную торговлю 2026: новые правила</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/razreshenie-na-sezonnuyu-torgovlyu-2026-novye-pravila.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razreshenie-na-sezonnuyu-torgovlyu-2026-novye-pravila.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:42:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
