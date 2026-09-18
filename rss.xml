@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:14:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы по пожарной безопасности на производстве 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-po-pozharnoy-bezopasnosti-na-proizvodstve-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-po-pozharnoy-bezopasnosti-na-proizvodstve-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 23:14:06 GMT</pubDate>
+  </item>
   <item>
     <title>Поставщики оборудования для малого производства Ярославль</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-oborudovaniya-dlya-malogo-proizvodstva-yarosla.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sostav-razdelov-proektnoy-dokumentatsii-po-pp-rf-87-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sostav-razdelov-proektnoy-dokumentatsii-po-pp-rf-87-v-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 18:33:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Состав разделов проектной документации по ПП РФ №87: рейтинг решений 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sostav-razdelov-proektnoy-dokumentatsii-po-pp-rf-87-reyting.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sostav-razdelov-proektnoy-dokumentatsii-po-pp-rf-87-reyting.html</guid>
-    <pubDate>Fri, 18 Sep 2026 18:32:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
