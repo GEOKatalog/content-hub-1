@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:25:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:25:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Окупаемость ГОСТ Р 72236-2025 для фермерской полки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-gost-r-72236-2025-dlya-fermerskoy-polki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-gost-r-72236-2025-dlya-fermerskoy-polki.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:25:13 GMT</pubDate>
+  </item>
   <item>
     <title>Сколько приносит аудит упаковки по ГОСТ Р 72236-2025</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/skolko-prinosit-audit-upakovki-po-gost-r-72236-2025.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-sezonnaya-torgovlya-ovoshchami-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-3-6-4281-26-sezonnaya-torgovlya-ovoshchami-v-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:09:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Водоснабжение для фермерских лавок: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vodosnabzhenie-dlya-fermerskikh-lavok-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vodosnabzhenie-dlya-fermerskikh-lavok-spravochnik-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:09:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
