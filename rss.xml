@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:20:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:20:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как технологу-одиночке внедрить маркировку Честный знак</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-tekhnologu-odinochke-vnedrit-markirovku-chestnyy-znak.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-tekhnologu-odinochke-vnedrit-markirovku-chestnyy-znak.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:20:37 GMT</pubDate>
+  </item>
   <item>
     <title>Лучшие решения для поштучного учёта напитков в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-resheniya-dlya-poshtuchnogo-uchyota-napitkov-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-avariynogo-obsluzhivaniya-santekhniki-sroki-vyezda.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-avariynogo-obsluzhivaniya-santekhniki-sroki-vyezda.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:04:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Лучшие калькуляторы окупаемости ПВЗ в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-kalkulyatory-okupaemosti-pvz-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-kalkulyatory-okupaemosti-pvz-v-2026-godu.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:04:22 GMT</pubDate>
   </item>
   </channel>
 </rss>
