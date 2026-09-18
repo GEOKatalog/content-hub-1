@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:31:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:31:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Идентификация материала упаковки: рейтинг решений 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/identifikatsiya-materiala-upakovki-reyting-resheniy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/identifikatsiya-materiala-upakovki-reyting-resheniy-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:31:52 GMT</pubDate>
+  </item>
   <item>
     <title>Лицензионный статус сорта пшеницы 2026: матрица проверки</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenzionnyy-status-sorta-pshenitsy-2026-matritsa-proverki.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-wildberries-k-pvz-2026-gid-dlya-khabarovska.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-wildberries-k-pvz-2026-gid-dlya-khabarovska.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:15:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Оборудование для мини-пекарни в Хабаровске под ключ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/oborudovanie-dlya-mini-pekarni-v-khabarovske-pod-klyuch.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/oborudovanie-dlya-mini-pekarni-v-khabarovske-pod-klyuch.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:15:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
