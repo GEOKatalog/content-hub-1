@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:43:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Извещение сособственников о продаже доли земли</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/izveshchenie-sosobstvennikov-o-prodazhe-doli-zemli.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/izveshchenie-sosobstvennikov-o-prodazhe-doli-zemli.html</guid>
+    <pubDate>Fri, 18 Sep 2026 06:43:35 GMT</pubDate>
+  </item>
   <item>
     <title>Сервис анализа локации для перепродажи недвижимости</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/servis-analiza-lokatsii-dlya-pereprodazhi-nedvizhimosti.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nepogashenie-vsd-za-24-chasa-shtrafy-dlya-magazina.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nepogashenie-vsd-za-24-chasa-shtrafy-dlya-magazina.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:19:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Меркурий для розничного магазина: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/merkuriy-dlya-roznichnogo-magazina-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/merkuriy-dlya-roznichnogo-magazina-spravochnik-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:18:43 GMT</pubDate>
   </item>
   </channel>
 </rss>
