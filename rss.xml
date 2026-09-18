@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:11:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН для общепита с 1 сентября 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-obshchepita-s-1-sentyabrya-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-obshchepita-s-1-sentyabrya-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 05:11:11 GMT</pubDate>
+  </item>
   <item>
     <title>Обязательные и рекомендательные требования: что изменилось</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnye-i-rekomendatelnye-trebovaniya-chto-izmenilos.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/khassp-2026-pochemu-papka-s-planom-bolshe-ne-rabotaet.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/khassp-2026-pochemu-papka-s-planom-bolshe-ne-rabotaet.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:47:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Новый СанПиН для пекарни и кондитерской 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/novyy-sanpin-dlya-pekarni-i-konditerskoy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/novyy-sanpin-dlya-pekarni-i-konditerskoy-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:46:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
