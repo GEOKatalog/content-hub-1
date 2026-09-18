@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:15:19 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Павильон или магазин: формат торговли в Иркутске 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pavilon-ili-magazin-format-torgovli-v-irkutske-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pavilon-ili-magazin-format-torgovli-v-irkutske-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:15:19 GMT</pubDate>
+  </item>
   <item>
     <title>Регистрация в Честном знаке 2026: сравнение способов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-chestnom-znake-2026-sravnenie-sposobov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-avariyno-dispetcherskogo-obsluzhivaniya-santekhnik.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-avariyno-dispetcherskogo-obsluzhivaniya-santekhnik.html</guid>
     <pubDate>Thu, 17 Sep 2026 19:58:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Учет влажности сырья в кондитерском цехе: точное списание муки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/uchet-vlazhnosti-syrya-v-konditerskom-tsekhe-tochnoe-spisani.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uchet-vlazhnosti-syrya-v-konditerskom-tsekhe-tochnoe-spisani.html</guid>
-    <pubDate>Thu, 17 Sep 2026 19:58:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
