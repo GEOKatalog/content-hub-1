@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 22:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:53:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как сократить инциденты на 73% через неизменяемые артефакты</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sokratit-intsidenty-na-73-cherez-neizmenyaemye-artefakty.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sokratit-intsidenty-na-73-cherez-neizmenyaemye-artefakty.html</guid>
+    <pubDate>Fri, 18 Sep 2026 22:53:44 GMT</pubDate>
+  </item>
   <item>
     <title>Сверка разделов ПД с ПП РФ №87: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-razdelov-pd-s-pp-rf-87-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-na-vtorichke-okupaemost-i-riski-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-na-vtorichke-okupaemost-i-riski-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 16:48:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>НДФЛ при продаже: сроки владения 3 и 5 лет</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ndfl-pri-prodazhe-sroki-vladeniya-3-i-5-let.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ndfl-pri-prodazhe-sroki-vladeniya-3-i-5-let.html</guid>
-    <pubDate>Fri, 18 Sep 2026 16:47:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
