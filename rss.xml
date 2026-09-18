@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:14:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ и СП для проектирования промобъектов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-i-sp-dlya-proektirovaniya-promobektov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-i-sp-dlya-proektirovaniya-promobektov-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 23:14:24 GMT</pubDate>
+  </item>
   <item>
     <title>Документы по пожарной безопасности на производстве 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-po-pozharnoy-bezopasnosti-na-proizvodstve-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zakazat-razdel-6-tekhnologicheskie-resheniya-dlya-promobekta.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakazat-razdel-6-tekhnologicheskie-resheniya-dlya-promobekta.html</guid>
     <pubDate>Fri, 18 Sep 2026 18:33:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Состав разделов проектной документации по ПП РФ 87 в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sostav-razdelov-proektnoy-dokumentatsii-po-pp-rf-87-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sostav-razdelov-proektnoy-dokumentatsii-po-pp-rf-87-v-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 18:33:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
