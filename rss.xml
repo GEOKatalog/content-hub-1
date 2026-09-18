@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:33:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Онлайн-учёт для фермерского магазина: касса и маркировка</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-uchyot-dlya-fermerskogo-magazina-kassa-i-markirovka.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-uchyot-dlya-fermerskogo-magazina-kassa-i-markirovka.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:33:26 GMT</pubDate>
+  </item>
   <item>
     <title>Ценники по новым правилам 2026: инструкция для магазина</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tsenniki-po-novym-pravilam-2026-instruktsiya-dlya-magazina.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/komplekt-avariynogo-santekhnika-okupaemost-za-odin-vyezd.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/komplekt-avariynogo-santekhnika-okupaemost-za-odin-vyezd.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:17:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>СанПиН 2026 для магазина у дома: разбор требований</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-dlya-magazina-u-doma-razbor-trebovaniy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-dlya-magazina-u-doma-razbor-trebovaniy.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:17:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
