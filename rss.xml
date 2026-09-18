@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:53:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:54:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Установление ответственного по удостоверению о захоронении в Оренбурге</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ustanovlenie-otvetstvennogo-po-udostovereniyu-o-zakhoronenii.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ustanovlenie-otvetstvennogo-po-udostovereniyu-o-zakhoronenii.html</guid>
+    <pubDate>Fri, 18 Sep 2026 06:54:33 GMT</pubDate>
+  </item>
   <item>
     <title>Налог 4% на аренду в Оренбурге: гид по НПД 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-4-na-arendu-v-orenburge-gid-po-npd-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ploshchad-zala-dlya-alkogolya-v-obshchepite-2026-pravila.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ploshchad-zala-dlya-alkogolya-v-obshchepite-2026-pravila.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:33:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Онлайн-учёт для фермерского магазина: касса и маркировка</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-uchyot-dlya-fermerskogo-magazina-kassa-i-markirovka.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-uchyot-dlya-fermerskogo-magazina-kassa-i-markirovka.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:33:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
