@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:46:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:46:42 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сдать апартаменты как самозанятый: запрет НПД</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sdat-apartamenty-kak-samozanyatyy-zapret-npd.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sdat-apartamenty-kak-samozanyatyy-zapret-npd.html</guid>
+    <pubDate>Fri, 18 Sep 2026 16:46:42 GMT</pubDate>
+  </item>
   <item>
     <title>Выписка ЕГРН 2026: как проверить назначение объекта</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-egrn-2026-kak-proverit-naznachenie-obekta.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-imushchestvo-v-orenburge-2026-stavki-i-raschet.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-imushchestvo-v-orenburge-2026-stavki-i-raschet.html</guid>
     <pubDate>Fri, 18 Sep 2026 10:10:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Инвестиционный вычет ИИС-3: правила и лимиты 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/investitsionnyy-vychet-iis-3-pravila-i-limity-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/investitsionnyy-vychet-iis-3-pravila-i-limity-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 10:10:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
