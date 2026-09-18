@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:38:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:38:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Обязанности оператора связи по 126-ФЗ: гид для DevOps</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazannosti-operatora-svyazi-po-126-fz-gid-dlya-devops.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyazannosti-operatora-svyazi-po-126-fz-gid-dlya-devops.html</guid>
+    <pubDate>Fri, 18 Sep 2026 18:38:24 GMT</pubDate>
+  </item>
   <item>
     <title>Как нанять системного администратора на аутсорсе в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nanyat-sistemnogo-administratora-na-autsorse-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rieltor-dlya-arendy-unasledovannoy-kvartiry-v-orenburge-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/rieltor-dlya-arendy-unasledovannoy-kvartiry-v-orenburge-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 16:40:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как сдавать унаследованную квартиру самозанятому в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sdavat-unasledovannuyu-kvartiru-samozanyatomu-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sdavat-unasledovannuyu-kvartiru-samozanyatomu-v-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 16:39:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
