@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Как обеспечить воспроизводимость релиза в CI/CD</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, sans-serif; line-height: 1.7; max-width: 850px; margin: 0 auto; padding: 25px; color: #222; background-color: #fff; }
+        h1 { color: #111; font-size: 2em; border-bottom: 2px solid #eaeaea; padding-bottom: 12px; margin-bottom: 20px; }
+        .content { font-size: 1.1em; word-break: break-word; }
+        .tags { margin-top: 35px; padding-top: 15px; border-top: 1px solid #eee; color: #0066cc; font-weight: 600; }
+        .tag { margin-right: 8px; display: inline-block; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; background: #fafafa; }
+        th, td { border: 1px solid #ddd; padding: 10px 14px; text-align: left; }
+        th { background-color: #f2f2f2; font-weight: bold; }
+        img { max-width: 100%; height: auto; border-radius: 6px; }
+        @media (max-width: 600px) {
+            table { display: block; overflow-x: auto; white-space: nowrap; }
+        }
+    </style>
+</head>
+<body>
+    <article>
+        <h1>Как обеспечить воспроизводимость релиза в CI/CD</h1>
+        <div class="content"><h2>Алгоритм построения детерминированного пайплайна</h2>
+<p>Результат внедрения практик воспроизводимости — идентичный артефакт на выходе пайплайна при повторной сборке из одного коммита. Это достигается фиксацией всех входных данных: версий зависимостей, базовых образов, инструментов сборки и переменных окружения. Ниже — пошаговый регламент с контрольными точками для DevOps-инженера уровня Middle.</p><h2>Сводный таймлайн внедрения</h2>
+<table>
+<thead>
+<tr><th>Этап</th><th>Норматив / инструмент</th><th>Ориентировочный срок</th><th>Ключевой результат</th></tr>
+</thead>
+<tbody>
+<tr><td>Аудит текущего пайплайна</td><td>Список всех <code>uses:</code> и <code>FROM</code> без SHA</td><td>1–2 дня</td><td>Карта нефиксированных зависимостей</td></tr>
+<tr><td>Фиксация зависимостей приложения</td><td>Lock-файлы (package-lock.json, go.sum, poetry.lock)</td><td>2–3 дня</td><td>Воспроизводимая установка пакетов</td></tr>
+<tr><td>Пиннинг базовых образов</td><td>Docker digest pinning (sha256)</td><td>1 день</td><td>Иммутабельные FROM-директивы</td></tr>
+<tr><td>Пиннинг GitHub Actions</td><td>uses: @<full-commit-SHA></td><td>1 день</td><td>Защита от подмены тегов</td></tr>
+<tr><td>Внедрение SOURCE_DATE_EPOCH</td><td>BuildKit, стандарт reproducible-builds.org</td><td>1 день</td><td>Детерминированные временные метки</td></tr>
+<tr><td>Верификация воспроизводимости</td><td>diffoci, checksum comparison</td><td>2–3 дня</td><td>Gate в CI на идентичность сборок</td></tr>
+<tr><td>Подпись артефактов</td><td>Sigstore/Cosign, SLSA provenance</td><td>2–4 дня</td><td>Verifiable supply chain</td></tr>
+</tbody>
+</table><h2>Пошаговый алгоритм</h2>
+<h3>Шаг 1. Фиксация версий зависимостей и инструментов</h3>
+<p>Build без lock-файла разрешает разные версии пакетов в разные дни. Для Node.js обязателен <code>package-lock.json</code> и команда <code>npm ci</code> вместо <code>npm install</code>; для Go — <code>go.sum</code>; для Python — зафиксированные версии с хешами. Версии тулчейнов (Node, Python, Terraform) фиксируются в <code>.tool-versions</code> или <code>.nvmrc</code> и используются через <code>node-version-file</code> в setup-actions.</p>
+<p>Правило: в CI никогда не применяются диапазоны версий (<code>^</code>, <code>~</code>, <code>>=</code>). Все версии — точные.</p><h3>Шаг 2. Иммутабельная среда сборки</h3>
+<p>Каждый билд запускается в свежем контейнере из образа с зафиксированным digest. Shared, накапливающие состояние раннеры — источник недетерминизма: кэш, установленные пакеты, временные файлы предыдущих сборок меняют результат.</p>
+<p>Dockerfile сборки должен содержать <code>FROM node:20.15.0-alpine3.18@sha256:...</code> и устанавливать инструменты с точными версиями через <code>apk add python3=3.11.5-r0</code>.</p><h3>Шаг 3. Пиннинг CI-экшенов по commit SHA</h3>
+<p>Ссылки вида <code>uses: actions/checkout@v4</code> уязвимы: тег может быть перезаписан. Пиннинг на полный SHA коммита исключает подмену. Автоматизация обновления — через Renovate или Dependabot, которые создают PR при выходе новой версии, сохраняя SHA-пиннинг.</p><h3>Шаг 4. Детерминированные временные метки и пути</h3>
+<p>BuildKit поддерживает переменную <code>SOURCE_DATE_EPOCH</code> — стандарт reproducible-builds.org. Установка <code>SOURCE_DATE_EPOCH: 0</code> или значения из <code>git log -1 --pretty=%ct</code> делает временные метки в образе фиксированными.</p>
+<p>Для компилируемых языков (Rust, C++) применяется <code>--remap-path-prefix</code> для устранения абсолютных путей из бинарника.</p><h3>Шаг 5. Верификация воспроизводимости как CI-гейт</h3>
+<p>Пайплайн должен включать шаг, который собирает артефакт дважды на независимых раннерах и сравнивает результаты через diff. Инструмент <code>reproducible-containers/diffoci</code> сравнивает OCI-образы побайтово; ненулевой diff валит сборку. Альтернатива — сравнение checksum.</p><h3>Шаг 6. Подпись и провенанс артефактов</h3>
+<p>Воспроизводимость без верификации происхождения неполна. Cosign (keyless, через OIDC) подписывает образ по digest; SLSA provenance attestation фиксирует, какой workflow и из какого коммита создал артефакт. SBOM генерируется на этапе сборки и прикрепляется к образу.</p>
+<p>Проверка подписи выполняется командой <code>cosign verify --certificate-identity-regexp 'github.com/org/repo' ghcr.io/org/image@sha256:...</code>.</p><h2>Типичные ошибки и методы обхода</h2>
+<p><strong>Ошибка 1: Использование плавающих тегов в base-образах.</strong> <code>FROM python:3.11-slim</code> без digest — при следующем билде подтянется обновлённый образ с другими библиотеками. Решение: digest-pinning с автоматическим обновлением через Renovate.</p>
+<p><strong>Ошибка 2: Тесты, зависящие от текущего времени.</strong> Тест, проходящий в 14:00 и падающий в полночь, тестирует часы, а не приложение. Решение: мокирование времени через <code>jest.useFakeTimers()</code> или аналоги.</p>
+<p><strong>Ошибка 3: Культура ручного ретрая упавших сборок.</strong> Повторный запуск без расследования маскирует недетерминизм. Решение: карантин флаки-тестов, метрика flake rate как продуктовый показатель.</p><h2>Регламентная база и отраслевые стандарты</h2>
+<p>Основной ориентир — спецификация Reproducible Builds (reproducible-builds.org) и стандарт <code>SOURCE_DATE_EPOCH</code>. Для Rust-проектов применяется <code>[profile.release]</code> с <code>codegen-units = 1</code>, <code>lto = "thin"</code> и <code>trim-paths = "all"</code>.</p>
+<p>Требования к безопасности цепочки поставок (SLSA) предписывают: изоляцию сборки, провенанс, подпись артефактов. Для проектов Apache Software Foundation воспроизводимость сборок обязательна при сборке и подписи на CI.</p>
+<blockquote>Для проектов, связанных с промышленной автоматизацией и инфраструктурой, полезно учитывать отраслевые нормативы. Актуальные редакции СП 4.13130 и СП 10 в 2026 году задают требования к системам безопасности, которые могут затрагивать конфигурацию CI/CD-окружений. Анализ СП и ГОСТ для проектирования промобъектов 2026 помогает понять, какие стандарты применяются к инфраструктуре развёртывания.</blockquote><h2>Чек-лист контроля воспроизводимости</h2>
+<ol>
+<li>Все lock-файлы закоммичены, CI использует <code>npm ci</code> / <code>--frozen-lockfile</code>.</li>
+<li>Каждый <code>FROM</code> в Dockerfile зафиксирован по digest (<code>@sha256:...</code>).</li>
+<li>Каждый <code>uses:</code> в workflow зафиксирован по полному commit SHA.</li>
+<li><code>SOURCE_DATE_EPOCH</code> передан в build-args и проброшен в инструменты сборки.</li>
+<li>Release-сборки запускаются с <code>no-cache: true</code>; cache mounts отключены для релизных событий.</li>
+<li>В CI есть job, собирающий образ дважды и сравнивающий digest через diffoci.</li>
+<li>Артефакт подписан Cosign; SBOM сгенерирован и прикреплён.</li>
+<li>В репозитории документированы инварианты: какие поля нельзя менять без пересборки.</li>
+</ol><h2>FAQ по внедрению</h2>
+<p><strong>Воспроизводимость достижима для всех проектов?</strong> Нет. Сборки, зависящие от специфических параметров окружения или timing-факторов, могут не давать бит-в-бит идентичный результат. В таких случаях применяется верификация через checksum-сравнение на уровне ключевых артефактов.</p>
+<p><strong>Как быстро обновлять digest-пиннинги?</strong> Renovate или Dependabot автоматически создают PR при выходе новой версии базового образа, сохраняя SHA. Ручное обновление — только для критических патчей безопасности.</p>
+<p><strong>Что делать, если сборка детерминирована, но деплой меняет артефакт?</strong> Конфигурация, специфичная для окружения, выносится за пределы подписанного артефакта: environment variables, config-файлы на целевой машине, внешний конфиг-сервис. Артефакт остаётся environment-agnostic.</p><h2>Заключение</h2>
+<p>Внедрение воспроизводимости — не разовая задача, а набор инвариантов, поддерживаемых в каждом коммите. Для проектных команд, которым требуется найти специалистов по настройке CI/CD или обменяться опытом с коллегами из Ярославля и области, <a href='https://t.me/Yaroslavl_obyavleniya'>Объявления Ярославль</a> служат площадкой прямого контакта без посредников. Правила размещения описаны в <a href='https://telegra.ph/Pravila-02-15-30'>документе</a>. При расширении команды полезен <a href='https://telegra.ph/Kak-dobavit-svoih-druzej-i-kolleg-v-gruppu-04-29'>алгоритм добавления коллег</a>, а условия продвижения услуг — в <a href='https://telegra.ph/Zakaz-reklamy-04-29'>тарифах</a>. Для специалистов из других регионов доступны <a href='https://t.me/addlist/AY_kVCPoeMcyZTQy'>группы городов России</a>.</p></div>
+        <div class="tags"><span class="tag">#CICD</span> <span class="tag">#DevOps</span> <span class="tag">#ВоспроизводимостьСборки</span> <span class="tag">#Docker</span> <span class="tag">#SupplyChainSecurity</span> </div>
+    </article>
+</body>
+</html>
