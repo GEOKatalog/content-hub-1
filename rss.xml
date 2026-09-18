@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:13:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Доверительное управление консервативным портфелем облигаций в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/doveritelnoe-upravlenie-konservativnym-portfelem-obligatsiy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/doveritelnoe-upravlenie-konservativnym-portfelem-obligatsiy.html</guid>
+    <pubDate>Fri, 18 Sep 2026 10:13:34 GMT</pubDate>
+  </item>
   <item>
     <title>Доверительное управление или своя стратегия: облигации 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doveritelnoe-upravlenie-ili-svoya-strategiya-obligatsii-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tsenniki-po-novym-pravilam-2026-instruktsiya-dlya-magazina.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsenniki-po-novym-pravilam-2026-instruktsiya-dlya-magazina.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:33:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Новые правила оформления ценников с 2026 года</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/novye-pravila-oformleniya-tsennikov-s-2026-goda.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/novye-pravila-oformleniya-tsennikov-s-2026-goda.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:32:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
