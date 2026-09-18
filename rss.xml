@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:48:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>НДФЛ 13–22% без самозанятости: сколько теряет рантье</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ndfl-13-22-bez-samozanyatosti-skolko-teryaet-rante.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ndfl-13-22-bez-samozanyatosti-skolko-teryaet-rante.html</guid>
+    <pubDate>Fri, 18 Sep 2026 06:48:51 GMT</pubDate>
+  </item>
   <item>
     <title>Вычет 1 млн или расходы наследодателя: что выбрать</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vychet-1-mln-ili-raskhody-nasledodatelya-chto-vybrat.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhnolog-dlya-kraftovogo-proizvodstva-na-autsorse-irkutsk.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhnolog-dlya-kraftovogo-proizvodstva-na-autsorse-irkutsk.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:26:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Право на статус: аудит производителя в цифрах</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravo-na-status-audit-proizvoditelya-v-tsifrakh.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravo-na-status-audit-proizvoditelya-v-tsifrakh.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:25:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
