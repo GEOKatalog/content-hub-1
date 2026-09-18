@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:16:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Павильон, отдел или магазин: гид по торговле 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pavilon-otdel-ili-magazin-gid-po-torgovle-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pavilon-otdel-ili-magazin-gid-po-torgovle-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:16:00 GMT</pubDate>
+  </item>
   <item>
     <title>Павильон или магазин: формат торговли в Иркутске 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pavilon-ili-magazin-format-torgovli-v-irkutske-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-molochki-v-khabarovske-pravila-2026-dlya-magazina.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-molochki-v-khabarovske-pravila-2026-dlya-magazina.html</guid>
     <pubDate>Thu, 17 Sep 2026 19:59:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нормативы аварийно-диспетчерского обслуживания сантехники 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-avariyno-dispetcherskogo-obsluzhivaniya-santekhnik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-avariyno-dispetcherskogo-obsluzhivaniya-santekhnik.html</guid>
-    <pubDate>Thu, 17 Sep 2026 19:58:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
