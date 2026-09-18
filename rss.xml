@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:35:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:36:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Форма ПМ-пром 2026: обзор решений для малого бизнеса</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/forma-pm-prom-2026-obzor-resheniy-dlya-malogo-biznesa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/forma-pm-prom-2026-obzor-resheniy-dlya-malogo-biznesa.html</guid>
+    <pubDate>Fri, 18 Sep 2026 18:36:36 GMT</pubDate>
+  </item>
   <item>
     <title>Форма ПМ-пром 2026: каталог решений для малого производства</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/forma-pm-prom-2026-katalog-resheniy-dlya-malogo-proizvodstva.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mezhevanie-uchastka-v-orenburge-bez-koordinat-ne-prodat.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mezhevanie-uchastka-v-orenburge-bez-koordinat-ne-prodat.html</guid>
     <pubDate>Fri, 18 Sep 2026 12:15:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда участка без межевания в 2026: пошаговый алгоритм</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-uchastka-bez-mezhevaniya-v-2026-poshagovyy-algoritm.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-uchastka-bez-mezhevaniya-v-2026-poshagovyy-algoritm.html</guid>
-    <pubDate>Fri, 18 Sep 2026 12:15:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
