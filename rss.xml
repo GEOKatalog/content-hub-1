@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:10:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Рейтинг решений 2026: налог на имущество в Оренбурге</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-nalog-na-imushchestvo-v-orenburge.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-nalog-na-imushchestvo-v-orenburge.html</guid>
+    <pubDate>Fri, 18 Sep 2026 12:10:22 GMT</pubDate>
+  </item>
   <item>
     <title>Кейс: как наследники в Оренбурге вернули 46 200 ₽</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/keys-kak-nasledniki-v-orenburge-vernuli-46-200.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhkarta-dlya-horeca-okupaemost-za-2-mesyatsa.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhkarta-dlya-horeca-okupaemost-za-2-mesyatsa.html</guid>
     <pubDate>Fri, 18 Sep 2026 05:19:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как составить техкарту блюда по ГОСТ 31987-2012</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sostavit-tekhkartu-blyuda-po-gost-31987-2012.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sostavit-tekhkartu-blyuda-po-gost-31987-2012.html</guid>
-    <pubDate>Fri, 18 Sep 2026 05:19:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
