@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:05:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Приказ № 117: аудит кластера Kubernetes</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-117-audit-klastera-kubernetes.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-117-audit-klastera-kubernetes.html</guid>
+    <pubDate>Fri, 18 Sep 2026 23:05:06 GMT</pubDate>
+  </item>
   <item>
     <title>Приказ ФСТЭК №117: аудит контейнеров и внедрение СЗИ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-fstek-117-audit-konteynerov-i-vnedrenie-szi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-pravila-odna-semya-odna-lgota.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-pravila-odna-semya-odna-lgota.html</guid>
     <pubDate>Fri, 18 Sep 2026 17:00:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Семейная ипотека 2026: правила одна семья — одна</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-pravila-odna-semya-odna.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-pravila-odna-semya-odna.html</guid>
-    <pubDate>Fri, 18 Sep 2026 17:00:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
