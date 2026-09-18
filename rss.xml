@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:36:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:37:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аутсорсинг сисадмина для серверов: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-sisadmina-dlya-serverov-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-sisadmina-dlya-serverov-gid-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 18:37:13 GMT</pubDate>
+  </item>
   <item>
     <title>Как заполнять форму ПМ-пром в 2026 году: руководство</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zapolnyat-formu-pm-prom-v-2026-godu-rukovodstvo.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vychet-po-iis-3-v-2026-instruktsiya-i-sroki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vychet-po-iis-3-v-2026-instruktsiya-i-sroki.html</guid>
     <pubDate>Fri, 18 Sep 2026 12:16:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>МГС по вкладам 2026: как читать договор и не терять доход</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mgs-po-vkladam-2026-kak-chitat-dogovor-i-ne-teryat-dokhod.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mgs-po-vkladam-2026-kak-chitat-dogovor-i-ne-teryat-dokhod.html</guid>
-    <pubDate>Fri, 18 Sep 2026 12:16:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
