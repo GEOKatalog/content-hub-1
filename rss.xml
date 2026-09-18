@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 22:58:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:58:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Доставка еды в общежитие Ярославля: гид студента 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-edy-v-obshchezhitie-yaroslavlya-gid-studenta-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-edy-v-obshchezhitie-yaroslavlya-gid-studenta-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 22:58:47 GMT</pubDate>
+  </item>
   <item>
     <title>Доставка еды в общежитие Ярославля: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-edy-v-obshchezhitie-yaroslavlya-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-statusa-obekta-v-egrn-reyting-sposobov-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-statusa-obekta-v-egrn-reyting-sposobov-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 16:53:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Запрет НПД для нежилых помещений в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zapret-npd-dlya-nezhilykh-pomeshcheniy-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapret-npd-dlya-nezhilykh-pomeshcheniy-v-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 16:53:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
