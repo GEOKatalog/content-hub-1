@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:27:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:03:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог 2026: продажа наследства и покупка жилья</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-2026-prodazha-nasledstva-i-pokupka-zhilya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-2026-prodazha-nasledstva-i-pokupka-zhilya.html</guid>
+    <pubDate>Fri, 18 Sep 2026 12:03:26 GMT</pubDate>
+  </item>
   <item>
     <title>Как оспорить архивную кадастровую стоимость в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-osporit-arkhivnuyu-kadastrovuyu-stoimost-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnye-i-rekomendatelnye-trebovaniya-2026-chto-izmenil.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnye-i-rekomendatelnye-trebovaniya-2026-chto-izmenil.html</guid>
     <pubDate>Fri, 18 Sep 2026 05:11:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Маркировка древесины 2026: окупаемость и требования</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-drevesiny-2026-okupaemost-i-trebovaniya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-drevesiny-2026-okupaemost-i-trebovaniya.html</guid>
-    <pubDate>Fri, 18 Sep 2026 05:11:22 GMT</pubDate>
   </item>
   </channel>
 </rss>
