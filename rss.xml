@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:05:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Онлайн-запись к нотариусу в Оренбурге: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-zapis-k-notariusu-v-orenburge-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/onlayn-zapis-k-notariusu-v-orenburge-gid-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 10:05:24 GMT</pubDate>
+  </item>
   <item>
     <title>Раздел участка и НДФЛ в 2026 году: как считать срок</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/razdel-uchastka-i-ndfl-v-2026-godu-kak-schitat-srok.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-gost-r-72236-2025-dlya-fermerskoy-polki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-gost-r-72236-2025-dlya-fermerskoy-polki.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:25:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сколько приносит аудит упаковки по ГОСТ Р 72236-2025</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/skolko-prinosit-audit-upakovki-po-gost-r-72236-2025.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/skolko-prinosit-audit-upakovki-po-gost-r-72236-2025.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:25:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
