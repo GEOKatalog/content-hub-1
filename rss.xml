@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:13:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ 2026: новые требования к ценникам на фермерскую продукцию</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-2026-novye-trebovaniya-k-tsennikam-na-fermerskuyu-produ.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-2026-novye-trebovaniya-k-tsennikam-na-fermerskuyu-produ.html</guid>
+    <pubDate>Fri, 18 Sep 2026 05:13:05 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для продажи урожая фермером в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-prodazhi-urozhaya-fermerom-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2-3-2-4-4282-26-dlya-pekarni-s-1-sentyabrya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2-3-2-4-4282-26-dlya-pekarni-s-1-sentyabrya-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:49:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Поставщик фермерской молочки с готовыми ВСД в Меркурии</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchik-fermerskoy-molochki-s-gotovymi-vsd-v-merkurii.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/postavshchik-fermerskoy-molochki-s-gotovymi-vsd-v-merkurii.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:49:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
