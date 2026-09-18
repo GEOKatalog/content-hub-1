@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:45:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:53:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Обязательные СП и ГОСТ для промышленного здания в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnye-sp-i-gost-dlya-promyshlennogo-zdaniya-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnye-sp-i-gost-dlya-promyshlennogo-zdaniya-v-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 22:53:01 GMT</pubDate>
+  </item>
   <item>
     <title>Заказать проект промышленного объекта под ключ в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zakazat-proekt-promyshlennogo-obekta-pod-klyuch-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-kvartiry-pensionerom-pravila-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-kvartiry-pensionerom-pravila-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 16:47:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Мотоблок и охрана труда для пенсионеров Оренбурга</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/motoblok-i-okhrana-truda-dlya-pensionerov-orenburga.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/motoblok-i-okhrana-truda-dlya-pensionerov-orenburga.html</guid>
-    <pubDate>Fri, 18 Sep 2026 16:47:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
