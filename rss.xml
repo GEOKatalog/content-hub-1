@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 17:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:15:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как сверить выручку 2025 с порогом 20 млн рублей</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sverit-vyruchku-2025-s-porogom-20-mln-rubley.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sverit-vyruchku-2025-s-porogom-20-mln-rubley.html</guid>
+    <pubDate>Fri, 18 Sep 2026 18:15:57 GMT</pubDate>
+  </item>
   <item>
     <title>Миграция на IaC: окупаемость за 8 месяцев</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsiya-na-iac-okupaemost-za-8-mesyatsev.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogovyy-konsultant-po-prodazhe-nedvizhimosti-v-orenburge.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogovyy-konsultant-po-prodazhe-nedvizhimosti-v-orenburge.html</guid>
     <pubDate>Fri, 18 Sep 2026 12:08:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как уменьшить налог с продажи квартиры в Оренбурге 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-umenshit-nalog-s-prodazhi-kvartiry-v-orenburge-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-umenshit-nalog-s-prodazhi-kvartiry-v-orenburge-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 12:08:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
