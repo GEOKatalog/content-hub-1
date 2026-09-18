@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:15:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Цех в жилом доме: сколько теряют на переезде</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tsekh-v-zhilom-dome-skolko-teryayut-na-pereezde.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsekh-v-zhilom-dome-skolko-teryayut-na-pereezde.html</guid>
+    <pubDate>Fri, 18 Sep 2026 05:15:44 GMT</pubDate>
+  </item>
   <item>
     <title>Крафт-цех вместо квартиры: ROI и правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kraft-tsekh-vmesto-kvartiry-roi-i-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-chestnom-znake-2026-poshagovoe-rukovodstvo.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-v-chestnom-znake-2026-poshagovoe-rukovodstvo.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:14:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Маркировка бакалейной продукции с 1 сентября 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-bakaleynoy-produktsii-s-1-sentyabrya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-bakaleynoy-produktsii-s-1-sentyabrya-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:14:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
