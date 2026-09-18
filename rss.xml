@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:06:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>НДФЛ с аренды квартиры в 2026 году: ставки и сроки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ndfl-s-arendy-kvartiry-v-2026-godu-stavki-i-sroki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ndfl-s-arendy-kvartiry-v-2026-godu-stavki-i-sroki.html</guid>
+    <pubDate>Fri, 18 Sep 2026 10:06:43 GMT</pubDate>
+  </item>
   <item>
     <title>Налог на аренду квартиры в Оренбурге 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-arendu-kvartiry-v-orenburge-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhnolog-dlya-kraftovogo-proizvodstva-na-autsorse-irkutsk.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhnolog-dlya-kraftovogo-proizvodstva-na-autsorse-irkutsk.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:26:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Право на статус: аудит производителя в цифрах</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravo-na-status-audit-proizvoditelya-v-tsifrakh.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravo-na-status-audit-proizvoditelya-v-tsifrakh.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:25:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
