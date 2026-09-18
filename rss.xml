@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:32:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:32:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Инвентаризация мелиоративных систем до декабря 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-meliorativnykh-sistem-do-dekabrya-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-meliorativnykh-sistem-do-dekabrya-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:32:48 GMT</pubDate>
+  </item>
   <item>
     <title>Обязательный учет мелиоративных систем 2026: сроки и порядок</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnyy-uchet-meliorativnykh-sistem-2026-sroki-i-poryad.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/soglasovanie-planirovki-pvz-wb-instruktsiya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/soglasovanie-planirovki-pvz-wb-instruktsiya-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:16:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Требования к зоомагазину с животными в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-zoomagazinu-s-zhivotnymi-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-zoomagazinu-s-zhivotnymi-v-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:16:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
