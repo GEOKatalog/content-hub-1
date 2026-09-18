@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:32:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:32:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Состав разделов проектной документации по ПП РФ №87: рейтинг решений 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sostav-razdelov-proektnoy-dokumentatsii-po-pp-rf-87-reyting.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sostav-razdelov-proektnoy-dokumentatsii-po-pp-rf-87-reyting.html</guid>
+    <pubDate>Fri, 18 Sep 2026 18:32:45 GMT</pubDate>
+  </item>
   <item>
     <title>Миграционный учет иностранных студентов в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-inostrannykh-studentov-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-arendu-unasledovannoy-kvartiry-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-arendu-unasledovannoy-kvartiry-v-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 12:12:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Чек-лист выбора квартиры для семьи в Оренбурге</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/chek-list-vybora-kvartiry-dlya-semi-v-orenburge.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chek-list-vybora-kvartiry-dlya-semi-v-orenburge.html</guid>
-    <pubDate>Fri, 18 Sep 2026 12:11:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
