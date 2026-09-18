@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:07:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:07:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регламент обоснования НМЦК рыночным методом в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reglament-obosnovaniya-nmtsk-rynochnym-metodom-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reglament-obosnovaniya-nmtsk-rynochnym-metodom-v-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 23:07:54 GMT</pubDate>
+  </item>
   <item>
     <title>Как обосновать НМЦК методом сопоставимых цен в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-obosnovat-nmtsk-metodom-sopostavimykh-tsen-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/srochnoe-mezhevanie-uchastka-v-orenburge-reyting-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/srochnoe-mezhevanie-uchastka-v-orenburge-reyting-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 17:04:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Бесплатная проверка поставщика через сервис ФНС в Ярославле</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/besplatnaya-proverka-postavshchika-cherez-servis-fns-v-yaros.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/besplatnaya-proverka-postavshchika-cherez-servis-fns-v-yaros.html</guid>
-    <pubDate>Fri, 18 Sep 2026 17:03:27 GMT</pubDate>
   </item>
   </channel>
 </rss>
