@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:43:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ 12.2.140-2004 и мотоблоки: гид для Оренбурга 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-140-2004-i-motobloki-gid-dlya-orenburga-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-12-2-140-2004-i-motobloki-gid-dlya-orenburga-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 16:43:36 GMT</pubDate>
+  </item>
   <item>
     <title>Мотоблок для пенсионера: инструкция по охране труда 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/motoblok-dlya-pensionera-instruktsiya-po-okhrane-truda-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-kak-kupit-kvartiru-po-novym-pravilam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-kak-kupit-kvartiru-po-novym-pravilam.html</guid>
     <pubDate>Fri, 18 Sep 2026 10:08:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>ФИНВ-2026: передача вычета внутри группы компаний</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/finv-2026-peredacha-vycheta-vnutri-gruppy-kompaniy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/finv-2026-peredacha-vycheta-vnutri-gruppy-kompaniy.html</guid>
-    <pubDate>Fri, 18 Sep 2026 10:07:31 GMT</pubDate>
   </item>
   </channel>
 </rss>
