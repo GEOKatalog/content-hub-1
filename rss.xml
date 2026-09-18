@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:03:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:03:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Продажа земли без межевания в 2026: гид</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-zemli-bez-mezhevaniya-v-2026-gid.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-zemli-bez-mezhevaniya-v-2026-gid.html</guid>
+    <pubDate>Fri, 18 Sep 2026 12:03:50 GMT</pubDate>
+  </item>
   <item>
     <title>Риелтор по налогам при продаже недвижимости Оренбург</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rieltor-po-nalogam-pri-prodazhe-nedvizhimosti-orenburg.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/matritsa-opasnostey-i-khassp-dlya-fermera-syrevika.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/matritsa-opasnostey-i-khassp-dlya-fermera-syrevika.html</guid>
     <pubDate>Fri, 18 Sep 2026 05:12:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Обязательные и рекомендательные требования 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnye-i-rekomendatelnye-trebovaniya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnye-i-rekomendatelnye-trebovaniya-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 05:11:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
