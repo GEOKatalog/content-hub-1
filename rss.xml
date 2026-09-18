@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:30:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:30:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ГОСТ 33756-2016: коды упаковки и маркировка 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-33756-2016-kody-upakovki-i-markirovka-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-33756-2016-kody-upakovki-i-markirovka-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:30:55 GMT</pubDate>
+  </item>
   <item>
     <title>Лицензионный договор на сорт 2026: проверка за 5 шагов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenzionnyy-dogovor-na-sort-2026-proverka-za-5-shagov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-pekarni-u-doma-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dlya-pekarni-u-doma-spravochnik-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:14:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Требования к зоомагазину с животными: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-zoomagazinu-s-zhivotnymi-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-zoomagazinu-s-zhivotnymi-spravochnik-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:14:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
