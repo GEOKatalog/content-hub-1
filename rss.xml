@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:48:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог с аренды унаследованной квартиры: НПД 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-unasledovannoy-kvartiry-npd-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-unasledovannoy-kvartiry-npd-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 16:48:56 GMT</pubDate>
+  </item>
   <item>
     <title>Каталог решений для рантье-новичков: ипотека 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-resheniy-dlya-rante-novichkov-ipoteka-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doveritelnoe-upravlenie-konservativnym-portfelem-obligatsiy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/doveritelnoe-upravlenie-konservativnym-portfelem-obligatsiy.html</guid>
     <pubDate>Fri, 18 Sep 2026 10:13:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Доверительное управление или своя стратегия: облигации 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/doveritelnoe-upravlenie-ili-svoya-strategiya-obligatsii-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/doveritelnoe-upravlenie-ili-svoya-strategiya-obligatsii-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 10:13:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
