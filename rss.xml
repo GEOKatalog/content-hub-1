@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:11:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Обязательные и рекомендательные требования 2026: что изменилось</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnye-i-rekomendatelnye-trebovaniya-2026-chto-izmenil.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnye-i-rekomendatelnye-trebovaniya-2026-chto-izmenil.html</guid>
+    <pubDate>Fri, 18 Sep 2026 05:11:45 GMT</pubDate>
+  </item>
   <item>
     <title>Маркировка древесины 2026: окупаемость и требования</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-drevesiny-2026-okupaemost-i-trebovaniya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativ-ukhoda-vody-v-kanalizatsiyu-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativ-ukhoda-vody-v-kanalizatsiyu-gid-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:48:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аккредитация провизора 2026: рейтинг решений</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/akkreditatsiya-provizora-2026-reyting-resheniy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/akkreditatsiya-provizora-2026-reyting-resheniy.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:47:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
