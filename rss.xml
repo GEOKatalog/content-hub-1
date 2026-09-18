@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:17:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:17:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Партионный учёт молочной продукции: справочник 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/partionnyy-uchyot-molochnoy-produktsii-spravochnik-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/partionnyy-uchyot-molochnoy-produktsii-spravochnik-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 05:17:49 GMT</pubDate>
+  </item>
   <item>
     <title>Инвентаризация ассортимента и ценников в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/inventarizatsiya-assortimenta-i-tsennikov-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-restorana-2026-polnyy-gid-dlya-irkutska.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-restorana-2026-polnyy-gid-dlya-irkutska.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:16:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Павильон, отдел или магазин: гид по торговле 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pavilon-otdel-ili-magazin-gid-po-torgovle-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pavilon-otdel-ili-magazin-gid-po-torgovle-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:16:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
