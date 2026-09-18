@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:41:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:42:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ЛДВ 2026: как сохранить льготу на 50 млн</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ldv-2026-kak-sokhranit-lgotu-na-50-mln.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ldv-2026-kak-sokhranit-lgotu-na-50-mln.html</guid>
+    <pubDate>Fri, 18 Sep 2026 06:42:02 GMT</pubDate>
+  </item>
   <item>
     <title>Продажа доли в Оренбурге: правила 2026 года</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-doli-v-orenburge-pravila-2026-goda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/job-description-dlya-marketologa-v-irkutske-kak-zaprosit.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/job-description-dlya-marketologa-v-irkutske-kak-zaprosit.html</guid>
     <pubDate>Fri, 18 Sep 2026 01:16:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы для открытия ресторана: чек-лист 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-otkrytiya-restorana-chek-list-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-otkrytiya-restorana-chek-list-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 01:16:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
