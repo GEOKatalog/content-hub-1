@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:10:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как продать подаренную квартиру и не платить налог</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-podarennuyu-kvartiru-i-ne-platit-nalog.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-podarennuyu-kvartiru-i-ne-platit-nalog.html</guid>
+    <pubDate>Fri, 18 Sep 2026 12:10:54 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг решений 2026: налог на имущество в Оренбурге</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-2026-nalog-na-imushchestvo-v-orenburge.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhkarta-blyuda-po-tr-ts-021-2011-okupaemost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhkarta-blyuda-po-tr-ts-021-2011-okupaemost.html</guid>
     <pubDate>Fri, 18 Sep 2026 05:19:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Техкарта для HORECA: окупаемость за 2 месяца</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhkarta-dlya-horeca-okupaemost-za-2-mesyatsa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhkarta-dlya-horeca-okupaemost-za-2-mesyatsa.html</guid>
-    <pubDate>Fri, 18 Sep 2026 05:19:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
