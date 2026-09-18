@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:37:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:38:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог с наследства квартиры: как не платить при продаже</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-nasledstva-kvartiry-kak-ne-platit-pri-prodazhe.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-nasledstva-kvartiry-kak-ne-platit-pri-prodazhe.html</guid>
+    <pubDate>Fri, 18 Sep 2026 06:38:03 GMT</pubDate>
+  </item>
   <item>
     <title>Одна семья — один кредит: правила 2026 года</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/odna-semya-odin-kredit-pravila-2026-goda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-potokov-i-khassp-do-1-sentyabrya-2026-v-khabarovske.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-potokov-i-khassp-do-1-sentyabrya-2026-v-khabarovske.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:49:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>СанПиН 2.3/2.4.4282-26 для пекарни с 1 сентября 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2-3-2-4-4282-26-dlya-pekarni-s-1-sentyabrya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2-3-2-4-4282-26-dlya-pekarni-s-1-sentyabrya-2026.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:49:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
