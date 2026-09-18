@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:37:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:37:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ХАССП в общепите Иркутска: пять обязательных журналов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/khassp-v-obshchepite-irkutska-pyat-obyazatelnykh-zhurnalov-2.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/khassp-v-obshchepite-irkutska-pyat-obyazatelnykh-zhurnalov-2.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:37:24 GMT</pubDate>
+  </item>
   <item>
     <title>Маркировка мёда Честный знак: сроки и этапы 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-myoda-chestnyy-znak-sroki-i-etapy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vnedrenie-markirovki-kormov-dlya-zoomagazina-v-khabarovske.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vnedrenie-markirovki-kormov-dlya-zoomagazina-v-khabarovske.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:38:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Маркировка кормов 2026: правила Честного знака для Хабаровска</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-kormov-2026-pravila-chestnogo-znaka-dlya-khabarov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-kormov-2026-pravila-chestnogo-znaka-dlya-khabarov.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:38:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
