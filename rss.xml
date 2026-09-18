@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:43:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:44:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Превышение лимита самозанятого: НДФЛ 13–22%</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prevyshenie-limita-samozanyatogo-ndfl-13-22.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prevyshenie-limita-samozanyatogo-ndfl-13-22.html</guid>
+    <pubDate>Fri, 18 Sep 2026 16:44:34 GMT</pubDate>
+  </item>
   <item>
     <title>Самозанятый и аренда квартиры: лимит 2,4 млн в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-i-arenda-kvartiry-limit-2-4-mln-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-pravila-i-usloviya-v-orenburge.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-pravila-i-usloviya-v-orenburge.html</guid>
     <pubDate>Fri, 18 Sep 2026 10:08:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Семейная ипотека: как взять вторую без погашения первой</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-kak-vzyat-vtoruyu-bez-pogasheniya-pervoy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-kak-vzyat-vtoruyu-bez-pogasheniya-pervoy.html</guid>
-    <pubDate>Fri, 18 Sep 2026 10:08:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
