@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:39:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Маркировка молочной продукции для розницы: сроки 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-molochnoy-produktsii-dlya-roznitsy-sroki-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-molochnoy-produktsii-dlya-roznitsy-sroki-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 01:39:11 GMT</pubDate>
+  </item>
   <item>
     <title>Государственный каталог пестицидов 2026: обзор решений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gosudarstvennyy-katalog-pestitsidov-2026-obzor-resheniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/personalnyy-sklad-wildberries-pravila-i-riski-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/personalnyy-sklad-wildberries-pravila-i-riski-2026.html</guid>
     <pubDate>Thu, 17 Sep 2026 20:40:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Требования Wildberries к персональному складу: обзор</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-wildberries-k-personalnomu-skladu-obzor.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-wildberries-k-personalnomu-skladu-obzor.html</guid>
-    <pubDate>Thu, 17 Sep 2026 20:40:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
