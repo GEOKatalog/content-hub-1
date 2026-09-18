@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:12:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:13:06 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Промпроектор на nanoCAD: окупаемость ПО в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/promproektor-na-nanocad-okupaemost-po-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/promproektor-na-nanocad-okupaemost-po-v-2026.html</guid>
+    <pubDate>Fri, 18 Sep 2026 23:13:06 GMT</pubDate>
+  </item>
   <item>
     <title>Обязательные СП и ГОСТ для промобъектов в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazatelnye-sp-i-gost-dlya-promobektov-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-inostrannykh-studentov-v-obshchezhitii-2.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-inostrannykh-studentov-v-obshchezhitii-2.html</guid>
     <pubDate>Fri, 18 Sep 2026 18:32:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Техзадание по 44-ФЗ: как закупщику избежать отклонения заявки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhzadanie-po-44-fz-kak-zakupshchiku-izbezhat-otkloneniya-z.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhzadanie-po-44-fz-kak-zakupshchiku-izbezhat-otkloneniya-z.html</guid>
-    <pubDate>Fri, 18 Sep 2026 18:31:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
