@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 16:25:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:25:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Штрафы за шум в Ульяновской области: суммы 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-shum-v-ulyanovskoy-oblasti-summy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-shum-v-ulyanovskoy-oblasti-summy-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 16:25:44 GMT</pubDate>
+  </item>
   <item>
     <title>Документы Соцфонда в Ульяновске: гид по запросу 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-sotsfonda-v-ulyanovske-gid-po-zaprosu-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/suot-dlya-malogo-proizvodstva-obuchenie-sout-i-reestr-mintru.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/suot-dlya-malogo-proizvodstva-obuchenie-sout-i-reestr-mintru.html</guid>
     <pubDate>Sat, 19 Sep 2026 09:19:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Охрана труда на малом предприятии: обязанности руководителя</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/okhrana-truda-na-malom-predpriyatii-obyazannosti-rukovoditel.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okhrana-truda-na-malom-predpriyatii-obyazannosti-rukovoditel.html</guid>
-    <pubDate>Sat, 19 Sep 2026 09:19:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
