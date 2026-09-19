@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:22:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:23:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Разработка Положения о СУОТ: рейтинг решений 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-polozheniya-o-suot-reyting-resheniy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-polozheniya-o-suot-reyting-resheniy-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:23:12 GMT</pubDate>
+  </item>
   <item>
     <title>Охрана труда на малом предприятии Ярославля 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okhrana-truda-na-malom-predpriyatii-yaroslavlya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-dlya-podgotovki-k-mchs-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-resheniy-dlya-podgotovki-k-mchs-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:02:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>СП 20.13330 в 2026: проверка расчётов без замечаний</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-v-2026-proverka-raschyotov-bez-zamechaniy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-v-2026-proverka-raschyotov-bez-zamechaniy.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:02:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
