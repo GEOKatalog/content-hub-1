@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 17:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:58:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Служебная документация поста охраны ЧОП в Тольятти 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sluzhebnaya-dokumentatsiya-posta-okhrany-chop-v-tolyatti-202.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sluzhebnaya-dokumentatsiya-posta-okhrany-chop-v-tolyatti-202.html</guid>
+    <pubDate>Sat, 19 Sep 2026 17:58:14 GMT</pubDate>
+  </item>
   <item>
     <title>Проверить свой статус и среднедневной заработок за 2 года</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverit-svoy-status-i-srednednevnoy-zarabotok-za-2-goda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/usn-nds-2026-kak-sekonomit-na-proizvodstve.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/usn-nds-2026-kak-sekonomit-na-proizvodstve.html</guid>
     <pubDate>Sat, 19 Sep 2026 09:26:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>ОКВЭД для МСП: как не потерять тариф 15%</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/okved-dlya-msp-kak-ne-poteryat-tarif-15.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okved-dlya-msp-kak-ne-poteryat-tarif-15.html</guid>
-    <pubDate>Sat, 19 Sep 2026 09:26:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
