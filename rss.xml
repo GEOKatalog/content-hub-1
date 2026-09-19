@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:02:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Студенческий городок на сайте вуза: гид по общежитиям Барнаула</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/studencheskiy-gorodok-na-sayte-vuza-gid-po-obshchezhitiyam-b.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/studencheskiy-gorodok-na-sayte-vuza-gid-po-obshchezhitiyam-b.html</guid>
+    <pubDate>Sat, 19 Sep 2026 12:02:30 GMT</pubDate>
+  </item>
   <item>
     <title>Регистрация при пребывании свыше 90 дней: гид Барнаул</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-pri-prebyvanii-svyshe-90-dney-gid-barnaul.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-sistemnogo-administratora-v-yaroslavle-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-sistemnogo-administratora-v-yaroslavle-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 07:43:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка НТД в проекте через Росстандарт: гид для Ярославля 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ntd-v-proekte-cherez-rosstandart-gid-dlya-yaroslavl.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ntd-v-proekte-cherez-rosstandart-gid-dlya-yaroslavl.html</guid>
-    <pubDate>Sat, 19 Sep 2026 07:43:35 GMT</pubDate>
   </item>
   </channel>
 </rss>
