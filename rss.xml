@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:35:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самозанятый и аренда квартир: лимит 2026 года</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-i-arenda-kvartir-limit-2026-goda.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-i-arenda-kvartir-limit-2026-goda.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:35:21 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для семейной ипотеки 2026: чек-лист</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-semeynoy-ipoteki-2026-chek-list.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-kvartiru-v-barnaule-ot-sobstvennika-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyat-kvartiru-v-barnaule-ot-sobstvennika-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 19:02:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Черный список арендодателей Барнаула: как не нарушить закон</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/chernyy-spisok-arendodateley-barnaula-kak-ne-narushit-zakon.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chernyy-spisok-arendodateley-barnaula-kak-ne-narushit-zakon.html</guid>
-    <pubDate>Sat, 19 Sep 2026 19:02:31 GMT</pubDate>
   </item>
   </channel>
 </rss>
