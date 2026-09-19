@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:19:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налоги самозанятого при сдаче квартиры в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-samozanyatogo-pri-sdache-kvartiry-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalogi-samozanyatogo-pri-sdache-kvartiry-v-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:19:24 GMT</pubDate>
+  </item>
   <item>
     <title>Как определить интент запроса и не слить бюджет</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-intent-zaprosa-i-ne-slit-byudzhet.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-dlya-magazina-i-kafe-gid-po-lokatsii-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-dlya-magazina-i-kafe-gid-po-lokatsii-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 16:23:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нормативы для магазина и кафе в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-dlya-magazina-i-kafe-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-dlya-magazina-i-kafe-v-2026-godu.html</guid>
-    <pubDate>Sat, 19 Sep 2026 16:22:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
