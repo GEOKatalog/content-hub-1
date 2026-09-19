@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:26:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:27:27 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Бухгалтер на УСН с НДС: сопровождение производства</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/bukhgalter-na-usn-s-nds-soprovozhdenie-proizvodstva.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/bukhgalter-na-usn-s-nds-soprovozhdenie-proizvodstva.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:27:27 GMT</pubDate>
+  </item>
   <item>
     <title>УСН НДС 2026: как сэкономить на производстве</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/usn-nds-2026-kak-sekonomit-na-proizvodstve.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/litsenziya-dlya-remonta-kvartir-instruktsiya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/litsenziya-dlya-remonta-kvartir-instruktsiya-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:06:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Обязанности изготовителя по ремонту: границы 2027</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazannosti-izgotovitelya-po-remontu-granitsy-2027.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyazannosti-izgotovitelya-po-remontu-granitsy-2027.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:06:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
