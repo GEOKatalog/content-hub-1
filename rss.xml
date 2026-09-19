@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:28:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:29:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Поставщики промышленного оборудования в Ярославле</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-promyshlennogo-oborudovaniya-v-yaroslavle.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-promyshlennogo-oborudovaniya-v-yaroslavle.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:29:05 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для закупки оборудования по 223-ФЗ 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-zakupki-oborudovaniya-po-223-fz-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tendernoe-soprovozhdenie-pod-klyuch-reyting-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tendernoe-soprovozhdenie-pod-klyuch-reyting-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:08:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Самозанятый на НПД: ремонт и стройка в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-na-npd-remont-i-stroyka-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-na-npd-remont-i-stroyka-v-2026-godu.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:08:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
