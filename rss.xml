@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:41:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:42:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Профстандарт 680н: трудовые функции сисадмина</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-680n-trudovye-funktsii-sisadmina.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/profstandart-680n-trudovye-funktsii-sisadmina.html</guid>
+    <pubDate>Sat, 19 Sep 2026 07:42:05 GMT</pubDate>
+  </item>
   <item>
     <title>Маркировка Честный знак 2026: инструкция для малого производства</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/markirovka-chestnyy-znak-2026-instruktsiya-dlya-malogo-proiz.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nayti-udalyonnogo-devops-instruktsiya-po-naymu-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nayti-udalyonnogo-devops-instruktsiya-po-naymu-v-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 18:39:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как найти DevOps инженера удалённо в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-devops-inzhenera-udalyonno-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-devops-inzhenera-udalyonno-v-2026-godu.html</guid>
-    <pubDate>Fri, 18 Sep 2026 18:39:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
