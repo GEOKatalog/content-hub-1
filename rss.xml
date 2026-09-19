@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:50:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:50:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самозанятый мастер по ремонту техники: документы 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-master-po-remontu-tekhniki-dokumenty-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-master-po-remontu-tekhniki-dokumenty-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 07:50:49 GMT</pubDate>
+  </item>
   <item>
     <title>Реестр МСП 2026: как проверить статус предприятия</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-msp-2026-kak-proverit-status-predpriyatiya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshiy-autsors-sisadmina-dlya-malogo-biznesa-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/luchshiy-autsors-sisadmina-dlya-malogo-biznesa-v-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 22:54:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Неизменяемые артефакты в CI/CD: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/neizmenyaemye-artefakty-v-ci-cd-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/neizmenyaemye-artefakty-v-ci-cd-spravochnik-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 22:54:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
