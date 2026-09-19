@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:27:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:28:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог при сдаче студии в аренду: выбор режима 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-pri-sdache-studii-v-arendu-vybor-rezhima-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-pri-sdache-studii-v-arendu-vybor-rezhima-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:28:12 GMT</pubDate>
+  </item>
   <item>
     <title>Маркеры поискового интента: как отличить запрос</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/markery-poiskovogo-intenta-kak-otlichit-zapros.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sluzhebnaya-dokumentatsiya-posta-okhrany-chop-v-tolyatti-202.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sluzhebnaya-dokumentatsiya-posta-okhrany-chop-v-tolyatti-202.html</guid>
     <pubDate>Sat, 19 Sep 2026 17:58:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверить свой статус и среднедневной заработок за 2 года</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverit-svoy-status-i-srednednevnoy-zarabotok-za-2-goda.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverit-svoy-status-i-srednednevnoy-zarabotok-za-2-goda.html</guid>
-    <pubDate>Sat, 19 Sep 2026 17:57:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
