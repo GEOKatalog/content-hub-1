@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:26:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:26:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка склада без ЕГРН: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sklada-bez-egrn-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sklada-bez-egrn-gid-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:26:52 GMT</pubDate>
+  </item>
   <item>
     <title>Как заказать расширенную выписку ЕГРН в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zakazat-rasshirennuyu-vypisku-egrn-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-na-uborku-2026-chto-vazhno-znat-kliningu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-na-uborku-2026-chto-vazhno-znat-kliningu.html</guid>
     <pubDate>Sat, 19 Sep 2026 17:54:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Клининг Тольятти 2026: правила бытовых услуг и цены</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/klining-tolyatti-2026-pravila-bytovykh-uslug-i-tseny.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klining-tolyatti-2026-pravila-bytovykh-uslug-i-tseny.html</guid>
-    <pubDate>Sat, 19 Sep 2026 17:54:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
