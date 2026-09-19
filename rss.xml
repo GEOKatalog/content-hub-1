@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 18:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 18:04:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Клининговая компания Тольятти: уборка офисов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kliningovaya-kompaniya-tolyatti-uborka-ofisov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kliningovaya-kompaniya-tolyatti-uborka-ofisov-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 18:04:00 GMT</pubDate>
+  </item>
   <item>
     <title>CRM с онлайн-записью для фотостудии: каталог 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/crm-s-onlayn-zapisyu-dlya-fotostudii-katalog-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zashchita-personalnykh-dannykh-v-is-trebovaniya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zashchita-personalnykh-dannykh-v-is-trebovaniya-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 09:29:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Справочник по актуализации нормативных ссылок в проектах</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-po-aktualizatsii-normativnykh-ssylok-v-proektakh.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravochnik-po-aktualizatsii-normativnykh-ssylok-v-proektakh.html</guid>
-    <pubDate>Sat, 19 Sep 2026 09:29:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
