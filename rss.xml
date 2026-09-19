@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 17:51:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:52:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Согласование массового мероприятия: пакет документов</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/soglasovanie-massovogo-meropriyatiya-paket-dokumentov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/soglasovanie-massovogo-meropriyatiya-paket-dokumentov.html</guid>
+    <pubDate>Sat, 19 Sep 2026 17:52:09 GMT</pubDate>
+  </item>
   <item>
     <title>Рейтинг способов вызова электрика в Тольятти 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-sposobov-vyzova-elektrika-v-tolyatti-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nok-dlya-gip-i-gap-v-yaroslavle-gid-po-kvalifikatsiyam-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nok-dlya-gip-i-gap-v-yaroslavle-gid-po-kvalifikatsiyam-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 09:24:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Каталог решений: фрилансер-ремонтник для завода в Ярославле</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-resheniy-frilanser-remontnik-dlya-zavoda-v-yaroslavl.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/katalog-resheniy-frilanser-remontnik-dlya-zavoda-v-yaroslavl.html</guid>
-    <pubDate>Sat, 19 Sep 2026 09:24:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
