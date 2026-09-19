@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:19:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:19:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СУОТ для малого производства: обучение, СОУТ и реестр Минтруда</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/suot-dlya-malogo-proizvodstva-obuchenie-sout-i-reestr-mintru.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/suot-dlya-malogo-proizvodstva-obuchenie-sout-i-reestr-mintru.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:19:57 GMT</pubDate>
+  </item>
   <item>
     <title>Охрана труда на малом предприятии: обязанности руководителя</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okhrana-truda-na-malom-predpriyatii-obyazannosti-rukovoditel.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-edy-studentu-v-yaroslavle-byudzhet-i-chastota.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-edy-studentu-v-yaroslavle-byudzhet-i-chastota.html</guid>
     <pubDate>Fri, 18 Sep 2026 22:59:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Бюджет и частота заказов еды студенту в Ярославле</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/byudzhet-i-chastota-zakazov-edy-studentu-v-yaroslavle.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/byudzhet-i-chastota-zakazov-edy-studentu-v-yaroslavle.html</guid>
-    <pubDate>Fri, 18 Sep 2026 22:59:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
