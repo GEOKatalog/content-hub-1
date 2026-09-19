@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:19:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Миграционный учет студента в общежитии: кто и как оформляет в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-studenta-v-obshchezhitii-kto-i-kak-oform.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/migratsionnyy-uchet-studenta-v-obshchezhitii-kto-i-kak-oform.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:19:01 GMT</pubDate>
+  </item>
   <item>
     <title>Как самозанятому принимать оплату за ремонт в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-samozanyatomu-prinimat-oplatu-za-remont-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-edy-v-obshchezhitie-yaroslavlya-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-edy-v-obshchezhitie-yaroslavlya-spravochnik-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 22:58:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Закупки оборудования в Ярославле у МСП: площадки 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zakupki-oborudovaniya-v-yaroslavle-u-msp-ploshchadki-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakupki-oborudovaniya-v-yaroslavle-u-msp-ploshchadki-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 22:58:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
