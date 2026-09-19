@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:26:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:26:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>УСН НДС 2026: как сэкономить на производстве</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/usn-nds-2026-kak-sekonomit-na-proizvodstve.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/usn-nds-2026-kak-sekonomit-na-proizvodstve.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:26:59 GMT</pubDate>
+  </item>
   <item>
     <title>ОКВЭД для МСП: как не потерять тариф 15%</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okved-dlya-msp-kak-ne-poteryat-tarif-15.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazannosti-izgotovitelya-po-remontu-granitsy-2027.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyazannosti-izgotovitelya-po-remontu-granitsy-2027.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:06:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Тестовое восстановление раз в месяц: регламент и акт</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/testovoe-vosstanovlenie-raz-v-mesyats-reglament-i-akt.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/testovoe-vosstanovlenie-raz-v-mesyats-reglament-i-akt.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:06:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
