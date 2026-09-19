@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 11:52:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:53:18 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог с аренды квартиры в 2026 году: как платить меньше</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-v-2026-godu-kak-platit-menshe.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-v-2026-godu-kak-platit-menshe.html</guid>
+    <pubDate>Sat, 19 Sep 2026 11:53:18 GMT</pubDate>
+  </item>
   <item>
     <title>Доход мигранта 2027: расчет порога и ROI бизнеса</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokhod-migranta-2027-raschet-poroga-i-roi-biznesa.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-proverki-redaktsiy-sp-4-13130-v-yaroslavle.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-proverki-redaktsiy-sp-4-13130-v-yaroslavle.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:11:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>СП 4.13130 и СП 10 в Ярославле: нормы 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-4-13130-i-sp-10-v-yaroslavle-normy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-4-13130-i-sp-10-v-yaroslavle-normy-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:10:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
