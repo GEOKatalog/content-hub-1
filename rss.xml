@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:23:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сбор семантического ядра для офисов B и C в Ульяновске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sbor-semanticheskogo-yadra-dlya-ofisov-b-i-c-v-ulyanovske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sbor-semanticheskogo-yadra-dlya-ofisov-b-i-c-v-ulyanovske.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:23:02 GMT</pubDate>
+  </item>
   <item>
     <title>Калькулятор доходности студии под сдачу: рейтинг 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kalkulyator-dokhodnosti-studii-pod-sdachu-reyting-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-mikroklimat-ofisov-klassa-b-i-c.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-mikroklimat-ofisov-klassa-b-i-c.html</guid>
     <pubDate>Sat, 19 Sep 2026 16:29:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аудит микроклимата: термометр и логгеры для аренды</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-mikroklimata-termometr-i-loggery-dlya-arendy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-mikroklimata-termometr-i-loggery-dlya-arendy.html</guid>
-    <pubDate>Sat, 19 Sep 2026 16:29:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
