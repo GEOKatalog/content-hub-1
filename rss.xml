@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:50:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:50:38 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Реестр МСП 2026: как проверить статус предприятия</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-msp-2026-kak-proverit-status-predpriyatiya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reestr-msp-2026-kak-proverit-status-predpriyatiya.html</guid>
+    <pubDate>Sat, 19 Sep 2026 07:50:38 GMT</pubDate>
+  </item>
   <item>
     <title>Реестр МСП 2026: проверка статуса предприятия</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-msp-2026-proverka-statusa-predpriyatiya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/neizmenyaemye-artefakty-v-ci-cd-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/neizmenyaemye-artefakty-v-ci-cd-spravochnik-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 22:54:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как обеспечить воспроизводимость релиза в CI/CD</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-obespechit-vosproizvodimost-reliza-v-ci-cd.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-obespechit-vosproizvodimost-reliza-v-ci-cd.html</guid>
-    <pubDate>Fri, 18 Sep 2026 22:54:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
