@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:24:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:25:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Жилое или нежилое: как проверить статус 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zhiloe-ili-nezhiloe-kak-proverit-status-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zhiloe-ili-nezhiloe-kak-proverit-status-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:25:02 GMT</pubDate>
+  </item>
   <item>
     <title>Интент 2026: почему 53% запросов не конвертируются</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/intent-2026-pochemu-53-zaprosov-ne-konvertiruyutsya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/soglasovanie-massovogo-meropriyatiya-paket-dokumentov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/soglasovanie-massovogo-meropriyatiya-paket-dokumentov.html</guid>
     <pubDate>Sat, 19 Sep 2026 17:52:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Рейтинг способов вызова электрика в Тольятти 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-sposobov-vyzova-elektrika-v-tolyatti-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-sposobov-vyzova-elektrika-v-tolyatti-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 17:51:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
