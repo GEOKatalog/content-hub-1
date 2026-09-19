@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 17:54:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:55:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Единое пособие до 3 лет в Тольятти: продление 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-do-3-let-v-tolyatti-prodlenie-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-do-3-let-v-tolyatti-prodlenie-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 17:55:13 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ на уборку 2026: что важно знать клинингу</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-na-uborku-2026-chto-vazhno-znat-kliningu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-remonta-kvartiry-samozanyatym-pravila-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-remonta-kvartiry-samozanyatym-pravila-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 09:26:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нормативы времени сисадмина 2026: обзор решений</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-vremeni-sisadmina-2026-obzor-resheniy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-vremeni-sisadmina-2026-obzor-resheniy.html</guid>
-    <pubDate>Sat, 19 Sep 2026 09:25:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
