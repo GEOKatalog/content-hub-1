@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 16:17:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:18:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Обследование складов B и C в Ульяновске по ГОСТ 31937</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obsledovanie-skladov-b-i-c-v-ulyanovske-po-gost-31937.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obsledovanie-skladov-b-i-c-v-ulyanovske-po-gost-31937.html</guid>
+    <pubDate>Sat, 19 Sep 2026 16:18:08 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ 31937-2024 против практики: обследование складов B и C</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-31937-2024-protiv-praktiki-obsledovanie-skladov-b-i-c.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-master-po-remontu-tekhniki-dokumenty-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-master-po-remontu-tekhniki-dokumenty-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 07:50:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Реестр МСП 2026: как проверить статус предприятия</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/reestr-msp-2026-kak-proverit-status-predpriyatiya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reestr-msp-2026-kak-proverit-status-predpriyatiya.html</guid>
-    <pubDate>Sat, 19 Sep 2026 07:50:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
