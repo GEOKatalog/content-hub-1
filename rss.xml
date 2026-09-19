@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:49:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:49:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сертификация ВПВ 2026: ПК-с, ПК-м и насосы</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-vpv-2026-pk-s-pk-m-i-nasosy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-vpv-2026-pk-s-pk-m-i-nasosy.html</guid>
+    <pubDate>Sat, 19 Sep 2026 07:49:49 GMT</pubDate>
+  </item>
   <item>
     <title>Поставщики оборудования для ВПВ в Ярославле: обзор 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-oborudovaniya-dlya-vpv-v-yaroslavle-obzor-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/neizmenyaemye-artefakty-i-versionirovanie-v-ci-cd-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/neizmenyaemye-artefakty-i-versionirovanie-v-ci-cd-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 22:53:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как сократить инциденты на 73% через неизменяемые артефакты</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sokratit-intsidenty-na-73-cherez-neizmenyaemye-artefakty.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sokratit-intsidenty-na-73-cherez-neizmenyaemye-artefakty.html</guid>
-    <pubDate>Fri, 18 Sep 2026 22:53:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
