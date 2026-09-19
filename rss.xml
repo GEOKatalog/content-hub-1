@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:17:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:18:12 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Юридическая проверка склада: due diligence до задатка</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/yuridicheskaya-proverka-sklada-due-diligence-do-zadatka.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/yuridicheskaya-proverka-sklada-due-diligence-do-zadatka.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:18:12 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка документов перед покупкой склада в Ульяновске 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-dokumentov-pered-pokupkoy-sklada-v-ulyanovske-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-dlya-magazina-i-kafe-reyting-resheniy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-dlya-magazina-i-kafe-reyting-resheniy-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 16:21:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как вести журнал фиксации нарушений для суда в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vesti-zhurnal-fiksatsii-narusheniy-dlya-suda-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vesti-zhurnal-fiksatsii-narusheniy-dlya-suda-v-2026-godu.html</guid>
-    <pubDate>Sat, 19 Sep 2026 16:21:30 GMT</pubDate>
   </item>
   </channel>
 </rss>
