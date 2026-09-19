@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 16:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:14:15 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Организатор мероприятий: ROI и тайминг 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/organizator-meropriyatiy-roi-i-tayming-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/organizator-meropriyatiy-roi-i-tayming-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 16:14:15 GMT</pubDate>
+  </item>
   <item>
     <title>Режим тишины во Владивостоке 2026: штрафы и часы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rezhim-tishiny-vo-vladivostoke-2026-shtrafy-i-chasy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normokontrol-proekta-v-yaroslavle-kak-zakazat-proverku-ntd.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normokontrol-proekta-v-yaroslavle-kak-zakazat-proverku-ntd.html</guid>
     <pubDate>Sat, 19 Sep 2026 07:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Экспертиза вернула проект: как спасти сроки стройки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ekspertiza-vernula-proekt-kak-spasti-sroki-stroyki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ekspertiza-vernula-proekt-kak-spasti-sroki-stroyki.html</guid>
-    <pubDate>Sat, 19 Sep 2026 07:46:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
