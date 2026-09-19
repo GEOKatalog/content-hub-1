@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:49:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:49:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Поставщики оборудования для ВПВ в Ярославле: обзор 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-oborudovaniya-dlya-vpv-v-yaroslavle-obzor-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-oborudovaniya-dlya-vpv-v-yaroslavle-obzor-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 07:49:37 GMT</pubDate>
+  </item>
   <item>
     <title>Штраф за неисполнение обязанностей принимающей стороны по ч. 4 ст. 18.9 КоАП РФ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-za-neispolnenie-obyazannostey-prinimayushchey-storony.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sokratit-intsidenty-na-73-cherez-neizmenyaemye-artefakty.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-sokratit-intsidenty-na-73-cherez-neizmenyaemye-artefakty.html</guid>
     <pubDate>Fri, 18 Sep 2026 22:53:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сверка разделов ПД с ПП РФ №87: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-razdelov-pd-s-pp-rf-87-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-razdelov-pd-s-pp-rf-87-spravochnik-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 22:53:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
