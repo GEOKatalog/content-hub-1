@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:23:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:24:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Техплан склада в Ульяновске: документы и цены 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhplan-sklada-v-ulyanovske-dokumenty-i-tseny-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhplan-sklada-v-ulyanovske-dokumenty-i-tseny-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:24:11 GMT</pubDate>
+  </item>
   <item>
     <title>ЕГРН без собственников: как проверять склад в Ульяновске</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/egrn-bez-sobstvennikov-kak-proveryat-sklad-v-ulyanovske.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zapret-na-elektromontazh-bez-dopuska-tolyatti-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapret-na-elektromontazh-bez-dopuska-tolyatti-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 17:50:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ Р 51870-2014: клининг для СТО Тольятти</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-51870-2014-klining-dlya-sto-tolyatti.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-51870-2014-klining-dlya-sto-tolyatti.html</guid>
-    <pubDate>Sat, 19 Sep 2026 17:49:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
