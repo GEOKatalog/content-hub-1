@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 18:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 18:02:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Правила бытового обслуживания фотоуслуг: справочник 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-bytovogo-obsluzhivaniya-fotouslug-spravochnik-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-bytovogo-obsluzhivaniya-fotouslug-spravochnik-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 18:02:14 GMT</pubDate>
+  </item>
   <item>
     <title>CRM с онлайн-записью для фотостудии: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/crm-s-onlayn-zapisyu-dlya-fotostudii-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nayti-mastera-na-autsorse-dlya-remonta-kvartiry.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nayti-mastera-na-autsorse-dlya-remonta-kvartiry.html</guid>
     <pubDate>Sat, 19 Sep 2026 09:28:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Досудебная претензия 2026: фиксация нарушения</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dosudebnaya-pretenziya-2026-fiksatsiya-narusheniya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dosudebnaya-pretenziya-2026-fiksatsiya-narusheniya.html</guid>
-    <pubDate>Sat, 19 Sep 2026 09:28:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
