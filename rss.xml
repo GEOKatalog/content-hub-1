@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:25:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:25:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Контент для людей в 2026: стандарты E-E-A-T и GEO</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kontent-dlya-lyudey-v-2026-standarty-e-e-a-t-i-geo.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kontent-dlya-lyudey-v-2026-standarty-e-e-a-t-i-geo.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:25:37 GMT</pubDate>
+  </item>
   <item>
     <title>Жилое или нежилое: как проверить статус 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zhiloe-ili-nezhiloe-kak-proverit-status-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverki-chop-v-tolyatti-2026-chek-list-posta-i-medosmotry.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverki-chop-v-tolyatti-2026-chek-list-posta-i-medosmotry.html</guid>
     <pubDate>Sat, 19 Sep 2026 17:53:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Согласование массового мероприятия: пакет документов</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/soglasovanie-massovogo-meropriyatiya-paket-dokumentov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/soglasovanie-massovogo-meropriyatiya-paket-dokumentov.html</guid>
-    <pubDate>Sat, 19 Sep 2026 17:52:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
