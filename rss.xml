@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 18:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 18:07:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>CRM для фотостудии: онлайн-запись и учёт клиентов</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/crm-dlya-fotostudii-onlayn-zapis-i-uchyot-klientov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/crm-dlya-fotostudii-onlayn-zapis-i-uchyot-klientov.html</guid>
+    <pubDate>Sat, 19 Sep 2026 18:07:23 GMT</pubDate>
+  </item>
   <item>
     <title>Правила фотоуслуг 1514: договор и претензии</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-fotouslug-1514-dogovor-i-pretenzii.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-kvartiru-studentu-v-barnaule-2026-katalog-resheniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyat-kvartiru-studentu-v-barnaule-2026-katalog-resheniy.html</guid>
     <pubDate>Sat, 19 Sep 2026 11:52:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Компенсация аренды жилья студентам в Барнауле: гид на 2026 год</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kompensatsiya-arendy-zhilya-studentam-v-barnaule-gid-na-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kompensatsiya-arendy-zhilya-studentam-v-barnaule-gid-na-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 11:52:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
