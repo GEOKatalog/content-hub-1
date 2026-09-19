@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:24:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:24:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>НОК для ГИП и ГАП в Ярославле: гид по квалификациям 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nok-dlya-gip-i-gap-v-yaroslavle-gid-po-kvalifikatsiyam-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nok-dlya-gip-i-gap-v-yaroslavle-gid-po-kvalifikatsiyam-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:24:24 GMT</pubDate>
+  </item>
   <item>
     <title>Каталог решений: фрилансер-ремонтник для завода в Ярославле</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-resheniy-frilanser-remontnik-dlya-zavoda-v-yaroslavl.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/novyy-poryadok-ucheta-otkhodov-2026-reyting.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/novyy-poryadok-ucheta-otkhodov-2026-reyting.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:03:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Учет отходов по Приказу № 227: рейтинг решений 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/uchet-otkhodov-po-prikazu-227-reyting-resheniy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uchet-otkhodov-po-prikazu-227-reyting-resheniy-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:03:31 GMT</pubDate>
   </item>
   </channel>
 </rss>
