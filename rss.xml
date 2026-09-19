@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:32:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:33:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как зарегистрировать самозанятость через Мой налог</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-zaregistrirovat-samozanyatost-cherez-moy-nalog.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-zaregistrirovat-samozanyatost-cherez-moy-nalog.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:33:20 GMT</pubDate>
+  </item>
   <item>
     <title>Семейная ипотека 2026: новые правила и документы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-novye-pravila-i-dokumenty.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/seo-dlya-avtoservisa-v-tolyatti-zakazat-prodvizhenie-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/seo-dlya-avtoservisa-v-tolyatti-zakazat-prodvizhenie-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 18:10:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>CRM для фотостудии 2026: сравнение решений и цен</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/crm-dlya-fotostudii-2026-sravnenie-resheniy-i-tsen.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/crm-dlya-fotostudii-2026-sravnenie-resheniy-i-tsen.html</guid>
-    <pubDate>Sat, 19 Sep 2026 18:09:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
