@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:21:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:21:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Охрана труда на малом предприятии в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/okhrana-truda-na-malom-predpriyatii-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okhrana-truda-na-malom-predpriyatii-v-2026-godu.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:21:50 GMT</pubDate>
+  </item>
   <item>
     <title>Как самозанятому принимать оплату без кассы в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-samozanyatomu-prinimat-oplatu-bez-kassy-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-2016-okupaemost-ekspertizy-za-1-mesyats.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-20-13330-2016-okupaemost-ekspertizy-za-1-mesyats.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:01:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Бюджет на доставку еды: окупаемость и ROI для бизнеса</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/byudzhet-na-dostavku-edy-okupaemost-i-roi-dlya-biznesa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/byudzhet-na-dostavku-edy-okupaemost-i-roi-dlya-biznesa.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:00:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
