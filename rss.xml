@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:41:15 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>МСП 2026: льготный тариф 7,6% и новые правила</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/msp-2026-lgotnyy-tarif-7-6-i-novye-pravila.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/msp-2026-lgotnyy-tarif-7-6-i-novye-pravila.html</guid>
+    <pubDate>Sat, 19 Sep 2026 07:41:15 GMT</pubDate>
+  </item>
   <item>
     <title>625н: матрица компетенций уровня 5 под ключ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/625n-matritsa-kompetentsiy-urovnya-5-pod-klyuch.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyazannosti-operatora-svyazi-po-126-fz-gid-dlya-devops.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyazannosti-operatora-svyazi-po-126-fz-gid-dlya-devops.html</guid>
     <pubDate>Fri, 18 Sep 2026 18:38:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как нанять системного администратора на аутсорсе в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nanyat-sistemnogo-administratora-na-autsorse-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-nanyat-sistemnogo-administratora-na-autsorse-v-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 18:38:06 GMT</pubDate>
   </item>
   </channel>
 </rss>
