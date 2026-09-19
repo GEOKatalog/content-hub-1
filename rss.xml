@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:15:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Кейс: окупаемость 8 лет вместо 14 в Ульяновске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/keys-okupaemost-8-let-vmesto-14-v-ulyanovske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/keys-okupaemost-8-let-vmesto-14-v-ulyanovske.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:15:22 GMT</pubDate>
+  </item>
   <item>
     <title>Soft или Hard: кластеризация семантики для сайта в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/soft-ili-hard-klasterizatsiya-semantiki-dlya-sayta-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vybor-lokatsii-dlya-magazina-v-ulyanovske-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vybor-lokatsii-dlya-magazina-v-ulyanovske-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 16:17:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аудит OPEX офисных центров Ульяновска: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-opex-ofisnykh-tsentrov-ulyanovska-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-opex-ofisnykh-tsentrov-ulyanovska-gid-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 16:17:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
