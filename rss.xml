@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 11:52:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:52:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Доход мигранта 2027: расчет порога и ROI бизнеса</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokhod-migranta-2027-raschet-poroga-i-roi-biznesa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokhod-migranta-2027-raschet-poroga-i-roi-biznesa.html</guid>
+    <pubDate>Sat, 19 Sep 2026 11:52:53 GMT</pubDate>
+  </item>
   <item>
     <title>Новые правила дохода для мигрантов в 2027 году: гид</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/novye-pravila-dokhoda-dlya-migrantov-v-2027-godu-gid.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-4-13130-i-sp-10-v-yaroslavle-normy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-4-13130-i-sp-10-v-yaroslavle-normy-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:10:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нарушение миграционного учета: депортация или штраф</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/narushenie-migratsionnogo-ucheta-deportatsiya-ili-shtraf.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/narushenie-migratsionnogo-ucheta-deportatsiya-ili-shtraf.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:10:20 GMT</pubDate>
   </item>
   </channel>
 </rss>
