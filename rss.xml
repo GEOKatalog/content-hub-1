@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:21:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как самозанятому принимать оплату без кассы в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-samozanyatomu-prinimat-oplatu-bez-kassy-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-samozanyatomu-prinimat-oplatu-bez-kassy-v-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:21:30 GMT</pubDate>
+  </item>
   <item>
     <title>Штраф самозанятого за отсутствие чека в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-samozanyatogo-za-otsutstvie-cheka-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/byudzhet-na-dostavku-edy-okupaemost-i-roi-dlya-biznesa.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/byudzhet-na-dostavku-edy-okupaemost-i-roi-dlya-biznesa.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:00:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Доставка еды против столовой: бюджет студента 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-edy-protiv-stolovoy-byudzhet-studenta-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-edy-protiv-stolovoy-byudzhet-studenta-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:00:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
