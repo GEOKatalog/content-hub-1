@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:27:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:27:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как определить поисковый интент запроса в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-poiskovyy-intent-zaprosa-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-poiskovyy-intent-zaprosa-v-2026-godu.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:27:22 GMT</pubDate>
+  </item>
   <item>
     <title>Как проверить склад, если ЕГРН скрыл собственника</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sklad-esli-egrn-skryl-sobstvennika.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/posobie-do-1-5-let-2026-razmer-i-pravila.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/posobie-do-1-5-let-2026-razmer-i-pravila.html</guid>
     <pubDate>Sat, 19 Sep 2026 17:56:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Единое пособие до 3 лет в Тольятти: продление 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-do-3-let-v-tolyatti-prodlenie-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-do-3-let-v-tolyatti-prodlenie-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 17:55:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
