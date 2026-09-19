@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:19:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как определить интент запроса и не слить бюджет</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-intent-zaprosa-i-ne-slit-byudzhet.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-intent-zaprosa-i-ne-slit-byudzhet.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:19:08 GMT</pubDate>
+  </item>
   <item>
     <title>Проверка застройщика и новостройки в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-zastroyshchika-i-novostroyki-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-dlya-magazina-i-kafe-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-dlya-magazina-i-kafe-v-2026-godu.html</guid>
     <pubDate>Sat, 19 Sep 2026 16:22:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Определить вид деятельности и ограничения для магазина</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/opredelit-vid-deyatelnosti-i-ogranicheniya-dlya-magazina.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/opredelit-vid-deyatelnosti-i-ogranicheniya-dlya-magazina.html</guid>
-    <pubDate>Sat, 19 Sep 2026 16:22:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
