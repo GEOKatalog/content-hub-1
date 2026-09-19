@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 16:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:17:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аудит OPEX офисных центров Ульяновска: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/audit-opex-ofisnykh-tsentrov-ulyanovska-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/audit-opex-ofisnykh-tsentrov-ulyanovska-gid-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 16:17:00 GMT</pubDate>
+  </item>
   <item>
     <title>Ввод в оборот остатков: рейтинг решений 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vvod-v-oborot-ostatkov-reyting-resheniy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-vpv-2026-pk-s-pk-m-i-nasosy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sertifikatsiya-vpv-2026-pk-s-pk-m-i-nasosy.html</guid>
     <pubDate>Sat, 19 Sep 2026 07:49:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Поставщики оборудования для ВПВ в Ярославле: обзор 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-oborudovaniya-dlya-vpv-v-yaroslavle-obzor-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-oborudovaniya-dlya-vpv-v-yaroslavle-obzor-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 07:49:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
