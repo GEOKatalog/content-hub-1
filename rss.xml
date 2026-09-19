@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 17:55:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:56:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Пособие до 1.5 лет 2026: размер и правила</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/posobie-do-1-5-let-2026-razmer-i-pravila.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/posobie-do-1-5-let-2026-razmer-i-pravila.html</guid>
+    <pubDate>Sat, 19 Sep 2026 17:56:08 GMT</pubDate>
+  </item>
   <item>
     <title>Единое пособие до 3 лет в Тольятти: продление 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-do-3-let-v-tolyatti-prodlenie-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/devops-na-autsorse-2026-reyting-resheniy-dlya-ci-cd.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/devops-na-autsorse-2026-reyting-resheniy-dlya-ci-cd.html</guid>
     <pubDate>Sat, 19 Sep 2026 09:26:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы для ремонта квартиры самозанятым: правила 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-remonta-kvartiry-samozanyatym-pravila-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-remonta-kvartiry-samozanyatym-pravila-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 09:26:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
