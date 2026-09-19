@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:43:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:43:17 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка ссылочных НТД в проекте через реестр Росстандарта</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ssylochnykh-ntd-v-proekte-cherez-reestr-rosstandart.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ssylochnykh-ntd-v-proekte-cherez-reestr-rosstandart.html</guid>
+    <pubDate>Sat, 19 Sep 2026 07:43:17 GMT</pubDate>
+  </item>
   <item>
     <title>Как оспорить отказ в заселении в общежитие 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-osporit-otkaz-v-zaselenii-v-obshchezhitie-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/cheki-samozanyatogo-dlya-yurlits-sroki-i-rekvizity-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/cheki-samozanyatogo-dlya-yurlits-sroki-i-rekvizity-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 18:41:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>Заявки на ремонт касс для самозанятых: 5 платформ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zayavki-na-remont-kass-dlya-samozanyatykh-5-platform.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zayavki-na-remont-kass-dlya-samozanyatykh-5-platform.html</guid>
-    <pubDate>Fri, 18 Sep 2026 18:41:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
