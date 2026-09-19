@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:23:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:23:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Постановление 719: справочник по реестру и подтверждению 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/postanovlenie-719-spravochnik-po-reestru-i-podtverzhdeniyu-2.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/postanovlenie-719-spravochnik-po-reestru-i-podtverzhdeniyu-2.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:23:59 GMT</pubDate>
+  </item>
   <item>
     <title>Лучшие площадки для поиска заказов на ремонт оборудования в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-ploshchadki-dlya-poiska-zakazov-na-remont-oborudova.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-malogo-proizvodstva-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-malogo-proizvodstva-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:03:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Самопроверка МЧС 2026: чек-листы и декларация ПБ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/samoproverka-mchs-2026-chek-listy-i-deklaratsiya-pb.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samoproverka-mchs-2026-chek-listy-i-deklaratsiya-pb.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:02:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
