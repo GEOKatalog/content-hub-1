@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:30:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:31:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Пожарная безопасность офисов B и C в Ульяновске 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-ofisov-b-i-c-v-ulyanovske-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-ofisov-b-i-c-v-ulyanovske-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:31:11 GMT</pubDate>
+  </item>
   <item>
     <title>СП 2.1.4284-26 для офисов B и C: гид по переменам 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-1-4284-26-dlya-ofisov-b-i-c-gid-po-peremenam-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravila-fotouslug-1514-dogovor-i-pretenzii.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pravila-fotouslug-1514-dogovor-i-pretenzii.html</guid>
     <pubDate>Sat, 19 Sep 2026 18:06:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>СанПиН 2.1.3684-21 против штрафов: клининг 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2-1-3684-21-protiv-shtrafov-klining-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2-1-3684-21-protiv-shtrafov-klining-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 18:05:20 GMT</pubDate>
   </item>
   </channel>
 </rss>
