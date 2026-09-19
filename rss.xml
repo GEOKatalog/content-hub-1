@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:23:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:23:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ЕГРН без собственников: как проверять склад в Ульяновске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/egrn-bez-sobstvennikov-kak-proveryat-sklad-v-ulyanovske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/egrn-bez-sobstvennikov-kak-proveryat-sklad-v-ulyanovske.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:23:43 GMT</pubDate>
+  </item>
   <item>
     <title>Проверить объект в перечне ФНС по Ульяновской области 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverit-obekt-v-perechne-fns-po-ulyanovskoy-oblasti-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-51870-2014-klining-dlya-sto-tolyatti.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-51870-2014-klining-dlya-sto-tolyatti.html</guid>
     <pubDate>Sat, 19 Sep 2026 17:49:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>ГОСТ Р 51870-2014 и ГОСТ 2026: кого выбрать клинеру</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-51870-2014-i-gost-2026-kogo-vybrat-klineru.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-51870-2014-i-gost-2026-kogo-vybrat-klineru.html</guid>
-    <pubDate>Sat, 19 Sep 2026 17:49:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
