@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:25:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:25:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Нормативы класса B и C для офисов в Ульяновске 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-klassa-b-i-c-dlya-ofisov-v-ulyanovske-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-klassa-b-i-c-dlya-ofisov-v-ulyanovske-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:25:49 GMT</pubDate>
+  </item>
   <item>
     <title>Контент для людей в 2026: стандарты E-E-A-T и GEO</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kontent-dlya-lyudey-v-2026-standarty-e-e-a-t-i-geo.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-do-3-let-v-2026-dokumenty-i-dokhod.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/edinoe-posobie-do-3-let-v-2026-dokumenty-i-dokhod.html</guid>
     <pubDate>Sat, 19 Sep 2026 17:53:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверки ЧОП в Тольятти 2026: чек-лист поста и медосмотры</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverki-chop-v-tolyatti-2026-chek-list-posta-i-medosmotry.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverki-chop-v-tolyatti-2026-chek-list-posta-i-medosmotry.html</guid>
-    <pubDate>Sat, 19 Sep 2026 17:53:00 GMT</pubDate>
   </item>
   </channel>
 </rss>
