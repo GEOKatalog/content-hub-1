@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 19:07:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 19:07:53 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог 4% для арендодателей Барнаула в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-4-dlya-arendodateley-barnaula-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-4-dlya-arendodateley-barnaula-v-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 19:07:53 GMT</pubDate>
+  </item>
   <item>
     <title>Фильтр без комиссии на площадках Барнаула 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/filtr-bez-komissii-na-ploshchadkakh-barnaula-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sdat-kvartiru-bez-rieltora-s-garantiey-oplaty-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sdat-kvartiru-bez-rieltora-s-garantiey-oplaty-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 12:00:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налог с аренды квартиры в 2026: самозанятый или НДФЛ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-v-2026-samozanyatyy-ili-ndfl.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-v-2026-samozanyatyy-ili-ndfl.html</guid>
-    <pubDate>Sat, 19 Sep 2026 11:59:55 GMT</pubDate>
   </item>
   </channel>
 </rss>
