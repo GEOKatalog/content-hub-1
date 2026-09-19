@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:49:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:49:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Штраф за неисполнение обязанностей принимающей стороны по ч. 4 ст. 18.9 КоАП РФ</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-za-neispolnenie-obyazannostey-prinimayushchey-storony.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shtraf-za-neispolnenie-obyazannostey-prinimayushchey-storony.html</guid>
+    <pubDate>Sat, 19 Sep 2026 07:49:21 GMT</pubDate>
+  </item>
   <item>
     <title>СП 10.13130.2020: актуальная редакция 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-10-13130-2020-aktualnaya-redaktsiya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sverka-razdelov-pd-s-pp-rf-87-spravochnik-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sverka-razdelov-pd-s-pp-rf-87-spravochnik-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 22:53:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>ПП РФ №87 в 2026: актуальный состав разделов ПД</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pp-rf-87-v-2026-aktualnyy-sostav-razdelov-pd.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pp-rf-87-v-2026-aktualnyy-sostav-razdelov-pd.html</guid>
-    <pubDate>Fri, 18 Sep 2026 22:53:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
