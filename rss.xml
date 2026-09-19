@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 11:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:53:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Самозанятые на платформах: лимит 60 часов</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatye-na-platformakh-limit-60-chasov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatye-na-platformakh-limit-60-chasov.html</guid>
+    <pubDate>Sat, 19 Sep 2026 11:53:43 GMT</pubDate>
+  </item>
   <item>
     <title>Правило 60 часов: как платформам считать время и снизить риски</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pravilo-60-chasov-kak-platformam-schitat-vremya-i-snizit-ris.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sro-dlya-proektirovshchikov-s-1-marta-2026-chto-menyaetsya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sro-dlya-proektirovshchikov-s-1-marta-2026-chto-menyaetsya.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:11:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Алгоритм проверки редакции СП: инструкция 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-proverki-redaktsii-sp-instruktsiya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/algoritm-proverki-redaktsii-sp-instruktsiya-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:11:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
