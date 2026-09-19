@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 11:55:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:55:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Лимит дохода самозанятого в 2026: гид для фрилансера</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/limit-dokhoda-samozanyatogo-v-2026-gid-dlya-frilansera.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/limit-dokhoda-samozanyatogo-v-2026-gid-dlya-frilansera.html</guid>
+    <pubDate>Sat, 19 Sep 2026 11:55:22 GMT</pubDate>
+  </item>
   <item>
     <title>Продажа билетов на своё мероприятие: справочник НПД 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-biletov-na-svoyo-meropriyatie-spravochnik-npd-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-oborudovaniya-dlya-malogo-proizvodstva-yarosla.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/postavshchiki-oborudovaniya-dlya-malogo-proizvodstva-yarosla.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:13:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Поставщик оборудования для малого производства Ярославль</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchik-oborudovaniya-dlya-malogo-proizvodstva-yaroslav.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/postavshchik-oborudovaniya-dlya-malogo-proizvodstva-yaroslav.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:13:20 GMT</pubDate>
   </item>
   </channel>
 </rss>
