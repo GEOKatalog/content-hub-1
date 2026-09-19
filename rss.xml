@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:37:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:38:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Каталог решений: НПД для сдачи студий 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-resheniy-npd-dlya-sdachi-studiy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/katalog-resheniy-npd-dlya-sdachi-studiy-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:38:05 GMT</pubDate>
+  </item>
   <item>
     <title>Налог на аренду студий в Ульяновске 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-arendu-studiy-v-ulyanovske-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vzyskat-dolg-s-kvartirantov-bez-dogovora-arendy-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-vzyskat-dolg-s-kvartirantov-bez-dogovora-arendy-v-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 19:05:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Комиссия риелтору без договора: инструкция 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/komissiya-rieltoru-bez-dogovora-instruktsiya-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/komissiya-rieltoru-bez-dogovora-instruktsiya-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 19:05:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
