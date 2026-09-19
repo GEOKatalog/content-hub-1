@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:01:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сдать квартиру без риелтора: доходность под защитой</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sdat-kvartiru-bez-rieltora-dokhodnost-pod-zashchitoy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sdat-kvartiru-bez-rieltora-dokhodnost-pod-zashchitoy.html</guid>
+    <pubDate>Sat, 19 Sep 2026 12:01:24 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для заселения в общежитие первокурснику 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-zaseleniya-v-obshchezhitie-pervokursniku-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-osporit-otkaz-v-zaselenii-v-obshchezhitie-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-osporit-otkaz-v-zaselenii-v-obshchezhitie-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 07:43:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>A/01.5 и A/02.5: разбор функций по 625н</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/a-01-5-i-a-02-5-razbor-funktsiy-po-625n.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/a-01-5-i-a-02-5-razbor-funktsiy-po-625n.html</guid>
-    <pubDate>Sat, 19 Sep 2026 07:42:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
