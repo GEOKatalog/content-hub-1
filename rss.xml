@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 16:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:22:18 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Определить вид деятельности и ограничения для магазина</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/opredelit-vid-deyatelnosti-i-ogranicheniya-dlya-magazina.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/opredelit-vid-deyatelnosti-i-ogranicheniya-dlya-magazina.html</guid>
+    <pubDate>Sat, 19 Sep 2026 16:22:18 GMT</pubDate>
+  </item>
   <item>
     <title>Нормативы для магазина и кафе: рейтинг решений 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-dlya-magazina-i-kafe-reyting-resheniy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/attestatsiya-otvetstvennogo-po-mchs-v-2026-reyting-resheniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/attestatsiya-otvetstvennogo-po-mchs-v-2026-reyting-resheniy.html</guid>
     <pubDate>Sat, 19 Sep 2026 07:53:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ответственный за пожарную безопасность 2026: окупаемость обучения</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/otvetstvennyy-za-pozharnuyu-bezopasnost-2026-okupaemost-obuc.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otvetstvennyy-za-pozharnuyu-bezopasnost-2026-okupaemost-obuc.html</guid>
-    <pubDate>Sat, 19 Sep 2026 07:53:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
