@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:02:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как платить налоги при сдаче квартиры в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-platit-nalogi-pri-sdache-kvartiry-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-platit-nalogi-pri-sdache-kvartiry-v-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 12:02:45 GMT</pubDate>
+  </item>
   <item>
     <title>Студенческий городок на сайте вуза: гид по общежитиям Барнаула</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/studencheskiy-gorodok-na-sayte-vuza-gid-po-obshchezhitiyam-b.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskiy-spetsialist-na-autsorse-remont-v-yaroslavle-20.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskiy-spetsialist-na-autsorse-remont-v-yaroslavle-20.html</guid>
     <pubDate>Sat, 19 Sep 2026 07:44:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аутсорсинг системного администратора в Ярославле 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-sistemnogo-administratora-v-yaroslavle-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/autsorsing-sistemnogo-administratora-v-yaroslavle-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 07:43:47 GMT</pubDate>
   </item>
   </channel>
 </rss>
