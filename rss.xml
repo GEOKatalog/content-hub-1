@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:15:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:16:29 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Семейная ипотека 2026: инструкция по новым правилам</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-instruktsiya-po-novym-pravilam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-instruktsiya-po-novym-pravilam.html</guid>
+    <pubDate>Sat, 19 Sep 2026 21:16:29 GMT</pubDate>
+  </item>
   <item>
     <title>Семейная ипотека 2026: правила и условия в Ульяновске</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-pravila-i-usloviya-v-ulyanovske.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-odnushka-ili-dvushka-v-ulyanovske.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-odnushka-ili-dvushka-v-ulyanovske.html</guid>
     <pubDate>Sat, 19 Sep 2026 16:18:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Обследование складов B и C в Ульяновске по ГОСТ 31937</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obsledovanie-skladov-b-i-c-v-ulyanovske-po-gost-31937.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obsledovanie-skladov-b-i-c-v-ulyanovske-po-gost-31937.html</guid>
-    <pubDate>Sat, 19 Sep 2026 16:18:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
