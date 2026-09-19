@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:24:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:25:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Пониженный тариф взносов МСП 2026: условия применения</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ponizhennyy-tarif-vznosov-msp-2026-usloviya-primeneniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ponizhennyy-tarif-vznosov-msp-2026-usloviya-primeneniya.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:25:11 GMT</pubDate>
+  </item>
   <item>
     <title>Инженер-проектировщик в промышленности: алгоритм 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/inzhener-proektirovshchik-v-promyshlennosti-algoritm-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-fstek-117-i-zashchita-kubernetes-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-fstek-117-i-zashchita-kubernetes-v-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:04:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Учет отходов на малом производстве: рейтинг решений 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/uchet-otkhodov-na-malom-proizvodstve-reyting-resheniy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/uchet-otkhodov-na-malom-proizvodstve-reyting-resheniy-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:04:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
