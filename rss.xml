@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 16:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:15:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Тайминг мероприятий: режим тишины Владивосток</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tayming-meropriyatiy-rezhim-tishiny-vladivostok.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tayming-meropriyatiy-rezhim-tishiny-vladivostok.html</guid>
+    <pubDate>Sat, 19 Sep 2026 16:15:30 GMT</pubDate>
+  </item>
   <item>
     <title>Тайминг мероприятий и режим тишины: гид организатора 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tayming-meropriyatiy-i-rezhim-tishiny-gid-organizatora-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/postavshchik-oborudovaniya-dlya-vpv-v-yaroslavle-gde-nayti.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/postavshchik-oborudovaniya-dlya-vpv-v-yaroslavle-gde-nayti.html</guid>
     <pubDate>Sat, 19 Sep 2026 07:48:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нормативы капремонта трансформаторов 110 кВ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-kapremonta-transformatorov-110-kv.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-kapremonta-transformatorov-110-kv.html</guid>
-    <pubDate>Sat, 19 Sep 2026 07:48:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
