@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:44:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:44:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка НТД в проекте: Росстандарт против локальных баз 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ntd-v-proekte-rosstandart-protiv-lokalnykh-baz-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ntd-v-proekte-rosstandart-protiv-lokalnykh-baz-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 07:44:54 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для аутсорсинга IT-специалиста в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-autsorsinga-it-spetsialista-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podtverzhdenie-strany-proiskhozhdeniya-po-223-fz-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podtverzhdenie-strany-proiskhozhdeniya-po-223-fz-v-2026.html</guid>
     <pubDate>Fri, 18 Sep 2026 18:43:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Подтверждение происхождения товара по 223-ФЗ в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/podtverzhdenie-proiskhozhdeniya-tovara-po-223-fz-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/podtverzhdenie-proiskhozhdeniya-tovara-po-223-fz-v-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 18:43:27 GMT</pubDate>
   </item>
   </channel>
 </rss>
