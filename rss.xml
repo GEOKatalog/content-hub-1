@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:51:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как скачать Мой налог и зарегистрироваться самозанятым</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-skachat-moy-nalog-i-zaregistrirovatsya-samozanyatym.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-skachat-moy-nalog-i-zaregistrirovatsya-samozanyatym.html</guid>
+    <pubDate>Sat, 19 Sep 2026 07:51:08 GMT</pubDate>
+  </item>
   <item>
     <title>Самозанятый мастер по ремонту техники: документы 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-master-po-remontu-tekhniki-dokumenty-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podgotovka-it-infrastruktury-k-proverke-roskomnadzora.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podgotovka-it-infrastruktury-k-proverke-roskomnadzora.html</guid>
     <pubDate>Fri, 18 Sep 2026 22:55:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Лучший аутсорс сисадмина для малого бизнеса в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshiy-autsors-sisadmina-dlya-malogo-biznesa-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/luchshiy-autsors-sisadmina-dlya-malogo-biznesa-v-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 22:54:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
