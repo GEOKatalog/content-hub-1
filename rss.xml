@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:01:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Регистрация при пребывании свыше 90 дней: гид Барнаул</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-pri-prebyvanii-svyshe-90-dney-gid-barnaul.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/registratsiya-pri-prebyvanii-svyshe-90-dney-gid-barnaul.html</guid>
+    <pubDate>Sat, 19 Sep 2026 12:01:56 GMT</pubDate>
+  </item>
   <item>
     <title>Временная регистрация в другом городе: правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vremennaya-registratsiya-v-drugom-gorode-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ntd-v-proekte-cherez-rosstandart-gid-dlya-yaroslavl.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ntd-v-proekte-cherez-rosstandart-gid-dlya-yaroslavl.html</guid>
     <pubDate>Sat, 19 Sep 2026 07:43:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка ссылочных НТД в проекте через реестр Росстандарта</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ssylochnykh-ntd-v-proekte-cherez-reestr-rosstandart.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-ssylochnykh-ntd-v-proekte-cherez-reestr-rosstandart.html</guid>
-    <pubDate>Sat, 19 Sep 2026 07:43:17 GMT</pubDate>
   </item>
   </channel>
 </rss>
