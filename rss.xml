@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 17:49:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:50:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Запрет на электромонтаж без допуска: Тольятти 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zapret-na-elektromontazh-bez-dopuska-tolyatti-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapret-na-elektromontazh-bez-dopuska-tolyatti-2026.html</guid>
+    <pubDate>Sat, 19 Sep 2026 17:50:32 GMT</pubDate>
+  </item>
   <item>
     <title>ГОСТ Р 51870-2014: клининг для СТО Тольятти</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gost-r-51870-2014-klining-dlya-sto-tolyatti.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-ploshchadki-dlya-poiska-zakazov-na-remont-oborudova.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/luchshie-ploshchadki-dlya-poiska-zakazov-na-remont-oborudova.html</guid>
     <pubDate>Sat, 19 Sep 2026 09:23:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Разработка Положения о СУОТ: рейтинг решений 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-polozheniya-o-suot-reyting-resheniy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razrabotka-polozheniya-o-suot-reyting-resheniy-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 09:23:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
