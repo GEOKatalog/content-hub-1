@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 16:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:26:07 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН 2026 для офисов B и C: микроклимат</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-dlya-ofisov-b-i-c-mikroklimat.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-2026-dlya-ofisov-b-i-c-mikroklimat.html</guid>
+    <pubDate>Sat, 19 Sep 2026 16:26:07 GMT</pubDate>
+  </item>
   <item>
     <title>Штрафы за шум в Ульяновской области: суммы 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shtrafy-za-shum-v-ulyanovskoy-oblasti-summy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sout-suot-i-obuchenie-po-okhrane-truda-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sout-suot-i-obuchenie-po-okhrane-truda-v-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 09:20:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>СУОТ для малого производства: обучение, СОУТ и реестр Минтруда</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/suot-dlya-malogo-proizvodstva-obuchenie-sout-i-reestr-mintru.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/suot-dlya-malogo-proizvodstva-obuchenie-sout-i-reestr-mintru.html</guid>
-    <pubDate>Sat, 19 Sep 2026 09:19:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
