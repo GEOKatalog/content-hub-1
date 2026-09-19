@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:25:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:25:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>НОК для проектировщика 2026: цены, сроки, последствия</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nok-dlya-proektirovshchika-2026-tseny-sroki-posledstviya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nok-dlya-proektirovshchika-2026-tseny-sroki-posledstviya.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:25:33 GMT</pubDate>
+  </item>
   <item>
     <title>НОК для проектировщика 2026: рейтинг решений и ЦОК</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nok-dlya-proektirovshchika-2026-reyting-resheniy-i-tsok.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-117-audit-klastera-kubernetes.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-117-audit-klastera-kubernetes.html</guid>
     <pubDate>Fri, 18 Sep 2026 23:05:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Приказ ФСТЭК №117: аудит контейнеров и внедрение СЗИ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-fstek-117-audit-konteynerov-i-vnedrenie-szi.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prikaz-fstek-117-audit-konteynerov-i-vnedrenie-szi.html</guid>
-    <pubDate>Fri, 18 Sep 2026 23:04:56 GMT</pubDate>
   </item>
   </channel>
 </rss>
