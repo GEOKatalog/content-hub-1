@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:19:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:19:42 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Охрана труда на малом предприятии: обязанности руководителя</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/okhrana-truda-na-malom-predpriyatii-obyazannosti-rukovoditel.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okhrana-truda-na-malom-predpriyatii-obyazannosti-rukovoditel.html</guid>
+    <pubDate>Sat, 19 Sep 2026 09:19:42 GMT</pubDate>
+  </item>
   <item>
     <title>Требования к инженеру-проектировщику в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-inzheneru-proektirovshchiku-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/byudzhet-i-chastota-zakazov-edy-studentu-v-yaroslavle.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/byudzhet-i-chastota-zakazov-edy-studentu-v-yaroslavle.html</guid>
     <pubDate>Fri, 18 Sep 2026 22:59:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Доставка еды в общежитие Ярославля: гид студента 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-edy-v-obshchezhitie-yaroslavlya-gid-studenta-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-edy-v-obshchezhitie-yaroslavlya-gid-studenta-2026.html</guid>
-    <pubDate>Fri, 18 Sep 2026 22:58:47 GMT</pubDate>
   </item>
   </channel>
 </rss>
