@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:30:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:30:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сроки и лимиты ФНС для арендодателя студии</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sroki-i-limity-fns-dlya-arendodatelya-studii.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sroki-i-limity-fns-dlya-arendodatelya-studii.html</guid>
+    <pubDate>Sun, 20 Sep 2026 04:30:47 GMT</pubDate>
+  </item>
   <item>
     <title>Налог с аренды квартиры в Ульяновске: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-v-ulyanovske-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-programmy-molodaya-semya-v-ulyanovske.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-programmy-molodaya-semya-v-ulyanovske.html</guid>
     <pubDate>Sun, 20 Sep 2026 01:10:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как сети выбирают локации: геомаркетинг в 2026 году</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-seti-vybirayut-lokatsii-geomarketing-v-2026-godu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-seti-vybirayut-lokatsii-geomarketing-v-2026-godu.html</guid>
-    <pubDate>Sun, 20 Sep 2026 01:10:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
