@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:17:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:18:04 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Выписка ЕГРН о кадастровой стоимости: бесплатно</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-egrn-o-kadastrovoy-stoimosti-besplatno.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-egrn-o-kadastrovoy-stoimosti-besplatno.html</guid>
+    <pubDate>Sun, 20 Sep 2026 04:18:04 GMT</pubDate>
+  </item>
   <item>
     <title>Агрегатор для студий под сдачу: выбор 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/agregator-dlya-studiy-pod-sdachu-vybor-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/upravlyayushchaya-kompaniya-dlya-ofisnogo-tsentra-v-ulyanovs.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/upravlyayushchaya-kompaniya-dlya-ofisnogo-tsentra-v-ulyanovs.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:28:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нормативы освещения и микроклимата для офисов B и C</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-osveshcheniya-i-mikroklimata-dlya-ofisov-b-i-c.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-osveshcheniya-i-mikroklimata-dlya-ofisov-b-i-c.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:28:45 GMT</pubDate>
   </item>
   </channel>
 </rss>
