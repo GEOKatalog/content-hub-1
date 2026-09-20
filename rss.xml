@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:25:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Семейная ипотека 2026: алгоритм для Ульяновска</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-algoritm-dlya-ulyanovska.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-algoritm-dlya-ulyanovska.html</guid>
+    <pubDate>Sun, 20 Sep 2026 01:25:32 GMT</pubDate>
+  </item>
   <item>
     <title>Кадастровые работы для склада в Ульяновске: цены 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kadastrovye-raboty-dlya-sklada-v-ulyanovske-tseny-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sklad-esli-egrn-skryl-sobstvennika.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sklad-esli-egrn-skryl-sobstvennika.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:27:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка склада без ЕГРН: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sklada-bez-egrn-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-sklada-bez-egrn-gid-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:26:52 GMT</pubDate>
   </item>
   </channel>
 </rss>
