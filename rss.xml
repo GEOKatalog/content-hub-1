@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:15:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Поисковый интент в Ульяновске: навигация и информация</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/poiskovyy-intent-v-ulyanovske-navigatsiya-i-informatsiya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/poiskovyy-intent-v-ulyanovske-navigatsiya-i-informatsiya.html</guid>
+    <pubDate>Sun, 20 Sep 2026 01:15:34 GMT</pubDate>
+  </item>
   <item>
     <title>Какие районы Ульяновска подходят семье с детьми</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kakie-rayony-ulyanovska-podkhodyat-seme-s-detmi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/roi-studii-pod-arendu-raschyot-do-pokupki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/roi-studii-pod-arendu-raschyot-do-pokupki.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:16:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налог при сдаче квартиры в Ульяновске: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-pri-sdache-kvartiry-v-ulyanovske-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-pri-sdache-kvartiry-v-ulyanovske-gid-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:16:43 GMT</pubDate>
   </item>
   </channel>
 </rss>
