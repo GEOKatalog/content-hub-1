@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:23:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:24:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Офисы B и C в 2026: нормативы против вакансии</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ofisy-b-i-c-v-2026-normativy-protiv-vakansii.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ofisy-b-i-c-v-2026-normativy-protiv-vakansii.html</guid>
+    <pubDate>Sun, 20 Sep 2026 04:24:01 GMT</pubDate>
+  </item>
   <item>
     <title>Реестровая ошибка ЕГРН: как исправить в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reestrovaya-oshibka-egrn-kak-ispravit-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/limit-samozanyatogo-prevyshen-ndfl-13-15-i-okupaemost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/limit-samozanyatogo-prevyshen-ndfl-13-15-i-okupaemost.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:35:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Самозанятый и аренда квартир: лимит 2026 года</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-i-arenda-kvartir-limit-2026-goda.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatyy-i-arenda-kvartir-limit-2026-goda.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:35:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
