@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:14:39 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Интент-маркетинг в коммерческой недвижимости Ульяновска</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/intent-marketing-v-kommercheskoy-nedvizhimosti-ulyanovska.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/intent-marketing-v-kommercheskoy-nedvizhimosti-ulyanovska.html</guid>
+    <pubDate>Sun, 20 Sep 2026 01:14:39 GMT</pubDate>
+  </item>
   <item>
     <title>SERP-анализ и окупаемость контента Ульяновск</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/serp-analiz-i-okupaemost-kontenta-ulyanovsk.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/yurist-po-priznaniyu-prava-sobstvennosti-na-sklad-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/yurist-po-priznaniyu-prava-sobstvennosti-na-sklad-v-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:15:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Кейс: окупаемость 8 лет вместо 14 в Ульяновске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/keys-okupaemost-8-let-vmesto-14-v-ulyanovske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/keys-okupaemost-8-let-vmesto-14-v-ulyanovske.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:15:22 GMT</pubDate>
   </item>
   </channel>
 </rss>
