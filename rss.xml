@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:27:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:27:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Подбор квартир для семьи: ROI 300% вместо ручного поиска</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/podbor-kvartir-dlya-semi-roi-300-vmesto-ruchnogo-poiska.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/podbor-kvartir-dlya-semi-roi-300-vmesto-ruchnogo-poiska.html</guid>
+    <pubDate>Sun, 20 Sep 2026 04:27:35 GMT</pubDate>
+  </item>
   <item>
     <title>Семейная ипотека 2026: условия и подводные камни</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-usloviya-i-podvodnye-kamni.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-nezhilogo-pomeshcheniya-pravila-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-nezhilogo-pomeshcheniya-pravila-2026.html</guid>
     <pubDate>Sun, 20 Sep 2026 01:06:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сдать офис B/C в Ульяновске без посредников</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sdat-ofis-b-c-v-ulyanovske-bez-posrednikov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sdat-ofis-b-c-v-ulyanovske-bez-posrednikov.html</guid>
-    <pubDate>Sun, 20 Sep 2026 01:06:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
