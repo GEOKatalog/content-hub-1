@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:16:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проверка торгового зала перед арендой</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-torgovogo-zala-pered-arendoy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-torgovogo-zala-pered-arendoy.html</guid>
+    <pubDate>Sun, 20 Sep 2026 01:16:46 GMT</pubDate>
+  </item>
   <item>
     <title>Сбор семантики и разделение по интенту 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sbor-semantiki-i-razdelenie-po-intentu-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/yuridicheskaya-proverka-sklada-due-diligence-do-zadatka.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/yuridicheskaya-proverka-sklada-due-diligence-do-zadatka.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:18:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка документов перед покупкой склада в Ульяновске 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-dokumentov-pered-pokupkoy-sklada-v-ulyanovske-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-dokumentov-pered-pokupkoy-sklada-v-ulyanovske-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:17:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
