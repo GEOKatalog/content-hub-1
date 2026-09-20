@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:24:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:24:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Выписка ЕГРН с арестами и залогами 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-egrn-s-arestami-i-zalogami-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-egrn-s-arestami-i-zalogami-2026.html</guid>
+    <pubDate>Sun, 20 Sep 2026 04:24:59 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для продажи склада: справочник 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-prodazhi-sklada-spravochnik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-ispravit-reestrovuyu-oshibku-v-tekhplane-sklada-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-ispravit-reestrovuyu-oshibku-v-tekhplane-sklada-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:36:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>Снижение налога на офис: оценка и оспаривание в Ульяновске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/snizhenie-naloga-na-ofis-otsenka-i-osparivanie-v-ulyanovske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/snizhenie-naloga-na-ofis-otsenka-i-osparivanie-v-ulyanovske.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:36:23 GMT</pubDate>
   </item>
   </channel>
 </rss>
