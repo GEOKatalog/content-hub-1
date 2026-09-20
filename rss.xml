@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:21:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:21:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СанПиН доступности школ и садов: выгода для ЖК</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dostupnosti-shkol-i-sadov-vygoda-dlya-zhk.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sanpin-dostupnosti-shkol-i-sadov-vygoda-dlya-zhk.html</guid>
+    <pubDate>Sun, 20 Sep 2026 04:21:14 GMT</pubDate>
+  </item>
   <item>
     <title>Due Diligence склада B/C в Ульяновске 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/due-diligence-sklada-b-c-v-ulyanovske-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-6-v-ulyanovske-limit-6-mln.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-6-v-ulyanovske-limit-6-mln.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:32:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Расширенная выписка ЕГРН: защита сделки со складом</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/rasshirennaya-vypiska-egrn-zashchita-sdelki-so-skladom.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/rasshirennaya-vypiska-egrn-zashchita-sdelki-so-skladom.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:32:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
