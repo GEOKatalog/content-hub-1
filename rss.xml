@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:27:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:27:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Геоаналитика для выбора локации магазина в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/geoanalitika-dlya-vybora-lokatsii-magazina-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/geoanalitika-dlya-vybora-lokatsii-magazina-v-2026.html</guid>
+    <pubDate>Sun, 20 Sep 2026 04:27:14 GMT</pubDate>
+  </item>
   <item>
     <title>Кафе в жилом доме: требования 2026 года</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kafe-v-zhilom-dome-trebovaniya-2026-goda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/posutochnaya-sdacha-studii-v-ulyanovske-zakon-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/posutochnaya-sdacha-studii-v-ulyanovske-zakon-2026.html</guid>
     <pubDate>Sun, 20 Sep 2026 01:05:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как определить поисковый интент запроса: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-poiskovyy-intent-zaprosa-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-poiskovyy-intent-zaprosa-gid-2026.html</guid>
-    <pubDate>Sun, 20 Sep 2026 01:05:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
