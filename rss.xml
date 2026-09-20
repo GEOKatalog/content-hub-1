@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:22:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Радиус 500 метров: проверка доступности школы в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/radius-500-metrov-proverka-dostupnosti-shkoly-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/radius-500-metrov-proverka-dostupnosti-shkoly-v-2026.html</guid>
+    <pubDate>Sun, 20 Sep 2026 04:22:28 GMT</pubDate>
+  </item>
   <item>
     <title>НПД для сдачи студий: лимиты и ограничения 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/npd-dlya-sdachi-studiy-limity-i-ogranicheniya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kafe-na-pervom-etazhe-mkd-2026-okupaemost-i-riski.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kafe-na-pervom-etazhe-mkd-2026-okupaemost-i-riski.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:33:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Кафе и магазин на первом этаже МКД: справочник 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kafe-i-magazin-na-pervom-etazhe-mkd-spravochnik-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kafe-i-magazin-na-pervom-etazhe-mkd-spravochnik-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:33:31 GMT</pubDate>
   </item>
   </channel>
 </rss>
