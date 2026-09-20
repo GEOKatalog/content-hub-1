@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:32:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:32:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Поисковый интент: окупаемость и ROI в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/poiskovyy-intent-okupaemost-i-roi-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/poiskovyy-intent-okupaemost-i-roi-v-2026.html</guid>
+    <pubDate>Sun, 20 Sep 2026 04:32:40 GMT</pubDate>
+  </item>
   <item>
     <title>Однушка или двушка с садом в Ульяновске 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/odnushka-ili-dvushka-s-sadom-v-ulyanovske-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/katalog-resheniy-dlya-poiska-arendatora-ofisa-b-i-c-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/katalog-resheniy-dlya-poiska-arendatora-ofisa-b-i-c-v-2026.html</guid>
     <pubDate>Sun, 20 Sep 2026 01:12:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пожарный аудит кафе перед арендой: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnyy-audit-kafe-pered-arendoy-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pozharnyy-audit-kafe-pered-arendoy-gid-2026.html</guid>
-    <pubDate>Sun, 20 Sep 2026 01:12:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
