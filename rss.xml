@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:24:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:24:17 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Протокол пожарной лаборатории: инструкция для офисных зданий</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/protokol-pozharnoy-laboratorii-instruktsiya-dlya-ofisnykh-zd.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/protokol-pozharnoy-laboratorii-instruktsiya-dlya-ofisnykh-zd.html</guid>
+    <pubDate>Sun, 20 Sep 2026 01:24:17 GMT</pubDate>
+  </item>
   <item>
     <title>СП 2.1.4284-26: окупаемость контроля ГВС в офисах</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-1-4284-26-okupaemost-kontrolya-gvs-v-ofisakh.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-klassa-b-i-c-dlya-ofisov-v-ulyanovske-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-klassa-b-i-c-dlya-ofisov-v-ulyanovske-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:25:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Контент для людей в 2026: стандарты E-E-A-T и GEO</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kontent-dlya-lyudey-v-2026-standarty-e-e-a-t-i-geo.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kontent-dlya-lyudey-v-2026-standarty-e-e-a-t-i-geo.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:25:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
