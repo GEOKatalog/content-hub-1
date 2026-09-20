@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:15:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Пожарная безопасность складов класса B и C: инструкция 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-skladov-klassa-b-i-c-instruktsiya-202.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pozharnaya-bezopasnost-skladov-klassa-b-i-c-instruktsiya-202.html</guid>
+    <pubDate>Sun, 20 Sep 2026 01:15:11 GMT</pubDate>
+  </item>
   <item>
     <title>Требования к аренде помещений для ритейла 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-arende-pomeshcheniy-dlya-riteyla-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-instruktsiya-po-novym-pravilam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-instruktsiya-po-novym-pravilam.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:16:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Семейная ипотека 2026: правила и условия в Ульяновске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-pravila-i-usloviya-v-ulyanovske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-pravila-i-usloviya-v-ulyanovske.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:15:55 GMT</pubDate>
   </item>
   </channel>
 </rss>
