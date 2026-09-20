@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:25:46 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Семейная ипотека 2026: условия для однушек и двушек</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-usloviya-dlya-odnushek-i-dvushek.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-usloviya-dlya-odnushek-i-dvushek.html</guid>
+    <pubDate>Sun, 20 Sep 2026 01:25:46 GMT</pubDate>
+  </item>
   <item>
     <title>Семейная ипотека 2026: алгоритм для Ульяновска</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynaya-ipoteka-2026-algoritm-dlya-ulyanovska.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-poiskovyy-intent-zaprosa-v-2026-godu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-poiskovyy-intent-zaprosa-v-2026-godu.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:27:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как проверить склад, если ЕГРН скрыл собственника</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sklad-esli-egrn-skryl-sobstvennika.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-proverit-sklad-esli-egrn-skryl-sobstvennika.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:27:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
