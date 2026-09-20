@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:31:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:31:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда офиса 200–500 м² в Ульяновске от собственника</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ofisa-200-500-m-v-ulyanovske-ot-sobstvennika.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ofisa-200-500-m-v-ulyanovske-ot-sobstvennika.html</guid>
+    <pubDate>Sun, 20 Sep 2026 04:31:21 GMT</pubDate>
+  </item>
   <item>
     <title>Энергоэффективность офисных центров B и C</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/energoeffektivnost-ofisnykh-tsentrov-b-i-c.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klass-b-i-c-ofisov-v-ulyanovske-kriterii-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/klass-b-i-c-ofisov-v-ulyanovske-kriterii-2026.html</guid>
     <pubDate>Sun, 20 Sep 2026 01:11:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Классы офисов B и C в Ульяновске: стандарты 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/klassy-ofisov-b-i-c-v-ulyanovske-standarty-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/klassy-ofisov-b-i-c-v-ulyanovske-standarty-2026.html</guid>
-    <pubDate>Sun, 20 Sep 2026 01:11:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
