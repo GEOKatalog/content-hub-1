@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:22:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Выписка ЕГРН 2026: контроль юридической чистоты склада</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-egrn-2026-kontrol-yuridicheskoy-chistoty-sklada.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-egrn-2026-kontrol-yuridicheskoy-chistoty-sklada.html</guid>
+    <pubDate>Sun, 20 Sep 2026 01:22:26 GMT</pubDate>
+  </item>
   <item>
     <title>Класс B и C в Ульяновске: свет, воздух и автоматика 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klass-b-i-c-v-ulyanovske-svet-vozdukh-i-avtomatika-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/egrn-bez-sobstvennikov-kak-proveryat-sklad-v-ulyanovske.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/egrn-bez-sobstvennikov-kak-proveryat-sklad-v-ulyanovske.html</guid>
     <pubDate>Sat, 19 Sep 2026 21:23:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверить объект в перечне ФНС по Ульяновской области 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverit-obekt-v-perechne-fns-po-ulyanovskoy-oblasti-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverit-obekt-v-perechne-fns-po-ulyanovskoy-oblasti-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 21:23:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
