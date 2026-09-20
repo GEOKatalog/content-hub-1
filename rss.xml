@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:07:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Юрист по земельным спорам под складом в Ульяновске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/yurist-po-zemelnym-sporam-pod-skladom-v-ulyanovske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/yurist-po-zemelnym-sporam-pod-skladom-v-ulyanovske.html</guid>
+    <pubDate>Sun, 20 Sep 2026 01:07:01 GMT</pubDate>
+  </item>
   <item>
     <title>Договор аренды нежилого помещения: правила 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dogovor-arendy-nezhilogo-pomeshcheniya-pravila-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-4-dlya-arendodateley-barnaula-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-4-dlya-arendodateley-barnaula-v-2026.html</guid>
     <pubDate>Sat, 19 Sep 2026 19:07:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Фильтр без комиссии на площадках Барнаула 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/filtr-bez-komissii-na-ploshchadkakh-barnaula-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/filtr-bez-komissii-na-ploshchadkakh-barnaula-2026.html</guid>
-    <pubDate>Sat, 19 Sep 2026 19:07:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
