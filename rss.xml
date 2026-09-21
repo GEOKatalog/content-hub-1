@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 21 Sep 2026 23:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 23:14:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Снять помещение под автосервис в Тольятти без комиссии</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-pomeshchenie-pod-avtoservis-v-tolyatti-bez-komissii.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyat-pomeshchenie-pod-avtoservis-v-tolyatti-bez-komissii.html</guid>
+    <pubDate>Mon, 21 Sep 2026 23:14:59 GMT</pubDate>
+  </item>
   <item>
     <title>Требования к помещению автосервиса в Тольятти 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trebovaniya-k-pomeshcheniyu-avtoservisa-v-tolyatti-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-studiyu-2026-ndfl-ili-samozanyatost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-na-studiyu-2026-ndfl-ili-samozanyatost.html</guid>
     <pubDate>Sun, 20 Sep 2026 04:25:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как найти квартиру с инфраструктурой в Ульяновске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-kvartiru-s-infrastrukturoy-v-ulyanovske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-kvartiru-s-infrastrukturoy-v-ulyanovske.html</guid>
-    <pubDate>Sun, 20 Sep 2026 04:25:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
