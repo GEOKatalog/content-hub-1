@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:39:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы для кафе в Ижевске: сроки и окупаемость</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-kafe-v-izhevske-sroki-i-okupaemost.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-kafe-v-izhevske-sroki-i-okupaemost.html</guid>
+    <pubDate>Mon, 21 Sep 2026 15:39:37 GMT</pubDate>
+  </item>
   <item>
     <title>Целевое назначение и газ в общепите Ульяновска</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tselevoe-naznachenie-i-gaz-v-obshchepite-ulyanovska.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/serp-analiz-i-okupaemost-kontenta-ulyanovsk.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/serp-analiz-i-okupaemost-kontenta-ulyanovsk.html</guid>
     <pubDate>Sun, 20 Sep 2026 01:14:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Купить однушку в Ульяновске с детсадом рядом</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-odnushku-v-ulyanovske-s-detsadom-ryadom.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-odnushku-v-ulyanovske-s-detsadom-ryadom.html</guid>
-    <pubDate>Sun, 20 Sep 2026 01:13:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
