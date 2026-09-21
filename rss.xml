@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:44:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:45:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Прямые клиенты на ремонт в Ижевске: ROI без комиссий</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pryamye-klienty-na-remont-v-izhevske-roi-bez-komissiy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pryamye-klienty-na-remont-v-izhevske-roi-bez-komissiy.html</guid>
+    <pubDate>Mon, 21 Sep 2026 15:45:03 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для автосервиса в Ижевске: гид на 2026 год</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-avtoservisa-v-izhevske-gid-na-2026-god.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/yuridicheskaya-chistota-sklada-v-ulyanovske-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/yuridicheskaya-chistota-sklada-v-ulyanovske-gid-2026.html</guid>
     <pubDate>Sun, 20 Sep 2026 01:17:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Проверка торгового зала перед арендой</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/proverka-torgovogo-zala-pered-arendoy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/proverka-torgovogo-zala-pered-arendoy.html</guid>
-    <pubDate>Sun, 20 Sep 2026 01:16:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
