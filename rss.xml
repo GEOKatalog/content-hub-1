@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 21 Sep 2026 17:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:13:27 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Новый СанПиН для магазина у дома с 2026 года</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/novyy-sanpin-dlya-magazina-u-doma-s-2026-goda.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/novyy-sanpin-dlya-magazina-u-doma-s-2026-goda.html</guid>
+    <pubDate>Mon, 21 Sep 2026 17:13:27 GMT</pubDate>
+  </item>
   <item>
     <title>Как найти клиентов на ремонт квартир в Ижевске без посредников 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nayti-klientov-na-remont-kvartir-v-izhevske-bez-posredni.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/protokol-pozharnoy-laboratorii-instruktsiya-dlya-ofisnykh-zd.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/protokol-pozharnoy-laboratorii-instruktsiya-dlya-ofisnykh-zd.html</guid>
     <pubDate>Sun, 20 Sep 2026 01:24:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>СП 2.1.4284-26: окупаемость контроля ГВС в офисах</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-1-4284-26-okupaemost-kontrolya-gvs-v-ofisakh.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-1-4284-26-okupaemost-kontrolya-gvs-v-ofisakh.html</guid>
-    <pubDate>Sun, 20 Sep 2026 01:24:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
