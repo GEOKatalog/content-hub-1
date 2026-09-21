@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 21 Sep 2026 20:54:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:54:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как подать объявление о ремонте квартир в Ижевске без комиссии</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-podat-obyavlenie-o-remonte-kvartir-v-izhevske-bez-komiss.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-podat-obyavlenie-o-remonte-kvartir-v-izhevske-bez-komiss.html</guid>
+    <pubDate>Mon, 21 Sep 2026 20:54:43 GMT</pubDate>
+  </item>
   <item>
     <title>Реклама в Telegram Ижевск: обзор площадок 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reklama-v-telegram-izhevsk-obzor-ploshchadok-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-egrn-o-kadastrovoy-stoimosti-besplatno.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vypiska-egrn-o-kadastrovoy-stoimosti-besplatno.html</guid>
     <pubDate>Sun, 20 Sep 2026 04:18:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Агрегатор для студий под сдачу: выбор 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/agregator-dlya-studiy-pod-sdachu-vybor-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/agregator-dlya-studiy-pod-sdachu-vybor-2026.html</guid>
-    <pubDate>Sun, 20 Sep 2026 04:17:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
