@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 21 Sep 2026 17:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:08:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как магазину у дома разместить объявление в Ижевске</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-magazinu-u-doma-razmestit-obyavlenie-v-izhevske.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-magazinu-u-doma-razmestit-obyavlenie-v-izhevske.html</guid>
+    <pubDate>Mon, 21 Sep 2026 17:08:43 GMT</pubDate>
+  </item>
   <item>
     <title>Снять квартиру в Ижевске без риелтора 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-kvartiru-v-izhevske-bez-rieltora-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/klass-b-i-c-v-ulyanovske-svet-vozdukh-i-avtomatika-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/klass-b-i-c-v-ulyanovske-svet-vozdukh-i-avtomatika-2026.html</guid>
     <pubDate>Sun, 20 Sep 2026 01:21:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>СП 2.1.4284-26: что ждёт офисные здания класса B и C</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-1-4284-26-chto-zhdyot-ofisnye-zdaniya-klassa-b-i-c.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-2-1-4284-26-chto-zhdyot-ofisnye-zdaniya-klassa-b-i-c.html</guid>
-    <pubDate>Sun, 20 Sep 2026 01:21:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
