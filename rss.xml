@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:43:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:43:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда кафе в Ижевске 2026: ROI и выход на собственника</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kafe-v-izhevske-2026-roi-i-vykhod-na-sobstvennika.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kafe-v-izhevske-2026-roi-i-vykhod-na-sobstvennika.html</guid>
+    <pubDate>Mon, 21 Sep 2026 15:43:45 GMT</pubDate>
+  </item>
   <item>
     <title>Снять квартиру в Ижевске без посредников: рейтинг 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-kvartiru-v-izhevske-bez-posrednikov-reyting-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sbor-semantiki-i-razdelenie-po-intentu-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sbor-semantiki-i-razdelenie-po-intentu-2026.html</guid>
     <pubDate>Sun, 20 Sep 2026 01:16:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как определить интент запроса по выдаче Google: полный справочник</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-intent-zaprosa-po-vydache-google-polnyy-spravo.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-opredelit-intent-zaprosa-po-vydache-google-polnyy-spravo.html</guid>
-    <pubDate>Sun, 20 Sep 2026 01:16:23 GMT</pubDate>
   </item>
   </channel>
 </rss>
