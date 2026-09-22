@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:30:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:30:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Мшанка для склонов 2026: рейтинг решений и агротехника</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-dlya-sklonov-2026-reyting-resheniy-i-agrotekhnika.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-dlya-sklonov-2026-reyting-resheniy-i-agrotekhnika.html</guid>
+    <pubDate>Tue, 22 Sep 2026 06:30:52 GMT</pubDate>
+  </item>
   <item>
     <title>Мшанка вместо габионов: окупаемость укрепления</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-vmesto-gabionov-okupaemost-ukrepleniya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/besplatnoe-obyavlenie-v-izhevske-ploshchadka-dlya-magazina.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/besplatnoe-obyavlenie-v-izhevske-ploshchadka-dlya-magazina.html</guid>
     <pubDate>Mon, 21 Sep 2026 15:53:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Бесплатное объявление в Ижевске для магазина у дома</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/besplatnoe-obyavlenie-v-izhevske-dlya-magazina-u-doma.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/besplatnoe-obyavlenie-v-izhevske-dlya-magazina-u-doma.html</guid>
-    <pubDate>Mon, 21 Sep 2026 15:52:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
