@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:31:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:09:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Мшанка без пикировки: щадящий способ для сада</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-bez-pikirovki-shchadyashchiy-sposob-dlya-sada.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-bez-pikirovki-shchadyashchiy-sposob-dlya-sada.html</guid>
+    <pubDate>Tue, 22 Sep 2026 08:09:49 GMT</pubDate>
+  </item>
   <item>
     <title>Агротехника мшанки для склонов: рейтинг 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/agrotekhnika-mshanki-dlya-sklonov-reyting-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/snyat-kvartiru-v-izhevske-bez-rieltora-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/snyat-kvartiru-v-izhevske-bez-rieltora-2026.html</guid>
     <pubDate>Mon, 21 Sep 2026 17:08:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы для автосервиса в Ижевске: разбор 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-avtoservisa-v-izhevske-razbor-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-avtoservisa-v-izhevske-razbor-2026.html</guid>
-    <pubDate>Mon, 21 Sep 2026 15:53:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
