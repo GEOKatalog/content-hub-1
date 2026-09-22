@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 08:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:11:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Мшанка оптом: минимальный заказ для дизайнера</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-optom-minimalnyy-zakaz-dlya-dizaynera.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-optom-minimalnyy-zakaz-dlya-dizaynera.html</guid>
+    <pubDate>Tue, 22 Sep 2026 08:11:40 GMT</pubDate>
+  </item>
   <item>
     <title>Мшанка на склоне: обоснование по СП 425</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-na-sklone-obosnovanie-po-sp-425.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-kvartiry-v-izhevske-bez-rieltora-kanaly-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-kvartiry-v-izhevske-bez-rieltora-kanaly-2026.html</guid>
     <pubDate>Mon, 21 Sep 2026 17:10:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>ОКВЭД для магазина у дома в Ижевске: сравнение 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/okved-dlya-magazina-u-doma-v-izhevske-sravnenie-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okved-dlya-magazina-u-doma-v-izhevske-sravnenie-2026.html</guid>
-    <pubDate>Mon, 21 Sep 2026 17:10:03 GMT</pubDate>
   </item>
   </channel>
 </rss>
