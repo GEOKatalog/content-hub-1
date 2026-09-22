@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:26:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:26:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Нормативы благоустройства новостроек с детскими площадками</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/normativy-blagoustroystva-novostroek-s-detskimi-ploshchadkam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/normativy-blagoustroystva-novostroek-s-detskimi-ploshchadkam.html</guid>
+    <pubDate>Tue, 22 Sep 2026 00:26:54 GMT</pubDate>
+  </item>
   <item>
     <title>Как выбрать однушку или двушку с готовой инфраструктурой в Ульяновске</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-vybrat-odnushku-ili-dvushku-s-gotovoy-infrastrukturoy-v.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sroki-i-limity-fns-dlya-arendodatelya-studii.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sroki-i-limity-fns-dlya-arendodatelya-studii.html</guid>
     <pubDate>Sun, 20 Sep 2026 04:30:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Налог с аренды квартиры в Ульяновске: гид 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-v-ulyanovske-gid-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-arendy-kvartiry-v-ulyanovske-gid-2026.html</guid>
-    <pubDate>Sun, 20 Sep 2026 04:30:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
