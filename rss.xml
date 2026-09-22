@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:24:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:24:17 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Техническое заключение для перепрофилирования</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskoe-zaklyuchenie-dlya-pereprofilirovaniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskoe-zaklyuchenie-dlya-pereprofilirovaniya.html</guid>
+    <pubDate>Tue, 22 Sep 2026 00:24:17 GMT</pubDate>
+  </item>
   <item>
     <title>Перепрофилирование офисного здания класса B и C</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pereprofilirovanie-ofisnogo-zdaniya-klassa-b-i-c.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/magazin-ili-kafe-v-zhilom-dome-ulyanovska-sp-118-13330-2022.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/magazin-ili-kafe-v-zhilom-dome-ulyanovska-sp-118-13330-2022.html</guid>
     <pubDate>Sun, 20 Sep 2026 04:28:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пустующие офисы B и C: снижать ставку или менять профиль</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pustuyushchie-ofisy-b-i-c-snizhat-stavku-ili-menyat-profil.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pustuyushchie-ofisy-b-i-c-snizhat-stavku-ili-menyat-profil.html</guid>
-    <pubDate>Sun, 20 Sep 2026 04:28:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
