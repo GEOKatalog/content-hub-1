@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 13:29:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:31:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>НПД и автозапчасти в 2026: риски и решения</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/npd-i-avtozapchasti-v-2026-riski-i-resheniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/npd-i-avtozapchasti-v-2026-riski-i-resheniya.html</guid>
+    <pubDate>Tue, 22 Sep 2026 13:31:00 GMT</pubDate>
+  </item>
   <item>
     <title>Продать авто в Чебоксарах 2026: рейтинг площадок</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-avto-v-cheboksarakh-2026-reyting-ploshchadok.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-samozanyatogo-dizaynera-dlya-yurlits-vladivostok-2.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-samozanyatogo-dizaynera-dlya-yurlits-vladivostok-2.html</guid>
     <pubDate>Mon, 21 Sep 2026 22:09:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Где найти заказы дизайнеру во Владивостоке 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-nayti-zakazy-dizayneru-vo-vladivostoke-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-nayti-zakazy-dizayneru-vo-vladivostoke-2026.html</guid>
-    <pubDate>Mon, 21 Sep 2026 22:09:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
