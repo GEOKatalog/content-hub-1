@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:16:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:18:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы для выпускного альбома в саду Липецка</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-vypusknogo-alboma-v-sadu-lipetska.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-vypusknogo-alboma-v-sadu-lipetska.html</guid>
+    <pubDate>Tue, 22 Sep 2026 16:18:16 GMT</pubDate>
+  </item>
   <item>
     <title>Как составить договор с моделью в 2026 году</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-sostavit-dogovor-s-modelyu-v-2026-godu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-registratsii-prava-na-sklad-po-tekhplanu.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-registratsii-prava-na-sklad-po-tekhplanu.html</guid>
     <pubDate>Tue, 22 Sep 2026 00:28:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>СП 537.1325800.2024: эксплуатация офисов класса B и C</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-537-1325800-2024-ekspluatatsiya-ofisov-klassa-b-i-c.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-537-1325800-2024-ekspluatatsiya-ofisov-klassa-b-i-c.html</guid>
-    <pubDate>Tue, 22 Sep 2026 00:28:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
