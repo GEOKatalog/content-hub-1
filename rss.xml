@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:30:34 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Мшанка вместо габионов: окупаемость укрепления</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-vmesto-gabionov-okupaemost-ukrepleniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-vmesto-gabionov-okupaemost-ukrepleniya.html</guid>
+    <pubDate>Tue, 22 Sep 2026 06:30:34 GMT</pubDate>
+  </item>
   <item>
     <title>Укрепление склона мшанкой: экономия на габионах</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ukreplenie-sklona-mshankoy-ekonomiya-na-gabionakh.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/besplatnoe-obyavlenie-v-izhevske-dlya-magazina-u-doma.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/besplatnoe-obyavlenie-v-izhevske-dlya-magazina-u-doma.html</guid>
     <pubDate>Mon, 21 Sep 2026 15:52:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как размещать в Telegram-группах Ижевска в 2026: правила модерации и ROI</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-razmeshchat-v-telegram-gruppakh-izhevska-v-2026-pravila.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-razmeshchat-v-telegram-gruppakh-izhevska-v-2026-pravila.html</guid>
-    <pubDate>Mon, 21 Sep 2026 15:52:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
