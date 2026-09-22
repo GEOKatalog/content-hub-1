@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:20:27 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Документы для подработки в ТРЦ Липецка в 2026 году</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-podrabotki-v-trts-lipetska-v-2026-godu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-podrabotki-v-trts-lipetska-v-2026-godu.html</guid>
+    <pubDate>Tue, 22 Sep 2026 16:20:27 GMT</pubDate>
+  </item>
   <item>
     <title>Документы для выпускного альбома в саду Липецка</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-vypusknogo-alboma-v-sadu-lipetska.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zakazat-vyezd-kadastrovogo-inzhenera-obmery-obekta.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/zakazat-vyezd-kadastrovogo-inzhenera-obmery-obekta.html</guid>
     <pubDate>Tue, 22 Sep 2026 00:28:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Документы для регистрации права на склад по техплану</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-registratsii-prava-na-sklad-po-tekhplanu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dokumenty-dlya-registratsii-prava-na-sklad-po-tekhplanu.html</guid>
-    <pubDate>Tue, 22 Sep 2026 00:28:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
