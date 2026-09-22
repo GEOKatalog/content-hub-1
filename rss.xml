@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 08:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:10:27 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Выбор формата контейнера: ROI и окупаемость</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vybor-formata-konteynera-roi-i-okupaemost.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vybor-formata-konteynera-roi-i-okupaemost.html</guid>
+    <pubDate>Tue, 22 Sep 2026 08:10:27 GMT</pubDate>
+  </item>
   <item>
     <title>СП 425 и укрепление склонов: сравнение подходов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-425-i-ukreplenie-sklonov-sravnenie-podkhodov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-besplatno-razmestit-obyavlenie-magazina-produktov-v-izhe.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-besplatno-razmestit-obyavlenie-magazina-produktov-v-izhe.html</guid>
     <pubDate>Mon, 21 Sep 2026 17:09:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как магазину у дома разместить объявление в Ижевске</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-magazinu-u-doma-razmestit-obyavlenie-v-izhevske.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-magazinu-u-doma-razmestit-obyavlenie-v-izhevske.html</guid>
-    <pubDate>Mon, 21 Sep 2026 17:08:43 GMT</pubDate>
   </item>
   </channel>
 </rss>
