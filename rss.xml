@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 14:50:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:51:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Склон 50 м²: мшанка дала 70% покрытия за сезон</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sklon-50-m-mshanka-dala-70-pokrytiya-za-sezon.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sklon-50-m-mshanka-dala-70-pokrytiya-za-sezon.html</guid>
+    <pubDate>Tue, 22 Sep 2026 14:51:54 GMT</pubDate>
+  </item>
   <item>
     <title>Мшанка для альпийской горки: семена в Передовой 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-dlya-alpiyskoy-gorki-semena-v-peredovoy-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskoe-zaklyuchenie-dlya-pereprofilirovaniya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tekhnicheskoe-zaklyuchenie-dlya-pereprofilirovaniya.html</guid>
     <pubDate>Tue, 22 Sep 2026 00:24:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Перепрофилирование офисного здания класса B и C</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pereprofilirovanie-ofisnogo-zdaniya-klassa-b-i-c.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pereprofilirovanie-ofisnogo-zdaniya-klassa-b-i-c.html</guid>
-    <pubDate>Tue, 22 Sep 2026 00:24:05 GMT</pubDate>
   </item>
   </channel>
 </rss>
