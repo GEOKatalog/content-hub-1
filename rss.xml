@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 23 Sep 2026 05:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 05:36:42 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Продажа б/у вещей в Ставрополе 2026: защита от торга</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-b-u-veshchey-v-stavropole-2026-zashchita-ot-torga.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-b-u-veshchey-v-stavropole-2026-zashchita-ot-torga.html</guid>
+    <pubDate>Wed, 23 Sep 2026 05:36:42 GMT</pubDate>
+  </item>
   <item>
     <title>Работа в Ставрополе без опыта 2026: рейтинг каналов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/rabota-v-stavropole-bez-opyta-2026-reyting-kanalov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vybor-formata-konteynera-roi-i-okupaemost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vybor-formata-konteynera-roi-i-okupaemost.html</guid>
     <pubDate>Tue, 22 Sep 2026 08:10:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>СП 425 и укрепление склонов: сравнение подходов</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-425-i-ukreplenie-sklonov-sravnenie-podkhodov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-425-i-ukreplenie-sklonov-sravnenie-podkhodov.html</guid>
-    <pubDate>Tue, 22 Sep 2026 08:10:10 GMT</pubDate>
   </item>
   </channel>
 </rss>
