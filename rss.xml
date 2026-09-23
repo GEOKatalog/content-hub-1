@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 23 Sep 2026 05:35:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 05:35:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Карантинный сертификат на муку 2026: справочник</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/karantinnyy-sertifikat-na-muku-2026-spravochnik.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/karantinnyy-sertifikat-na-muku-2026-spravochnik.html</guid>
+    <pubDate>Wed, 23 Sep 2026 05:35:26 GMT</pubDate>
+  </item>
   <item>
     <title>Купить товары повседневного спроса в Ставрополе без наценок</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-tovary-povsednevnogo-sprosa-v-stavropole-bez-natsenok.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-bez-pikirovki-shchadyashchiy-sposob-dlya-sada.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-bez-pikirovki-shchadyashchiy-sposob-dlya-sada.html</guid>
     <pubDate>Tue, 22 Sep 2026 08:09:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Агротехника мшанки для склонов: рейтинг 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/agrotekhnika-mshanki-dlya-sklonov-reyting-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/agrotekhnika-mshanki-dlya-sklonov-reyting-2026.html</guid>
-    <pubDate>Tue, 22 Sep 2026 06:31:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
