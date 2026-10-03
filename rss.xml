@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 03 Oct 2026 11:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 11:21:22 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Продажа урожая без ИП: условия освобождения</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-urozhaya-bez-ip-usloviya-osvobozhdeniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-urozhaya-bez-ip-usloviya-osvobozhdeniya.html</guid>
+    <pubDate>Sat, 03 Oct 2026 11:21:22 GMT</pubDate>
+  </item>
   <item>
     <title>Налог с продажи урожая в Белгороде: условия 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-urozhaya-v-belgorode-usloviya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/predprodazhnaya-podgotovka-avto-v-2026-otsenka-i-etapy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/predprodazhnaya-podgotovka-avto-v-2026-otsenka-i-etapy.html</guid>
     <pubDate>Tue, 22 Sep 2026 12:10:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продать авто в Новокузнецке: без комиссий и посредников</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-avto-v-novokuznetske-bez-komissiy-i-posrednikov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-avto-v-novokuznetske-bez-komissiy-i-posrednikov.html</guid>
-    <pubDate>Tue, 22 Sep 2026 12:09:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
