@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 03 Oct 2026 11:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 11:22:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог с продажи урожая в 2026: инструкция для ЛПХ</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-urozhaya-v-2026-instruktsiya-dlya-lpkh.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-urozhaya-v-2026-instruktsiya-dlya-lpkh.html</guid>
+    <pubDate>Sat, 03 Oct 2026 11:22:30 GMT</pubDate>
+  </item>
   <item>
     <title>Куда сдать урожай в Белгороде без штрафов и перекупщиков</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kuda-sdat-urozhay-v-belgorode-bez-shtrafov-i-perekupshchikov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-avto-v-cheboksarakh-2026-reyting-ploshchadok.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-avto-v-cheboksarakh-2026-reyting-ploshchadok.html</guid>
     <pubDate>Tue, 22 Sep 2026 13:29:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Какие документы нужны для продажи авто в Чебоксарах 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kakie-dokumenty-nuzhny-dlya-prodazhi-avto-v-cheboksarakh-202.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakie-dokumenty-nuzhny-dlya-prodazhi-avto-v-cheboksarakh-202.html</guid>
-    <pubDate>Tue, 22 Sep 2026 13:29:31 GMT</pubDate>
   </item>
   </channel>
 </rss>
