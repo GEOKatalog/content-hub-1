@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:28:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:29:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Доска объявлений Челны: как продать безопасно</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-chelny-kak-prodat-bezopasno.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-chelny-kak-prodat-bezopasno.html</guid>
+    <pubDate>Tue, 06 Oct 2026 13:29:03 GMT</pubDate>
+  </item>
   <item>
     <title>Как продать старые вещи из гаража в Челнах</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-starye-veshchi-iz-garazha-v-chelnakh.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatost-i-avtozapchasti-v-cheboksarakh-gid-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/samozanyatost-i-avtozapchasti-v-cheboksarakh-gid-2026.html</guid>
     <pubDate>Tue, 22 Sep 2026 13:37:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продажа авто в Чебоксарах 2026: документы и ЭПТС</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-avto-v-cheboksarakh-2026-dokumenty-i-epts.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodazha-avto-v-cheboksarakh-2026-dokumenty-i-epts.html</guid>
-    <pubDate>Tue, 22 Sep 2026 13:34:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
