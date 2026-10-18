@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 18 Oct 2026 07:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 07:22:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аренда коммерции в Чебоксарах: Telegram против Restate</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kommertsii-v-cheboksarakh-telegram-protiv-restate.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kommertsii-v-cheboksarakh-telegram-protiv-restate.html</guid>
+    <pubDate>Sun, 18 Oct 2026 07:22:09 GMT</pubDate>
+  </item>
   <item>
     <title>Новостройки Чебоксар: каталог ЖК и объявления 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/novostroyki-cheboksar-katalog-zhk-i-obyavleniya-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/shkaf-ne-prodayotsya-5-prichin-i-kak-ispravit.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/shkaf-ne-prodayotsya-5-prichin-i-kak-ispravit.html</guid>
     <pubDate>Wed, 14 Oct 2026 10:24:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Купить шкаф в Томске: 7 мест, цены и подвох</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-shkaf-v-tomske-7-mest-tseny-i-podvokh.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-shkaf-v-tomske-7-mest-tseny-i-podvokh.html</guid>
-    <pubDate>Wed, 14 Oct 2026 10:24:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
