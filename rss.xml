@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 19 Oct 2026 19:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 19:19:39 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ярмарка Рязань: почему свежий номер не спасает</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/yarmarka-ryazan-pochemu-svezhiy-nomer-ne-spasaet.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/yarmarka-ryazan-pochemu-svezhiy-nomer-ne-spasaet.html</guid>
+    <pubDate>Mon, 19 Oct 2026 19:19:39 GMT</pubDate>
+  </item>
   <item>
     <title>Объявления Александро-Невский: кейс продажи в селе</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-aleksandro-nevskiy-keys-prodazhi-v-sele.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodam-lyzhi-novokuznetsk-7-ploshchadok-i-tseny-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodam-lyzhi-novokuznetsk-7-ploshchadok-i-tseny-2026.html</guid>
     <pubDate>Thu, 15 Oct 2026 15:02:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продам мотоблок Новокузнецк: 5 болей продавца</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodam-motoblok-novokuznetsk-5-boley-prodavtsa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodam-motoblok-novokuznetsk-5-boley-prodavtsa.html</guid>
-    <pubDate>Thu, 15 Oct 2026 15:02:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
