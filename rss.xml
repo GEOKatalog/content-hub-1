@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 19 Oct 2026 10:44:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:45:18 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Челны-Заинск: как купить без переплаты за дорогу</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/chelny-zainsk-kak-kupit-bez-pereplaty-za-dorogu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chelny-zainsk-kak-kupit-bez-pereplaty-za-dorogu.html</guid>
+    <pubDate>Mon, 19 Oct 2026 10:45:18 GMT</pubDate>
+  </item>
   <item>
     <title>Объявления в посёлках Челнов: где искать и как</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-v-posyolkakh-chelnov-gde-iskat-i-kak.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-veshch-belgorod-gde-deshevle-i-bezopasnee.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-veshch-belgorod-gde-deshevle-i-bezopasnee.html</guid>
     <pubDate>Thu, 15 Oct 2026 10:33:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Нет откликов на объявление Рязань: кейс за 22 минуты</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/net-otklikov-na-obyavlenie-ryazan-keys-za-22-minuty.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/net-otklikov-na-obyavlenie-ryazan-keys-za-22-minuty.html</guid>
-    <pubDate>Thu, 15 Oct 2026 05:48:57 GMT</pubDate>
   </item>
   </channel>
 </rss>
