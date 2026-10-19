@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 18 Oct 2026 12:39:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:44:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Центральный район Челнов: объявления и подвох</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/tsentralnyy-rayon-chelnov-obyavleniya-i-podvokh.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsentralnyy-rayon-chelnov-obyavleniya-i-podvokh.html</guid>
+    <pubDate>Mon, 19 Oct 2026 10:44:02 GMT</pubDate>
+  </item>
   <item>
     <title>Продать комод в Томске: кейс с 3 объявлениями за 4 дня</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-komod-v-tomske-keys-s-3-obyavleniyami-za-4-dnya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/riski-prodazhi-na-barakholke-ryazan-kak-ne-poteryat.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/riski-prodazhi-na-barakholke-ryazan-kak-ne-poteryat.html</guid>
     <pubDate>Thu, 15 Oct 2026 05:48:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Модерация объявлений Рязань: кейс обхода</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/moderatsiya-obyavleniy-ryazan-keys-obkhoda.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/moderatsiya-obyavleniy-ryazan-keys-obkhoda.html</guid>
-    <pubDate>Thu, 15 Oct 2026 05:48:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
