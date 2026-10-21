@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:42:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:42:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Запчасти в Пензе: разборка против магазина</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zapchasti-v-penze-razborka-protiv-magazina.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapchasti-v-penze-razborka-protiv-magazina.html</guid>
+    <pubDate>Wed, 21 Oct 2026 11:42:36 GMT</pubDate>
+  </item>
   <item>
     <title>Сварочный аппарат в Новокузнецке: ТОП-5 мест</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/svarochnyy-apparat-v-novokuznetske-top-5-mest.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chto-podeshevelo-v-stavropole-v-2026-gid-po-tsenam.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/chto-podeshevelo-v-stavropole-v-2026-gid-po-tsenam.html</guid>
     <pubDate>Wed, 23 Sep 2026 05:37:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продать холодильник б/у в Ставрополе 2026: рейтинг</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-kholodilnik-b-u-v-stavropole-2026-reyting.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-kholodilnik-b-u-v-stavropole-2026-reyting.html</guid>
-    <pubDate>Wed, 23 Sep 2026 05:37:02 GMT</pubDate>
   </item>
   </channel>
 </rss>
