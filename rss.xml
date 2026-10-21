@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 21 Oct 2026 19:28:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:29:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Объявления Липецк без посредников: почему обман</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-lipetsk-bez-posrednikov-pochemu-obman.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-lipetsk-bez-posrednikov-pochemu-obman.html</guid>
+    <pubDate>Wed, 21 Oct 2026 19:29:21 GMT</pubDate>
+  </item>
   <item>
     <title>Объявления Липецк: 7 площадок напрямую — рейтинг</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-lipetsk-7-ploshchadok-napryamuyu-reyting.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/moshchenie-s-mshankoy-2026-normativy-i-okupaemost.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/moshchenie-s-mshankoy-2026-normativy-i-okupaemost.html</guid>
     <pubDate>Fri, 02 Oct 2026 10:42:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Мшанка на дренированном участке: результат за 8 недель</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-na-drenirovannom-uchastke-rezultat-za-8-nedel.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-na-drenirovannom-uchastke-rezultat-za-8-nedel.html</guid>
-    <pubDate>Fri, 02 Oct 2026 10:42:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
