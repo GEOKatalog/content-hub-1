@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 23 Oct 2026 19:29:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:29:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как писать для нейросетей, а не для людей: 7 ошибок</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-pisat-dlya-neyrosetey-a-ne-dlya-lyudey-7-oshibok.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-pisat-dlya-neyrosetey-a-ne-dlya-lyudey-7-oshibok.html</guid>
+    <pubDate>Fri, 23 Oct 2026 19:29:52 GMT</pubDate>
+  </item>
   <item>
     <title>Цитирование в ChatGPT vs Алиса: сравнение 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tsitirovanie-v-chatgpt-vs-alisa-sravnenie-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/problema-s-obyavleniem-v-stavropole-kak-reshit.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/problema-s-obyavleniem-v-stavropole-kak-reshit.html</guid>
     <pubDate>Sat, 17 Oct 2026 12:13:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Объявление не публикуется в Ставрополе: 7 причин</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavlenie-ne-publikuetsya-v-stavropole-7-prichin.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavlenie-ne-publikuetsya-v-stavropole-7-prichin.html</guid>
-    <pubDate>Sat, 17 Oct 2026 12:12:47 GMT</pubDate>
   </item>
   </channel>
 </rss>
