@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 24 Oct 2026 16:26:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 16:26:31 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Конкурентная разведка в ИИ: кого советуют нейросети</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/konkurentnaya-razvedka-v-ii-kogo-sovetuyut-neyroseti.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/konkurentnaya-razvedka-v-ii-kogo-sovetuyut-neyroseti.html</guid>
+    <pubDate>Sat, 24 Oct 2026 16:26:31 GMT</pubDate>
+  </item>
   <item>
     <title>Ресторан в нейросетях: почему ChatGPT молчит</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/restoran-v-neyrosetyakh-pochemu-chatgpt-molchit.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-urozhaya-v-belgorode-usloviya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-urozhaya-v-belgorode-usloviya-2026.html</guid>
     <pubDate>Sat, 03 Oct 2026 11:21:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Справка для продажи урожая без налога: как получить</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/spravka-dlya-prodazhi-urozhaya-bez-naloga-kak-poluchit.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/spravka-dlya-prodazhi-urozhaya-bez-naloga-kak-poluchit.html</guid>
-    <pubDate>Sat, 03 Oct 2026 11:20:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
