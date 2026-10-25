@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 19:32:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:32:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Продвижение в нейросетях пошагово: кейс на 845</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-poshagovo-keys-na-845.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-poshagovo-keys-na-845.html</guid>
+    <pubDate>Sun, 25 Oct 2026 19:32:36 GMT</pubDate>
+  </item>
   <item>
     <title>Как попасть в ответы Алисы: Поиск против чата</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-popast-v-otvety-alisy-poisk-protiv-chata.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kukhnya-v-tomske-keys-22-915-ili-476-377.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kukhnya-v-tomske-keys-22-915-ili-476-377.html</guid>
     <pubDate>Sun, 18 Oct 2026 12:39:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Комод в Томске: кейс — 0 ₽ или 121 100 ₽</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/komod-v-tomske-keys-0-ili-121-100.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/komod-v-tomske-keys-0-ili-121-100.html</guid>
-    <pubDate>Sun, 18 Oct 2026 12:38:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
