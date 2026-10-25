@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 19:31:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:32:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как настроить GEO самому: 4 ошибки без результата</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-nastroit-geo-samomu-4-oshibki-bez-rezultata.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-nastroit-geo-samomu-4-oshibki-bez-rezultata.html</guid>
+    <pubDate>Sun, 25 Oct 2026 19:32:03 GMT</pubDate>
+  </item>
   <item>
     <title>Почему бизнес не попадает в ИИ-выдачу: 4 барьера</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pochemu-biznes-ne-popadaet-v-ii-vydachu-4-barera.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/stol-v-tomske-pochemu-tsena-ot-3-399-ne-final.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/stol-v-tomske-pochemu-tsena-ot-3-399-ne-final.html</guid>
     <pubDate>Sun, 18 Oct 2026 12:37:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Купить кресло в Томске: 4 боли, которые съедают деньги</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-kreslo-v-tomske-4-boli-kotorye-sedayut-dengi.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-kreslo-v-tomske-4-boli-kotorye-sedayut-dengi.html</guid>
-    <pubDate>Sun, 18 Oct 2026 12:37:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
