@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 19:31:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:31:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Почему бизнес не попадает в ИИ-выдачу: 4 барьера</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pochemu-biznes-ne-popadaet-v-ii-vydachu-4-barera.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pochemu-biznes-ne-popadaet-v-ii-vydachu-4-barera.html</guid>
+    <pubDate>Sun, 25 Oct 2026 19:31:32 GMT</pubDate>
+  </item>
   <item>
     <title>Продвижение в нейросетях: чат Алисы не видит вас</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-chat-alisy-ne-vidit-vas.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-kreslo-v-tomske-4-boli-kotorye-sedayut-dengi.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-kreslo-v-tomske-4-boli-kotorye-sedayut-dengi.html</guid>
     <pubDate>Sun, 18 Oct 2026 12:37:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Микроволновка в Томске: почему цена в 2 раза выше</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mikrovolnovka-v-tomske-pochemu-tsena-v-2-raza-vyshe.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mikrovolnovka-v-tomske-pochemu-tsena-v-2-raza-vyshe.html</guid>
-    <pubDate>Sun, 18 Oct 2026 12:37:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
