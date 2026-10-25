@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 19:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:30:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GEO Салехард: рейтинг методов для ЯНАО 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-salekhard-reyting-metodov-dlya-yanao-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-salekhard-reyting-metodov-dlya-yanao-2026.html</guid>
+    <pubDate>Sun, 25 Oct 2026 19:30:48 GMT</pubDate>
+  </item>
   <item>
     <title>Продвижение клиники в нейросетях: 4 метода</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-kliniki-v-neyrosetyakh-4-metoda.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mikrovolnovka-s-dostavkoy-keys-0-ili-1-200.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mikrovolnovka-s-dostavkoy-keys-0-ili-1-200.html</guid>
     <pubDate>Sun, 18 Oct 2026 12:36:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Купить кровать в Томске: новая или б/у — 4 критерия</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-krovat-v-tomske-novaya-ili-b-u-4-kriteriya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-krovat-v-tomske-novaya-ili-b-u-4-kriteriya.html</guid>
-    <pubDate>Sun, 18 Oct 2026 12:36:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
