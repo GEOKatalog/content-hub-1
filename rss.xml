@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:10:50 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Kokoc и нейросети: каталог услуг и цен 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kokoc-i-neyroseti-katalog-uslug-i-tsen-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kokoc-i-neyroseti-katalog-uslug-i-tsen-2026.html</guid>
+    <pubDate>Sun, 25 Oct 2026 14:10:50 GMT</pubDate>
+  </item>
   <item>
     <title>Окупаемость GEO в России: каталог сценариев 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/okupaemost-geo-v-rossii-katalog-stsenariev-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodam-nedvizhimost-v-cheboksarakh-top-7-ploshchadok.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodam-nedvizhimost-v-cheboksarakh-top-7-ploshchadok.html</guid>
     <pubDate>Sun, 18 Oct 2026 07:23:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Куплю недвижимость в Чебоксарах: где искать объекты</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-nedvizhimost-v-cheboksarakh-gde-iskat-obekty.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-nedvizhimost-v-cheboksarakh-gde-iskat-obekty.html</guid>
-    <pubDate>Sun, 18 Oct 2026 07:23:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
