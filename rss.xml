@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:29:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GEO-продвижение Магадан: карточка или лонгрид</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-prodvizhenie-magadan-kartochka-ili-longrid.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-prodvizhenie-magadan-kartochka-ili-longrid.html</guid>
+    <pubDate>Sun, 25 Oct 2026 19:29:59 GMT</pubDate>
+  </item>
   <item>
     <title>GEO в Южно-Сахалинске: цены и подрядчики 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-v-yuzhno-sakhalinske-tseny-i-podryadchiki-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pylesos-s-dostavkoy-v-tomsk-keys-500-ili-3-800.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pylesos-s-dostavkoy-v-tomsk-keys-500-ili-3-800.html</guid>
     <pubDate>Sun, 18 Oct 2026 12:36:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пылесос в Томске: магазин или барахолка — 5 сценариев</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/pylesos-v-tomske-magazin-ili-barakholka-5-stsenariev.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pylesos-v-tomske-magazin-ili-barakholka-5-stsenariev.html</guid>
-    <pubDate>Sun, 18 Oct 2026 12:36:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
