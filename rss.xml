@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 19:32:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:33:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AEO-оптимизация в Элисте: кейс без бюджета</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/aeo-optimizatsiya-v-eliste-keys-bez-byudzheta.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/aeo-optimizatsiya-v-eliste-keys-bez-byudzheta.html</guid>
+    <pubDate>Sun, 25 Oct 2026 19:33:16 GMT</pubDate>
+  </item>
   <item>
     <title>Недвижимость в нейросетях: кейс ЖК и провал BMR</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nedvizhimost-v-neyrosetyakh-keys-zhk-i-proval-bmr.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tsentralnyy-rayon-chelnov-obyavleniya-i-podvokh.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tsentralnyy-rayon-chelnov-obyavleniya-i-podvokh.html</guid>
     <pubDate>Mon, 19 Oct 2026 10:44:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продать комод в Томске: кейс с 3 объявлениями за 4 дня</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-komod-v-tomske-keys-s-3-obyavleniyami-za-4-dnya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-komod-v-tomske-keys-s-3-obyavleniyami-za-4-dnya.html</guid>
-    <pubDate>Sun, 18 Oct 2026 12:39:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
