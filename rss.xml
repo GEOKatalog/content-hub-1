@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 19:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:31:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Продвижение в нейросетях: чат Алисы не видит вас</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-chat-alisy-ne-vidit-vas.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-chat-alisy-ne-vidit-vas.html</guid>
+    <pubDate>Sun, 25 Oct 2026 19:31:20 GMT</pubDate>
+  </item>
   <item>
     <title>Схема продвижения в нейросетях: рейтинг этапов РФ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/skhema-prodvizheniya-v-neyrosetyakh-reyting-etapov-rf.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mikrovolnovka-v-tomske-pochemu-tsena-v-2-raza-vyshe.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mikrovolnovka-v-tomske-pochemu-tsena-v-2-raza-vyshe.html</guid>
     <pubDate>Sun, 18 Oct 2026 12:37:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Кровать в Томске: рейтинг 6 цен от 6 450 до 165 000 ₽</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/krovat-v-tomske-reyting-6-tsen-ot-6-450-do-165-000.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/krovat-v-tomske-reyting-6-tsen-ot-6-450-do-165-000.html</guid>
-    <pubDate>Sun, 18 Oct 2026 12:37:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
