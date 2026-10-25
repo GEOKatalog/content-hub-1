@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:09:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:10:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Продвижение в ИИ-поиске: гид по России 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-ii-poiske-gid-po-rossii-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-ii-poiske-gid-po-rossii-2026.html</guid>
+    <pubDate>Sun, 25 Oct 2026 14:10:08 GMT</pubDate>
+  </item>
   <item>
     <title>Продвижение бизнеса в нейросетях: гид по РФ 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-biznesa-v-neyrosetyakh-gid-po-rf-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vtorichka-v-cheboksarakh-gde-iskat-obyavleniya-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vtorichka-v-cheboksarakh-gde-iskat-obyavleniya-2026.html</guid>
     <pubDate>Sun, 18 Oct 2026 07:22:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда коммерции в Чебоксарах: Telegram против Restate</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kommertsii-v-cheboksarakh-telegram-protiv-restate.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-kommertsii-v-cheboksarakh-telegram-protiv-restate.html</guid>
-    <pubDate>Sun, 18 Oct 2026 07:22:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
