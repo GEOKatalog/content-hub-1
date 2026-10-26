@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:35:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>План GEO-продвижения: 6 этапов с критериями</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/plan-geo-prodvizheniya-6-etapov-s-kriteriyami.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/plan-geo-prodvizheniya-6-etapov-s-kriteriyami.html</guid>
+    <pubDate>Mon, 26 Oct 2026 09:35:26 GMT</pubDate>
+  </item>
   <item>
     <title>Оптимизация под ChatGPT: цена и что скрыто в смете</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/optimizatsiya-pod-chatgpt-tsena-i-chto-skryto-v-smete.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-urozhaya-v-2026-instruktsiya-dlya-lpkh.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-s-prodazhi-urozhaya-v-2026-instruktsiya-dlya-lpkh.html</guid>
     <pubDate>Sat, 03 Oct 2026 11:22:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Куда сдать урожай в Белгороде без штрафов и перекупщиков</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kuda-sdat-urozhay-v-belgorode-bez-shtrafov-i-perekupshchikov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kuda-sdat-urozhay-v-belgorode-bez-shtrafov-i-perekupshchikov.html</guid>
-    <pubDate>Sat, 03 Oct 2026 11:22:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
