@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:36:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Продвижение в нейросетях для здоровья: гид по GEO</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-dlya-zdorovya-gid-po-geo.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-dlya-zdorovya-gid-po-geo.html</guid>
+    <pubDate>Mon, 26 Oct 2026 09:36:03 GMT</pubDate>
+  </item>
   <item>
     <title>Справочники для GEO: карточка или сайт?</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/spravochniki-dlya-geo-kartochka-ili-sayt.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-prodat-urozhay-pensioneru-v-belgorode-obzor-kanalov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-prodat-urozhay-pensioneru-v-belgorode-obzor-kanalov.html</guid>
     <pubDate>Sat, 03 Oct 2026 11:22:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как получить справку о ЛПХ для продажи урожая</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-poluchit-spravku-o-lpkh-dlya-prodazhi-urozhaya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-poluchit-spravku-o-lpkh-dlya-prodazhi-urozhaya.html</guid>
-    <pubDate>Sat, 03 Oct 2026 11:22:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
