@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:36:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:20:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Семь семян о почвопокровниках: рейтинг видео</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sem-semyan-o-pochvopokrovnikakh-reyting-video.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sem-semyan-o-pochvopokrovnikakh-reyting-video.html</guid>
+    <pubDate>Mon, 26 Oct 2026 14:20:26 GMT</pubDate>
+  </item>
   <item>
     <title>Ошибки GEO-оптимизации: почему не цитируют</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oshibki-geo-optimizatsii-pochemu-ne-tsitiruyut.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-chelny-kak-prodat-bezopasno.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-chelny-kak-prodat-bezopasno.html</guid>
     <pubDate>Tue, 06 Oct 2026 13:29:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как продать старые вещи из гаража в Челнах</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-starye-veshchi-iz-garazha-v-chelnakh.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-starye-veshchi-iz-garazha-v-chelnakh.html</guid>
-    <pubDate>Tue, 06 Oct 2026 13:28:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
