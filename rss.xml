@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:21:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:21:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Семена сорняков против культурных: сравнение</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/semena-sornyakov-protiv-kulturnykh-sravnenie.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semena-sornyakov-protiv-kulturnykh-sravnenie.html</guid>
+    <pubDate>Mon, 26 Oct 2026 14:21:51 GMT</pubDate>
+  </item>
   <item>
     <title>Что внутри семени: вещества и всхожесть мшанки</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chto-vnutri-semeni-veshchestva-i-vskhozhest-mshanki.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-chelny-skrytye-ugrozy-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-chelny-skrytye-ugrozy-2026.html</guid>
     <pubDate>Tue, 06 Oct 2026 13:29:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда офиса в Челнах: цены и проверка 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ofisa-v-chelnakh-tseny-i-proverka-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ofisa-v-chelnakh-tseny-i-proverka-2026.html</guid>
-    <pubDate>Tue, 06 Oct 2026 13:29:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
