@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:21:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:23:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Семена однодольных: щиток, эндосперм и глубина</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/semena-odnodolnykh-shchitok-endosperm-i-glubina.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semena-odnodolnykh-shchitok-endosperm-i-glubina.html</guid>
+    <pubDate>Mon, 26 Oct 2026 14:23:23 GMT</pubDate>
+  </item>
   <item>
     <title>Семена сорняков против культурных: сравнение</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semena-sornyakov-protiv-kulturnykh-sravnenie.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-veshch-v-lipetske-za-24-chasa.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-prodat-veshch-v-lipetske-za-24-chasa.html</guid>
     <pubDate>Wed, 07 Oct 2026 14:29:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Доска объявлений Челны: скрытые угрозы 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-chelny-skrytye-ugrozy-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-chelny-skrytye-ugrozy-2026.html</guid>
-    <pubDate>Tue, 06 Oct 2026 13:29:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
