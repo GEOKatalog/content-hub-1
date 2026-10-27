@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:54:52 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Gemini против ChatGPT: где GEO-стратегии ломаются</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gemini-protiv-chatgpt-gde-geo-strategii-lomayutsya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gemini-protiv-chatgpt-gde-geo-strategii-lomayutsya.html</guid>
+    <pubDate>Tue, 27 Oct 2026 15:54:52 GMT</pubDate>
+  </item>
   <item>
     <title>Тренды в нейросетях: почему вирусное не цитируют</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/trendy-v-neyrosetyakh-pochemu-virusnoe-ne-tsitiruyut.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-mebel-lipetsk-skupka-ili-telegram.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-mebel-lipetsk-skupka-ili-telegram.html</guid>
     <pubDate>Mon, 12 Oct 2026 17:34:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Велосипед Липецк: цена и проверка рамы</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/velosiped-lipetsk-tsena-i-proverka-ramy.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/velosiped-lipetsk-tsena-i-proverka-ramy.html</guid>
-    <pubDate>Mon, 12 Oct 2026 17:33:58 GMT</pubDate>
   </item>
   </channel>
 </rss>
