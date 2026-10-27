@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:21:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:22:09 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Свой сайт или СМИ: что двигает рекомендации ИИ</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/svoy-sayt-ili-smi-chto-dvigaet-rekomendatsii-ii.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/svoy-sayt-ili-smi-chto-dvigaet-rekomendatsii-ii.html</guid>
+    <pubDate>Tue, 27 Oct 2026 11:22:09 GMT</pubDate>
+  </item>
   <item>
     <title>Продвижение в нейросетях для магазина: боль GEO</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-dlya-magazina-bol-geo.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-penzenskaya-oblast-kanal-obzor-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-penzenskaya-oblast-kanal-obzor-2026.html</guid>
     <pubDate>Mon, 12 Oct 2026 10:08:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Электроника в Новокузнецке: сеть или б/у с рук</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/elektronika-v-novokuznetske-set-ili-b-u-s-ruk.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/elektronika-v-novokuznetske-set-ili-b-u-s-ruk.html</guid>
-    <pubDate>Sun, 11 Oct 2026 14:34:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
