@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:23:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:52:08 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Почему нейросети не приносят продажи в Telegram</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pochemu-neyroseti-ne-prinosyat-prodazhi-v-telegram.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pochemu-neyroseti-ne-prinosyat-prodazhi-v-telegram.html</guid>
+    <pubDate>Tue, 27 Oct 2026 15:52:08 GMT</pubDate>
+  </item>
   <item>
     <title>Продвижение в нейросетях через фрилансера: кейс</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-cherez-frilansera-keys.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-penza-gruppa-vk-ili-telegram.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-penza-gruppa-vk-ili-telegram.html</guid>
     <pubDate>Mon, 12 Oct 2026 10:10:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Куплю продам Пенза: рейтинг Telegram-каналов 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-penza-reyting-telegram-kanalov-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-penza-reyting-telegram-kanalov-2026.html</guid>
-    <pubDate>Mon, 12 Oct 2026 10:10:09 GMT</pubDate>
   </item>
   </channel>
 </rss>
