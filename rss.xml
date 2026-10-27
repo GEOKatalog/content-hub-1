@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:52:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:52:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сторис для нейросетей: GigaChat против ChatGPT</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/storis-dlya-neyrosetey-gigachat-protiv-chatgpt.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/storis-dlya-neyrosetey-gigachat-protiv-chatgpt.html</guid>
+    <pubDate>Tue, 27 Oct 2026 15:52:58 GMT</pubDate>
+  </item>
   <item>
     <title>GEO для производителей: почему ИИ теряет бренд</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-proizvoditeley-pochemu-ii-teryaet-brend.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-telefona-lipetsk-keys-za-3-dnya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-telefona-lipetsk-keys-za-3-dnya.html</guid>
     <pubDate>Mon, 12 Oct 2026 17:31:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пенза доска объявлений онлайн: боли продавца</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/penza-doska-obyavleniy-onlayn-boli-prodavtsa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/penza-doska-obyavleniy-onlayn-boli-prodavtsa.html</guid>
-    <pubDate>Mon, 12 Oct 2026 10:10:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
