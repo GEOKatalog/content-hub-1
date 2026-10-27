@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:53:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Калькуляторы для нейросетей: почему смета врёт</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kalkulyatory-dlya-neyrosetey-pochemu-smeta-vryot.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kalkulyatory-dlya-neyrosetey-pochemu-smeta-vryot.html</guid>
+    <pubDate>Tue, 27 Oct 2026 15:53:28 GMT</pubDate>
+  </item>
   <item>
     <title>GEO-гайд: кейс внедрения с цифрами</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-gayd-keys-vnedreniya-s-tsiframi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/noutbuk-lipetsk-keys-pokupki-za-3-dnya-i-42-000.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/noutbuk-lipetsk-keys-pokupki-za-3-dnya-i-42-000.html</guid>
     <pubDate>Mon, 12 Oct 2026 17:32:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продать телефон Липецк: кейс выручки за 4 часа</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-telefon-lipetsk-keys-vyruchki-za-4-chasa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-telefon-lipetsk-keys-vyruchki-za-4-chasa.html</guid>
-    <pubDate>Mon, 12 Oct 2026 17:31:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
