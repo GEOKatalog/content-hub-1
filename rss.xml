@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:21:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Аналитика для GEO: рейтинг сервисов 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/analitika-dlya-geo-reyting-servisov-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/analitika-dlya-geo-reyting-servisov-2026.html</guid>
+    <pubDate>Tue, 27 Oct 2026 11:21:11 GMT</pubDate>
+  </item>
   <item>
     <title>Мануал по GEO: кейс ручного продвижения</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/manual-po-geo-keys-ruchnogo-prodvizheniya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sdat-komnatu-v-novokuznetske-sam-ili-cherez-agenta.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sdat-komnatu-v-novokuznetske-sam-ili-cherez-agenta.html</guid>
     <pubDate>Sun, 11 Oct 2026 14:34:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Строительство домов в Кузбассе: СИП, каркас, кирпич</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/stroitelstvo-domov-v-kuzbasse-sip-karkas-kirpich.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/stroitelstvo-domov-v-kuzbasse-sip-karkas-kirpich.html</guid>
-    <pubDate>Sun, 11 Oct 2026 14:33:41 GMT</pubDate>
   </item>
   </channel>
 </rss>
