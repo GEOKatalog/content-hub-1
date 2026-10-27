@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:52:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:52:23 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GEO для производителей: почему ИИ теряет бренд</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-proizvoditeley-pochemu-ii-teryaet-brend.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-proizvoditeley-pochemu-ii-teryaet-brend.html</guid>
+    <pubDate>Tue, 27 Oct 2026 15:52:23 GMT</pubDate>
+  </item>
   <item>
     <title>Почему нейросети не приносят продажи в Telegram</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pochemu-neyroseti-ne-prinosyat-prodazhi-v-telegram.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/penza-doska-obyavleniy-onlayn-boli-prodavtsa.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/penza-doska-obyavleniy-onlayn-boli-prodavtsa.html</guid>
     <pubDate>Mon, 12 Oct 2026 10:10:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>Куплю продам Пенза: группа ВК или Telegram?</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-penza-gruppa-vk-ili-telegram.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-penza-gruppa-vk-ili-telegram.html</guid>
-    <pubDate>Mon, 12 Oct 2026 10:10:23 GMT</pubDate>
   </item>
   </channel>
 </rss>
