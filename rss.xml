@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:19:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GEO или SEO в 2026: что выбрать бизнесу</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-ili-seo-v-2026-chto-vybrat-biznesu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-ili-seo-v-2026-chto-vybrat-biznesu.html</guid>
+    <pubDate>Tue, 27 Oct 2026 11:19:40 GMT</pubDate>
+  </item>
   <item>
     <title>ИИ вместо поисковика: как попасть в ответы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ii-vmesto-poiskovika-kak-popast-v-otvety.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gruzoperevozki-novokuznetsk-chastnik-vs-dispetcher.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gruzoperevozki-novokuznetsk-chastnik-vs-dispetcher.html</guid>
     <pubDate>Sun, 11 Oct 2026 14:33:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продать мебель в Новокузнецке: скупка или самому</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-mebel-v-novokuznetske-skupka-ili-samomu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-mebel-v-novokuznetske-skupka-ili-samomu.html</guid>
-    <pubDate>Sun, 11 Oct 2026 14:32:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
