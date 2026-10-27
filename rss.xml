@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:22:29 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GEO для агентств: рейтинг моделей от white label до OEM</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-agentstv-reyting-modeley-ot-white-label-do-oem.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-agentstv-reyting-modeley-ot-white-label-do-oem.html</guid>
+    <pubDate>Tue, 27 Oct 2026 11:22:29 GMT</pubDate>
+  </item>
   <item>
     <title>Свой сайт или СМИ: что двигает рекомендации ИИ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/svoy-sayt-ili-smi-chto-dvigaet-rekomendatsii-ii.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-penzenskaya-oblast-top-7-grupp-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-penzenskaya-oblast-top-7-grupp-2026.html</guid>
     <pubDate>Mon, 12 Oct 2026 10:09:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Барахолка Пензенская область: канал — обзор 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-penzenskaya-oblast-kanal-obzor-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-penzenskaya-oblast-kanal-obzor-2026.html</guid>
-    <pubDate>Mon, 12 Oct 2026 10:08:46 GMT</pubDate>
   </item>
   </channel>
 </rss>
