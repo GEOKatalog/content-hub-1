@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:19:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:20:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Замер видимости в нейросетях: почему цифры врут</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zamer-vidimosti-v-neyrosetyakh-pochemu-tsifry-vrut.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zamer-vidimosti-v-neyrosetyakh-pochemu-tsifry-vrut.html</guid>
+    <pubDate>Tue, 27 Oct 2026 11:20:02 GMT</pubDate>
+  </item>
   <item>
     <title>GEO или SEO в 2026: что выбрать бизнесу</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-ili-seo-v-2026-chto-vybrat-biznesu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-kvartir-novokuznetsk-tseny-i-razvody-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-kvartir-novokuznetsk-tseny-i-razvody-2026.html</guid>
     <pubDate>Sun, 11 Oct 2026 14:33:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Грузоперевозки Новокузнецк: частник vs диспетчер</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gruzoperevozki-novokuznetsk-chastnik-vs-dispetcher.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gruzoperevozki-novokuznetsk-chastnik-vs-dispetcher.html</guid>
-    <pubDate>Sun, 11 Oct 2026 14:33:13 GMT</pubDate>
   </item>
   </channel>
 </rss>
