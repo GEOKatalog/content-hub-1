@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:52:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:53:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GEO-гайд: кейс внедрения с цифрами</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-gayd-keys-vnedreniya-s-tsiframi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-gayd-keys-vnedreniya-s-tsiframi.html</guid>
+    <pubDate>Tue, 27 Oct 2026 15:53:13 GMT</pubDate>
+  </item>
   <item>
     <title>Сторис для нейросетей: GigaChat против ChatGPT</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/storis-dlya-neyrosetey-gigachat-protiv-chatgpt.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-telefon-lipetsk-keys-vyruchki-za-4-chasa.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-telefon-lipetsk-keys-vyruchki-za-4-chasa.html</guid>
     <pubDate>Mon, 12 Oct 2026 17:31:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Доставка телефона Липецк: кейс за 3 дня</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-telefona-lipetsk-keys-za-3-dnya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-telefona-lipetsk-keys-za-3-dnya.html</guid>
-    <pubDate>Mon, 12 Oct 2026 17:31:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
