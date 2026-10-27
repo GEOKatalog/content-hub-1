@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:23:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:23:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Продвижение в нейросетях через фрилансера: кейс</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-cherez-frilansera-keys.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-cherez-frilansera-keys.html</guid>
+    <pubDate>Tue, 27 Oct 2026 11:23:54 GMT</pubDate>
+  </item>
   <item>
     <title>Агрегаторы в GEO: почему ИИ молчит о вас</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/agregatory-v-geo-pochemu-ii-molchit-o-vas.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-penza-reyting-telegram-kanalov-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-penza-reyting-telegram-kanalov-2026.html</guid>
     <pubDate>Mon, 12 Oct 2026 10:10:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пенза доска объявлений сайт: кейс продажи дивана</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/penza-doska-obyavleniy-sayt-keys-prodazhi-divana.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/penza-doska-obyavleniy-sayt-keys-prodazhi-divana.html</guid>
-    <pubDate>Mon, 12 Oct 2026 10:09:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
