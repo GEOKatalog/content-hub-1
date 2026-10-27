@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:23:21 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Roadmap GEO: почему план сдох на 2-й неделе</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/roadmap-geo-pochemu-plan-sdokh-na-2-y-nedele.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/roadmap-geo-pochemu-plan-sdokh-na-2-y-nedele.html</guid>
+    <pubDate>Tue, 27 Oct 2026 11:23:21 GMT</pubDate>
+  </item>
   <item>
     <title>Отзывы в нейросетях: рейтинг площадок 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otzyvy-v-neyrosetyakh-reyting-ploshchadok-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/penza-kuplyu-prodam-polnyy-gid-po-ploshchadkam-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/penza-kuplyu-prodam-polnyy-gid-po-ploshchadkam-2026.html</guid>
     <pubDate>Mon, 12 Oct 2026 10:09:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Пенза доска объявлений телеграм: кейс поиска</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/penza-doska-obyavleniy-telegram-keys-poiska.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/penza-doska-obyavleniy-telegram-keys-poiska.html</guid>
-    <pubDate>Mon, 12 Oct 2026 10:09:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
