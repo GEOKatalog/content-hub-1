@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:20:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Мануал по GEO: кейс ручного продвижения</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/manual-po-geo-keys-ruchnogo-prodvizheniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/manual-po-geo-keys-ruchnogo-prodvizheniya.html</guid>
+    <pubDate>Tue, 27 Oct 2026 11:20:47 GMT</pubDate>
+  </item>
   <item>
     <title>Замер видимости в нейросетях: почему цифры врут</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zamer-vidimosti-v-neyrosetyakh-pochemu-tsifry-vrut.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/stroitelstvo-domov-v-kuzbasse-sip-karkas-kirpich.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/stroitelstvo-domov-v-kuzbasse-sip-karkas-kirpich.html</guid>
     <pubDate>Sun, 11 Oct 2026 14:33:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ремонт квартир Новокузнецк: цены и разводы 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-kvartir-novokuznetsk-tseny-i-razvody-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-kvartir-novokuznetsk-tseny-i-razvody-2026.html</guid>
-    <pubDate>Sun, 11 Oct 2026 14:33:27 GMT</pubDate>
   </item>
   </channel>
 </rss>
