@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 09:25:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Щенок в СПб: питомник или Telegram-чат?</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/shchenok-v-spb-pitomnik-ili-telegram-chat.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/shchenok-v-spb-pitomnik-ili-telegram-chat.html</guid>
+    <pubDate>Thu, 29 Oct 2026 09:25:35 GMT</pubDate>
+  </item>
   <item>
     <title>Доска объявлений СПб: рейтинг 6 площадок 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-spb-reyting-6-ploshchadok-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-shubu-v-cheboksarakh-keys-sekonomil-76-000.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-shubu-v-cheboksarakh-keys-sekonomil-76-000.html</guid>
     <pubDate>Tue, 13 Oct 2026 16:23:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продать кроссовки в Чебоксарах: боли и решения</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-krossovki-v-cheboksarakh-boli-i-resheniya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-krossovki-v-cheboksarakh-boli-i-resheniya.html</guid>
-    <pubDate>Tue, 13 Oct 2026 16:21:20 GMT</pubDate>
   </item>
   </channel>
 </rss>
