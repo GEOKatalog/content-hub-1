@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:47:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:48:19 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Подслушано СПб или Telegram-барахолка: где сделка?</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/podslushano-spb-ili-telegram-barakholka-gde-sdelka.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/podslushano-spb-ili-telegram-barakholka-gde-sdelka.html</guid>
+    <pubDate>Thu, 29 Oct 2026 08:48:19 GMT</pubDate>
+  </item>
   <item>
     <title>Доска объявлений недвижимость: рейтинг СПб</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-nedvizhimost-reyting-spb.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-divan-v-stavropole-keys-ekonomii-47.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-divan-v-stavropole-keys-ekonomii-47.html</guid>
     <pubDate>Tue, 13 Oct 2026 09:17:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Диван в Ставрополе: кейс экономии 47% через Telegram</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/divan-v-stavropole-keys-ekonomii-47-cherez-telegram.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/divan-v-stavropole-keys-ekonomii-47-cherez-telegram.html</guid>
-    <pubDate>Tue, 13 Oct 2026 09:17:18 GMT</pubDate>
   </item>
   </channel>
 </rss>
