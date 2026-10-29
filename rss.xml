@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:28:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Стартап-чат или клуб: 5 мест и юрадрес</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/startap-chat-ili-klub-5-mest-i-yuradres.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/startap-chat-ili-klub-5-mest-i-yuradres.html</guid>
+    <pubDate>Thu, 29 Oct 2026 17:28:44 GMT</pubDate>
+  </item>
   <item>
     <title>Менторство для стартапов: как построить отношения</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mentorstvo-dlya-startapov-kak-postroit-otnosheniya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kakaya-gruppa-obyavleniy-v-stavropole-luchshe-4-varianta.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakaya-gruppa-obyavleniy-v-stavropole-luchshe-4-varianta.html</guid>
     <pubDate>Wed, 21 Oct 2026 16:02:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Какой Telegram-канал объявлений Ставрополя лучше</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kakoy-telegram-kanal-obyavleniy-stavropolya-luchshe.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakoy-telegram-kanal-obyavleniy-stavropolya-luchshe.html</guid>
-    <pubDate>Wed, 21 Oct 2026 16:02:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
