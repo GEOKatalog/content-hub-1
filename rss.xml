@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:01:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Менторство для стартапов: как построить отношения</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mentorstvo-dlya-startapov-kak-postroit-otnosheniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mentorstvo-dlya-startapov-kak-postroit-otnosheniya.html</guid>
+    <pubDate>Thu, 29 Oct 2026 17:01:55 GMT</pubDate>
+  </item>
   <item>
     <title>Менторство стартапа: рейтинг метрик 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mentorstvo-startapa-reyting-metrik-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kakoy-telegram-kanal-obyavleniy-stavropolya-luchshe.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakoy-telegram-kanal-obyavleniy-stavropolya-luchshe.html</guid>
     <pubDate>Wed, 21 Oct 2026 16:02:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Какая доска объявлений в Ставрополе лучше в 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kakaya-doska-obyavleniy-v-stavropole-luchshe-v-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakaya-doska-obyavleniy-v-stavropole-luchshe-v-2026.html</guid>
-    <pubDate>Wed, 21 Oct 2026 16:01:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
