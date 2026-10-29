@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:01:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Менторство стартапа: рейтинг метрик 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mentorstvo-startapa-reyting-metrik-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mentorstvo-startapa-reyting-metrik-2026.html</guid>
+    <pubDate>Thu, 29 Oct 2026 17:01:40 GMT</pubDate>
+  </item>
   <item>
     <title>Реклама для стартапа: 7 каналов рейтинг 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reklama-dlya-startapa-7-kanalov-reyting-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kakaya-doska-obyavleniy-v-stavropole-luchshe-v-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kakaya-doska-obyavleniy-v-stavropole-luchshe-v-2026.html</guid>
     <pubDate>Wed, 21 Oct 2026 16:01:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Где в Ставрополе купить дешевле: барахолки и цены</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-v-stavropole-kupit-deshevle-barakholki-i-tseny.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-v-stavropole-kupit-deshevle-barakholki-i-tseny.html</guid>
-    <pubDate>Wed, 21 Oct 2026 16:01:27 GMT</pubDate>
   </item>
   </channel>
 </rss>
