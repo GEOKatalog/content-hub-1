@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:48:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:48:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Доска объявлений СПб и Ленобласти: кейс возврата</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-spb-i-lenoblasti-keys-vozvrata.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-spb-i-lenoblasti-keys-vozvrata.html</guid>
+    <pubDate>Thu, 29 Oct 2026 08:48:40 GMT</pubDate>
+  </item>
   <item>
     <title>Подслушано СПб или Telegram-барахолка: где сделка?</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podslushano-spb-ili-telegram-barakholka-gde-sdelka.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-krovat-v-stavropole-5-kanalov-i-tseny.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-krovat-v-stavropole-5-kanalov-i-tseny.html</guid>
     <pubDate>Tue, 13 Oct 2026 09:17:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Купить диван в Ставрополе: кейс экономии 47%</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-divan-v-stavropole-keys-ekonomii-47.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-divan-v-stavropole-keys-ekonomii-47.html</guid>
-    <pubDate>Tue, 13 Oct 2026 09:17:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
