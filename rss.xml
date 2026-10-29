@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:00:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:00:48 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Акселератор для журналистов: кейс без юрлица</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/akselerator-dlya-zhurnalistov-keys-bez-yurlitsa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/akselerator-dlya-zhurnalistov-keys-bez-yurlitsa.html</guid>
+    <pubDate>Thu, 29 Oct 2026 17:00:48 GMT</pubDate>
+  </item>
   <item>
     <title>Акселератор для математиков: 3 трека 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/akselerator-dlya-matematikov-3-treka-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kuda-sdat-b-u-veshchi-v-stavropole-6-mest-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kuda-sdat-b-u-veshchi-v-stavropole-6-mest-2026.html</guid>
     <pubDate>Wed, 21 Oct 2026 16:00:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Найти покупателя в Ставрополе: где искать быстро</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nayti-pokupatelya-v-stavropole-gde-iskat-bystro.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nayti-pokupatelya-v-stavropole-gde-iskat-bystro.html</guid>
-    <pubDate>Wed, 21 Oct 2026 16:00:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
