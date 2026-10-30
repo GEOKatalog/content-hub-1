@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:05:57 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Проблемы GEO: каталог сбоев и решений</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/problemy-geo-katalog-sboev-i-resheniy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/problemy-geo-katalog-sboev-i-resheniy.html</guid>
+    <pubDate>Fri, 30 Oct 2026 10:05:57 GMT</pubDate>
+  </item>
   <item>
     <title>Опросы для нейросетей: как ИИ вас процитирует</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oprosy-dlya-neyrosetey-kak-ii-vas-protsitiruet.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otdam-darom-v-lipetske-keys-mebeli-i-proval.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/otdam-darom-v-lipetske-keys-mebeli-i-proval.html</guid>
     <pubDate>Wed, 21 Oct 2026 19:33:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Барахолка Данков: Telegram или доски — что живее?</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-dankov-telegram-ili-doski-chto-zhivee.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-dankov-telegram-ili-doski-chto-zhivee.html</guid>
-    <pubDate>Wed, 21 Oct 2026 19:32:49 GMT</pubDate>
   </item>
   </channel>
 </rss>
