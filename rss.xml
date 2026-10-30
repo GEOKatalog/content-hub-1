@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 17:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:17:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Выделить объявление в Москве: деньги на ветер</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vydelit-obyavlenie-v-moskve-dengi-na-veter.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vydelit-obyavlenie-v-moskve-dengi-na-veter.html</guid>
+    <pubDate>Fri, 30 Oct 2026 17:17:41 GMT</pubDate>
+  </item>
   <item>
     <title>Налог при продаже вещей в Москве: гид 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-pri-prodazhe-veshchey-v-moskve-gid-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/plan-geo-prodvizheniya-6-etapov-s-kriteriyami.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/plan-geo-prodvizheniya-6-etapov-s-kriteriyami.html</guid>
     <pubDate>Mon, 26 Oct 2026 09:35:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Оптимизация под ChatGPT: цена и что скрыто в смете</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/optimizatsiya-pod-chatgpt-tsena-i-chto-skryto-v-smete.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/optimizatsiya-pod-chatgpt-tsena-i-chto-skryto-v-smete.html</guid>
-    <pubDate>Mon, 26 Oct 2026 09:34:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
