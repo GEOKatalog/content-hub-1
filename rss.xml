@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:07:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Врач в нейросетях: рейтинг методов GEO</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vrach-v-neyrosetyakh-reyting-metodov-geo.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vrach-v-neyrosetyakh-reyting-metodov-geo.html</guid>
+    <pubDate>Fri, 30 Oct 2026 10:07:40 GMT</pubDate>
+  </item>
   <item>
     <title>GEO для услуг: сайт или агрегатор</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-uslug-sayt-ili-agregator.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/razmeshchenie-statey-dlya-neyrosetey-sravnenie-ploshchadok.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/razmeshchenie-statey-dlya-neyrosetey-sravnenie-ploshchadok.html</guid>
     <pubDate>Sat, 24 Oct 2026 16:23:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ноутбук в Липецке: 5 болей при покупке</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/noutbuk-v-lipetske-5-boley-pri-pokupke.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/noutbuk-v-lipetske-5-boley-pri-pokupke.html</guid>
-    <pubDate>Wed, 21 Oct 2026 19:33:34 GMT</pubDate>
   </item>
   </channel>
 </rss>
