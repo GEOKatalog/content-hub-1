@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:04:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:04:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Барахолка Москва сайт: 4 причины тишины</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-sayt-4-prichiny-tishiny.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-sayt-4-prichiny-tishiny.html</guid>
+    <pubDate>Fri, 30 Oct 2026 10:04:44 GMT</pubDate>
+  </item>
   <item>
     <title>Измайловская барахолка Москва: 4 боли покупателя</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/izmaylovskaya-barakholka-moskva-4-boli-pokupatelya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/intimnye-znakomstva-v-lipetske-gde-ishchut-i-kak-ne.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/intimnye-znakomstva-v-lipetske-gde-ishchut-i-kak-ne.html</guid>
     <pubDate>Wed, 21 Oct 2026 19:31:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Айджаст S на барахолке Липецка: кейс провальной покупки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/aydzhast-s-na-barakholke-lipetska-keys-provalnoy-pokupki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/aydzhast-s-na-barakholke-lipetska-keys-provalnoy-pokupki.html</guid>
-    <pubDate>Wed, 21 Oct 2026 19:31:42 GMT</pubDate>
   </item>
   </channel>
 </rss>
