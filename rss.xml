@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:07:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GEO для услуг: сайт или агрегатор</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-uslug-sayt-ili-agregator.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-uslug-sayt-ili-agregator.html</guid>
+    <pubDate>Fri, 30 Oct 2026 10:07:01 GMT</pubDate>
+  </item>
   <item>
     <title>Продвижение в Perplexity: гид по попаданию в ответы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-perplexity-gid-po-popadaniyu-v-otvety.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/noutbuk-v-lipetske-5-boley-pri-pokupke.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/noutbuk-v-lipetske-5-boley-pri-pokupke.html</guid>
     <pubDate>Wed, 21 Oct 2026 19:33:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Кровать в Липецке: 7 мест — рейтинг 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/krovat-v-lipetske-7-mest-reyting-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/krovat-v-lipetske-7-mest-reyting-2026.html</guid>
-    <pubDate>Wed, 21 Oct 2026 19:33:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
