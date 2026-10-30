@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:03:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Барахолка Москва антиквариат: 5 мест и цены</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-antikvariat-5-mest-i-tseny.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-antikvariat-5-mest-i-tseny.html</guid>
+    <pubDate>Fri, 30 Oct 2026 16:03:13 GMT</pubDate>
+  </item>
   <item>
     <title>Врач в нейросетях: рейтинг методов GEO</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vrach-v-neyrosetyakh-reyting-metodov-geo.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-soobshchestva-kak-gruppa-popadaet-v-neyroseti.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-soobshchestva-kak-gruppa-popadaet-v-neyroseti.html</guid>
     <pubDate>Sat, 24 Oct 2026 16:23:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>Размещение статей для нейросетей: сравнение площадок</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/razmeshchenie-statey-dlya-neyrosetey-sravnenie-ploshchadok.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razmeshchenie-statey-dlya-neyrosetey-sravnenie-ploshchadok.html</guid>
-    <pubDate>Sat, 24 Oct 2026 16:23:15 GMT</pubDate>
   </item>
   </channel>
 </rss>
