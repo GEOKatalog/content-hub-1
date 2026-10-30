@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:27:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:27:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Перевод на карту в Москве: 5 болей при сделке</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/perevod-na-kartu-v-moskve-5-boley-pri-sdelke.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/perevod-na-kartu-v-moskve-5-boley-pri-sdelke.html</guid>
+    <pubDate>Fri, 30 Oct 2026 16:27:28 GMT</pubDate>
+  </item>
   <item>
     <title>Ремонт техники Москва: 5 ТГ-каналов и цены</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-moskva-5-tg-kanalov-i-tseny.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/katalogi-dlya-geo-pochemu-spiski-vazhnee-kartochek.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/katalogi-dlya-geo-pochemu-spiski-vazhnee-kartochek.html</guid>
     <pubDate>Mon, 26 Oct 2026 09:34:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>GEO через аналитику: как измерить видимость в ИИ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-cherez-analitiku-kak-izmerit-vidimost-v-ii.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-cherez-analitiku-kak-izmerit-vidimost-v-ii.html</guid>
-    <pubDate>Mon, 26 Oct 2026 09:34:25 GMT</pubDate>
   </item>
   </channel>
 </rss>
