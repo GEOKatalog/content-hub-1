@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:05:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:05:39 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Опросы для нейросетей: как ИИ вас процитирует</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/oprosy-dlya-neyrosetey-kak-ii-vas-protsitiruet.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/oprosy-dlya-neyrosetey-kak-ii-vas-protsitiruet.html</guid>
+    <pubDate>Fri, 30 Oct 2026 10:05:39 GMT</pubDate>
+  </item>
   <item>
     <title>GEO продвижение в нейросетях: каталог 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-prodvizhenie-v-neyrosetyakh-katalog-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-dankov-telegram-ili-doski-chto-zhivee.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-dankov-telegram-ili-doski-chto-zhivee.html</guid>
     <pubDate>Wed, 21 Oct 2026 19:32:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Объявления продаж кошек Липецк: кейс покупки</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-prodazh-koshek-lipetsk-keys-pokupki.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-prodazh-koshek-lipetsk-keys-pokupki.html</guid>
-    <pubDate>Wed, 21 Oct 2026 19:32:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
