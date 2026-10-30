@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:03:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:03:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Как не купить краденое Москва: проверка вещи</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-ne-kupit-kradenoe-moskva-proverka-veshchi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-ne-kupit-kradenoe-moskva-proverka-veshchi.html</guid>
+    <pubDate>Fri, 30 Oct 2026 16:03:32 GMT</pubDate>
+  </item>
   <item>
     <title>Барахолка Москва антиквариат: 5 мест и цены</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-antikvariat-5-mest-i-tseny.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-audit-sayta-reyting-tsen-v-rossii-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-audit-sayta-reyting-tsen-v-rossii-2026.html</guid>
     <pubDate>Sat, 24 Oct 2026 16:24:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>GEO для сообщества: как группа попадает в нейросети</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-soobshchestva-kak-gruppa-popadaet-v-neyroseti.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-soobshchestva-kak-gruppa-popadaet-v-neyroseti.html</guid>
-    <pubDate>Sat, 24 Oct 2026 16:23:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
