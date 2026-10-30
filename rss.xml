@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:27:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:17:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Налог при продаже вещей в Москве: гид 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/nalog-pri-prodazhe-veshchey-v-moskve-gid-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nalog-pri-prodazhe-veshchey-v-moskve-gid-2026.html</guid>
+    <pubDate>Fri, 30 Oct 2026 17:17:03 GMT</pubDate>
+  </item>
   <item>
     <title>Перевод на карту в Москве: 5 болей при сделке</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/perevod-na-kartu-v-moskve-5-boley-pri-sdelke.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/optimizatsiya-pod-chatgpt-tsena-i-chto-skryto-v-smete.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/optimizatsiya-pod-chatgpt-tsena-i-chto-skryto-v-smete.html</guid>
     <pubDate>Mon, 26 Oct 2026 09:34:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Каталоги для GEO: почему списки важнее карточек</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/katalogi-dlya-geo-pochemu-spiski-vazhnee-kartochek.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/katalogi-dlya-geo-pochemu-spiski-vazhnee-kartochek.html</guid>
-    <pubDate>Mon, 26 Oct 2026 09:34:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
