@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:03:20 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Объявления МСК: Telegram против Авито</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-msk-telegram-protiv-avito.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-msk-telegram-protiv-avito.html</guid>
+    <pubDate>Fri, 30 Oct 2026 10:03:20 GMT</pubDate>
+  </item>
   <item>
     <title>Доска бесплатных объявлений Москвы: кейс</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-besplatnykh-obyavleniy-moskvy-keys.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/bez-komissii-v-lipetske-keys-prodazhi-bez-pereplat.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/bez-komissii-v-lipetske-keys-prodazhi-bez-pereplat.html</guid>
     <pubDate>Wed, 21 Oct 2026 19:30:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Объявления Липецк без посредников: почему обман</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-lipetsk-bez-posrednikov-pochemu-obman.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-lipetsk-bez-posrednikov-pochemu-obman.html</guid>
-    <pubDate>Wed, 21 Oct 2026 19:29:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
