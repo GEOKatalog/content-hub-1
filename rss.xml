@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:03:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:03:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Винтажная барахолка Москва: ТОП-5 мест 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vintazhnaya-barakholka-moskva-top-5-mest-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vintazhnaya-barakholka-moskva-top-5-mest-2026.html</guid>
+    <pubDate>Fri, 30 Oct 2026 10:03:33 GMT</pubDate>
+  </item>
   <item>
     <title>Объявления МСК: Telegram против Авито</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-msk-telegram-protiv-avito.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/telefon-v-lipetske-novyy-ili-b-u-sravnenie.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/telefon-v-lipetske-novyy-ili-b-u-sravnenie.html</guid>
     <pubDate>Wed, 21 Oct 2026 19:30:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Без комиссии в Липецке: кейс продажи без переплат</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/bez-komissii-v-lipetske-keys-prodazhi-bez-pereplat.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/bez-komissii-v-lipetske-keys-prodazhi-bez-pereplat.html</guid>
-    <pubDate>Wed, 21 Oct 2026 19:30:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
