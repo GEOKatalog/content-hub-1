@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 31 Oct 2026 18:56:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:57:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Фрунзе в Самаре: 5 объявлений и цены 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/frunze-v-samare-5-obyavleniy-i-tseny-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/frunze-v-samare-5-obyavleniy-i-tseny-2026.html</guid>
+    <pubDate>Sat, 31 Oct 2026 18:57:00 GMT</pubDate>
+  </item>
   <item>
     <title>Шолохова в Самаре: где искать объявления</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sholokhova-v-samare-gde-iskat-obyavleniya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/internet-magazin-semyan-katalog-ploshchadok-i-tseny.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/internet-magazin-semyan-katalog-ploshchadok-i-tseny.html</guid>
     <pubDate>Mon, 26 Oct 2026 19:32:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Мшанка Puzta: кейс заказа семян на Авито</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-puzta-keys-zakaza-semyan-na-avito.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-puzta-keys-zakaza-semyan-na-avito.html</guid>
-    <pubDate>Mon, 26 Oct 2026 14:27:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
