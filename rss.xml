@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 31 Oct 2026 13:25:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:26:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Улица Эра в Самаре: боль поиска объявлений</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ulitsa-era-v-samare-bol-poiska-obyavleniy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ulitsa-era-v-samare-bol-poiska-obyavleniy.html</guid>
+    <pubDate>Sat, 31 Oct 2026 13:26:16 GMT</pubDate>
+  </item>
   <item>
     <title>Экзамен в Самаре: 5 мест, где объявления живые</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ekzamen-v-samare-5-mest-gde-obyavleniya-zhivye.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sem-semyan-o-pochvopokrovnikakh-reyting-video.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sem-semyan-o-pochvopokrovnikakh-reyting-video.html</guid>
     <pubDate>Mon, 26 Oct 2026 14:20:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ошибки GEO-оптимизации: почему не цитируют</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/oshibki-geo-optimizatsii-pochemu-ne-tsitiruyut.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/oshibki-geo-optimizatsii-pochemu-ne-tsitiruyut.html</guid>
-    <pubDate>Mon, 26 Oct 2026 09:36:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
