@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 31 Oct 2026 13:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:26:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Установка в Самаре: 5 мест с живыми мастерами</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ustanovka-v-samare-5-mest-s-zhivymi-masterami.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ustanovka-v-samare-5-mest-s-zhivymi-masterami.html</guid>
+    <pubDate>Sat, 31 Oct 2026 13:26:35 GMT</pubDate>
+  </item>
   <item>
     <title>Улица Эра в Самаре: боль поиска объявлений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ulitsa-era-v-samare-bol-poiska-obyavleniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chto-vnutri-semeni-veshchestva-i-vskhozhest-mshanki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/chto-vnutri-semeni-veshchestva-i-vskhozhest-mshanki.html</guid>
     <pubDate>Mon, 26 Oct 2026 14:21:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Семь семян о почвопокровниках: рейтинг видео</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sem-semyan-o-pochvopokrovnikakh-reyting-video.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sem-semyan-o-pochvopokrovnikakh-reyting-video.html</guid>
-    <pubDate>Mon, 26 Oct 2026 14:20:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
