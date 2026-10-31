@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 31 Oct 2026 13:27:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:27:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Жемчужина в Самаре: кейс поиска объявлений</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zhemchuzhina-v-samare-keys-poiska-obyavleniy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zhemchuzhina-v-samare-keys-poiska-obyavleniy.html</guid>
+    <pubDate>Sat, 31 Oct 2026 13:27:51 GMT</pubDate>
+  </item>
   <item>
     <title>Барахолка Самара: 7 примеров объявлений и цены</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-samara-7-primerov-obyavleniy-i-tseny.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semena-tsvetkovykh-gde-ikh-iskat-i-pochemu-ne-v-shishke.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/semena-tsvetkovykh-gde-ikh-iskat-i-pochemu-ne-v-shishke.html</guid>
     <pubDate>Mon, 26 Oct 2026 14:23:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Семена однодольных: щиток, эндосперм и глубина</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/semena-odnodolnykh-shchitok-endosperm-i-glubina.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semena-odnodolnykh-shchitok-endosperm-i-glubina.html</guid>
-    <pubDate>Mon, 26 Oct 2026 14:23:23 GMT</pubDate>
   </item>
   </channel>
 </rss>
