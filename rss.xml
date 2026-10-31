@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 31 Oct 2026 18:57:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:57:26 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Площадь Славы в Самаре: объявления и цены</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/ploshchad-slavy-v-samare-obyavleniya-i-tseny.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ploshchad-slavy-v-samare-obyavleniya-i-tseny.html</guid>
+    <pubDate>Sat, 31 Oct 2026 18:57:26 GMT</pubDate>
+  </item>
   <item>
     <title>Сдать комнату в Самаре: 6 мест для объявления</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sdat-komnatu-v-samare-6-mest-dlya-obyavleniya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/islandskiy-mokh-v-novosibirske-gde-kupit-i-ne.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/islandskiy-mokh-v-novosibirske-gde-kupit-i-ne.html</guid>
     <pubDate>Mon, 26 Oct 2026 19:32:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Мшанка из семян: почему не всходит и как исправить</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-iz-semyan-pochemu-ne-vskhodit-i-kak-ispravit.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mshanka-iz-semyan-pochemu-ne-vskhodit-i-kak-ispravit.html</guid>
-    <pubDate>Mon, 26 Oct 2026 19:32:36 GMT</pubDate>
   </item>
   </channel>
 </rss>
