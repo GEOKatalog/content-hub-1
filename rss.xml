@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 01 Nov 2026 15:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:52:16 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Купить палатку в СПб: где цена ниже, а тент не подведёт</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-palatku-v-spb-gde-tsena-nizhe-a-tent-ne-podvedyot.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-palatku-v-spb-gde-tsena-nizhe-a-tent-ne-podvedyot.html</guid>
+    <pubDate>Sun, 01 Nov 2026 15:52:16 GMT</pubDate>
+  </item>
   <item>
     <title>Продать термометр в СПб: где платят, а где нет</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-termometr-v-spb-gde-platyat-a-gde-net.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-dlya-magazina-bol-geo.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-dlya-magazina-bol-geo.html</guid>
     <pubDate>Tue, 27 Oct 2026 11:21:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аналитика для GEO: рейтинг сервисов 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/analitika-dlya-geo-reyting-servisov-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/analitika-dlya-geo-reyting-servisov-2026.html</guid>
-    <pubDate>Tue, 27 Oct 2026 11:21:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
