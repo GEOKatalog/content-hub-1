@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 01 Nov 2026 15:49:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:49:49 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Продать бачок сцепления в СПб: каталог мест</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-bachok-stsepleniya-v-spb-katalog-mest.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-bachok-stsepleniya-v-spb-katalog-mest.html</guid>
+    <pubDate>Sun, 01 Nov 2026 15:49:49 GMT</pubDate>
+  </item>
   <item>
     <title>Где купить чехол в СПб: цены и проверка</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-kupit-chekhol-v-spb-tseny-i-proverka.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/islandskiy-mokh-v-spb-tseny-apteki-i-gde-deshevle.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/islandskiy-mokh-v-spb-tseny-apteki-i-gde-deshevle.html</guid>
     <pubDate>Mon, 26 Oct 2026 19:34:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Семена чиа: как выглядит растение и где купить</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/semena-chia-kak-vyglyadit-rastenie-i-gde-kupit.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semena-chia-kak-vyglyadit-rastenie-i-gde-kupit.html</guid>
-    <pubDate>Mon, 26 Oct 2026 19:34:16 GMT</pubDate>
   </item>
   </channel>
 </rss>
