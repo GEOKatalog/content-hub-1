@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:12:13 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Доска объявлений НН: как разместить рекламу</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-nn-kak-razmestit-reklamu.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-nn-kak-razmestit-reklamu.html</guid>
+    <pubDate>Mon, 02 Nov 2026 09:12:13 GMT</pubDate>
+  </item>
   <item>
     <title>Объявления НН в Telegram: 5 живых каналов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-nn-v-telegram-5-zhivykh-kanalov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-gayd-keys-vnedreniya-s-tsiframi.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-gayd-keys-vnedreniya-s-tsiframi.html</guid>
     <pubDate>Tue, 27 Oct 2026 15:53:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Сторис для нейросетей: GigaChat против ChatGPT</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/storis-dlya-neyrosetey-gigachat-protiv-chatgpt.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/storis-dlya-neyrosetey-gigachat-protiv-chatgpt.html</guid>
-    <pubDate>Tue, 27 Oct 2026 15:52:58 GMT</pubDate>
   </item>
   </channel>
 </rss>
