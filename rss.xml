@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:11:14 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Одежда НН: как продать и купить без риска</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/odezhda-nn-kak-prodat-i-kupit-bez-riska.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/odezhda-nn-kak-prodat-i-kupit-bez-riska.html</guid>
+    <pubDate>Mon, 02 Nov 2026 09:11:14 GMT</pubDate>
+  </item>
   <item>
     <title>Винтаж НН: 7 мест и проверка подлинности</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vintazh-nn-7-mest-i-proverka-podlinnosti.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pochemu-neyroseti-ne-prinosyat-prodazhi-v-telegram.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pochemu-neyroseti-ne-prinosyat-prodazhi-v-telegram.html</guid>
     <pubDate>Tue, 27 Oct 2026 15:52:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продвижение в нейросетях через фрилансера: кейс</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-cherez-frilansera-keys.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-cherez-frilansera-keys.html</guid>
-    <pubDate>Tue, 27 Oct 2026 11:23:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
