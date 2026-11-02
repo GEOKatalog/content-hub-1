@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:10:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:10:59 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Винтаж НН: 7 мест и проверка подлинности</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vintazh-nn-7-mest-i-proverka-podlinnosti.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vintazh-nn-7-mest-i-proverka-podlinnosti.html</guid>
+    <pubDate>Mon, 02 Nov 2026 09:10:59 GMT</pubDate>
+  </item>
   <item>
     <title>Объявления НН в Telegram: подать и не попасть</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-nn-v-telegram-podat-i-ne-popast.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-cherez-frilansera-keys.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodvizhenie-v-neyrosetyakh-cherez-frilansera-keys.html</guid>
     <pubDate>Tue, 27 Oct 2026 11:23:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Агрегаторы в GEO: почему ИИ молчит о вас</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/agregatory-v-geo-pochemu-ii-molchit-o-vas.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/agregatory-v-geo-pochemu-ii-molchit-o-vas.html</guid>
-    <pubDate>Tue, 27 Oct 2026 11:23:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
