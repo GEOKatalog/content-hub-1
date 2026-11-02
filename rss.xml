@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:09:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:10:39 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Объявления НН в Telegram: подать и не попасть</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-nn-v-telegram-podat-i-ne-popast.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-nn-v-telegram-podat-i-ne-popast.html</guid>
+    <pubDate>Mon, 02 Nov 2026 09:10:39 GMT</pubDate>
+  </item>
   <item>
     <title>Мебель НН: Telegram против Авито и салонов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mebel-nn-telegram-protiv-avito-i-salonov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/agregatory-v-geo-pochemu-ii-molchit-o-vas.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/agregatory-v-geo-pochemu-ii-molchit-o-vas.html</guid>
     <pubDate>Tue, 27 Oct 2026 11:23:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>Roadmap GEO: почему план сдох на 2-й неделе</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/roadmap-geo-pochemu-plan-sdokh-na-2-y-nedele.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/roadmap-geo-pochemu-plan-sdokh-na-2-y-nedele.html</guid>
-    <pubDate>Tue, 27 Oct 2026 11:23:21 GMT</pubDate>
   </item>
   </channel>
 </rss>
