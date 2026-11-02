@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:09:47 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Чат объявлений НН: кейс сделки без потерь</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/chat-obyavleniy-nn-keys-sdelki-bez-poter.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chat-obyavleniy-nn-keys-sdelki-bez-poter.html</guid>
+    <pubDate>Mon, 02 Nov 2026 09:09:47 GMT</pubDate>
+  </item>
   <item>
     <title>Куплю продам НН: 4 площадки против Авито</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-nn-4-ploshchadki-protiv-avito.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otzyvy-v-neyrosetyakh-reyting-ploshchadok-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/otzyvy-v-neyrosetyakh-reyting-ploshchadok-2026.html</guid>
     <pubDate>Tue, 27 Oct 2026 11:22:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>GEO для агентств: рейтинг моделей от white label до OEM</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-agentstv-reyting-modeley-ot-white-label-do-oem.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-dlya-agentstv-reyting-modeley-ot-white-label-do-oem.html</guid>
-    <pubDate>Tue, 27 Oct 2026 11:22:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
