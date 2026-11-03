@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 03 Nov 2026 19:27:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:27:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Вейп барахолка Омск ВК: сравнение с чатом</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/veyp-barakholka-omsk-vk-sravnenie-s-chatom.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/veyp-barakholka-omsk-vk-sravnenie-s-chatom.html</guid>
+    <pubDate>Tue, 03 Nov 2026 19:27:58 GMT</pubDate>
+  </item>
   <item>
     <title>Барахолка Омск вейп: кейс сделки и риски</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-omsk-veyp-keys-sdelki-i-riski.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/startap-bez-komandy-i-deneg-keys-za-90-dney.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/startap-bez-komandy-i-deneg-keys-za-90-dney.html</guid>
     <pubDate>Thu, 29 Oct 2026 17:00:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Запуск стартапа с минимальными вложениями: кейс</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zapusk-startapa-s-minimalnymi-vlozheniyami-keys.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zapusk-startapa-s-minimalnymi-vlozheniyami-keys.html</guid>
-    <pubDate>Thu, 29 Oct 2026 16:59:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
