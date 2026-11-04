@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 04 Nov 2026 10:49:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:50:00 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Академический ЕКБ: где искать объявления</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/akademicheskiy-ekb-gde-iskat-obyavleniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/akademicheskiy-ekb-gde-iskat-obyavleniya.html</guid>
+    <pubDate>Wed, 04 Nov 2026 10:50:00 GMT</pubDate>
+  </item>
   <item>
     <title>Отдам даром ЕКБ: рейтинг площадок 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otdam-darom-ekb-reyting-ploshchadok-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/geo-prodvizhenie-v-neyrosetyakh-katalog-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/geo-prodvizhenie-v-neyrosetyakh-katalog-2026.html</guid>
     <pubDate>Fri, 30 Oct 2026 10:05:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Барахолка Москва сайт: 4 причины тишины</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-sayt-4-prichiny-tishiny.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-sayt-4-prichiny-tishiny.html</guid>
-    <pubDate>Fri, 30 Oct 2026 10:04:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
