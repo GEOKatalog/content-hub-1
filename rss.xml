@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 04 Nov 2026 10:50:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:50:41 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Реклама в Telegram ЕКБ: ТОП-5 каналов и цены</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reklama-v-telegram-ekb-top-5-kanalov-i-tseny.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reklama-v-telegram-ekb-top-5-kanalov-i-tseny.html</guid>
+    <pubDate>Wed, 04 Nov 2026 10:50:41 GMT</pubDate>
+  </item>
   <item>
     <title>Частные объявления об аренде квартир в ЕКБ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chastnye-obyavleniya-ob-arende-kvartir-v-ekb.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/problemy-geo-katalog-sboev-i-resheniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/problemy-geo-katalog-sboev-i-resheniy.html</guid>
     <pubDate>Fri, 30 Oct 2026 10:05:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Опросы для нейросетей: как ИИ вас процитирует</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/oprosy-dlya-neyrosetey-kak-ii-vas-protsitiruet.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/oprosy-dlya-neyrosetey-kak-ii-vas-protsitiruet.html</guid>
-    <pubDate>Fri, 30 Oct 2026 10:05:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
