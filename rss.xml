@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 17:21:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:22:01 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Отдам даром Челябинск ТГ: канал или сайт?</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/otdam-darom-chelyabinsk-tg-kanal-ili-sayt.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otdam-darom-chelyabinsk-tg-kanal-ili-sayt.html</guid>
+    <pubDate>Thu, 05 Nov 2026 17:22:01 GMT</pubDate>
+  </item>
   <item>
     <title>Поднятие в ТГ-чате Челябинска: 5 болей</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podnyatie-v-tg-chate-chelyabinska-5-boley.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ulitsa-otpusk-v-samare-keys-provala-poiska.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ulitsa-otpusk-v-samare-keys-provala-poiska.html</guid>
     <pubDate>Sat, 31 Oct 2026 18:55:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Обзор площадок объявлений Самара: 5 мест</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obzor-ploshchadok-obyavleniy-samara-5-mest.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obzor-ploshchadok-obyavleniy-samara-5-mest.html</guid>
-    <pubDate>Sat, 31 Oct 2026 18:55:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
