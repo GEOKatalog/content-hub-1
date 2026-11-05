@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:49:04 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Машиноместо 2-я Заречная: 4б или 4а</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mashinomesto-2-ya-zarechnaya-4b-ili-4a.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mashinomesto-2-ya-zarechnaya-4b-ili-4a.html</guid>
+    <pubDate>Thu, 05 Nov 2026 12:49:04 GMT</pubDate>
+  </item>
   <item>
     <title>Реклама в Кемерово в Telegram: цены и каналы</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/reklama-v-kemerovo-v-telegram-tseny-i-kanaly.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/perevod-na-kartu-v-moskve-5-boley-pri-sdelke.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/perevod-na-kartu-v-moskve-5-boley-pri-sdelke.html</guid>
     <pubDate>Fri, 30 Oct 2026 16:27:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ремонт техники Москва: 5 ТГ-каналов и цены</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-moskva-5-tg-kanalov-i-tseny.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/remont-tekhniki-moskva-5-tg-kanalov-i-tseny.html</guid>
-    <pubDate>Fri, 30 Oct 2026 16:27:07 GMT</pubDate>
   </item>
   </channel>
 </rss>
