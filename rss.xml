@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:50:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:51:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Газета С тобой: объявление или Telegram?</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gazeta-s-toboy-obyavlenie-ili-telegram.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gazeta-s-toboy-obyavlenie-ili-telegram.html</guid>
+    <pubDate>Thu, 05 Nov 2026 12:51:02 GMT</pubDate>
+  </item>
   <item>
     <title>Чат объявлений Кемерово: гид по сделкам 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chat-obyavleniy-kemerovo-gid-po-sdelkam-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kosmoport-v-samare-keys-poiska-zhilya-za-2-dnya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kosmoport-v-samare-keys-poiska-zhilya-za-2-dnya.html</guid>
     <pubDate>Sat, 31 Oct 2026 13:25:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Лесная в Самаре: ТГ или Авито быстрее?</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/lesnaya-v-samare-tg-ili-avito-bystree.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/lesnaya-v-samare-tg-ili-avito-bystree.html</guid>
-    <pubDate>Sat, 31 Oct 2026 13:24:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
