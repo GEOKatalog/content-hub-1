@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:50:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:50:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Чат объявлений Кемерово: гид по сделкам 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/chat-obyavleniy-kemerovo-gid-po-sdelkam-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chat-obyavleniy-kemerovo-gid-po-sdelkam-2026.html</guid>
+    <pubDate>Thu, 05 Nov 2026 12:50:30 GMT</pubDate>
+  </item>
   <item>
     <title>Б/у ПК в Кемерово: как купить по объявлению</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/b-u-pk-v-kemerovo-kak-kupit-po-obyavleniyu.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/lesnaya-v-samare-tg-ili-avito-bystree.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/lesnaya-v-samare-tg-ili-avito-bystree.html</guid>
     <pubDate>Sat, 31 Oct 2026 13:24:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Мертвый канал Москва: 5 признаков ботов</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mertvyy-kanal-moskva-5-priznakov-botov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mertvyy-kanal-moskva-5-priznakov-botov.html</guid>
-    <pubDate>Fri, 30 Oct 2026 17:19:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
