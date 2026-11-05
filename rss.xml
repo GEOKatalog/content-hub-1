@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 17:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:23:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сатка и Челябинск: ТГ-объявления или доска?</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/satka-i-chelyabinsk-tg-obyavleniya-ili-doska.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/satka-i-chelyabinsk-tg-obyavleniya-ili-doska.html</guid>
+    <pubDate>Thu, 05 Nov 2026 17:23:30 GMT</pubDate>
+  </item>
   <item>
     <title>Миасс и Челябинск: боль ТГ-объявлений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/miass-i-chelyabinsk-bol-tg-obyavleniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sholokhova-v-samare-gde-iskat-obyavleniya.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/sholokhova-v-samare-gde-iskat-obyavleniya.html</guid>
     <pubDate>Sat, 31 Oct 2026 18:56:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Улица Вечер в Самаре: объявления или тупик?</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ulitsa-vecher-v-samare-obyavleniya-ili-tupik.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ulitsa-vecher-v-samare-obyavleniya-ili-tupik.html</guid>
-    <pubDate>Sat, 31 Oct 2026 18:56:11 GMT</pubDate>
   </item>
   </channel>
 </rss>
