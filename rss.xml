@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 07:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:02:43 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Спортивное питание в Казани: кейс трёх покупок</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sportivnoe-pitanie-v-kazani-keys-tryokh-pokupok.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sportivnoe-pitanie-v-kazani-keys-tryokh-pokupok.html</guid>
+    <pubDate>Thu, 05 Nov 2026 07:02:43 GMT</pubDate>
+  </item>
   <item>
     <title>Проблема с доставкой в Казани: чат или курьер?</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/problema-s-dostavkoy-v-kazani-chat-ili-kurer.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-moskva-ot-sobstvennika-tg-ili-avito.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-moskva-ot-sobstvennika-tg-ili-avito.html</guid>
     <pubDate>Fri, 30 Oct 2026 16:04:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как не купить краденое Москва: проверка вещи</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-ne-kupit-kradenoe-moskva-proverka-veshchi.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-ne-kupit-kradenoe-moskva-proverka-veshchi.html</guid>
-    <pubDate>Fri, 30 Oct 2026 16:03:32 GMT</pubDate>
   </item>
   </channel>
 </rss>
