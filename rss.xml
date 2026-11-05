@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:51:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:18:02 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Куплю-продам в Челябинске: боль частных лиц</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-v-chelyabinske-bol-chastnykh-lits.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-v-chelyabinske-bol-chastnykh-lits.html</guid>
+    <pubDate>Thu, 05 Nov 2026 17:18:02 GMT</pubDate>
+  </item>
   <item>
     <title>Дом в Андреевке: сравнение 3 каналов поиска</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dom-v-andreevke-sravnenie-3-kanalov-poiska.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ulitsa-era-v-samare-bol-poiska-obyavleniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/ulitsa-era-v-samare-bol-poiska-obyavleniy.html</guid>
     <pubDate>Sat, 31 Oct 2026 13:26:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Экзамен в Самаре: 5 мест, где объявления живые</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/ekzamen-v-samare-5-mest-gde-obyavleniya-zhivye.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/ekzamen-v-samare-5-mest-gde-obyavleniya-zhivye.html</guid>
-    <pubDate>Sat, 31 Oct 2026 13:25:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
