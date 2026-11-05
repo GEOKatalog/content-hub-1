@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 17:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:19:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Рейтинг ТГ-объявлений Челябинска: боль охвата</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/reyting-tg-obyavleniy-chelyabinska-bol-okhvata.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/reyting-tg-obyavleniy-chelyabinska-bol-okhvata.html</guid>
+    <pubDate>Thu, 05 Nov 2026 17:19:28 GMT</pubDate>
+  </item>
   <item>
     <title>Доставка в ТГ-объявлениях Челябинска: 5 болей</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dostavka-v-tg-obyavleniyakh-chelyabinska-5-boley.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-samara-7-primerov-obyavleniy-i-tseny.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-samara-7-primerov-obyavleniy-i-tseny.html</guid>
     <pubDate>Sat, 31 Oct 2026 13:27:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Небесная улица: ТГ Самара или чат Новокуйбышевска?</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/nebesnaya-ulitsa-tg-samara-ili-chat-novokuybyshevska.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/nebesnaya-ulitsa-tg-samara-ili-chat-novokuybyshevska.html</guid>
-    <pubDate>Sat, 31 Oct 2026 13:26:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
