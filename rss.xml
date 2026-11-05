@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 07:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:01:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ярмарка выходного дня в Казани: 14 адресов и цены</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/yarmarka-vykhodnogo-dnya-v-kazani-14-adresov-i-tseny.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/yarmarka-vykhodnogo-dnya-v-kazani-14-adresov-i-tseny.html</guid>
+    <pubDate>Thu, 05 Nov 2026 07:01:54 GMT</pubDate>
+  </item>
   <item>
     <title>Аренда офиса в Казани: кейс поиска без комиссии</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-ofisa-v-kazani-keys-poiska-bez-komissii.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-antikvariat-5-mest-i-tseny.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-antikvariat-5-mest-i-tseny.html</guid>
     <pubDate>Fri, 30 Oct 2026 16:03:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Врач в нейросетях: рейтинг методов GEO</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vrach-v-neyrosetyakh-reyting-metodov-geo.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vrach-v-neyrosetyakh-reyting-metodov-geo.html</guid>
-    <pubDate>Fri, 30 Oct 2026 10:07:40 GMT</pubDate>
   </item>
   </channel>
 </rss>
