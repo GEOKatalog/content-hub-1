@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 07:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:03:11 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Квартира в центре Казани: сравнение цен 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/kvartira-v-tsentre-kazani-sravnenie-tsen-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kvartira-v-tsentre-kazani-sravnenie-tsen-2026.html</guid>
+    <pubDate>Thu, 05 Nov 2026 07:03:11 GMT</pubDate>
+  </item>
   <item>
     <title>Трешка в Казани: цены и поиск без комиссии</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/treshka-v-kazani-tseny-i-poisk-bez-komissii.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/pretenziya-moskva-5-luchshikh-obraztsov-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/pretenziya-moskva-5-luchshikh-obraztsov-2026.html</guid>
     <pubDate>Fri, 30 Oct 2026 16:05:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Бесплатное поднятие объявления Москва ТГ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/besplatnoe-podnyatie-obyavleniya-moskva-tg.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/besplatnoe-podnyatie-obyavleniya-moskva-tg.html</guid>
-    <pubDate>Fri, 30 Oct 2026 16:04:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
