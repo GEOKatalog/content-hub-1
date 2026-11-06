@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:54:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:55:28 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Газета НСК: Дамы создадут семью и риски 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/gazeta-nsk-damy-sozdadut-semyu-i-riski-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gazeta-nsk-damy-sozdadut-semyu-i-riski-2026.html</guid>
+    <pubDate>Fri, 06 Nov 2026 17:55:28 GMT</pubDate>
+  </item>
   <item>
     <title>Транспорт НСК: где искать частные объявления</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/transport-nsk-gde-iskat-chastnye-obyavleniya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/mebel-nn-telegram-protiv-avito-i-salonov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/mebel-nn-telegram-protiv-avito-i-salonov.html</guid>
     <pubDate>Mon, 02 Nov 2026 09:09:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Чат объявлений НН: кейс сделки без потерь</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/chat-obyavleniy-nn-keys-sdelki-bez-poter.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/chat-obyavleniy-nn-keys-sdelki-bez-poter.html</guid>
-    <pubDate>Mon, 02 Nov 2026 09:09:47 GMT</pubDate>
   </item>
   </channel>
 </rss>
