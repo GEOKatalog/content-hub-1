@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:54:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:54:56 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Транспорт НСК: где искать частные объявления</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/transport-nsk-gde-iskat-chastnye-obyavleniya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/transport-nsk-gde-iskat-chastnye-obyavleniya.html</guid>
+    <pubDate>Fri, 06 Nov 2026 17:54:56 GMT</pubDate>
+  </item>
   <item>
     <title>Ваза Чертополох НСК: где искать и сколько стоит</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vaza-chertopolokh-nsk-gde-iskat-i-skolko-stoit.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chat-obyavleniy-nn-keys-sdelki-bez-poter.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/chat-obyavleniy-nn-keys-sdelki-bez-poter.html</guid>
     <pubDate>Mon, 02 Nov 2026 09:09:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Куплю продам НН: 4 площадки против Авито</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-nn-4-ploshchadki-protiv-avito.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kuplyu-prodam-nn-4-ploshchadki-protiv-avito.html</guid>
-    <pubDate>Mon, 02 Nov 2026 09:09:33 GMT</pubDate>
   </item>
   </channel>
 </rss>
