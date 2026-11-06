@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 12:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:52:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Валентина Смирнова: маршрут по барахолкам НСК</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/valentina-smirnova-marshrut-po-barakholkam-nsk.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/valentina-smirnova-marshrut-po-barakholkam-nsk.html</guid>
+    <pubDate>Fri, 06 Nov 2026 17:52:05 GMT</pubDate>
+  </item>
   <item>
     <title>Кузнечиха НН: где искать объявления в 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kuznechikha-nn-gde-iskat-obyavleniya-v-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/uborka-v-spb-po-obyavleniyam-tseny-i-riski.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/uborka-v-spb-po-obyavleniyam-tseny-i-riski.html</guid>
     <pubDate>Sun, 01 Nov 2026 15:51:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Купить полуось в СПб: каталог цен и мест</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-poluos-v-spb-katalog-tsen-i-mest.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-poluos-v-spb-katalog-tsen-i-mest.html</guid>
-    <pubDate>Sun, 01 Nov 2026 15:50:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
