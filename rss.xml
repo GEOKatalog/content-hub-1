@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:53:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Барахолки НСК: режим работы и где искать</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholki-nsk-rezhim-raboty-i-gde-iskat.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholki-nsk-rezhim-raboty-i-gde-iskat.html</guid>
+    <pubDate>Fri, 06 Nov 2026 17:53:35 GMT</pubDate>
+  </item>
   <item>
     <title>Гусинка в фото: архив барахолки и где искать</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gusinka-v-foto-arkhiv-barakholki-i-gde-iskat.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-palatku-v-spb-gde-tsena-nizhe-a-tent-ne-podvedyot.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-palatku-v-spb-gde-tsena-nizhe-a-tent-ne-podvedyot.html</guid>
     <pubDate>Sun, 01 Nov 2026 15:52:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продать термометр в СПб: где платят, а где нет</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-termometr-v-spb-gde-platyat-a-gde-net.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-termometr-v-spb-gde-platyat-a-gde-net.html</guid>
-    <pubDate>Sun, 01 Nov 2026 15:51:44 GMT</pubDate>
   </item>
   </channel>
 </rss>
