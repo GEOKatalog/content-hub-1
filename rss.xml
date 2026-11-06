@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 12:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:17:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>СП и еда в НН: доска объявлений 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/sp-i-eda-v-nn-doska-obyavleniy-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sp-i-eda-v-nn-doska-obyavleniy-2026.html</guid>
+    <pubDate>Fri, 06 Nov 2026 12:17:37 GMT</pubDate>
+  </item>
   <item>
     <title>Музыкальные инструменты в НН: боль б/у покупки</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/muzykalnye-instrumenty-v-nn-bol-b-u-pokupki.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-kupit-chekhol-v-spb-tseny-i-proverka.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-kupit-chekhol-v-spb-tseny-i-proverka.html</guid>
     <pubDate>Sun, 01 Nov 2026 15:49:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Стрелка в Самаре: объявления и что там строят</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/strelka-v-samare-obyavleniya-i-chto-tam-stroyat.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/strelka-v-samare-obyavleniya-i-chto-tam-stroyat.html</guid>
-    <pubDate>Sat, 31 Oct 2026 18:58:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
