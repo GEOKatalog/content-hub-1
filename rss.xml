@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:55:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:55:55 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Семейные пары НСК: боль поиска и где искать</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynye-pary-nsk-bol-poiska-i-gde-iskat.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/semeynye-pary-nsk-bol-poiska-i-gde-iskat.html</guid>
+    <pubDate>Fri, 06 Nov 2026 17:55:55 GMT</pubDate>
+  </item>
   <item>
     <title>Газета НСК: Дамы создадут семью и риски 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gazeta-nsk-damy-sozdadut-semyu-i-riski-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-nn-v-telegram-podat-i-ne-popast.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-nn-v-telegram-podat-i-ne-popast.html</guid>
     <pubDate>Mon, 02 Nov 2026 09:10:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Мебель НН: Telegram против Авито и салонов</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mebel-nn-telegram-protiv-avito-i-salonov.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mebel-nn-telegram-protiv-avito-i-salonov.html</guid>
-    <pubDate>Mon, 02 Nov 2026 09:09:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
