@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 07 Nov 2026 10:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 10:50:30 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Охват Telegram ЕКБ: цифры против мифов</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/okhvat-telegram-ekb-tsifry-protiv-mifov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/okhvat-telegram-ekb-tsifry-protiv-mifov.html</guid>
+    <pubDate>Sat, 07 Nov 2026 10:50:30 GMT</pubDate>
+  </item>
   <item>
     <title>Электрическая барахолка ЕКБ: где ищут и не находят</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/elektricheskaya-barakholka-ekb-gde-ishchut-i-ne-nakhodyat.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-nn-v-telegram-5-zhivykh-kanalov.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-nn-v-telegram-5-zhivykh-kanalov.html</guid>
     <pubDate>Mon, 02 Nov 2026 09:12:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Приложение объявлений НН: Telegram или Авито?</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prilozhenie-obyavleniy-nn-telegram-ili-avito.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prilozhenie-obyavleniy-nn-telegram-ili-avito.html</guid>
-    <pubDate>Mon, 02 Nov 2026 09:11:26 GMT</pubDate>
   </item>
   </channel>
 </rss>
