@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:55:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 10:49:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Доска объявлений ЕКБ: рейтинг живых площадок</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-ekb-reyting-zhivykh-ploshchadok.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-ekb-reyting-zhivykh-ploshchadok.html</guid>
+    <pubDate>Sat, 07 Nov 2026 10:49:51 GMT</pubDate>
+  </item>
   <item>
     <title>Семейные пары НСК: боль поиска и где искать</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/semeynye-pary-nsk-bol-poiska-i-gde-iskat.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/vintazh-nn-7-mest-i-proverka-podlinnosti.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/vintazh-nn-7-mest-i-proverka-podlinnosti.html</guid>
     <pubDate>Mon, 02 Nov 2026 09:10:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Объявления НН в Telegram: подать и не попасть</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-nn-v-telegram-podat-i-ne-popast.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-nn-v-telegram-podat-i-ne-popast.html</guid>
-    <pubDate>Mon, 02 Nov 2026 09:10:39 GMT</pubDate>
   </item>
   </channel>
 </rss>
