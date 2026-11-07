@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 07 Nov 2026 10:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 10:50:05 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Фото для объявления ЕКБ: 5 ошибок и сжатие</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/foto-dlya-obyavleniya-ekb-5-oshibok-i-szhatie.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/foto-dlya-obyavleniya-ekb-5-oshibok-i-szhatie.html</guid>
+    <pubDate>Sat, 07 Nov 2026 10:50:05 GMT</pubDate>
+  </item>
   <item>
     <title>Доска объявлений ЕКБ: рейтинг живых площадок</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-ekb-reyting-zhivykh-ploshchadok.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/odezhda-nn-kak-prodat-i-kupit-bez-riska.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/odezhda-nn-kak-prodat-i-kupit-bez-riska.html</guid>
     <pubDate>Mon, 02 Nov 2026 09:11:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Винтаж НН: 7 мест и проверка подлинности</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/vintazh-nn-7-mest-i-proverka-podlinnosti.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vintazh-nn-7-mest-i-proverka-podlinnosti.html</guid>
-    <pubDate>Mon, 02 Nov 2026 09:10:59 GMT</pubDate>
   </item>
   </channel>
 </rss>
