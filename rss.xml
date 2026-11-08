@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:42:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:42:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Переводы в Казани: где теряют деньги и как вернуть</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/perevody-v-kazani-gde-teryayut-dengi-i-kak-vernut.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/perevody-v-kazani-gde-teryayut-dengi-i-kak-vernut.html</guid>
+    <pubDate>Sun, 08 Nov 2026 09:42:58 GMT</pubDate>
+  </item>
   <item>
     <title>ТСЖ Казань: как найти, проверить и сменить</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tszh-kazan-kak-nayti-proverit-i-smenit.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doski-obyavleniy-novosibirsk-podat-besplatno.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/doski-obyavleniy-novosibirsk-podat-besplatno.html</guid>
     <pubDate>Tue, 03 Nov 2026 08:04:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Парикмахер на дом Новосибирск: кейс за 4 часа</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/parikmakher-na-dom-novosibirsk-keys-za-4-chasa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/parikmakher-na-dom-novosibirsk-keys-za-4-chasa.html</guid>
-    <pubDate>Tue, 03 Nov 2026 08:04:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
