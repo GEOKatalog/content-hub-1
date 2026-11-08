@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:41:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:41:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Прибор или эксперт: проверка вещи в Москве</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/pribor-ili-ekspert-proverka-veshchi-v-moskve.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/pribor-ili-ekspert-proverka-veshchi-v-moskve.html</guid>
+    <pubDate>Sun, 08 Nov 2026 09:41:36 GMT</pubDate>
+  </item>
   <item>
     <title>Барахолка Москва экология: кейс с 8 пакетами</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-ekologiya-keys-s-8-paketami.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-novosibirsk-s-valentinoy-smirnovoy-dzen.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-novosibirsk-s-valentinoy-smirnovoy-dzen.html</guid>
     <pubDate>Tue, 03 Nov 2026 08:01:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Где находится барахолка в Новосибирске: 5 адресов 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gde-nakhoditsya-barakholka-v-novosibirske-5-adresov-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gde-nakhoditsya-barakholka-v-novosibirske-5-adresov-2026.html</guid>
-    <pubDate>Tue, 03 Nov 2026 08:01:19 GMT</pubDate>
   </item>
   </channel>
 </rss>
