@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 08 Nov 2026 15:48:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 15:49:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Барахолка СПб: куда ушли продавцы Уделки</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-spb-kuda-ushli-prodavtsy-udelki.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-spb-kuda-ushli-prodavtsy-udelki.html</guid>
+    <pubDate>Sun, 08 Nov 2026 15:49:51 GMT</pubDate>
+  </item>
   <item>
     <title>Доска объявлений СПб: гайд по площадкам 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-spb-gayd-po-ploshchadkam-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-avto-novosibirsk-rynok-ili-telegram.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-avto-novosibirsk-rynok-ili-telegram.html</guid>
     <pubDate>Tue, 03 Nov 2026 08:05:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Академгородок: доска объявлений на домах и в ТГ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/akademgorodok-doska-obyavleniy-na-domakh-i-v-tg.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/akademgorodok-doska-obyavleniy-na-domakh-i-v-tg.html</guid>
-    <pubDate>Tue, 03 Nov 2026 08:05:38 GMT</pubDate>
   </item>
   </channel>
 </rss>
