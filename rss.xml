@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 09 Nov 2026 13:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:41:51 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Наушники за 9 500: как я продал DT 990 в НН</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/naushniki-za-9-500-kak-ya-prodal-dt-990-v-nn.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/naushniki-za-9-500-kak-ya-prodal-dt-990-v-nn.html</guid>
+    <pubDate>Mon, 09 Nov 2026 13:41:51 GMT</pubDate>
+  </item>
   <item>
     <title>Доска 2026 в НН: почему пусто и что делать</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-2026-v-nn-pochemu-pusto-i-chto-delat.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-dom-v-polevodstve-ekb-svezhie-loty.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/kupit-dom-v-polevodstve-ekb-svezhie-loty.html</guid>
     <pubDate>Wed, 04 Nov 2026 10:09:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Объявления о найденных документах в ЕКБ</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-o-naydennykh-dokumentakh-v-ekb.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-o-naydennykh-dokumentakh-v-ekb.html</guid>
-    <pubDate>Wed, 04 Nov 2026 10:08:50 GMT</pubDate>
   </item>
   </channel>
 </rss>
