@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 09 Nov 2026 13:40:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:40:40 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Манеж за 1 500 ₽: кейс продажи в НН</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/manezh-za-1-500-keys-prodazhi-v-nn.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/manezh-za-1-500-keys-prodazhi-v-nn.html</guid>
+    <pubDate>Mon, 09 Nov 2026 13:40:40 GMT</pubDate>
+  </item>
   <item>
     <title>Экшн-камера за 6 500: боль продажи в НН</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ekshn-kamera-za-6-500-bol-prodazhi-v-nn.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otdam-darom-mebel-ekb-avito-ili-telegram.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/otdam-darom-mebel-ekb-avito-ili-telegram.html</guid>
     <pubDate>Wed, 04 Nov 2026 10:07:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Защита от осколков в ЕКБ: пленка или броня?</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/zashchita-ot-oskolkov-v-ekb-plenka-ili-bronya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zashchita-ot-oskolkov-v-ekb-plenka-ili-bronya.html</guid>
-    <pubDate>Wed, 04 Nov 2026 10:07:29 GMT</pubDate>
   </item>
   </channel>
 </rss>
