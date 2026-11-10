@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 10 Nov 2026 18:27:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:29:44 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Барахолка Москва: 4 ошибки продавца</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-4-oshibki-prodavtsa.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-4-oshibki-prodavtsa.html</guid>
+    <pubDate>Tue, 10 Nov 2026 18:29:44 GMT</pubDate>
+  </item>
   <item>
     <title>Велосипед Москва: ТГ-барахолка против Авито и скупки</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/velosiped-moskva-tg-barakholka-protiv-avito-i-skupki.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podat-obyavlenie-v-kemerovo-keys-prodazhi-za-2-chasa.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/podat-obyavlenie-v-kemerovo-keys-prodazhi-za-2-chasa.html</guid>
     <pubDate>Thu, 05 Nov 2026 12:49:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Машиноместо 2-я Заречная: 4б или 4а</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/mashinomesto-2-ya-zarechnaya-4b-ili-4a.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mashinomesto-2-ya-zarechnaya-4b-ili-4a.html</guid>
-    <pubDate>Thu, 05 Nov 2026 12:49:04 GMT</pubDate>
   </item>
   </channel>
 </rss>
