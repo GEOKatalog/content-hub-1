@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 10 Nov 2026 18:29:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:30:36 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Объявления Москва ТГ: кейс проверки 5 каналов</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-moskva-tg-keys-proverki-5-kanalov.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-moskva-tg-keys-proverki-5-kanalov.html</guid>
+    <pubDate>Tue, 10 Nov 2026 18:30:36 GMT</pubDate>
+  </item>
   <item>
     <title>Барахолка Москва: 4 ошибки продавца</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-moskva-4-oshibki-prodavtsa.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gruppa-obyavleniy-kemerovo-keys-prodazhi-za-chas.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gruppa-obyavleniy-kemerovo-keys-prodazhi-za-chas.html</guid>
     <pubDate>Thu, 05 Nov 2026 12:49:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Подать объявление в Кемерово: кейс продажи за 2 часа</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/podat-obyavlenie-v-kemerovo-keys-prodazhi-za-2-chasa.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/podat-obyavlenie-v-kemerovo-keys-prodazhi-za-2-chasa.html</guid>
-    <pubDate>Thu, 05 Nov 2026 12:49:37 GMT</pubDate>
   </item>
   </channel>
 </rss>
