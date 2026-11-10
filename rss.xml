@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:57:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:57:32 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Сообщества объявлений Челябинска: где живая ТГ</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/soobshchestva-obyavleniy-chelyabinska-gde-zhivaya-tg.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/soobshchestva-obyavleniy-chelyabinska-gde-zhivaya-tg.html</guid>
+    <pubDate>Tue, 10 Nov 2026 05:57:32 GMT</pubDate>
+  </item>
   <item>
     <title>Доска объявлений НСК животные: Kinpet или Pet911</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-nsk-zhivotnye-kinpet-ili-pet911.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/problema-s-dostavkoy-v-kazani-chat-ili-kurer.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/problema-s-dostavkoy-v-kazani-chat-ili-kurer.html</guid>
     <pubDate>Thu, 05 Nov 2026 07:02:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ярмарка выходного дня в Казани: 14 адресов и цены</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/yarmarka-vykhodnogo-dnya-v-kazani-14-adresov-i-tseny.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/yarmarka-vykhodnogo-dnya-v-kazani-14-adresov-i-tseny.html</guid>
-    <pubDate>Thu, 05 Nov 2026 07:01:54 GMT</pubDate>
   </item>
   </channel>
 </rss>
