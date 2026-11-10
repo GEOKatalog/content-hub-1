@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 10 Nov 2026 11:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:15:58 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Валентина Смирнова: барахолки НСК и советский фарфор</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/valentina-smirnova-barakholki-nsk-i-sovetskiy-farfor.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/valentina-smirnova-barakholki-nsk-i-sovetskiy-farfor.html</guid>
+    <pubDate>Tue, 10 Nov 2026 11:15:58 GMT</pubDate>
+  </item>
   <item>
     <title>Детские ботинки б/у в НСК: цены и проверка</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/detskie-botinki-b-u-v-nsk-tseny-i-proverka.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-kemerovo-keys-pokupki-na-druzhbe-i-v-tg.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-kemerovo-keys-pokupki-na-druzhbe-i-v-tg.html</guid>
     <pubDate>Thu, 05 Nov 2026 12:48:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Аренда платья в Казани: цены и без залога</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/arenda-platya-v-kazani-tseny-i-bez-zaloga.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/arenda-platya-v-kazani-tseny-i-bez-zaloga.html</guid>
-    <pubDate>Thu, 05 Nov 2026 07:03:28 GMT</pubDate>
   </item>
   </channel>
 </rss>
