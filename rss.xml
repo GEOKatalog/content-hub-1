@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 11 Nov 2026 12:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:00:25 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Место встречи для сделки Москва: 7 точек 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/mesto-vstrechi-dlya-sdelki-moskva-7-tochek-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/mesto-vstrechi-dlya-sdelki-moskva-7-tochek-2026.html</guid>
+    <pubDate>Wed, 11 Nov 2026 12:00:25 GMT</pubDate>
+  </item>
   <item>
     <title>Отдать вещи Москва: куда сдать за деньги</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/otdat-veshchi-moskva-kuda-sdat-za-dengi.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/chat-obyavleniy-kemerovo-gid-po-sdelkam-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/chat-obyavleniy-kemerovo-gid-po-sdelkam-2026.html</guid>
     <pubDate>Thu, 05 Nov 2026 12:50:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Б/у ПК в Кемерово: как купить по объявлению</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/b-u-pk-v-kemerovo-kak-kupit-po-obyavleniyu.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/b-u-pk-v-kemerovo-kak-kupit-po-obyavleniyu.html</guid>
-    <pubDate>Thu, 05 Nov 2026 12:50:12 GMT</pubDate>
   </item>
   </channel>
 </rss>
