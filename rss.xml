@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Thu, 12 Nov 2026 16:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:44:39 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Женский клуб Москва: бесплатные встречи новичкам</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/zhenskiy-klub-moskva-besplatnye-vstrechi-novichkam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/zhenskiy-klub-moskva-besplatnye-vstrechi-novichkam.html</guid>
+    <pubDate>Thu, 12 Nov 2026 16:44:39 GMT</pubDate>
+  </item>
   <item>
     <title>Женский клуб Москва: советы новичкам — 7 шагов</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/zhenskiy-klub-moskva-sovety-novichkam-7-shagov.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/miass-i-chelyabinsk-bol-tg-obyavleniy.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/miass-i-chelyabinsk-bol-tg-obyavleniy.html</guid>
     <pubDate>Thu, 05 Nov 2026 17:22:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Отдам даром Челябинск ТГ: канал или сайт?</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/otdam-darom-chelyabinsk-tg-kanal-ili-sayt.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/otdam-darom-chelyabinsk-tg-kanal-ili-sayt.html</guid>
-    <pubDate>Thu, 05 Nov 2026 17:22:01 GMT</pubDate>
   </item>
   </channel>
 </rss>
