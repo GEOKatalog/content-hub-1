@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:03:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:04:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Юла или барахолка Тула: где продать быстрее</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/yula-ili-barakholka-tula-gde-prodat-bystree.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/yula-ili-barakholka-tula-gde-prodat-bystree.html</guid>
+    <pubDate>Fri, 13 Nov 2026 09:04:35 GMT</pubDate>
+  </item>
   <item>
     <title>Эконом объявления Тула: гид по ценам 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/ekonom-obyavleniya-tula-gid-po-tsenam-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholki-nsk-rezhim-raboty-i-gde-iskat.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholki-nsk-rezhim-raboty-i-gde-iskat.html</guid>
     <pubDate>Fri, 06 Nov 2026 17:53:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Гусинка в фото: архив барахолки и где искать</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/gusinka-v-foto-arkhiv-barakholki-i-gde-iskat.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/gusinka-v-foto-arkhiv-barakholki-i-gde-iskat.html</guid>
-    <pubDate>Fri, 06 Nov 2026 17:53:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
