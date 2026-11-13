@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:02:35 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ярмарка объявлений Тула: где подать в 2026</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/yarmarka-obyavleniy-tula-gde-podat-v-2026.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/yarmarka-obyavleniy-tula-gde-podat-v-2026.html</guid>
+    <pubDate>Fri, 13 Nov 2026 09:02:35 GMT</pubDate>
+  </item>
   <item>
     <title>Купить книги б/у в Туле: 5 мест и цены 2026</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/kupit-knigi-b-u-v-tule-5-mest-i-tseny-2026.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-nn-mezhgorod-bez-pereplat.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-nn-mezhgorod-bez-pereplat.html</guid>
     <pubDate>Fri, 06 Nov 2026 12:18:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Соседи в НН: как продать через доску</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/sosedi-v-nn-kak-prodat-cherez-dosku.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/sosedi-v-nn-kak-prodat-cherez-dosku.html</guid>
-    <pubDate>Fri, 06 Nov 2026 12:18:08 GMT</pubDate>
   </item>
   </channel>
 </rss>
