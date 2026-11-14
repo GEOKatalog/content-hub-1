@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:09:45 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Вокзальная в Магнитогорске: гид по объявлениям</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/vokzalnaya-v-magnitogorske-gid-po-obyavleniyam.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/vokzalnaya-v-magnitogorske-gid-po-obyavleniyam.html</guid>
+    <pubDate>Sat, 14 Nov 2026 16:09:45 GMT</pubDate>
+  </item>
   <item>
     <title>Проспект Ленина Магнитогорск: где искать объявления</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/prospekt-lenina-magnitogorsk-gde-iskat-obyavleniya.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/oshibka-na-doske-obyavleniy-omska-5-prichin.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/oshibka-na-doske-obyavleniy-omska-5-prichin.html</guid>
     <pubDate>Sat, 07 Nov 2026 17:42:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Разделочная доска в Омске: 5 болей с рук</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/razdelochnaya-doska-v-omske-5-boley-s-ruk.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razdelochnaya-doska-v-omske-5-boley-s-ruk.html</guid>
-    <pubDate>Sat, 07 Nov 2026 17:41:48 GMT</pubDate>
   </item>
   </channel>
 </rss>
