@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 14 Nov 2026 09:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:04:33 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Попутный груз или отдельная машина: что выгоднее</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/poputnyy-gruz-ili-otdelnaya-mashina-chto-vygodnee.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/poputnyy-gruz-ili-otdelnaya-mashina-chto-vygodnee.html</guid>
+    <pubDate>Sat, 14 Nov 2026 09:04:33 GMT</pubDate>
+  </item>
   <item>
     <title>Склад в аренду Краснодар: 5 мест с объявлениями</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/sklad-v-arendu-krasnodar-5-mest-s-obyavleniyami.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/gazeta-nsk-damy-sozdadut-semyu-i-riski-2026.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/gazeta-nsk-damy-sozdadut-semyu-i-riski-2026.html</guid>
     <pubDate>Fri, 06 Nov 2026 17:55:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Транспорт НСК: где искать частные объявления</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/transport-nsk-gde-iskat-chastnye-obyavleniya.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/transport-nsk-gde-iskat-chastnye-obyavleniya.html</guid>
-    <pubDate>Fri, 06 Nov 2026 17:54:56 GMT</pubDate>
   </item>
   </channel>
 </rss>
