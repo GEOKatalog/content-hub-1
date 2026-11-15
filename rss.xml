@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:49:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:51:03 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Б/у лыжи в Магнитогорске: рейтинг 5 мест</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/b-u-lyzhi-v-magnitogorske-reyting-5-mest.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/b-u-lyzhi-v-magnitogorske-reyting-5-mest.html</guid>
+    <pubDate>Sun, 15 Nov 2026 13:51:03 GMT</pubDate>
+  </item>
   <item>
     <title>Южный Урал Магнитогорск: 5 площадок объявлений</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/yuzhnyy-ural-magnitogorsk-5-ploshchadok-obyavleniy.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/tszh-kazan-kak-nayti-proverit-i-smenit.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/tszh-kazan-kak-nayti-proverit-i-smenit.html</guid>
     <pubDate>Sun, 08 Nov 2026 09:42:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Складская ячейка Москва: контейнер или кладовка?</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/skladskaya-yacheyka-moskva-konteyner-ili-kladovka.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/skladskaya-yacheyka-moskva-konteyner-ili-kladovka.html</guid>
-    <pubDate>Sun, 08 Nov 2026 09:42:24 GMT</pubDate>
   </item>
   </channel>
 </rss>
