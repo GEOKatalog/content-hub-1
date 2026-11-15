@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:46:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:49:37 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Южный Урал Магнитогорск: 5 площадок объявлений</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/yuzhnyy-ural-magnitogorsk-5-ploshchadok-obyavleniy.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/yuzhnyy-ural-magnitogorsk-5-ploshchadok-obyavleniy.html</guid>
+    <pubDate>Sun, 15 Nov 2026 13:49:37 GMT</pubDate>
+  </item>
   <item>
     <title>Объявления Магнитогорск-Миасс: 5 площадок рейтинг</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/obyavleniya-magnitogorsk-miass-5-ploshchadok-reyting.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/skladskaya-yacheyka-moskva-konteyner-ili-kladovka.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/skladskaya-yacheyka-moskva-konteyner-ili-kladovka.html</guid>
     <pubDate>Sun, 08 Nov 2026 09:42:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Как купить дешевле на барахолке Москва: кейс</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/kak-kupit-deshevle-na-barakholke-moskva-keys.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/kak-kupit-deshevle-na-barakholke-moskva-keys.html</guid>
-    <pubDate>Sun, 08 Nov 2026 09:41:53 GMT</pubDate>
   </item>
   </channel>
 </rss>
