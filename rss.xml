@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:46:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:46:54 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Админ объявлений Астрахань: 3 канала связи</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/admin-obyavleniy-astrakhan-3-kanala-svyazi.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/admin-obyavleniy-astrakhan-3-kanala-svyazi.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:46:54 GMT</pubDate>
+  </item>
   <item>
     <title>Дача на барахолке Астрахани: 4 боли продавца</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/dacha-na-barakholke-astrakhani-4-boli-prodavtsa.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-spb-foto-gde-smotret.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-spb-foto-gde-smotret.html</guid>
     <pubDate>Sun, 08 Nov 2026 15:48:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Продать шаровые опоры в СПб: кейс выручки 1 200 ₽</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/prodat-sharovye-opory-v-spb-keys-vyruchki-1-200.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/prodat-sharovye-opory-v-spb-keys-vyruchki-1-200.html</guid>
-    <pubDate>Sun, 08 Nov 2026 15:47:14 GMT</pubDate>
   </item>
   </channel>
 </rss>
