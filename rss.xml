@@ -5,8 +5,14 @@
     <link>https://GEOKatalog.github.io/content-hub-1</link>
     <description>Информационный блог</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:47:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:59:24 GMT</lastBuildDate>
     <atom:link href="https://GEOKatalog.github.io/content-hub-1/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Разместить объявление Астрахань Юла: лимиты и модерация</title>
+    <link>https://GEOKatalog.github.io/content-hub-1/posts/razmestit-obyavlenie-astrakhan-yula-limity-i-moderatsiya.html</link>
+    <guid>https://GEOKatalog.github.io/content-hub-1/posts/razmestit-obyavlenie-astrakhan-yula-limity-i-moderatsiya.html</guid>
+    <pubDate>Sat, 21 Nov 2026 08:59:24 GMT</pubDate>
+  </item>
   <item>
     <title>Подать объявление Астрахань: 5 сообществ</title>
     <link>https://GEOKatalog.github.io/content-hub-1/posts/podat-obyavlenie-astrakhan-5-soobshchestv.html</link>
@@ -600,12 +606,6 @@
     <link>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-spb-kuda-ushli-prodavtsy-udelki.html</link>
     <guid>https://GEOKatalog.github.io/content-hub-1/posts/barakholka-spb-kuda-ushli-prodavtsy-udelki.html</guid>
     <pubDate>Sun, 08 Nov 2026 15:49:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Доска объявлений СПб: гайд по площадкам 2026</title>
-    <link>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-spb-gayd-po-ploshchadkam-2026.html</link>
-    <guid>https://GEOKatalog.github.io/content-hub-1/posts/doska-obyavleniy-spb-gayd-po-ploshchadkam-2026.html</guid>
-    <pubDate>Sun, 08 Nov 2026 15:48:51 GMT</pubDate>
   </item>
   </channel>
 </rss>
